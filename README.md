@@ -1,2 +1,2 @@
 # Digital Performance Edition
-A model for digital music editions that include the performance.
+A model for digital music editions that include the sonic performances.
