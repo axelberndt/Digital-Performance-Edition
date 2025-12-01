@@ -14,6 +14,9 @@
                <corpName role="project team">"Digitale Interpretationsedition" (DFG / GRF), Detmold-Paderborn</corpName>
                <persName role="project leader">Axel Berndt</persName>
                <persName role="project leader">Andreas Muenzmay</persName>
+               <persName role="team member">Frithjof Boemcke-Vollmer</persName>
+               <persName role="team member">Lars Engeln</persName>
+               <persName role="team member">William Lepp</persName>
             </respStmt>
          </titleStmt>
          <pubStmt>
