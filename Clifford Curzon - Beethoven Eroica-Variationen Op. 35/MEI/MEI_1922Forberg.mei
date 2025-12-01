@@ -5,13 +5,15 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title type="main">Eroica-Variationen op. 35</title>
+            <title type="main">Eroica-Variationen op. 35 (1922 Leipzig:Forberg edition, Eugen d'Albert)</title>
             <title type="subordinate">für das Pianoforte</title>
             <respStmt>
                <persName role="composer">Ludwig van Beethoven</persName>
-               <persName role="arranger">Eugen d'Albert</persName>
+               <persName role="arranger">Eugenè Francis Charles d'Albert</persName>
                <persName role="encoder">Frithjof Boemcke-Vollmer</persName>
-               <corpName>GRF project "Digitale Interpretationsedition", Detmold-Paderborn</corpName>
+               <corpName role="project team">"Digitale Interpretationsedition" (DFG / GRF), Detmold-Paderborn</corpName>
+               <persName role="project leader">Axel Berndt</persName>
+               <persName role="project leader">Andreas Muenzmay</persName>
             </respStmt>
          </titleStmt>
          <pubStmt>
