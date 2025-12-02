@@ -1513,7 +1513,6 @@
                                     <note xml:id="nejx6mp" dur="8" oct="5" pname="d">
                                        <artic xml:id="a8dafbg" artic="stacc" place="above" />
                                     </note>
-                                    <space xml:id="p1165oaf" dur="8" />
                                     <space xml:id="q4jhboa" dur="4" />
                                  </layer>
                                  <layer xml:id="m45s2l2" n="3">
@@ -1538,7 +1537,7 @@
                            <measure xml:id="m1d6leik" left="rptstart" metcon="false" n="46">
                               <staff xml:id="m46s1" n="1">
                                  <layer xml:id="m46s1l1" n="1">
-                                    <mRest xml:id="m1qtyvve" />
+                                    <rest xml:id="i1s84y1e" dur="8" />
                                  </layer>
                               </staff>
                               <staff xml:id="m46s2" n="2">
@@ -1593,11 +1592,10 @@
                                     <note xml:id="n18ravww" dur="4" oct="5" pname="d">
                                        <artic xml:id="afgdfde" artic="stacc" />
                                     </note>
-                                    <space xml:id="s1p2hbm3" type="mscore-beam-none" dur="8" />
+                                    <space xml:id="p1er59p1" dur="8" />
                                     <note xml:id="nwwx5it" dur="8" oct="5" pname="b" stem.dir="up">
                                        <accid xml:id="a16ezkn6" accid="n" />
                                     </note>
-                                    <rest xml:id="r1w0cruq" dur="8" />
                                  </layer>
                                  <layer xml:id="m48s1l3" n="2">
                                     <beam xml:id="a1kf1ggh">
@@ -1614,6 +1612,7 @@
                                           <accid xml:id="j1glngxo" accid.ges="f" />
                                        </note>
                                     </beam>
+                                    <rest xml:id="r1w0cruq" dur="8" />
                                  </layer>
                               </staff>
                               <staff xml:id="m48s2" n="2">
@@ -2495,7 +2494,7 @@
                               </staff>
                               <staff xml:id="m64s2" n="2">
                                  <layer xml:id="m64s2l1" n="1">
-                                    <mRest xml:id="ms11tkl" />
+                                    <rest xml:id="p7rd2qi" dur="8" />
                                  </layer>
                               </staff>
                               <slur xml:id="sibx0nn" startid="#n1n8xe6d" endid="#n1vy9ygm" />
@@ -3701,7 +3700,7 @@
                               </staff>
                               <staff xml:id="m83s2" n="2">
                                  <layer xml:id="m83s2l4" n="4">
-                                    <rest xml:id="r1v82vwo" type="mscore-beam-none" dur="8" />
+                                    <rest xml:id="r1v82vwo" dur="8" />
                                  </layer>
                               </staff>
                               <dynam xml:id="dgd3qvp" label="p" startid="#nwlhav2">p</dynam>
