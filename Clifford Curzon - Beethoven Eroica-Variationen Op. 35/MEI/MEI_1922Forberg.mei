@@ -4157,7 +4157,7 @@
                               <staff xml:id="m91s2" n="2">
                                  <layer xml:id="m91s2l1" n="3" />
                                  <layer xml:id="m91s2l4" n="4">
-                                    <beam xml:id="qgogon4" place="below">
+                                    <beam xml:id="qgogon4" place="above">
                                        <note xml:id="n19oa5p6" dur="8" oct="2" pname="e" stem.dir="up">
                                           <artic xml:id="a191sybp" artic="stacc" place="below" />
                                           <accid xml:id="t1r438yv" accid.ges="f" />
