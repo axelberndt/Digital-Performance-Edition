@@ -604,7 +604,7 @@
                            </measure>
                         </ending>
                         <ending xml:id="Intro_Tema_B_End2" type="mscore-ending-2" label="2.">
-                           <measure xml:id="me0xhsz" right="end" metcon="false" n="18">
+                           <measure xml:id="me0xhsz" right="end" metcon="false" n="17">
                               <staff xml:id="m18s1" n="1">
                                  <layer xml:id="m18s1l1" n="1">
                                     <note xml:id="n1vbl2op" dur="4" oct="3" pname="e">
@@ -654,7 +654,7 @@
                         <expansion plist="#A_due_A #A_due_A #A_due_B #A_due_B" xml:id="n21cuh7" />
                         <section xml:id="A_due_A">
                            <scoreDef xml:id="r1o07iop" meter.count="2" meter.unit="4" />
-                           <measure xml:id="m1jm3cl2" left="rptstart" metcon="false" n="19">
+                           <measure xml:id="m1jm3cl2" left="rptstart" metcon="false">
                               <staff xml:id="m19s1" n="1">
                                  <layer xml:id="m19s1l1" n="1">
                                     <note xml:id="n136mzow" dur="8" oct="3" pname="b">
@@ -672,7 +672,7 @@
                               <tie xml:id="tc5t0i1" startid="#n136mzow" endid="#nszo74o" />
                               <fing xml:id="fqa5dj1" startid="#n136mzow">1</fing>
                            </measure>
-                           <measure xml:id="m11hflfe" n="20">
+                           <measure xml:id="m11hflfe" n="1">
                               <staff xml:id="m20s1" n="1">
                                  <layer xml:id="m20s1l1" n="1">
                                     <beam xml:id="cqq9jn4">
@@ -702,7 +702,7 @@
                               <dir xml:id="d1rq97i" place="below" startid="#n1dehcdw">poco marcato</dir>
                               <fing xml:id="f121xkyw" startid="#n1dehcdw">3</fing>
                            </measure>
-                           <measure xml:id="mmba881" n="21">
+                           <measure xml:id="mmba881" n="2">
                               <staff xml:id="m21s1" n="1">
                                  <layer xml:id="m21s1l1" n="1">
                                     <beam xml:id="l18wah48">
@@ -733,7 +733,7 @@
                               <tie xml:id="t1xf6p0p" startid="#n1bidqpe" endid="#n1aaz777" />
                               <fing xml:id="f19l7ef7" startid="#n1bidqpe">3</fing>
                            </measure>
-                           <measure xml:id="m1jc2djk" n="22">
+                           <measure xml:id="m1jc2djk" n="3">
                               <staff xml:id="m22s1" n="1">
                                  <layer xml:id="m22s1l1" n="1">
                                     <beam xml:id="r406o98">
@@ -759,7 +759,7 @@
                               </staff>
                               <tie xml:id="t1xlwbc" startid="#n10kb9em" endid="#n1npzmvx" />
                            </measure>
-                           <measure xml:id="m1925nb2" n="23">
+                           <measure xml:id="m1925nb2" n="4">
                               <staff xml:id="m23s1" n="1">
                                  <layer xml:id="m23s1l1" n="1">
                                     <beam xml:id="qys9ceo">
@@ -785,7 +785,7 @@
                               </staff>
                               <fing xml:id="fp2qpz7" startid="#n1x7hqix">1</fing>
                            </measure>
-                           <measure xml:id="mfahuh9" n="24">
+                           <measure xml:id="mfahuh9" n="5">
                               <staff xml:id="m24s1" n="1">
                                  <layer xml:id="m24s1l1" n="1">
                                     <beam xml:id="q5tqqjk">
@@ -820,7 +820,7 @@
                               <slur xml:id="s1jjtao3" startid="#n3pxy1u" endid="#n9ytxgg" curvedir="above" />
                               <fing xml:id="f1iunu8x" startid="#n3pxy1u">3</fing>
                            </measure>
-                           <measure xml:id="mj2gg7f" n="25">
+                           <measure xml:id="mj2gg7f" n="6">
                               <staff xml:id="m25s1" n="1">
                                  <layer xml:id="m25s1l1" n="1">
                                     <beam xml:id="a111uhow">
@@ -857,7 +857,7 @@
                               <slur xml:id="sfhfx8p" startid="#n13nhofx" endid="#n1l7fgag" curvedir="above" />
                               <fing xml:id="f4fxf7b" startid="#n13nhofx">2</fing>
                            </measure>
-                           <measure xml:id="me21p9g" n="26">
+                           <measure xml:id="me21p9g" n="7">
                               <staff xml:id="m26s1" n="1">
                                  <layer xml:id="m26s1l1" n="1">
                                     <beam xml:id="mthyifx">
@@ -899,7 +899,7 @@
                               <fing xml:id="f1sli35b" startid="#ndd7wir">1</fing>
                               <fing xml:id="fizmm4w" startid="#nt3z1pp">5</fing>
                            </measure>
-                           <measure xml:id="mmxipoy" right="rptend" metcon="false" n="27" type="mscore-repeat-2">
+                           <measure xml:id="mmxipoy" right="rptend" metcon="false" n="8" type="mscore-repeat-2">
                               <staff xml:id="m27s1" n="1">
                                  <layer xml:id="m27s1l1" n="1">
                                     <beam xml:id="z4wqf8h">
@@ -929,7 +929,7 @@
                         </section>
                         <sb xml:id="qgejerq" />
                         <section xml:id="A_due_B">
-                           <measure xml:id="m1l62iwj" left="rptstart" metcon="false" n="28">
+                           <measure xml:id="m1l62iwj" left="rptstart" metcon="false">
                               <staff xml:id="m28s1" n="1">
                                  <layer xml:id="m28s1l1" n="1">
                                     <note xml:id="n12lahn3" dur="8" oct="4" pname="f" />
@@ -943,7 +943,7 @@
                               <slur xml:id="s1s5g2bj" startid="#n12lahn3" endid="#nkjoluc" />
                               <fing xml:id="fnaxbdx" startid="#n12lahn3">3</fing>
                            </measure>
-                           <measure xml:id="m19xrf4u" n="29">
+                           <measure xml:id="m19xrf4u" n="9">
                               <staff xml:id="m29s1" n="1">
                                  <layer xml:id="m29s1l1" n="1">
                                     <beam xml:id="u1xh9bdv">
@@ -964,7 +964,7 @@
                                  </layer>
                               </staff>
                            </measure>
-                           <measure xml:id="mzg1nf5" n="30">
+                           <measure xml:id="mzg1nf5" n="10">
                               <staff xml:id="m30s1" n="1">
                                  <layer xml:id="m30s1l1" n="1">
                                     <note xml:id="nmh7q0q" dur="4" oct="4" pname="e">
@@ -1013,7 +1013,7 @@
                               <fing xml:id="fxesrsd" startid="#ngupqt3">3</fing>
                               <fing xml:id="f15wjvhv" startid="#n8y3d2u">3</fing>
                            </measure>
-                           <measure xml:id="mixtao0" n="31">
+                           <measure xml:id="mixtao0" n="11">
                               <staff xml:id="m31s1" n="1">
                                  <layer xml:id="m31s1l1" n="1">
                                     <beam xml:id="n1g96z0q">
@@ -1047,7 +1047,7 @@
                               <fing xml:id="f8cezdc" startid="#n1kdfx66">5</fing>
                               <fing xml:id="f6mm58t" startid="#ne4eoh7">1</fing>
                            </measure>
-                           <measure xml:id="mvbskpx" metcon="false" n="32">
+                           <measure xml:id="mvbskpx" metcon="false" n="12">
                               <annot xml:id="ht6ovf" startid="m32s1">Ossia notations, as apparent in the 1922 Forberg edition, are omitted, as both meico and Verovio do not support the MEI ossia element yet. However, ossias in the 1922 Forberg edition seem to indicate performance directives (here: fermata durations) rather than actual note alternatives.</annot>
                               <staff xml:id="m32s1" n="1">
                                  <layer xml:id="m32s1l12" n="1">
@@ -1109,7 +1109,7 @@
                               <fermata xml:id="f1mbkknq" startid="#ngwgeeq" place="below" />
                               <fing xml:id="f143ezmo" startid="#ngwgeeq">3</fing>
                            </measure>
-                           <measure xml:id="mplzmk7" n="33">
+                           <measure xml:id="mplzmk7" n="13">
                               <staff xml:id="m33s1" n="1">
                                  <layer xml:id="m33s1l1" n="1">
                                     <beam xml:id="v1sb1fpf">
@@ -1141,7 +1141,7 @@
                               <fing xml:id="f12b59eh" startid="#n1h3hwnh">1</fing>
                               <fing xml:id="f4nze9" startid="#n12rrz7i">4</fing>
                            </measure>
-                           <measure xml:id="m1hwvu13" n="34">
+                           <measure xml:id="m1hwvu13" n="14">
                               <staff xml:id="m34s1" n="1">
                                  <layer xml:id="m34s1l1" n="1">
                                     <beam xml:id="eegmgeb">
@@ -1168,7 +1168,7 @@
                               <tie xml:id="t1gx9anl" startid="#n1kj1x8l" endid="#n1jk8e9i" />
                               <fing xml:id="f11mygls" startid="#n1kj1x8l">5</fing>
                            </measure>
-                           <measure xml:id="m7jr196" n="35">
+                           <measure xml:id="m7jr196" n="15">
                               <staff xml:id="m35s1" n="1">
                                  <layer xml:id="m35s1l1" n="1">
                                     <note xml:id="n1jk8e9i" dur="8" oct="5" pname="c" />
@@ -1197,7 +1197,7 @@
                               <slur xml:id="s1vzc2iz" startid="#n6750g2" endid="#ns6fgsn" />
                               <fing xml:id="f1jl1g5e" startid="#n6750g2">1</fing>
                            </measure>
-                           <measure xml:id="m183582i" right="rptend" metcon="false" n="36" type="mscore-repeat-2">
+                           <measure xml:id="m183582i" right="rptend" metcon="false" n="16" type="mscore-repeat-2">
                               <staff xml:id="m36s1" n="1">
                                  <layer xml:id="m36s1l1" n="1">
                                     <note xml:id="n14octwh" dur="4" oct="4" pname="e">
@@ -1241,7 +1241,7 @@
                         <expansion plist="#A_tre_A #A_tre_A #A_tre_B #A_tre_B" xml:id="b7w6ryu" />
                         <section xml:id="A_tre_A">
                            <scoreDef xml:id="bejnxpy" meter.count="2" meter.unit="4" />
-                           <measure xml:id="mgmtpns" left="rptstart" metcon="false" n="37">
+                           <measure xml:id="mgmtpns" left="rptstart" metcon="false">
                               <staff xml:id="m37s1" n="1">
                                  <layer xml:id="m37s1l1" n="1">
                                     <rest xml:id="r15v23hb" type="mscore-beam-none" dur="8" />
@@ -1263,7 +1263,7 @@
                               <slur xml:id="suwdo2i" startid="#n1tgt9ml" endid="#n1u2r62b" curvedir="above" />
                               <fing xml:id="f1nuwnab" startid="#n1tgt9ml">1</fing>
                            </measure>
-                           <measure xml:id="m1secoqg" n="38">
+                           <measure xml:id="m1secoqg" n="1">
                               <staff xml:id="m38s1" n="1">
                                  <layer xml:id="m38s1l1" n="1">
                                     <note xml:id="n1poplmn" dur="2" oct="4" pname="e">
@@ -1292,7 +1292,7 @@
                               <fing xml:id="fq4x2n3" startid="#nzvzxyi">2</fing>
                               <fing xml:id="f1jvdfxv" startid="#n7671h8">1</fing>
                            </measure>
-                           <measure xml:id="m8zn9w7" n="39">
+                           <measure xml:id="m8zn9w7" n="2">
                               <staff xml:id="m39s1" n="1">
                                  <layer xml:id="m39s1l1" n="1">
                                     <note xml:id="ngrepeo" dur="2" oct="4" pname="b">
@@ -1326,7 +1326,7 @@
                               <slur xml:id="s1alvog4" startid="#noltnr6" endid="#n18v3oam" curvedir="above" />
                               <fing xml:id="f1mo4hlu" startid="#noltnr6">1</fing>
                            </measure>
-                           <measure xml:id="movnfst" n="40">
+                           <measure xml:id="movnfst" n="3">
                               <staff xml:id="m40s1" n="1">
                                  <layer xml:id="m40s1l1" n="1">
                                     <note xml:id="n1778wo7" dur="2" oct="3" pname="b">
@@ -1353,7 +1353,7 @@
                               <fing xml:id="fqwp4cm" place="below" startid="#nr9lhg3">1</fing>
                               <fing xml:id="fjkaic8" place="below" startid="#n11jvipw">3</fing>
                            </measure>
-                           <measure xml:id="m1w5iqts" n="41">
+                           <measure xml:id="m1w5iqts" n="4">
                               <staff xml:id="m41s1" n="1">
                                  <layer xml:id="m41s1l1" n="1">
                                     <note xml:id="n1nsgmiz" dur="2" oct="4" pname="e">
@@ -1389,7 +1389,7 @@
                               <slur xml:id="s1b9two4" startid="#n1r4zn5o" endid="#n1b8s5pc" curvedir="above" />
                               <fing xml:id="f9u050h" startid="#n1r4zn5o">1</fing>
                            </measure>
-                           <measure xml:id="mllpqoi" n="42">
+                           <measure xml:id="mllpqoi" n="5">
                               <staff xml:id="m42s1" n="1">
                                  <layer xml:id="m42s1l1" n="1">
                                     <note xml:id="n1yfzylw" dur="4" oct="4" pname="e">
@@ -1420,7 +1420,7 @@
                               <fing xml:id="f1qiwbbj" startid="#n1c44508">3</fing>
                               <fing xml:id="f15qih1v" startid="#n1fnzw56">2</fing>
                            </measure>
-                           <measure xml:id="m17i7qln" n="43">
+                           <measure xml:id="m17i7qln" n="6">
                               <staff xml:id="m43s1" n="1">
                                  <layer xml:id="m43s1l1" n="1">
                                     <note xml:id="n1ij4xpo" dots="1" dur="4" oct="4" pname="e">
@@ -1455,7 +1455,7 @@
                               <fing xml:id="fheqfkr" startid="#nsbpues">2</fing>
                               <hairpin xml:id="t1nox5g7" startid="#n1e77kmu" endid="#ncug4th" form="cres" place="above" />
                            </measure>
-                           <measure xml:id="m1mzi6ht" n="44">
+                           <measure xml:id="m1mzi6ht" n="7">
                               <staff xml:id="m44s1" n="1">
                                  <layer xml:id="m44s1l1" n="1">
                                     <beam xml:id="wodnw75">
@@ -1499,7 +1499,7 @@
                               <slur xml:id="s1i3wjsp" startid="#niyisgf" endid="#nejx6mp" curvedir="above" />
                               <fing xml:id="f1sko5t2" startid="#niyisgf">1</fing>
                            </measure>
-                           <measure xml:id="m8q7blr" right="rptend" metcon="false" n="45" type="mscore-repeat-2">
+                           <measure xml:id="m8q7blr" right="rptend" metcon="false" n="8" type="mscore-repeat-2">
                               <staff xml:id="m45s1" n="1">
                                  <layer xml:id="m45s1l1" n="1">
                                     <note xml:id="n15wtbvo" dur="4" oct="3" pname="b">
@@ -1534,7 +1534,7 @@
                         </section>
                         <sb xml:id="cydufr0" />
                         <section xml:id="A_tre_B">
-                           <measure xml:id="m1d6leik" left="rptstart" metcon="false" n="46">
+                           <measure xml:id="m1d6leik" left="rptstart" metcon="false">
                               <staff xml:id="m46s1" n="1">
                                  <layer xml:id="m46s1l1" n="1">
                                     <rest xml:id="i1s84y1e" dur="8" />
@@ -1552,7 +1552,7 @@
                               <slur xml:id="sgfa4qw" startid="#n1my0q98" endid="#nlngttn" curvedir="above" />
                               <fing xml:id="f1uuspv6" startid="#n1my0q98">5</fing>
                            </measure>
-                           <measure xml:id="mgmd3sw" n="47">
+                           <measure xml:id="mgmd3sw" n="9">
                               <staff xml:id="m47s1" n="1">
                                  <layer xml:id="m47s1l1" n="1">
                                     <rest xml:id="r1xftzqj" type="mscore-beam-none" dur="8" />
@@ -1586,7 +1586,7 @@
                               <fing xml:id="f11u73vd" startid="#np33k50">1</fing>
                               <fing xml:id="f1vpqoup" startid="#nzc37pb">3</fing>
                            </measure>
-                           <measure xml:id="m1fq0dfn" n="48">
+                           <measure xml:id="m1fq0dfn" n="10">
                               <staff xml:id="m48s1" n="1">
                                  <layer xml:id="m48s1l1" n="1">
                                     <note xml:id="n18ravww" dur="4" oct="5" pname="d">
@@ -1633,7 +1633,7 @@
                               <slur xml:id="sglj9o6" startid="#n1uk9d5d" endid="#nxoly1p" />
                               <fing xml:id="fssx570" startid="#n1uk9d5d">3</fing>
                            </measure>
-                           <measure xml:id="m1xn86e8" n="49">
+                           <measure xml:id="m1xn86e8" n="11">
                               <staff xml:id="m49s1" n="1">
                                  <layer xml:id="m49s1l3" n="1">
                                     <beam xml:id="cpt56ey" place="above">
@@ -1666,7 +1666,7 @@
                               <fing xml:id="f1onb9td" startid="#n1hrgjya">2</fing>
                               <fing xml:id="f2ovqp3" startid="#nk2ig3f">1</fing>
                            </measure>
-                           <measure xml:id="md6tjbe" n="50">
+                           <measure xml:id="md6tjbe" n="12">
                               <annot xml:id="b408l8i" sameas="ht6ovf" startid="m50s1" />
                               <staff xml:id="m50s1" n="1">
                                  <layer xml:id="m50s1l3" n="1">
@@ -1719,7 +1719,7 @@
                               <fing xml:id="f8i1nwu" startid="#n198prts">4</fing>
                               <fermata xml:id="ft0vmmp" startid="#nxoly1p" />
                            </measure>
-                           <measure xml:id="m6z5ngo" n="51">
+                           <measure xml:id="m6z5ngo" n="13">
                               <staff xml:id="m51s1" n="1">
                                  <layer xml:id="m51s1l1" n="1">
                                     <note xml:id="n1sddcph" dur="2" oct="4" pname="g">
@@ -1753,7 +1753,7 @@
                               <slur xml:id="s6g0g33" startid="#n1jqv96l" endid="#nwdduif" curvedir="above" />
                               <fing xml:id="f1tuce5y" startid="#n1jqv96l">1</fing>
                            </measure>
-                           <measure xml:id="mto4zy3" n="52">
+                           <measure xml:id="mto4zy3" n="14">
                               <staff xml:id="m52s1" n="1">
                                  <layer xml:id="m52s1l1" n="1">
                                     <note xml:id="n15o1eab" dur="2" oct="4" pname="a">
@@ -1784,7 +1784,7 @@
                               <slur xml:id="srxjywt" startid="#n25itbq" endid="#n1j1a68y" curvedir="above" />
                               <fing xml:id="f17g7uio" startid="#n25itbq">1</fing>
                            </measure>
-                           <measure xml:id="mul6ldz" n="53">
+                           <measure xml:id="mul6ldz" n="15">
                               <staff xml:id="m53s1" n="1">
                                  <layer xml:id="m53s1l1" n="1">
                                     <note xml:id="n1lza0u9" dur="4" oct="4" pname="b">
@@ -1822,7 +1822,7 @@
                               <fing xml:id="f1f91qge" startid="#nq0s5mm">3</fing>
                               <fing xml:id="fbjjphd" startid="#nmcgn1j">2</fing>
                            </measure>
-                           <measure xml:id="mfara4k" right="rptend" metcon="false" n="54" type="mscore-repeat-2">
+                           <measure xml:id="mfara4k" right="rptend" metcon="false" n="16" type="mscore-repeat-2">
                               <staff xml:id="m54s1" n="1">
                                  <layer xml:id="m54s1l1" n="1">
                                     <note xml:id="n1uuhgt6" dur="4" oct="4" pname="e">
@@ -1880,7 +1880,7 @@
                      <section xml:id="s_A_Quattro">
                         <expansion plist="#A_Quattro_A #A_Quattro_A #A_Quattro_B_main #A_Quattro_B_End1 #A_Quattro_B_main #A_Quattro_B_End2 #A_Quattro_C_main #A_Quattro_C_End1 #A_Quattro_C_main #A_Quattro_C_End2 #A_Quattro_D #A_Quattro_D" xml:id="o1ryeccc" />
                         <section xml:id="A_Quattro_A">
-                           <measure xml:id="m1v56yff" left="rptstart" metcon="false" n="55">
+                           <measure xml:id="m1v56yff" left="rptstart" metcon="false">
                               <staff xml:id="m55s1" n="1">
                                  <layer xml:id="m55s1l1" n="1" />
                                  <layer xml:id="m55s1l2" n="2">
@@ -1910,7 +1910,7 @@
                               <slur xml:id="s6ka2bw" startid="#n17ok4fy" endid="#n3h9gg1" curvedir="below" />
                               <fing xml:id="fmxpdzk" place="below" startid="#n17ok4fy">3</fing>
                            </measure>
-                           <measure xml:id="m9318mc" n="56">
+                           <measure xml:id="m9318mc" n="1">
                               <staff xml:id="m56s1" n="1">
                                  <layer xml:id="m56s1l1" n="1">
                                     <note xml:id="n14dagjs" dur="2" oct="5" pname="e">
@@ -1964,7 +1964,7 @@
                               <slur xml:id="s1lgcttr" startid="#nynw60q" endid="#n1lrsqb8" />
                               <slur xml:id="soctooh" startid="#n3gfni8" endid="#nss85ds" />
                            </measure>
-                           <measure xml:id="muknmwb" n="57">
+                           <measure xml:id="muknmwb" n="2">
                               <staff xml:id="m57s1" n="1">
                                  <layer xml:id="m57s1l1" n="1">
                                     <note xml:id="n19sqp57" dur="2" oct="5" pname="b">
@@ -2010,7 +2010,7 @@
                               <fing xml:id="f1xxxyc3" startid="#nwgazw8">1</fing>
                               <fing xml:id="fbgyajw" startid="#n17bwlyh">1</fing>
                            </measure>
-                           <measure xml:id="m19fjn9h" n="58">
+                           <measure xml:id="m19fjn9h" n="3">
                               <staff xml:id="m58s1" n="1">
                                  <layer xml:id="m58s1l1" n="1">
                                     <note xml:id="n1wkaqmp" dur="2" oct="4" pname="b">
@@ -2079,7 +2079,7 @@
                               <slur xml:id="srt6nsn" startid="#nb37pj6" endid="#ncjo5jc" curvedir="above" />
                               <fing xml:id="f1lvayv8" startid="#nb37pj6">1</fing>
                            </measure>
-                           <measure xml:id="md2bufp" n="59">
+                           <measure xml:id="md2bufp" n="4">
                               <staff xml:id="m59s1" n="1">
                                  <layer xml:id="m59s1l1" n="1">
                                     <note xml:id="nohaj5b" dur="2" oct="5" pname="e">
@@ -2130,7 +2130,7 @@
                               <fing xml:id="f94od9u" startid="#n8agyi2">1</fing>
                               <fing xml:id="f10kddj8" place="below" startid="#n192y4ck">1</fing>
                            </measure>
-                           <measure xml:id="m7hwg4q" n="60">
+                           <measure xml:id="m7hwg4q" n="5">
                               <staff xml:id="m60s1" n="1">
                                  <layer xml:id="m60s1l1" n="1">
                                     <note xml:id="nw272r0" dur="4" oct="5" pname="e">
@@ -2218,7 +2218,7 @@
                               <slur xml:id="s16tuq62" startid="#c16jzqh9" endid="#c11zdkcf" />
                            </measure>
                            <sb xml:id="pddjc5r" />
-                           <measure xml:id="mmut3m7" n="61">
+                           <measure xml:id="mmut3m7" n="6">
                               <staff xml:id="m61s1" n="1">
                                  <layer xml:id="m61s1l1" n="1">
                                     <note xml:id="ng5i1c4" dots="1" dur="4" oct="5" pname="e">
@@ -2301,7 +2301,7 @@
                               <dynam xml:id="dwanqmc" label="sf" staff="2" startid="#nyxw7k2" layer="4">sf</dynam>
                               <fing xml:id="fqvc4c0" place="below" startid="#n8dga4e">1</fing>
                            </measure>
-                           <measure xml:id="mc7nosr" n="62">
+                           <measure xml:id="mc7nosr" n="7">
                               <staff xml:id="m62s1" n="1">
                                  <layer xml:id="m62s1l1" n="1">
                                     <beam xml:id="t1myotx5">
@@ -2409,7 +2409,7 @@
                               <slur xml:id="sx9pl5r" startid="#c8rplc1" endid="#chepjrt" />
                               <fing xml:id="fl5fbn7" place="below" startid="#n1lsvbeb">4</fing>
                            </measure>
-                           <measure xml:id="m1niupc0" right="rptend" metcon="false" n="63" type="mscore-repeat-2">
+                           <measure xml:id="m1niupc0" right="rptend" metcon="false" n="8" type="mscore-repeat-2">
                               <staff xml:id="m63s1" n="1">
                                  <layer xml:id="m63s1l1" n="1">
                                     <note xml:id="n1mpbny8" dots="1" dur="4" oct="4" pname="b">
@@ -2479,7 +2479,7 @@
                            </measure>
                         </section>
                         <section xml:id="A_Quattro_B_main">
-                           <measure xml:id="m1mm29id" left="rptstart" metcon="false" n="64">
+                           <measure xml:id="m1mm29id" left="rptstart" metcon="false">
                               <staff xml:id="m64s1" n="1">
                                  <layer xml:id="m64s1l1" n="2">
                                     <beam xml:id="g1crvahk">
@@ -2500,7 +2500,7 @@
                               <slur xml:id="sibx0nn" startid="#n1n8xe6d" endid="#n1vy9ygm" />
                               <fing xml:id="f1nxqiug" startid="#n1n8xe6d">2</fing>
                            </measure>
-                           <measure xml:id="mlo227w" n="65">
+                           <measure xml:id="mlo227w" n="9">
                               <staff xml:id="m65s1" n="1">
                                  <layer xml:id="m65s1l1" n="1">
                                     <beam xml:id="c9uvggm">
@@ -2555,7 +2555,7 @@
                               <fing xml:id="f1gsgpbw" startid="#n42uw1q">1</fing>
                               <fing xml:id="f1p2gg50" startid="#nt6v1f2">4</fing>
                            </measure>
-                           <measure xml:id="m64psx7" n="66">
+                           <measure xml:id="m64psx7" n="10">
                               <staff xml:id="m66s1" n="1">
                                  <layer xml:id="m66s1l1" n="1">
                                     <beam xml:id="g40q15e">
@@ -2616,7 +2616,7 @@
                               <fing xml:id="f15fzik1" startid="#nm3yytm">2</fing>
                            </measure>
                            <sb xml:id="t1fow0ht" />
-                           <measure xml:id="mbbxxv7" n="67">
+                           <measure xml:id="mbbxxv7" n="11">
                               <staff xml:id="m67s1" n="1">
                                  <layer xml:id="m67s1l1" n="2">
                                     <beam xml:id="f16yodd6">
@@ -2691,7 +2691,7 @@
                               <fing xml:id="f6dizlm" place="below" startid="#n1xd7oqx">3</fing>
                               <fing xml:id="ftpfwnj" place="below" startid="#naxkxoh">1</fing>
                            </measure>
-                           <measure xml:id="m1nb5tgc" n="68">
+                           <measure xml:id="m1nb5tgc" n="12">
                               <staff xml:id="m68s1" n="1">
                                  <layer xml:id="m68s1l1" n="1">
                                     <chord xml:id="cxqoh4v" dur="4">
@@ -2752,7 +2752,7 @@
                               <slur xml:id="sd7a69c" startid="#nga9fa1" endid="#n19lvcj6" curvedir="above" />
                               <fing xml:id="f1founyv" place="below" startid="#nga9fa1">3</fing>
                            </measure>
-                           <measure xml:id="mkcbgpn" n="69">
+                           <measure xml:id="mkcbgpn" n="13">
                               <staff xml:id="m69s1" n="1">
                                  <layer xml:id="m69s1l1" n="1">
                                     <chord xml:id="cq9ct71" dur="2">
@@ -2794,7 +2794,7 @@
                               <fing xml:id="fmh3wrp" place="below" startid="#n1xwv4jt">1</fing>
                               <fing xml:id="fhq1u8j" place="below" startid="#n1cfa55h">1</fing>
                            </measure>
-                           <measure xml:id="mmg3bz6" n="70">
+                           <measure xml:id="mmg3bz6" n="14">
                               <staff xml:id="m70s1" n="1">
                                  <layer xml:id="m70s1l1" n="1">
                                     <chord xml:id="c1rgsz75" dur="2">
@@ -2841,7 +2841,7 @@
                               <fing xml:id="f1p5uclw" startid="#ndgsn7c">5</fing>
                               <fing xml:id="fjok2wv" startid="#n11gboab">3</fing>
                            </measure>
-                           <measure xml:id="m1r2buxi" n="71">
+                           <measure xml:id="m1r2buxi" n="15">
                               <staff xml:id="m71s1" n="1">
                                  <layer xml:id="m71s1l1" n="1">
                                     <note xml:id="nlp0m3h" dur="4" oct="5" pname="b">
@@ -2916,7 +2916,7 @@
                            </measure>
                         </section>
                         <ending xml:id="A_Quattro_B_End1" label="1.">
-                           <measure xml:id="mjgbomd" right="rptend" metcon="false" n="72" type="mscore-repeat-2">
+                           <measure xml:id="mjgbomd" right="rptend" metcon="false" n="16" type="mscore-repeat-2">
                               <staff xml:id="m72s1" n="1">
                                  <layer xml:id="m72s1l1" n="1">
                                     <note xml:id="n1tx4q8y" dur="4" oct="5" pname="e">
@@ -2956,7 +2956,7 @@
                         </ending>
                         <sb xml:id="tb22tg2" />
                         <ending xml:id="A_Quattro_B_End2" type="mscore-ending-2" label="2.">
-                           <measure xml:id="m16m5jnf" n="73">
+                           <measure xml:id="m16m5jnf" n="16">
                               <staff xml:id="m73s1" n="1">
                                  <layer xml:id="m73s1l1" n="1">
                                     <beam xml:id="gj95z35">
@@ -3007,7 +3007,7 @@
                            </measure>
                         </ending>
                         <section xml:id="A_Quattro_C_main" label="Tema.">
-                           <measure xml:id="m1pspr15" left="rptstart" n="74">
+                           <measure xml:id="m1pspr15" left="rptstart" n="1">
                               <staff xml:id="m74s1" n="1">
                                  <layer xml:id="m74s1l1" n="1">
                                     <note xml:id="n92a8jm" dots="1" dur="4" oct="5" pname="g" />
@@ -3085,7 +3085,7 @@
                               <slur xml:id="s12txjjz" startid="#n92a8jm" endid="#nb9bmt9" />
                               <fing xml:id="f31tmpg" startid="#nb9bmt9">4</fing>
                            </measure>
-                           <measure xml:id="mgayr5q" n="75">
+                           <measure xml:id="mgayr5q" n="2">
                               <staff xml:id="m75s1" n="1">
                                  <layer xml:id="m75s1l1" n="1">
                                     <note xml:id="n8u7hf2" dots="1" dur="4" oct="5" pname="d" />
@@ -3170,7 +3170,7 @@
                               <fing xml:id="fbswdgx" startid="#n8u7hf2">3</fing>
                               <fing xml:id="f1khb61b" startid="#nk4w04x">4</fing>
                            </measure>
-                           <measure xml:id="m6d2sko" n="76">
+                           <measure xml:id="m6d2sko" n="3">
                               <staff xml:id="m76s1" n="1">
                                  <layer xml:id="m76s1l1" n="1">
                                     <note xml:id="nm3t0ga" dots="1" dur="4" oct="5" pname="a">
@@ -3259,7 +3259,7 @@
                               <slur xml:id="swt7ib5" startid="#nm3t0ga" endid="#n1oy1ajr" />
                               <fing xml:id="fj8kx41" startid="#n1oy1ajr">5</fing>
                            </measure>
-                           <measure xml:id="mcwk1ej" n="77">
+                           <measure xml:id="mcwk1ej" n="4">
                               <staff xml:id="m77s1" n="1">
                                  <layer xml:id="m77s1l1" n="1">
                                     <note xml:id="n3tuqsr" dots="1" dur="4" oct="5" pname="e">
@@ -3335,7 +3335,7 @@
                               </staff>
                               <slur xml:id="sjyxm9u" startid="#n3tuqsr" endid="#nwoy4zh" />
                            </measure>
-                           <measure xml:id="mdwpmp9" n="78">
+                           <measure xml:id="mdwpmp9" n="5">
                               <staff xml:id="m78s1" n="1">
                                  <layer xml:id="m78s1l1" n="1">
                                     <note xml:id="n155xsha" dur="4" oct="5" pname="b">
@@ -3409,7 +3409,7 @@
                               <slur xml:id="s9h81en" startid="#c14z7vho" endid="#c1bsd0js" />
                            </measure>
                            <sb xml:id="h12nt4pu" />
-                           <measure xml:id="m1ou0tim" n="79">
+                           <measure xml:id="m1ou0tim" n="6">
                               <staff xml:id="m79s1" n="1">
                                  <layer xml:id="m79s1l1" n="1">
                                     <note xml:id="ndog6zj" dots="1" dur="4" oct="5" pname="b">
@@ -3474,7 +3474,7 @@
                               <slur xml:id="s18vaxno" startid="#n1dwzt8v" endid="#nmagnmb" />
                               <fing xml:id="f1rk62yx" startid="#n1dwzt8v">5</fing>
                            </measure>
-                           <measure xml:id="m1vucwcv" n="80">
+                           <measure xml:id="m1vucwcv" n="7">
                               <staff xml:id="m80s1" n="1">
                                  <layer xml:id="m80s1l1" n="1">
                                     <beam xml:id="e11ad4gx">
@@ -3566,7 +3566,7 @@
                            </measure>
                         </section>
                         <ending xml:id="A_Quattro_C_End1" type="mscore-ending-1" label="1.">
-                           <measure xml:id="mbp4gtb" right="rptend" n="81" type="mscore-repeat-2">
+                           <measure xml:id="mbp4gtb" right="rptend" n="8" type="mscore-repeat-2">
                               <staff xml:id="m81s1" n="1">
                                  <layer xml:id="m81s1l1" n="1">
                                     <chord xml:id="c228vxn" dur="4">
@@ -3630,7 +3630,7 @@
                            </measure>
                         </ending>
                         <ending xml:id="A_Quattro_C_End2" type="mscore-ending-2" label="2.">
-                           <measure xml:id="m36lh5y" metcon="false" n="82">
+                           <measure xml:id="m36lh5y" metcon="false" n="8">
                               <staff xml:id="m82s1" n="1">
                                  <layer xml:id="m82s1l1" n="1">
                                     <chord xml:id="c1olfs5j" dur="4">
@@ -3685,7 +3685,7 @@
                            </measure>
                         </ending>
                         <section xml:id="A_Quattro_D">
-                           <measure xml:id="m7ywe97" left="rptstart" metcon="false" n="83">
+                           <measure xml:id="m7ywe97" left="rptstart" metcon="false">
                               <staff xml:id="m83s1" n="1">
                                  <layer xml:id="m83s1l1" n="1">
                                     <beam xml:id="l1jkeaqa">
@@ -3708,7 +3708,7 @@
                               <fing xml:id="f1tywxw8" startid="#nwlhav2">3</fing>
                               <hairpin xml:id="h1foy7q4" startid="#nzvcb6i" endid="#c18qjgik" form="cres" />
                            </measure>
-                           <measure xml:id="m19f1kxh" n="84">
+                           <measure xml:id="m19f1kxh" n="9">
                               <staff xml:id="m84s1" n="1">
                                  <layer xml:id="m84s1l1" n="1">
                                     <beam xml:id="melkooh">
@@ -3741,7 +3741,7 @@
                               <fing xml:id="fcqx89c" startid="#nrfu5po">3</fing>
                            </measure>
                            <sb xml:id="ij5mg07" />
-                           <measure xml:id="mauco6z" n="85">
+                           <measure xml:id="mauco6z" n="10">
                               <staff xml:id="m85s1" n="1">
                                  <layer xml:id="m85s1l1" n="1">
                                     <beam xml:id="u1vj5wbl">
@@ -3836,7 +3836,7 @@
                               <fing xml:id="fnupsfh" startid="#n1hkn16j">3</fing>
                               <pedal xml:id="pfyyf15" startid="#n3aq671" endid="#ni75s4e" dir="down" form="pedstar" />
                            </measure>
-                           <measure xml:id="m1k3wj07" n="86">
+                           <measure xml:id="m1k3wj07" n="11">
                               <staff xml:id="m86s1" n="1">
                                  <layer xml:id="m86s1l1" n="1">
                                     <beam xml:id="w14iehsd">
@@ -3870,7 +3870,7 @@
                               <fing xml:id="f1fph854" startid="#n1henkl2">2</fing>
                               <fing xml:id="fy0qlko" startid="#nrqn8yx">3</fing>
                            </measure>
-                           <measure xml:id="m6aow8p" n="87">
+                           <measure xml:id="m6aow8p" n="12">
                               <staff xml:id="m87s1" n="1">
                                  <layer xml:id="m87s1l1" n="1">
                                     <chord xml:id="csnmktl" dots="1" dur="4">
@@ -3911,7 +3911,7 @@
                               <fing xml:id="f5ugsvh" startid="#n1lq6je2">4</fing>
                               <fermata xml:id="f14r31cs" startid="#ca61sdk" />
                            </measure>
-                           <measure xml:id="mwy78ts" n="88">
+                           <measure xml:id="mwy78ts" n="13">
                               <staff xml:id="m88s1" n="1">
                                  <layer xml:id="m88s1l1" n="1">
                                     <note xml:id="ncja5tn" dots="1" dur="4" oct="5" pname="b">
@@ -3995,7 +3995,7 @@
                               <fing xml:id="f7on9nc" startid="#ncja5tn">5</fing>
                               <fing xml:id="f1vwk455" startid="#n1azd07x">4</fing>
                            </measure>
-                           <measure xml:id="m1msxxqz" n="89">
+                           <measure xml:id="m1msxxqz" n="14">
                               <staff xml:id="m89s1" n="1">
                                  <layer xml:id="m89s1l1" n="1">
                                     <note xml:id="nlhdczb" dots="1" dur="4" oct="5" pname="f" />
@@ -4073,7 +4073,7 @@
                               <slur xml:id="s10p17u8" startid="#nlhdczb" endid="#n139dovf" />
                               <fing xml:id="f1ww2f5t" startid="#nlhdczb">3</fing>
                            </measure>
-                           <measure xml:id="m13xkhlo" n="90">
+                           <measure xml:id="m13xkhlo" n="15">
                               <staff xml:id="m90s1" n="1">
                                  <layer xml:id="m90s1l1" n="1">
                                     <note xml:id="nyoa219" dur="4" oct="5" pname="e">
@@ -4141,7 +4141,7 @@
                               <fing xml:id="f1tlmln2" place="below" startid="#n16xmzr4">2</fing>
                               <fing xml:id="f1mxx8iq" place="below" startid="#n1kgrjmz">1</fing>
                            </measure>
-                           <measure xml:id="m1l8l7pq" right="rptend" metcon="false" n="91" type="mscore-repeat-2">
+                           <measure xml:id="m1l8l7pq" right="rptend" metcon="false" n="16" type="mscore-repeat-2">
                               <staff xml:id="m91s1" n="1">
                                  <layer xml:id="m91s1l1" n="1">
                                     <note xml:id="ncymzhw" dur="4" oct="5" pname="e">
