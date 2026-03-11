@@ -88,7 +88,7 @@
                      </scoreDef>
                      <section xml:id="Intro_Tema">
                         <expansion plist="#Intro_bar1 #Intro_Tema_b2ff #Intro_Tema_b2ff #Intro_Tema_B_main #Intro_Tema_B_End1 #Intro_Tema_B_main #Intro_Tema_B_End2" xml:id="zdf7mbj" />
-                        <annot xml:id="o1qoz0fu" plist="#m1ea5yhq" startid="m1ea5yhq">Deviating from the original score, section descriptors ("Introduzione", "A Due", ff.) are encoded as mdiv labels instead of staff group brace labels (as apparent in Leipzig: Breitkopf and Härtel 1803 [first ed.], BGA [1862–1890], Forberg 1922, among others) in order to avoid semantical errors within MEI and MSM. However, as of Verovio v5.6, mdiv labels are not rendered graphically yet.</annot>
+                        <annot xml:id="o1qoz0fu" plist="#m1ea5yhq" startid="#m1ea5yhq">Deviating from the original score, section descriptors ("Introduzione", "A Due", ff.) are encoded as mdiv labels instead of staff group brace labels (as apparent in Leipzig: Breitkopf and Härtel 1803 [first ed.], BGA [1862–1890], Forberg 1922, among others) in order to avoid semantical errors within MEI and MSM. However, as of Verovio v5.6, mdiv labels are not rendered graphically yet.</annot>
                         <section xml:id="Intro_bar1">
                            <measure xml:id="m1ea5yhq" n="1">
                               <staff xml:id="m1s1" n="1">
@@ -1006,7 +1006,7 @@
                                     <mRest xml:id="m1odp5k1" />
                                  </layer>
                               </staff>
-                              <dir xml:id="do3ktjo" place="above" startid="n17ec2xd">(senza riten.)</dir>
+                              <dir xml:id="do3ktjo" place="above" startid="#n17ec2xd">(senza riten.)</dir>
                               <fing xml:id="f8cezdc" startid="#n1kdfx66">5</fing>
                               <fing xml:id="f6mm58t" startid="#ne4eoh7">1</fing>
                            </measure>
@@ -1721,8 +1721,8 @@
                               <fermata xml:id="facr3b2" startid="#n2f7wlw" />
                               <tempo xml:id="d131vbzq" label="adagio" startid="#nqap1mx">Adagio.</tempo>
                               <dynam xml:id="d1j22wrd" label="p" startid="#nqap1mx">p</dynam>
-                              <hairpin xml:id="h17jhdkp" startid="#nqap1mx" endid="ng0b9il" form="cres" />
-                              <hairpin xml:id="u17f24nq" startid="#ng0b9il" endid="ncljbwg" form="dim" />
+                              <hairpin xml:id="h17jhdkp" startid="#nqap1mx" endid="#ng0b9il" form="cres" />
+                              <hairpin xml:id="u17f24nq" startid="#ng0b9il" endid="#ncljbwg" form="dim" />
                               <tempo xml:id="d8qifs1" label="allegretto" startid="#n1dh9251">Tempo I.</tempo>
                               <slur xml:id="s1td3svr" startid="#n1dh9251" endid="#n1sddcph" curvedir="below" />
                               <fing xml:id="f1ywemgs" startid="#n1dh9251">3</fing>
@@ -3355,7 +3355,7 @@
                               <slur xml:id="ssd1bbr" startid="#n3t4b3t" endid="#n1qs0v1e" />
                               <fing xml:id="ftiik4u" startid="#n3t4b3t">3</fing>
                               <slur xml:id="sb0mvtn" startid="#c14z7vho" endid="#c1bsd0js" curvedir="above" />
-                              <tie xml:id="c1vtmr44" startid="n5ixp7r" endid="njxytsc" curvedir="below" />
+                              <tie xml:id="c1vtmr44" startid="#n5ixp7r" endid="#njxytsc" curvedir="below" />
                            </measure>
                            <sb xml:id="h12nt4pu" />
                            <measure xml:id="m1ou0tim" n="6">
@@ -5761,7 +5761,7 @@
                            <fing xml:id="f1q27xi0" place="below" startid="#nfq2rcb">2</fing>
                            <fing xml:id="f1a0w1ln" place="below" startid="#n10o2r3j">1</fing>
                            <fing xml:id="fzel3y9" place="below" startid="#n1sgp4mx">4</fing>
-                           <fing xml:id="igqlk76" place="below" startid="ngw4onl">[5]</fing>
+                           <fing xml:id="igqlk76" place="below" startid="#ngw4onl">[5]</fing>
                         </measure>
                      </section>
                      <section xml:id="Var_2_S2">
@@ -5788,7 +5788,7 @@
                            <dynam xml:id="d1b3z538" label="mf" startid="#n1u0gnbi">mf</dynam>
                            <slur xml:id="s1ezp0fj" startid="#n1u0gnbi" endid="#n28e9ma" />
                            <fing xml:id="f1egjapj" startid="#n1u0gnbi">1</fing>
-                           <pedal xml:id="p8m2en0" startid="#m1vsoqlg" endid="#n28e9ma" dir="down" form="pedstar" />
+                           <pedal xml:id="p8m2en0" startid="#l14jr27m" endid="#n28e9ma" dir="down" form="pedstar" />
                         </measure>
                         <measure xml:id="mfr5gu4" n="9">
                            <staff xml:id="m120s1" n="1">
@@ -6648,7 +6648,7 @@
                                  <rest xml:id="r96rqun" dur="8" />
                               </layer>
                            </staff>
-                           <dir xml:id="x1ccvzdy" place="above" startid="c45scxu">Von hier an ist ein lebhafteres Tempo angebracht.</dir>
+                           <dir xml:id="x1ccvzdy" place="above" startid="#c45scxu">Von hier an ist ein lebhafteres Tempo angebracht.</dir>
                            <dynam xml:id="d1ls3vs4" label="f" staff="1" startid="#n6oztiz">f</dynam>
                            <fing xml:id="f13ux57g" place="above" startid="#n184qx5v">4</fing>
                         </measure>
@@ -6781,7 +6781,7 @@
                            <fing xml:id="f1vqns1s" place="above" startid="#n1t9l0i0">5</fing>
                            <slur xml:id="s13pcsmt" startid="#cdyond5" endid="#c1cbzhrl" curvedir="above" />
                            <fing xml:id="f15hzccb" place="above" startid="#n1fnz4bc">1</fing>
-                           <beamSpan xml:id="l12up3zy" plist="#cdyond5 #c1cbzhrl" startid="cdyond5" endid="c1cbzhrl" place="below" />
+                           <beamSpan xml:id="l12up3zy" plist="#cdyond5 #c1cbzhrl" startid="#cdyond5" endid="#c1cbzhrl" place="below" />
                         </measure>
                         <measure xml:id="mu5yd6z" n="3">
                            <staff xml:id="m132s1" n="1">
@@ -8486,7 +8486,7 @@
                            </staff>
                            <dynam xml:id="dze9n8n" label="cresc." place="above" startid="#n1vmnsgm">cresc</dynam>
                            <slur xml:id="s1itmhuh" startid="#nbsebds" endid="#n1djwzfa" />
-                           <hairpin xml:id="qshmf79" startid="#n17b6y8m" endid="n3zh1wf" form="cres" place="above" />
+                           <hairpin xml:id="qshmf79" startid="#n17b6y8m" endid="#n3zh1wf" form="cres" place="above" />
                            <slur xml:id="s2uoq6l" startid="#n1vmnsgm" endid="#n3zh1wf" />
                            <fing xml:id="fi3rtoj" place="below" startid="#n17b6y8m">2</fing>
                            <fing xml:id="f9ei1lo" place="below" startid="#n11001yy">1</fing>
@@ -10567,7 +10567,7 @@
                               </layer>
                            </staff>
                            <fing xml:id="f2rhcgt" startid="#n1c49j9j">3</fing>
-                           <pedal xml:id="ptef2rz" startid="#m1ydbwe8" endid="#n1bqe193" dir="down" form="pedstar" />
+                           <pedal xml:id="ptef2rz" startid="#n363jji" endid="#num2qit" dir="down" form="pedstar" />
                            <slur xml:id="srfdm14" startid="#n1h3jtm0" endid="#nctdlq0" />
                            <fing xml:id="f9v8guo" place="below" startid="#n1h3jtm0">4</fing>
                            <slur xml:id="s1wxpv3o" startid="#n363jji" endid="#naqffjr" />
@@ -11420,7 +11420,7 @@
                            <fing xml:id="f1ipt8fk" startid="#njhyub3">3</fing>
                            <fing xml:id="f1rh8i01" startid="#nr8fm61">1</fing>
                            <dynam xml:id="dpkcqje" label="sf" staff="1" startid="#n1yzm91q">sf</dynam>
-                           <tie xml:id="t1wfwv27" startid="#n1yzm91q" />
+                           <tie xml:id="t1wfwv27" startid="#n1yzm91q" tstamp2="2.99"/>
                            <fing xml:id="f1faj8vr" startid="#n1yzm91q">4</fing>
                            <fing xml:id="fgia5sl" place="below" startid="#n1ivtk2r">5</fing>
                            <fing xml:id="fswdbyz" startid="#nryjuq0">1</fing>
@@ -11948,7 +11948,7 @@
                                  <clef xml:id="c1tj5q8" shape="F" line="4" />
                               </layer>
                            </staff>
-                           <hairpin xml:id="o1kg1btb" staff="2" startid="#n1m31i73" endid="n1hwhcdw" form="dim" />
+                           <hairpin xml:id="o1kg1btb" staff="2" startid="#n1m31i73" endid="#n1hwhcdw" form="dim" />
                            <fing xml:id="fu2mbjp" startid="#n1m31i73">1</fing>
                         </measure>
                         <pb xml:id="r1bosao" />
@@ -12827,7 +12827,7 @@
                               </layer>
                            </staff>
                            <hairpin xml:id="o19jnevz" staff="1" startid="#nm7f4bn" endid="#nm7f4bn" form="dim" place="above" />
-                           <slur xml:id="s1hgu19m" startid="#c14kzmhs" endid="#c16a3ibc" />
+                           <slur xml:id="s1hgu19m" startid="#c14kzmhs" endid="#nyhovyb" />
                            <fing xml:id="f7vdzhj" startid="#nm7f4bn">2</fing>
                            <fing xml:id="f28ffx7" startid="#n1rloyli">5</fing>
                            <slur xml:id="sbfkyxb" startid="#n148ju4w" endid="#npahciw" />
@@ -12882,7 +12882,7 @@
                            <pedal xml:id="p1m6p3up" startid="#nfa2izb" endid="#nb2g01c" dir="down" form="pedstar" />
                            <dynam xml:id="d1wq1jma" label="p" staff="2" startid="#n17qk2vx">p</dynam>
                            <hairpin xml:id="hqn6qb0" staff="2" startid="#n17qk2vx" endid="#npzni3s" form="dim" />
-                           <tie xml:id="tlnhjum" startid="#n17qk2vx" />
+                           <tie xml:id="tlnhjum" startid="#n17qk2vx" tstamp2="2.99"/>
                            <fing xml:id="ffi96rs" place="below" startid="#n17qk2vx">2</fing>
                            <fing xml:id="fifoe6" startid="#nfa2izb">3</fing>
                         </measure>
@@ -13979,8 +13979,7 @@
                            <slur xml:id="s1vkun78" startid="#n1oxjrqb" endid="#n7tuyl5" />
                            <slur xml:id="sinnuv3" startid="#n1d0up1s" endid="#n10dqdhb" curvedir="above" />
                            <slur xml:id="y3uf8m" startid="#g17ydy8g" endid="#n5n6ka2" curvedir="above" />
-                           <fermata xml:id="fhnlplh" startid="#n10dqdhb" />
-                           <slur xml:id="s1ijrmhw" startid="#n63tlt7" endid="#n5n6ka2" />
+                           <fermata xml:id="fhnlplh" startid="#n10dqdhb" />                         
                         </measure>
                         <measure xml:id="m1hipdll" n="14">
                            <staff xml:id="m264s1" n="1">
@@ -16100,7 +16099,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <hairpin xml:id="hxbwch4" startid="#n1gttlr7" form="dim" />
+                           <hairpin xml:id="hxbwch4" startid="#n1gttlr7" form="dim" endid="#rid6s10"/>
                            <dynam xml:id="t3ltpt8" label="pp" startid="#n14rut89">pp</dynam>
                            <slur xml:id="s1s13kf0" startid="#n14rut89" endid="#nxvqrb8" />
                            <fing xml:id="f1chef6i" place="above" startid="#n14rut89">3</fing>
@@ -16643,7 +16642,7 @@
                            </staff>
                            <dynam xml:id="d19w7zzs" label="sf" staff="1" startid="#nzc36lk">sf</dynam>
                            <dynam xml:id="d33x2na" label="pp" staff="1" startid="#n23nvf" layer="2">pp</dynam>
-                           <dynam xml:id="gahlbzv" label="p" place="above" staff="2" startid="njc6qx6">p</dynam>
+                           <dynam xml:id="gahlbzv" label="p" place="above" staff="2" startid="#njc6qx6">p</dynam>
                            <slur xml:id="sitsh5a" startid="#n23nvf" endid="#nxvqrb8" />
                            <slur xml:id="s11eyclc" startid="#n1e348i1" endid="#nzc36lk" />
                            <fing xml:id="f1v0a17u" startid="#n1e348i1">4</fing>
@@ -16988,7 +16987,7 @@
                            </staff>
                            <slur xml:id="s1fubzuh" startid="#cix9xsv" endid="#cm892no" />
                            <hairpin xml:id="hk36ejr" startid="#cix9xsv" endid="#ca92v9u" form="cres" />
-                           <dynam xml:id="en6pj0w" label="f" place="above" startid="c1kde83a">f</dynam>
+                           <dynam xml:id="en6pj0w" label="f" place="above" startid="#c1kde83a">f</dynam>
                            <fing xml:id="fmcos35" startid="#n13u0fpy">2</fing>
                            <fing xml:id="f8bw7bq" startid="#nd144j6">4</fing>
                            <slur xml:id="sgser5" startid="#c1771w65" endid="#cz2b002" />
@@ -19464,6 +19463,9 @@
                                              <accid xml:id="i5uofqi" accid.ges="f" />
                                           </note>
                                        </chord>
+                                       <note xml:id="n13sll42" dur="8" oct="5" pname="e" grace="unacc" >
+                                          <accid xml:id="a1c7ov42" accid="n" />
+                                       </note>
                                        <note xml:id="ng9u531" dur="8" oct="5" pname="f">
                                           <artic xml:id="a1308fds" artic="stacc" />
                                        </note>
@@ -19531,8 +19533,8 @@
                            <fing xml:id="f1t98wfe" startid="#n13sll4t">4</fing>
                            <fing xml:id="f1srj631" startid="#n141nr1a">1</fing>
                            <fing xml:id="f1b683ab" startid="#nnfm4iw">2</fing>
-                           <slur xml:id="sst9fa9" startid="#n18l0ftn" endid="#ng9u531" />
-                           <fing xml:id="f6nqt61" startid="#n18l0ftn">4</fing>
+                           <slur xml:id="sst9fa9" startid="#n13sll42" endid="#ng9u531" />
+                           <fing xml:id="f6nqt61" startid="#n13sll42">4</fing>
                         </measure>
                         <measure xml:id="m1s6a21d" n="12">
                            <staff xml:id="m340s1" n="1">
@@ -20346,7 +20348,7 @@
                         </staff>
                         <slur xml:id="s1r8260w" startid="#ndpbkgz" endid="#n1vz4o6x" />
                         <slur xml:id="y1tsxzio" startid="#n1gp8dny" endid="#n19gnecy" />
-                        <dynam xml:id="zx72dwb" label="cresc." startid="n1ua7khd">cresc.</dynam>
+                        <dynam xml:id="zx72dwb" label="cresc." startid="#n1ua7khd">cresc.</dynam>
                      </measure>
                      <measure xml:id="m1mha0i6" n="6">
                         <staff xml:id="m352s1" n="1">
@@ -20862,7 +20864,7 @@
                               </beam>
                            </layer>
                         </staff>
-                        <hairpin xml:id="hajrtxd" startid="#nqioh0d" endid="n1ohsbag" form="dim" />
+                        <hairpin xml:id="hajrtxd" startid="#nqioh0d" endid="#n1ohsbag" form="dim" />
                         <fing xml:id="fk9upaq" startid="#nqioh0d">4</fing>
                         <dynam xml:id="dub51sv" label="p" startid="#n132s741">p</dynam>
                         <slur xml:id="sskn8fb" startid="#n132s741" endid="#ni47acm" />
@@ -20878,7 +20880,7 @@
                         <fing xml:id="fq4ozz6" place="above" startid="#n1pepyvq">2</fing>
                         <fing xml:id="fecvpj0" place="below" startid="#nhp3q9n">2</fing>
                         <fing xml:id="faz0e10" place="below" startid="#n1k9w891">1</fing>
-                        <fing xml:id="sz6knf1" place="below" startid="n3k1x9c">3</fing>
+                        <fing xml:id="sz6knf1" place="below" startid="#n3k1x9c">3</fing>
                      </measure>
                      <sb xml:id="c1a2iszi" />
                      <measure xml:id="m3lcmxt" n="16">
@@ -22293,7 +22295,7 @@
                               </layer>
                            </staff>
                            <slur xml:id="s1989try" startid="#c3w4009" endid="#cxnwox0" />
-                           <dynam xml:id="g1il3aa7" label="cresc." startid="c1c4vgur">cresc.</dynam>
+                           <dynam xml:id="g1il3aa7" label="cresc." startid="#c1c4vgur">cresc.</dynam>
                            <fing xml:id="fbsn8u5" startid="#n1xy7351">2</fing>
                            <fing xml:id="f1usfejp" startid="#n1nfdn9n">4</fing>
                            <slur xml:id="s1aak724" startid="#c1ukickx" endid="#cw3smpi" curvedir="above" />
@@ -30880,7 +30882,6 @@
                         <dynam xml:id="a1or5pei" label="f" place="above" startid="#n188id6i">sempre f</dynam>
                         <dynam xml:id="d1551bg6" label="sf" staff="1" startid="#n1nds2qw">sf</dynam>
                         <fing xml:id="f1dsq0o5" startid="#n1nds2qw">2</fing>
-                        <dir xml:id="d15kqdzx" startid="#m124aor5">sempre</dir>
                         <slur xml:id="skre867" startid="#n188id6i" endid="#naxoec3" curvedir="above" />
                         <fing xml:id="f5f8x5b" startid="#n188id6i">2</fing>
                         <fing xml:id="fto6xoi" startid="#nuops2d">1</fing>
