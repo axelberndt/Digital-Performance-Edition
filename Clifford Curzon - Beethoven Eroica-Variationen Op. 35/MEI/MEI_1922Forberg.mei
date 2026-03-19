@@ -40,7 +40,7 @@
       </fileDesc>
       <encodingDesc xml:id="eluoer8">
          <appInfo xml:id="anrnvmv1">
-            <application xml:id="ahheats2" startdate="2025-11-26T13:40:51" version="1.2.9" enddate="2026-03-12T11:56:19">
+            <application xml:id="ahheats2" startdate="2025-11-26T13:40:51" version="1.2.9" enddate="2026-03-18T18:37:36">
                <name xml:id="n7798521">mei-friend</name>
                <p xml:id="pp8gsl3">Edits made by use of mei-friend 1.2.9.</p>
             </application>
@@ -10311,12 +10311,12 @@
                                     <accid xml:id="x1fdbqdu" accid.ges="f"/>
                                  </note>
                                  <note xml:id="n1fl0l74" dur="8" oct="5" pname="c"/>
-                                    <chord xml:id="c3h9976" dur="8">
-                                       <note xml:id="nb145r2" oct="5" pname="c"/>
-                                       <note xml:id="n14hezjk" oct="5" pname="g">
-                                          <accid xml:id="n14hez42" accid="f"/>
-                                       </note>
-                                    </chord>
+                                 <chord xml:id="c3h9976" dur="8">
+                                    <note xml:id="nb145r2" oct="5" pname="c"/>
+                                    <note xml:id="n14hezjk" oct="5" pname="g">
+                                       <accid xml:id="n14hez42" accid="f"/>
+                                    </note>
+                                 </chord>
                               </layer>
                            </staff>
                            <staff xml:id="m197s2" n="2">
@@ -10720,12 +10720,12 @@
                               <layer xml:id="m205s1l2" n="2">
                                  <note xml:id="no4dt16" dur="4" oct="5" pname="c"/>
                                  <note xml:id="n6ll9kb" dur="8" oct="5" pname="c"/>
-                                    <chord xml:id="c1dzeyw6" dur="8">
-                                       <note xml:id="n165zuvj" oct="5" pname="c"/>
-                                       <note xml:id="ne1sv7p" oct="5" pname="g">
-                                          <accid xml:id="a7mlsbg" accid="f"/>
-                                       </note>
-                                    </chord>
+                                 <chord xml:id="c1dzeyw6" dur="8">
+                                    <note xml:id="n165zuvj" oct="5" pname="c"/>
+                                    <note xml:id="ne1sv7p" oct="5" pname="g">
+                                       <accid xml:id="a7mlsbg" accid="f"/>
+                                    </note>
+                                 </chord>
                               </layer>
                            </staff>
                            <staff xml:id="m205s2" n="2">
@@ -10938,33 +10938,33 @@
                               <layer xml:id="m209s1l1" n="1">
                                  <beam xml:id="f1x7wmuc">
                                     <note xml:id="n29j7no" dur="16" oct="5" pname="e">
-                                       <artic xml:id="abautwz" artic="stacc"  place="above"/>
+                                       <artic xml:id="abautwz" artic="stacc" place="above"/>
                                        <accid xml:id="iptckdv" accid.ges="f"/>
                                     </note>
                                     <note xml:id="n10cjttc" dur="16" oct="4" pname="b">
-                                       <artic xml:id="a1c8n4sp" artic="stacc"  place="above"/>
+                                       <artic xml:id="a1c8n4sp" artic="stacc" place="above"/>
                                        <accid xml:id="lgli8uh" accid.ges="f"/>
                                     </note>
                                     <note xml:id="n1fvlhm7" dur="16" oct="5" pname="c">
                                        <artic xml:id="a1xu4vug" artic="stacc" place="above"/>
                                     </note>
                                     <note xml:id="nck3hpo" dur="16" oct="5" pname="d">
-                                       <artic xml:id="a1jotq7h" artic="stacc"  place="above"/>
+                                       <artic xml:id="a1jotq7h" artic="stacc" place="above"/>
                                     </note>
                                  </beam>
                                  <beam xml:id="qtrcecx">
                                     <note xml:id="n7gs4lk" dur="16" oct="5" pname="e" stem.dir="up">
-                                       <artic xml:id="a1pzts0u" artic="stacc"  place="above"/>
+                                       <artic xml:id="a1pzts0u" artic="stacc" place="above"/>
                                        <accid xml:id="t1462zdg" accid.ges="f"/>
                                     </note>
                                     <note xml:id="n1jgnpvf" dur="16" oct="5" pname="f" stem.dir="up">
-                                       <artic xml:id="af1hjcz" artic="stacc"  place="above"/>
+                                       <artic xml:id="af1hjcz" artic="stacc" place="above"/>
                                     </note>
                                     <note xml:id="n127q4ls" dur="16" oct="5" pname="g" stem.dir="up">
-                                       <artic xml:id="a1k9yquo" artic="stacc"  place="above"/>
+                                       <artic xml:id="a1k9yquo" artic="stacc" place="above"/>
                                     </note>
                                     <note xml:id="ntcvsyj" dur="16" oct="5" pname="a" stem.dir="up">
-                                       <artic xml:id="ampybri" artic="stacc"  place="above"/>
+                                       <artic xml:id="ampybri" artic="stacc" place="above"/>
                                        <accid xml:id="a1aj6w4r" accid.ges="f"/>
                                     </note>
                                  </beam>
@@ -11925,7 +11925,6 @@
                                  </note>
                                  <rest xml:id="r1skl3dp" dur="8"/>
                                  <rest xml:id="r1yhypoo" dur="8"/>
-                                 <clef xml:id="cx3a23n" shape="F" line="4"/>
                               </layer>
                            </staff>
                            <staff xml:id="m228s2" n="2">
@@ -11938,7 +11937,7 @@
                                     <artic xml:id="aq039mf" artic="stacc" place="below"/>
                                     <accid xml:id="n1loffv0" accid.ges="f"/>
                                  </note>
-                                 <clef xml:id="c1tj5q8" shape="F" line="4"/>
+
                               </layer>
                            </staff>
                            <hairpin xml:id="o1kg1btb" staff="2" startid="#n1m31i73" endid="#n1hwhcdw" form="dim"/>
@@ -11955,7 +11954,7 @@
                      <staffGrp xml:id="sououuh" bar.thru="true" symbol="brace">
                         <instrDef xml:id="u12v6sya" midi.instrnum="0"/>
                         <staffDef xml:id="v1qqmdm3" n="1" lines="5" keysig="3f" meter.count="2" meter.unit="4">
-                           <clef xml:id="e1ib4neq" shape="F" line="4"/>
+                           <clef xml:id="e1ib4neq" shape="G" line="2"/>
                         </staffDef>
                         <staffDef xml:id="f4fzrml" n="2" lines="5" keysig="3f" meter.count="2" meter.unit="4">
                            <clef xml:id="oxqjeaq" shape="F" line="4"/>
@@ -11969,6 +11968,7 @@
                         <measure xml:id="m148f84y" metcon="false">
                            <staff xml:id="m229s1" n="1">
                               <layer xml:id="m229s1l3" n="1">
+                                 <clef xml:id="c1tj5q8" shape="F" line="4"/>
                                  <beam xml:id="hj1tdv4">
                                     <note xml:id="n1pwbf74" dur="16" oct="4" pname="e" stem.dir="down">
                                        <accid xml:id="j1h8c7r3" accid.ges="f"/>
@@ -11984,6 +11984,7 @@
                                  <rest xml:id="r1mb25by" dur="8"/>
                               </layer>
                            </staff>
+                           <fing xml:id="d3nie42" startid="#n1pwbf74" place="above">4</fing>
                            <tempo xml:id="d3nieq1" label="animato" place="above" startid="#n1pwbf74">(Tranquillo)</tempo>
                            <dynam xml:id="d19ocrvl" label="pp" staff="1" startid="#n1pwbf74">pp</dynam>
                            <slur xml:id="szjzmtc" startid="#n1pwbf74" endid="#ny6ikkw" curvedir="above"/>
@@ -12033,7 +12034,7 @@
                            <dir xml:id="dszp9xa" place="above" staff="2" startid="#nvqz70k">sopra</dir>
                            <dir xml:id="d1h98z79" place="below" staff="2" startid="#nvqz70k">cantabile</dir>
                            <slur xml:id="s1o3953e" startid="#nvqz70k" endid="#n1aa4z8d"/>
-                           <fing xml:id="f6byfs4" startid="#nvqz70k" place="above">1</fing>
+                           <fing xml:id="f6byfs4" startid="#nvqz70k" place="below">1</fing>
                         </measure>
                         <measure xml:id="myl37e" n="2">
                            <staff xml:id="m231s1" n="1">
@@ -12069,8 +12070,8 @@
                            <slur xml:id="spdfl7w" startid="#n1p59nks" endid="#n1ez3ryk" curvedir="above"/>
                            <fing xml:id="fb359oc" place="above" startid="#n1p59nks">1</fing>
                            <pedal xml:id="p140lok5" startid="#n1v5trdh" endid="#n1tfywci" dir="down" form="pedstar"/>
-                           <fing xml:id="fe1w09n" startid="#n1v5trdh" place="above">2</fing>
-                           <fing xml:id="f14z950i" startid="#n19pj9hl" place="above">1</fing>
+                           <fing xml:id="fe1w09n" startid="#n1v5trdh" place="below">2</fing>
+                           <fing xml:id="f14z950i" startid="#n19pj9hl" place="below">1</fing>
                         </measure>
                         <measure xml:id="m1ytsgm8" n="3">
                            <staff xml:id="m232s1" n="1">
@@ -12109,8 +12110,8 @@
                            </staff>
                            <slur xml:id="sgi5cqz" startid="#n1ntph1d" endid="#n1tfywci" curvedir="above"/>
                            <fing xml:id="flxzg7n" place="above" startid="#n1ntph1d">1</fing>
-                           <fing xml:id="f1icytrs" startid="#n16l3x14" place="above">2</fing>
-                           <fing xml:id="fk0d0sm" startid="#ngmmk50" place="above">4</fing>
+                           <fing xml:id="f1icytrs" startid="#n16l3x14" place="below">2</fing>
+                           <fing xml:id="fk0d0sm" startid="#ngmmk50" place="below">4</fing>
                         </measure>
                         <measure xml:id="mkqlneh" n="4">
                            <staff xml:id="m233s1" n="1">
@@ -12149,7 +12150,7 @@
                            <slur xml:id="s1g7o6ki" startid="#nxcvibs" endid="#nwfhch8" curvedir="above"/>
                            <fing xml:id="f1k6vlpo" place="above" startid="#nxcvibs">1</fing>
                            <pedal xml:id="ptdqrai" startid="#n14dsy6m" endid="#nwfhch8" dir="down" form="pedstar"/>
-                           <fing xml:id="f1x14ct7" startid="#n14dsy6m" place="above">5</fing>
+                           <fing xml:id="f1x14ct7" startid="#n14dsy6m" place="below">5</fing>
                         </measure>
                         <sb xml:id="i1ssjtgn"/>
                         <measure xml:id="m1ibgxvo" n="5">
@@ -12271,8 +12272,8 @@
                            <slur xml:id="s1vic0sx" startid="#n1wi3ub2" endid="#n1hh9wj2" curvedir="above"/>
                            <fing xml:id="f10fj9ol" place="above" startid="#n1wi3ub2">1</fing>
                            <slur xml:id="s1cujidk" startid="#n19fdaqo" endid="#n7glk45"/>
-                           <fing xml:id="f1ho5w82" startid="#n19fdaqo" place="above">3</fing>
-                           <fing xml:id="f1xukvk0" startid="#n7glk45" place="above">2</fing>
+                           <fing xml:id="f1ho5w82" startid="#n19fdaqo" place="below">3</fing>
+                           <fing xml:id="f1xukvk0" startid="#n7glk45" place="below">2</fing>
                         </measure>
                      </section>
                      <ending xml:id="Var_8_e1" label="1.">
@@ -12317,7 +12318,7 @@
                            <fing xml:id="fxuyvht" place="above" startid="#ncxx0jy">5</fing>
                            <fing xml:id="f1dmr1h5" place="above" startid="#n1odqo7">2</fing>
                            <pedal xml:id="pubruio" startid="#n16jbcqo" endid="#n1odqo7" dir="down" form="pedstar"/>
-                           <fing xml:id="f1t703lt" startid="#n16jbcqo" place="above">3</fing>
+                           <fing xml:id="f1t703lt" startid="#n16jbcqo" place="below">3</fing>
                         </measure>
                      </ending>
                      <ending xml:id="Var_8_e2" label="2.">
@@ -12347,7 +12348,7 @@
                            </staff>
                            <staff xml:id="m238s2" n="2">
                               <layer xml:id="m238s2l1" n="1">
-                                 <clef xml:id="kj6n9mj" shape="G" enclose="paren" line="2"/>
+                                 <clef xml:id="kj6n9mj" shape="G" enclose="paren" line="2" visible="false"/>
                                  <note xml:id="n148bial" dur="2" oct="5" pname="b">
                                     <accid xml:id="g10po442" accid.ges="f"/>
                                  </note>
@@ -12405,12 +12406,12 @@
                            <fing xml:id="f1dkbp21" startid="#n194txl1" place="above">5</fing>
                            <dynam xml:id="d1pzmup4" label="sf" staff="2" startid="#ny1i02e">sf</dynam>
                            <pedal xml:id="p1geqseu" startid="#ny1i02e" endid="#nb2g01c" dir="down" form="pedstar"/>
-                           <dynam xml:id="d1mokam6" label="p" startid="#n5hc0u6">p</dynam>
+                           <dynam xml:id="d1mokam6" label="p" startid="#n5hc0u6" place="above">p</dynam>
                            <hairpin xml:id="h1olvtkd" staff="2" startid="#n5hc0u6" endid="#npzni3s" form="dim"/>
                            <slur xml:id="s1n5i37z" startid="#n5hc0u6" endid="#nnpl1c0"/>
                            <tie xml:id="t9zzhx5" startid="#n5hc0u6" endid="#n1me3o2k"/>
-                           <fing xml:id="fhh6wub" startid="#n5hc0u6" place="above">2</fing>
-                           <fing xml:id="f1orh5z3" startid="#ny1i02e" place="above">3</fing>
+                           <fing xml:id="f1orh5z3" startid="#ny1i02e" place="below">3</fing>
+                           <fing xml:id="fhh6wub" startid="#n5hc0u6" place="below">2</fing>
                         </measure>
                      </ending>
                      <section xml:id="Var_8_S2">
@@ -12448,7 +12449,7 @@
                               </layer>
                            </staff>
                            <slur xml:id="s1eehxpf" startid="#n24bxjn" endid="#nb2g01c"/>
-                           <fing xml:id="f16ub56s" startid="#nnpl1c0" place="above">4</fing>
+                           <fing xml:id="f16ub56s" startid="#nnpl1c0" place="below">4</fing>
                         </measure>
                         <measure xml:id="m27afzn" n="11">
                            <staff xml:id="m241s1" n="1">
@@ -12500,7 +12501,7 @@
                            <fing xml:id="f1n6ldv" place="below" startid="#nwn0nku">4</fing>
                            <tie xml:id="thd2pep" startid="#n1ypcbmw" endid="#n6n72zq" curvedir="above"/>
                            <fing xml:id="fkkjxyz" place="below" startid="#n1ypcbmw">2</fing>
-                           <fing xml:id="f1sbhcmq" startid="#n1d11y0h" place="above">3</fing>
+                           <fing xml:id="f1sbhcmq" startid="#n1d11y0h">3</fing>
                         </measure>
                         <measure xml:id="m1d830fh" n="12">
                            <staff xml:id="m242s1" n="1">
@@ -12632,17 +12633,17 @@
                            <fing xml:id="fbrd3ko" startid="#n1yyjo9n" place="above">1</fing>
                            <fing xml:id="f7kuil3" startid="#n1jw1djw" place="above">3</fing>
                            <hairpin xml:id="h18u97iz" staff="1" startid="#c1c4iiui" endid="#c1vzjad5" form="cres"/>
-                           <slur xml:id="s10lmzgf" startid="#c1c4iiui" endid="#c1vzjad5" curvedir="below"/>
-                           <slur xml:id="s77f2sx" startid="#c1c4iiui" endid="#c1vzjad5"/>
+                           <slur xml:id="s10lmzgf" startid="#n1kjz9p0" tstamp2="3" curvedir="below"/>
+                           <slur xml:id="s77f2sx" startid="#nu1rlq2" endid="#njuh9na"/>
                            <fing xml:id="f1ixw6gr" startid="#n1kjz9p0" place="above">1</fing>
                            <fing xml:id="f1h4y7jw" startid="#nu1rlq2" place="above">4</fing>
                            <dynam xml:id="d16s6eim" label="p" staff="2" startid="#n17u1e8i">p</dynam>
                            <pedal xml:id="pvfbtm1" startid="#n17u1e8i" dir="down"/>
                            <slur xml:id="s1uff5oz" startid="#n17u1e8i" endid="#n7ccx3z" curvedir="above"/>
-                           <fing xml:id="f18ja6w" place="below" startid="#n17u1e8i">5</fing>
-                           <fing xml:id="f1l4uczz" place="below" startid="#n8oq1ty">1</fing>
-                           <fing xml:id="fi5guzt" place="below" startid="#nbdiwvk">4</fing>
-                           <fing xml:id="f1kivczs" place="below" startid="#n12mm0av">1</fing>
+                           <fing xml:id="f18ja6w" place="above" startid="#n17u1e8i">5</fing>
+                           <fing xml:id="f1l4uczz" place="above" startid="#n8oq1ty">1</fing>
+                           <fing xml:id="fi5guzt" place="above" startid="#nbdiwvk">4</fing>
+                           <fing xml:id="f1kivczs" place="above" startid="#n12mm0av">1</fing>
                         </measure>
                         <sb xml:id="m1rj1lri"/>
                         <measure xml:id="m1c0w58u" n="14">
@@ -12685,16 +12686,16 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <fing xml:id="f18l5vj2" startid="#n1cbez2q" place="above">2</fing>
-                           <fing xml:id="f1szsqe5" startid="#njuh9na" place="above">5</fing>
-                           <fing xml:id="f1efmlqv" startid="#nahg3q2" place="above">2</fing>
-                           <fing xml:id="fcwbrtk" startid="#ntr90v8" place="above">5</fing>
+                           <fing xml:id="f18l5vj2" startid="#n1cbez2q" ho="-3" vo="-9">2</fing>
+                           <fing xml:id="f1szsqe5" startid="#njuh9na" ho="-3" vo="-9">5</fing>
+                           <fing xml:id="f1efmlqv" startid="#nahg3q2" ho="-3" vo="-9">2</fing>
+                           <fing xml:id="fcwbrtk" startid="#ntr90v8" ho="-3" vo="-9">5</fing>
                            <pedal xml:id="phuu76x" startid="#n1epdp23" dir="down"/>
                            <slur xml:id="s19854pm" startid="#n1epdp23" endid="#n1ld42y7" curvedir="above"/>
                            <fing xml:id="ftahast" place="below" startid="#n1epdp23">5</fing>
                            <fing xml:id="ff2jy0b" place="below" startid="#n1wvtjzl">1</fing>
                            <fing xml:id="f1ipzzt7" place="below" startid="#n1j2sjno">3</fing>
-                           <fing xml:id="f7zrmo0" startid="#n13jstyh" place="above">1</fing>
+                           <fing xml:id="f7zrmo0" startid="#n13jstyh" place="below">1</fing>
                         </measure>
                         <measure xml:id="mkf1szk" n="15">
                            <staff xml:id="m245s1" n="1">
@@ -12761,13 +12762,13 @@
                            <slur xml:id="s1omqebu" startid="#crlbb9c" endid="#c1uuoyoj"/>
                            <hairpin xml:id="h1pdq4vk" staff="1" startid="#c1f0l73s" endid="#ctew57t" form="dim" place="above"/>
                            <slur xml:id="so7ec36" startid="#c1f0l73s" endid="#ctew57t"/>
-                           <fing xml:id="f1snvpwc" startid="#n16ex7n4" place="above">2</fing>
-                           <fing xml:id="f126tu3n" startid="#nnvnnre" place="above">5</fing>
+                           <fing xml:id="f1snvpwc" startid="#n16ex7n4" ho="-3" vo="-9">2</fing>
+                           <fing xml:id="f126tu3n" startid="#nnvnnre" ho="-3" vo="-9">5</fing>
                            <slur xml:id="sgyn75g" startid="#n1a6s5um" endid="#n1uk0yuw"/>
                            <slur xml:id="q1hiwvsk" startid="#nttq25g" endid="#n12vk1gt"/>
-                           <fing xml:id="f1lf3eom" startid="#n1a6s5um" place="above">2</fing>
-                           <fing xml:id="f1m1dlck" startid="#n1br6ucq" place="above">4</fing>
-                           <fing xml:id="f1a9r9bl" startid="#n1vx3xwp" place="above">1</fing>
+                           <fing xml:id="f1lf3eom" startid="#n1a6s5um" place="below">2</fing>
+                           <fing xml:id="f1m1dlck" startid="#n1br6ucq" place="below">4</fing>
+                           <fing xml:id="f1a9r9bl" startid="#n1vx3xwp" place="below">1</fing>
                            <fing xml:id="ffm9ve7" place="below" startid="#nttq25g">1</fing>
                            <fing xml:id="f1358koo" place="below" startid="#n1jtbi68">3</fing>
                         </measure>
@@ -12819,10 +12820,10 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <hairpin xml:id="o19jnevz" staff="1" startid="#nm7f4bn" endid="#nm7f4bn" form="dim" place="above"/>
+                           <hairpin xml:id="o19jnevz" staff="1" startid="#c14kzmhs" endid="#r8mnio6" form="dim" place="below"/>
                            <slur xml:id="s1hgu19m" startid="#c14kzmhs" endid="#nyhovyb"/>
-                           <fing xml:id="f7vdzhj" startid="#nm7f4bn" place="above">2</fing>
-                           <fing xml:id="f28ffx7" startid="#n1rloyli" place="above">5</fing>
+                           <fing xml:id="f7vdzhj" startid="#nm7f4bn" ho="-3" vo="-9">2</fing>
+                           <fing xml:id="f28ffx7" startid="#n1rloyli" ho="-3" vo="-9">5</fing>
                            <slur xml:id="sbfkyxb" startid="#n148ju4w" endid="#npahciw"/>
                            <fing xml:id="f165d8a7" place="below" startid="#n148ju4w">5</fing>
                            <fing xml:id="f29n76u" place="below" startid="#n1sfn3i3">2</fing>
@@ -12874,10 +12875,11 @@
                            <dynam xml:id="d18muz30" label="sf" staff="2" startid="#nfa2izb">sf</dynam>
                            <pedal xml:id="p1m6p3up" startid="#nfa2izb" endid="#nb2g01c" dir="down" form="pedstar"/>
                            <dynam xml:id="d1wq1jma" label="p" staff="2" startid="#n17qk2vx">p</dynam>
-                           <hairpin xml:id="hqn6qb0" staff="2" startid="#n17qk2vx" endid="#npzni3s" form="dim"/>
+                           <hairpin xml:id="hqn6qb0" staff="2" startid="#n17qk2vx" tstamp2="2.9" form="dim"/>
+                           <slur xml:id="tlnhj42" startid="#n17qk2vx" tstamp2="2.99"/>
                            <tie xml:id="tlnhjum" startid="#n17qk2vx" tstamp2="2.99"/>
                            <fing xml:id="ffi96rs" place="below" startid="#n17qk2vx">2</fing>
-                           <fing xml:id="fifoe6" startid="#nfa2izb" place="above">3</fing>
+                           <fing xml:id="fifoe6" startid="#nfa2izb" place="below">3</fing>
                         </measure>
                      </ending>
                      <ending xml:id="Var_8_e4" label="2.">
@@ -12924,8 +12926,10 @@
                               </layer>
                            </staff>
                            <slur xml:id="sbs2apt" startid="#cskrr68" endid="#c17ovf25"/>
-                           <hairpin xml:id="s14wul2h" staff="1" startid="#cskrr68" endid="#c17ovf25" form="dim" place="above"/>
+                           <hairpin xml:id="s14wul2h" staff="1" startid="#cskrr68" endid="#c17ovf25" form="dim" place="below"/>
                            <slur xml:id="sr7anzr" startid="#nxcumgc" endid="#cwllata"/>
+                           <fing xml:id="f7vdz42" startid="#n1lbsxax" ho="-3" vo="-9">2</fing>
+                           <fing xml:id="f28ff42" startid="#nemz6oq" ho="-3" vo="-9">5</fing>
                            <fing xml:id="fqhghs0" place="below" startid="#nxcumgc">5</fing>
                            <fing xml:id="f1je5wh2" place="below" startid="#n8wiut3">2</fing>
                         </measure>
@@ -13014,7 +13018,7 @@
                                  </beam>
                                  <clef xml:id="cavrvqx" shape="G" line="2"/>
                                  <beam xml:id="c1wyawo5">
-                                    <tuplet xml:id="t5b55f6" num="3" numbase="2">
+                                    <tuplet xml:id="t5b55f6" num="3" numbase="2" num.place="below">
                                        <chord xml:id="c1ummb5a" dur="8">
                                           <artic xml:id="a1bbcyhc" artic="stacc"/>
                                           <note xml:id="n12fujua" oct="3" pname="b">
@@ -13742,8 +13746,8 @@
                                     <note xml:id="nrgiff6" dur="8" oct="2" pname="b" stem.dir="up">
                                        <accid xml:id="b10tp21k" accid.ges="f"/>
                                     </note>
-                                    <note xml:id="n1tcsyva" dur="8" oct="1" pname="b" grace="unacc" stem.dir="up">
-                                       <accid xml:id="a1hsdcpd" accid="n"/>
+                                    <note xml:id="n1tcsyva" dur="8" oct="2" pname="c" grace="unacc" stem.dir="up">
+                                       <accid xml:id="a1hsdcpd" accid="f"/>
                                     </note>
                                     <note xml:id="n16ts9ty" dur="8" oct="2" pname="b" stem.dir="up">
                                        <accid xml:id="gyg1dfw" accid.ges="f"/>
@@ -13837,10 +13841,10 @@
                                  </note>
                               </layer>
                            </staff>
-                           <fing xml:id="f1pqtgx8" startid="#n1qi47wo" place="above">1</fing>
-                           <fing xml:id="fl1hdgk" startid="#n6sob48" place="above">2</fing>
-                           <fing xml:id="f17ln2sy" place="above" startid="#n1q3apvr">1</fing>
-                           <fing xml:id="f10opyek" place="above" startid="#ne20080">2</fing>
+                           <fing xml:id="f1pqtgx8" startid="#n1qi47wo" staff="2" place="above">1</fing>
+                           <fing xml:id="fl1hdgk" startid="#n6sob48" staff="2" place="above">2</fing>
+                           <fing xml:id="f17ln2sy" place="below" startid="#n1q3apvr">1</fing>
+                           <fing xml:id="f10opyek" place="below" startid="#ne20080">2</fing>
                            <dynam xml:id="d1p6vwqi" label="sf" staff="2" startid="#n138gawg">sf</dynam>
                            <pedal xml:id="p13gyccb" startid="#nnlw4sv" endid="#nv10pdc" dir="down" form="pedstar"/>
                            <slur xml:id="sdt6jqy" startid="#nnlw4sv" endid="#n138gawg" curvedir="above"/>
@@ -13964,6 +13968,7 @@
                            <fing xml:id="f17pr1i7" startid="#n1nq5hq5" place="above">2</fing>
                            <fing xml:id="fu3oawi" startid="#nut8f4b" place="above">1</fing>
                            <fing xml:id="f1bkhacb" startid="#n1axl049" place="above">2</fing>
+                           <fing xml:id="podjner6" startid="#n1oxjrqb" vo="-12">3</fing>
                            <dynam xml:id="d1wh6s7e" label="sf" startid="#c15mtyp4">sf</dynam>
                            <fermata xml:id="fkzvf7" startid="#c15mtyp4"/>
                            <pedal xml:id="pq6y8wv" startid="#nidiqcq" endid="#n10dqdhb" dir="down" form="pedstar"/>
@@ -14358,7 +14363,8 @@
                            <fing xml:id="fybdwgj" startid="#n4avlpt" place="above">2</fing>
                            <fing xml:id="f1qajyab" startid="#nhx671b" place="above">4</fing>
                            <fing xml:id="fsit9j1" startid="#nyrqdvt" place="above">5</fing>
-                           <fing xml:id="f15cvd20" startid="#na5mw6t" place="above">1</fing>
+                           <fing xml:id="bu67i5ub" startid="#na5mw6t" place="above">4</fing>
+                           <fing xml:id="f15cvd20" startid="#npoisu0" place="above">1</fing>
                            <pedal xml:id="p1qzg4dr" startid="#ngg5lol" endid="#n1uns8xs" dir="down" form="pedstar"/>
                            <slur xml:id="s16ztv66" startid="#ngg5lol" endid="#n3s3rsg"/>
                            <slur xml:id="s1q7zeu2" startid="#n3s3rsg" endid="#n1uns8xs" curvedir="above"/>
@@ -14677,10 +14683,10 @@
                            <staff xml:id="m276s1" n="1">
                               <layer xml:id="m276s1l2" n="1">
                                  <beam xml:id="c1wqtxmy">
-                                    <note xml:id="n1pbysil" dur="16" oct="5" pname="e">
+                                    <note xml:id="n1pbysil" dur="16" oct="5" pname="c">
                                        <accid xml:id="a1dgnof1" accid="f"/>
                                     </note>
-                                    <note xml:id="n9j6g5v" dur="16" oct="5" pname="f"/>
+                                    <note xml:id="n9j6g5v" dur="16" oct="5" pname="d"/>
                                  </beam>
                                  <rest xml:id="r1mvqfw8" dur="16"/>
                                  <note xml:id="n1gercer" dur="16" oct="5" pname="a">
@@ -14897,30 +14903,30 @@
                            <staff xml:id="m280s1" n="1">
                               <layer xml:id="m280s1l2" n="1">
                                  <beam xml:id="yfetyam">
-                                    <note xml:id="n1vre4x1" dur="16" oct="5" pname="c" stem.dir="up">
+                                    <note xml:id="n1vre4x1" dur="16" oct="5" pname="c">
                                        <accid xml:id="a3c0izh" accid="f"/>
                                     </note>
-                                    <note xml:id="nx99d8d" dur="16" oct="4" pname="b" stem.dir="up">
+                                    <note xml:id="nx99d8d" dur="16" oct="4" pname="b">
                                        <accid xml:id="cy9z0g3" accid.ges="f"/>
                                     </note>
-                                    <note xml:id="n101fxyd" dur="16" oct="5" pname="c" stem.dir="up">
+                                    <note xml:id="n101fxyd" dur="16" oct="5" pname="c">
                                        <accid xml:id="eu4028g" accid.ges="f"/>
                                     </note>
-                                    <note xml:id="n1xd0igt" dur="16" oct="4" pname="b" stem.dir="up">
+                                    <note xml:id="n1xd0igt" dur="16" oct="4" pname="b">
                                        <accid xml:id="gobfn58" accid.ges="f"/>
                                     </note>
                                  </beam>
                                  <beam xml:id="hkjfdiu">
-                                    <note xml:id="nuc1f4f" dur="16" oct="5" pname="c" stem.dir="up">
+                                    <note xml:id="nuc1f4f" dur="16" oct="5" pname="c">
                                        <accid xml:id="j1s21hyc" accid.ges="f"/>
                                     </note>
-                                    <note xml:id="n1guxdgi" dur="16" oct="4" pname="b" stem.dir="up">
+                                    <note xml:id="n1guxdgi" dur="16" oct="4" pname="b">
                                        <accid xml:id="l9q7lnl" accid.ges="f"/>
                                     </note>
-                                    <note xml:id="ngoca7s" dur="16" oct="5" pname="c" stem.dir="up">
+                                    <note xml:id="ngoca7s" dur="16" oct="5" pname="c">
                                        <accid xml:id="n1ba35vq" accid.ges="f"/>
                                     </note>
-                                    <note xml:id="n8gzc4s" dur="16" oct="4" pname="b" stem.dir="up">
+                                    <note xml:id="n8gzc4s" dur="16" oct="4" pname="b">
                                        <accid xml:id="pxxwu2p" accid.ges="f"/>
                                     </note>
                                  </beam>
@@ -15048,7 +15054,7 @@
                            <slur xml:id="s1ddtu2c" startid="#nk5sz0r" endid="#nipelhj" curvedir="above"/>
                            <fing xml:id="fzkjxpn" place="above" startid="#nk5sz0r">3</fing>
                            <slur xml:id="s1i5iprq" startid="#n1imv906" endid="#nkychq3" curvedir="above"/>
-                           <fing xml:id="f1v06a74" startid="#n1imv906" place="above">2</fing>
+                           <fing xml:id="f1v06a74" startid="#n1imv906" place="below">2</fing>
                         </measure>
                         <measure xml:id="m6pc5xd" n="13">
                            <staff xml:id="m282s1" n="1">
@@ -15201,8 +15207,8 @@
                            <fing xml:id="fqscbvs" place="above" startid="#n1ydsdhr">1</fing>
                            <fing xml:id="fko454g" place="above" startid="#n1q5f0ng">3</fing>
                            <fing xml:id="f1u1eosu" place="above" startid="#n1y3lj3e">5</fing>
-                           <fing xml:id="fzvlbzz" startid="#n9j45xy" place="above">5</fing>
-                           <fing xml:id="fhw1inf" startid="#n1hb430y" place="above">2</fing>
+                           <fing xml:id="fzvlbzz" startid="#n9j45xy" place="below">5</fing>
+                           <fing xml:id="fhw1inf" startid="#n1hb430y" place="below">2</fing>
                         </measure>
                         <measure xml:id="m1dtqqpr" n="16">
                            <staff xml:id="m285s1" n="1">
@@ -15312,7 +15318,7 @@
                            <fing xml:id="ffmhpo" place="above" startid="#n1i47ygd">1</fing>
                            <fing xml:id="f1y3d7xw" place="above" startid="#n17ippah">5</fing>
                            <fing xml:id="f1bsmoh3" place="below" startid="#n1lhbku1">3</fing>
-                           <fing xml:id="f1ltuc3j" startid="#n100qdla" place="above">2</fing>
+                           <fing xml:id="f1ltuc3j" startid="#n100qdla" place="below">2</fing>
                         </measure>
                      </section>
                      <ending xml:id="Var_10_e3" label="1.">
@@ -15364,7 +15370,7 @@
                            <fing xml:id="f1uw0n89" startid="#n1ve42l5" place="above">1</fing>
                            <fing xml:id="fv3jo17" startid="#n1u1t40n" place="above">2</fing>
                            <fing xml:id="ffkr47h" place="above" startid="#n1w628n7">4</fing>
-                           <slur xml:id="sxcte7i" startid="#n15yqz1x" endid="#n8gzc4s" curvedir="above"/>
+                           <slur xml:id="sxcte7i" startid="#n15yqz1x" tstamp2="2.9" curvedir="above"/>
                            <fing xml:id="f1l32np8" place="above" startid="#n15yqz1x">3</fing>
                         </measure>
                      </ending>
@@ -15405,7 +15411,7 @@
                            <slur xml:id="s7ok7hu" startid="#n1ic8d6g" endid="#n1ghz44r"/>
                            <fing xml:id="f162qzal" startid="#n1ic8d6g" place="above">1</fing>
                            <fing xml:id="fd7w446" startid="#n1ghz44r" place="above">2</fing>
-                           <pedal xml:id="psclpir" startid="#r1lizx0c" endid="#n1bosj1b" dir="down" form="pedstar"/>
+                           <pedal xml:id="psclpir" startid="#r1lizx0c" tstamp2="2.3" dir="down" form="pedstar"/>
                         </measure>
                      </ending>
                      <pb xml:id="o1hf3inb"/>
