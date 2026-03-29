@@ -3977,7 +3977,7 @@
                         <layer xml:id="m160s1l1" n="1">
                            <beam xml:id="f18gg5gu" place="mixed">
                               <tuplet xml:id="t1usx2ky" num="3" numbase="2" num.visible="false" bracket.visible="false">
-                                 <note xml:id="n10tb4li" dur="8" oct="5" pname="a" stem.dir="up">
+                                 <note xml:id="n10tb4li" dur="8" oct="5" pname="a" stem.dir="down">
                                     <artic xml:id="a1mm501q" artic="ten" />
                                  </note>
                                  <note xml:id="n1n9uqvd" dur="8" oct="3" pname="g" stem.dir="up">
@@ -14205,7 +14205,7 @@
                         <rend fontstyle="italic" fontweight="normal">rit.</rend>
                      </tempo>
                      <slur xml:id="s1y94mo7" startid="#nat9c1c" endid="#nl92tuy" />
-                     <hairpin xml:id="h3rjtc" startid="#nat9c1c" form="dim" />
+                     <hairpin xml:id="h3rjtc" tstamp="1" endid="#nl92tuy" form="dim" />
                   </measure>
                   <measure xml:id="msbcrwm" n="306">
                      <staff xml:id="m571s1" n="1">
