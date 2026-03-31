@@ -1594,7 +1594,7 @@
                                 </staff>
                                 <staff xml:id="m376s2" n="2">
                                     <layer xml:id="m376s2l3" n="1">
-                                        <chord xml:id="c1rldt4e" dur="8">
+                                        <chord xml:id="c1rldt4e" dur="8" stem.dir="up">
                                             <artic xml:id="aip7qr2" artic="stacc" place="below"/>
                                             <note xml:id="n1hs0mq0" oct="4" pname="a">
                                                 <accid xml:id="d1kbe4br" accid.ges="f"/>
