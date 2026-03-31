@@ -20141,7 +20141,7 @@
                         </section>
                     </score>
                 </mdiv>
-                <mdiv xml:id="Var_14" label="Var. XIV." n="18" type="variation">
+                <mdiv xml:id="Var_14" label="Var. XIV. Minore" n="18" type="variation">
                     <score xml:id="zxon8gy">
                         <scoreDef xml:id="c19nt21v">
                             <staffGrp xml:id="di5wkoo" bar.thru="true" symbol="brace">
@@ -21835,7 +21835,7 @@
                         </section>
                     </score>
                 </mdiv>
-                <mdiv xml:id="Var_15" label="Var. XV." n="19" type="variation">
+                <mdiv xml:id="Var_15" label="Var. XV. Maggiore" n="19" type="variation">
                     <score xml:id="ncfiy49">
                         <scoreDef xml:id="quivvz3">
                             <staffGrp xml:id="r1kroes3" bar.thru="true" symbol="brace">
