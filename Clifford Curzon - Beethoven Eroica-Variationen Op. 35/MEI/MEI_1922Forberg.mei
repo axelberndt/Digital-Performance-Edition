@@ -2982,7 +2982,7 @@
                                                 <rest xml:id="rmsd52r" dur="4"/>
                                             </layer>
                                         </staff>
-                                        <hairpin xml:id="h1ngbe9b" staff="1" form="dim" tstamp="1.25" tstamp2="2.99"/>
+                                        <hairpin xml:id="h1ngbe9b" staff="1" form="dim" tstamp="1.25" tstamp2="3"/>
                                         <slur xml:id="sps4z2u" startid="#nk0jciz" endid="#n12syb3r"/>
                                         <fing xml:id="f1341vk9" startid="#ncw3gcu" place="above">1</fing>
                                     </measure>
@@ -3666,7 +3666,7 @@
                                         <dynam xml:id="dgd3qvp" label="p" startid="#nwlhav2">p</dynam>
                                         <slur xml:id="s2ht4dc" startid="#nwlhav2" endid="#nkftkw6"/>
                                         <fing xml:id="f1tywxw8" startid="#nwlhav2" place="above">3</fing>
-                                        <hairpin xml:id="h1foy7q4" form="cres" tstamp="1.25" tstamp2="1m+2.99" staff="1"/>
+                                        <hairpin xml:id="h1foy7q4" form="cres" tstamp="1.25" tstamp2="1m+3" staff="1"/>
                                     </measure>
                                     <measure xml:id="m19f1kxh" n="9">
                                         <staff xml:id="m84s1" n="1">
@@ -5845,7 +5845,7 @@
                                             <mRest xml:id="m1cs4hxz"/>
                                         </layer>
                                     </staff>
-                                    <hairpin xml:id="h12k8c0l" staff="1" form="cres" tstamp="1" tstamp2="2.99"/>
+                                    <hairpin xml:id="h12k8c0l" staff="1" form="cres" tstamp="1" tstamp2="3"/>
                                     <fing xml:id="fweurhi" startid="#nvpy0ds" place="above">1</fing>
                                     <fing xml:id="f1xms0at" startid="#n1r0cdlo" place="above">1</fing>
                                     <fing xml:id="f1w2b2en" place="above" startid="#n82x36x">1</fing>
@@ -5977,7 +5977,7 @@
                                             <mRest xml:id="m1yge4w"/>
                                         </layer>
                                     </staff>
-                                    <hairpin xml:id="hk1a6cv" form="cres" tstamp="1" tstamp2="2.99" staff="1"/>
+                                    <hairpin xml:id="hk1a6cv" form="cres" tstamp="1" tstamp2="3" staff="1"/>
                                     <fing xml:id="f15qfsll" place="above" startid="#nwuujd3">1</fing>
                                     <fing xml:id="fqjsyjb" place="above" startid="#n1d14uac">1</fing>
                                     <fing xml:id="f1j843vr" place="above" startid="#nk0d9j3">1</fing>
@@ -8436,7 +8436,7 @@
                                     </staff>
                                     <dynam xml:id="dkjpo0p" label="cresc." startid="#c1yp9d23" endid="#c9nfbag">cresc.</dynam>
                                     <slur xml:id="s16d9ntu" startid="#c9nfbag" endid="#codewpz"/>
-                                    <hairpin xml:id="h1tzal56" staff="1" form="dim" tstamp="2.25" tstamp2="2.99"/>
+                                    <hairpin xml:id="h1tzal56" staff="1" form="dim" tstamp="2.25" tstamp2="3"/>
                                     <fing xml:id="f1uzysqp" startid="#n4idsxq" place="above">1</fing>
                                     <fing xml:id="f1ljyaus" startid="#ndbijer" place="above">2</fing>
                                     <fing xml:id="fqvioky" startid="#n84b832" place="above">1</fing>
@@ -8495,7 +8495,7 @@
                                     <dynam xml:id="dze9n8n" label="cresc." place="above" startid="#n1vmnsgm">cresc</dynam>
                                     <fing xml:id="dze9n42" startid="#nbsebds" place="above">1</fing>
                                     <slur xml:id="s1itmhuh" startid="#nbsebds" endid="#n1djwzfa"/>
-                                    <hairpin xml:id="qshmf79" form="cres" tstamp="2" tstamp2="2.99" staff="1"/>
+                                    <hairpin xml:id="qshmf79" form="cres" tstamp="2" tstamp2="3" staff="1"/>
                                     <slur xml:id="s2uoq6l" startid="#n1vmnsgm" endid="#n3zh1wf"/>
                                     <fing xml:id="fi3rtoj" place="below" startid="#n17b6y8m">2</fing>
                                     <fing xml:id="f9ei1lo" place="below" startid="#n11001yy">1</fing>
@@ -9913,7 +9913,7 @@
                                             <clef xml:id="c10n7k3b" shape="F" line="4"/>
                                         </layer>
                                     </staff>
-                                    <hairpin xml:id="hydf54n" form="cres" tstamp="1" tstamp2="2.99" staff="1"/>
+                                    <hairpin xml:id="hydf54n" form="cres" tstamp="1" tstamp2="3" staff="1"/>
                                     <fing xml:id="f9jb74u" startid="#n1ticl8b" place="above">2</fing>
                                     <fing xml:id="f1npwcyy" startid="#n1aazt4o" place="above">4</fing>
                                     <slur xml:id="s1ug85bk" startid="#n1v88kky" endid="#ce5d4z2"/>
@@ -10357,7 +10357,7 @@
                                             </beam>
                                         </layer>
                                     </staff>
-                                    <hairpin xml:id="h9d9pu" form="dim" tstamp="1" tstamp2="1.99" staff="1"/>
+                                    <hairpin xml:id="h9d9pu" form="dim" tstamp="1" tstamp2="1.9" staff="1"/>
                                     <tie xml:id="t1td3ktj" startid="#n1bx2yqb" endid="#n1g2jxxh"/>
                                     <dynam xml:id="dhxm0ft" label="p" startid="#n1g2jxxh">p</dynam>
                                     <fermata xml:id="f3jo2m6" startid="#n1g2jxxh"/>
@@ -10938,7 +10938,7 @@
                                             </beam>
                                         </layer>
                                     </staff>
-                                    <hairpin xml:id="h1des1ol" staff="1" form="cres" place="above" layer="1" tstamp="1.3" tstamp2="1.99"/>
+                                    <hairpin xml:id="h1des1ol" staff="1" form="cres" place="above" layer="1" tstamp="1.3" tstamp2="1.9"/>
                                     <hairpin xml:id="cau8ton" staff="1" form="dim" place="above" layer="1" tstamp="2.3" tstamp2="2.75" vo="-8"/>
                                     <slur xml:id="sjwcx1q" startid="#nzumsuu" endid="#nrukpk8"/>
                                     <trill xml:id="tl0sdez" staff="1" startid="#nzumsuu" layer="1"/>
@@ -11425,7 +11425,7 @@
                                     <fing xml:id="f1ipt8fk" startid="#njhyub3" place="above">3</fing>
                                     <fing xml:id="f1rh8i01" startid="#nr8fm61" place="above">1</fing>
                                     <dynam xml:id="dpkcqje" label="sf" staff="1" startid="#n1yzm91q">sf</dynam>
-                                    <tie xml:id="t1wfwv27" startid="#n1yzm91q" tstamp2="2.99"/>
+                                    <tie xml:id="t1wfwv27" startid="#n1yzm91q" tstamp2="3"/>
                                     <fing xml:id="f1faj8vr" startid="#n1yzm91q" place="above">4</fing>
                                     <fing xml:id="fgia5sl" place="below" startid="#n1ivtk2r">5</fing>
                                     <fing xml:id="fswdbyz" startid="#nryjuq0" place="below">1</fing>
@@ -11917,10 +11917,10 @@
                                             </note>
                                         </layer>
                                     </staff>
-                                    <hairpin xml:id="h1qnzbnc" staff="1" form="cres" place="above" tstamp="1.2" tstamp2="1.99"/>
+                                    <hairpin xml:id="h1qnzbnc" staff="1" form="cres" place="above" tstamp="1.2" tstamp2="1.9"/>
                                     <slur xml:id="s19vwtaw" startid="#n1nt287z" endid="#n8db37m"/>
                                     <fing xml:id="ftgmawp" startid="#n1nt287z" place="above">1</fing>
-                                    <hairpin xml:id="h1lpi1f7" staff="1" form="dim" place="above" tstamp="2.3" tstamp2="2.99"/>
+                                    <hairpin xml:id="h1lpi1f7" staff="1" form="dim" place="above" tstamp="2.3" tstamp2="3"/>
                                     <fing xml:id="f1sxa3t9" place="below" startid="#n1hhmnx">1</fing>
                                     <fing xml:id="f1g3gabs" place="below" startid="#n1pajj6">1</fing>
                                     <slur xml:id="ssjybkf" startid="#ndrbdmb" endid="#n1hwhcdw"/>
@@ -11951,7 +11951,7 @@
 
                                         </layer>
                                     </staff>
-                                    <hairpin xml:id="o1kg1btb" staff="2" place="below" form="dim" tstamp="1.3" tstamp2="1.99"/>
+                                    <hairpin xml:id="o1kg1btb" staff="2" place="below" form="dim" tstamp="1.3" tstamp2="2"/>
                                     <fing xml:id="fu2mbjp" startid="#n1m31i73" place="below">1</fing>
                                 </measure>
                                 <pb xml:id="r1bosao"/>
@@ -12643,7 +12643,7 @@
                                     </staff>
                                     <fing xml:id="fbrd3ko" startid="#n1yyjo9n" place="above">1</fing>
                                     <fing xml:id="f7kuil3" startid="#n1jw1djw" place="above">3</fing>
-                                    <hairpin xml:id="h18u97iz" staff="1" startid="#c1c4iiui" form="cres" tstamp2="2.99"/>
+                                    <hairpin xml:id="h18u97iz" staff="1" startid="#c1c4iiui" form="cres" tstamp2="3"/>
                                     <slur xml:id="s10lmzgf" startid="#n1kjz9p0" tstamp2="3" curvedir="below"/>
                                     <slur xml:id="s77f2sx" startid="#nu1rlq2" endid="#njuh9na"/>
                                     <fing xml:id="f1ixw6gr" startid="#n1kjz9p0" place="above">1</fing>
@@ -12831,7 +12831,7 @@
                                             </beam>
                                         </layer>
                                     </staff>
-                                    <hairpin xml:id="o19jnevz" staff="1" form="dim" place="within" tstamp="1.1" tstamp2="1.99"/>
+                                    <hairpin xml:id="o19jnevz" staff="1" form="dim" place="within" tstamp="1.1" tstamp2="1.9"/>
                                     <slur xml:id="s1hgu19m" startid="#c14kzmhs" endid="#nyhovyb"/>
                                     <fing xml:id="f7vdzhj" startid="#nm7f4bn" ho="-3" vo="-9">2</fing>
                                     <fing xml:id="f28ffx7" startid="#n1rloyli" ho="-3" vo="-9">5</fing>
@@ -12887,8 +12887,8 @@
                                     <pedal xml:id="p1m6p3up" startid="#nfa2izb" endid="#nb2g01c" dir="down" form="pedstar"/>
                                     <dynam xml:id="d1wq1jma" label="p" staff="2" startid="#n17qk2vx">p</dynam>
                                     <hairpin xml:id="hqn6qb0" staff="2" startid="#n17qk2vx" tstamp2="3.2" form="dim"/>
-                                    <slur xml:id="tlnhj42" startid="#n17qk2vx" tstamp2="2.99"/>
-                                    <tie xml:id="tlnhjum" startid="#n17qk2vx" tstamp2="2.99"/>
+                                    <slur xml:id="tlnhj42" startid="#n17qk2vx" tstamp2="3"/>
+                                    <tie xml:id="tlnhjum" startid="#n17qk2vx" tstamp2="3"/>
                                     <fing xml:id="ffi96rs" place="below" startid="#n17qk2vx">2</fing>
                                     <fing xml:id="fifoe6" startid="#nfa2izb" place="below">3</fing>
                                 </measure>
@@ -12937,7 +12937,7 @@
                                         </layer>
                                     </staff>
                                     <slur xml:id="sbs2apt" startid="#cskrr68" endid="#c17ovf25"/>
-                                    <hairpin xml:id="s14wul2h" staff="1" form="dim" place="within" tstamp="1.1" tstamp2="1.99"/>
+                                    <hairpin xml:id="s14wul2h" staff="1" form="dim" place="within" tstamp="1.1" tstamp2="1.9"/>
                                     <slur xml:id="sr7anzr" startid="#nxcumgc" endid="#cwllata"/>
                                     <fing xml:id="f7vdz42" startid="#n1lbsxax" ho="-3" vo="-9">2</fing>
                                     <fing xml:id="f28ff42" startid="#nemz6oq" ho="-3" vo="-9">5</fing>
@@ -14837,7 +14837,7 @@
                                     <dynam xml:id="d1b3f8qo" label="f" startid="#n1gr3c1a">f</dynam>
                                     <hairpin xml:id="h1kaii7a" staff="1" form="cres" place="above" tstamp="1.75" tstamp2="2.25"/>
                                     <dynam xml:id="d15im1nf" label="decresc." startid="#n1uv1lbb">descresc.</dynam>
-                                    <hairpin xml:id="hn836yh" staff="1" form="dim" place="above" tstamp="2.3" tstamp2="2.99"/>
+                                    <hairpin xml:id="hn836yh" staff="1" form="dim" place="above" tstamp="2.4" tstamp2="3"/>
                                     <slur xml:id="svl0nrl" startid="#n1gr3c1a" endid="#n17b0qiq"/>
                                     <fing xml:id="f1yhrr5u" startid="#n1gr3c1a" place="above">1</fing>
                                     <fing xml:id="f49n99t" startid="#n17b0qiq" place="above">4</fing>
@@ -15662,7 +15662,7 @@
                                     <slur xml:id="s1u4iu0n" startid="#nfjegq0" endid="#nb0y7zm" curvedir="above"/>
                                     <fing xml:id="fxalnle" place="above" startid="#nfjegq0">3</fing>
                                     <slur xml:id="spss7xk" startid="#n1clhhjq" endid="#n1x4x5p2" curvedir="above"/>
-                                    <hairpin xml:id="bkl3dm9" form="cres" tstamp="2.5" tstamp2="2.99" staff="1"/>
+                                    <hairpin xml:id="bkl3dm9" form="cres" tstamp="2.5" tstamp2="3" staff="1"/>
                                     <fing xml:id="fwv0s2c" place="above" startid="#n1clhhjq">1</fing>
                                     <fing xml:id="fvh4egs" place="above" startid="#n1x4x5p2">4</fing>
                                     <fing xml:id="f1u7k8q1" place="below" startid="#n1h7f54t">5</fing>
@@ -16182,7 +16182,7 @@
                                             </note>
                                         </layer>
                                     </staff>
-                                    <hairpin xml:id="hp3p182" form="cres" tstamp="2.5" tstamp2="2.99" staff="1"/>
+                                    <hairpin xml:id="hp3p182" form="cres" tstamp="2.5" tstamp2="3" staff="1"/>
                                     <fing xml:id="f1epolgq" startid="#n1j12gab" ho="-3" vo="-6">2</fing>
                                     <fing xml:id="fixup20" startid="#ni8tanq" ho="-3" vo="-7">1</fing>
                                     <fing xml:id="f1rbmu8" startid="#n91fcih" ho="-5" vo="-10">2</fing>
@@ -16385,7 +16385,7 @@
                                         </layer>
                                     </staff>
                                     <dynam xml:id="dkm8693" label="sf" startid="#nknart1">sf</dynam>
-                                    <hairpin xml:id="h1u2ivfz" form="dim" tstamp="1.3" tstamp2="1.99" staff="1" vo="-6"/>
+                                    <hairpin xml:id="h1u2ivfz" form="dim" tstamp="1.3" tstamp2="1.9" staff="1" vo="-6"/>
                                     <slur xml:id="s15yao0j" startid="#nknart1" endid="#n1rf6gw0"/>
                                     <dynam xml:id="d14ya1hb" label="p" startid="#n1rf6gw0">p</dynam>
                                     <dynam xml:id="byzil2c" label="cresc." tstamp="2.5" staff="1" vo="-5">cresc.</dynam>
@@ -17752,7 +17752,7 @@
                                             <rest xml:id="re374ag" dur="8"/>
                                         </layer>
                                     </staff>
-                                    <hairpin xml:id="hxkqni2" form="dim" tstamp="0.5" tstamp2="1.99" staff="1"/>
+                                    <hairpin xml:id="hxkqni2" form="dim" tstamp="0.5" tstamp2="1.9" staff="1"/>
                                     <dynam xml:id="dufjtz0" label="p" staff="1" startid="#c1tb0uk5">p</dynam>
                                     <fermata xml:id="f8v8hnv" startid="#c1tb0uk5"/>
                                     <fing xml:id="f11uokf3" startid="#n1et9o07" place="above">3</fing>
@@ -20171,7 +20171,7 @@
                                     </layer>
                                 </staff>
                                 <tempo xml:id="d1x71xvi" label="meno" place="above" startid="#r1kvlo83">Meno mosso.</tempo>
-                                <dynam xml:id="dj2lh4p" label="p" staff="2" startid="#nwqgcz5">p</dynam>
+                                <dynam xml:id="dj2lh4p" label="p" staff="2" tstamp="1">p</dynam>
                                 <slur xml:id="seubi4c" startid="#nwqgcz5" endid="#n1ftb3dd"/>
                                 <fing xml:id="ffvuhff" startid="#nwqgcz5" place="above">3</fing>
                             </measure>
@@ -20359,7 +20359,7 @@
                                 </staff>
                                 <slur xml:id="s1r8260w" startid="#ndpbkgz" endid="#n1vz4o6x"/>
                                 <slur xml:id="y1tsxzio" startid="#n1gp8dny" endid="#n19gnecy"/>
-                                <dynam xml:id="zx72dwb" label="cresc." startid="#n1ua7khd">cresc.</dynam>
+                                <dynam xml:id="zx72dwb" label="cresc." staff="1" tstamp="1.3">cresc.</dynam>
                             </measure>
                             <measure xml:id="m1mha0i6" n="6">
                                 <staff xml:id="m352s1" n="1">
@@ -20408,7 +20408,7 @@
                                         </note>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="dlsakci" label="f" startid="#n1vz4o6x">f</dynam>
+                                <dynam xml:id="dlsakci" label="f" staff="1" tstamp="1">f</dynam>
                                 <slur xml:id="s1cueknp" startid="#n1rdgjkk" endid="#n1ba5m93"/>
                                 <fing xml:id="fwxy0pf" startid="#n1rdgjkk" place="above">4</fing>
                                 <fing xml:id="f1of2h5a" startid="#najplea" place="above">1</fing>
@@ -20472,7 +20472,7 @@
                                         </note>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="d1iw6niw" label="dim." startid="#nt1lpnt">dim.</dynam>
+                                <dynam xml:id="d1iw6niw" label="dim." staff="1" tstamp="1">dim.</dynam>
                                 <fing xml:id="fyigaro" startid="#nt1lpnt" place="above">5</fing>
                                 <fing xml:id="f1iopoie" startid="#nm687d8" place="above">4</fing>
                                 <fing xml:id="f14khhmf" startid="#n13giu59" place="above">5</fing>
@@ -20545,7 +20545,7 @@
                                         <rest xml:id="s1adra3b" sameas="#r18zigm8"/>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="drvwdbu" label="p" startid="#n1ba5m93">p</dynam>
+                                <dynam xml:id="drvwdbu" label="p" staff="1" tstamp="1">p</dynam>
                                 <fing xml:id="f64a57" startid="#n1ba5m93" place="above">5</fing>
                                 <fing xml:id="f1oobtji" startid="#n1q76nu4" place="above">3</fing>
                                 <slur xml:id="sxasth9" startid="#ctgy94l" endid="#c1mo5nke" curvedir="above"/>
@@ -20749,7 +20749,7 @@
                                         </note>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="d15vzvkx" label="cresc." startid="#n3zn1ve">cresc.</dynam>
+                                <dynam xml:id="d15vzvkx" label="cresc." staff="1" tstamp="1">cresc.</dynam>
                                 <slur xml:id="s1epj3y3" startid="#n3zn1ve" endid="#nboqhl3"/>
                                 <fing xml:id="fv6695q" startid="#n3zn1ve" place="above">5</fing>
                                 <fing xml:id="f1y8ryux" startid="#nboqhl3" place="above">4</fing>
@@ -20877,7 +20877,7 @@
                                 </staff>
                                 <hairpin xml:id="hajrtxd" form="dim" tstamp="1" tstamp2="2" staff="1"/>
                                 <fing xml:id="fk9upaq" startid="#nqioh0d" place="above">4</fing>
-                                <dynam xml:id="dub51sv" label="p" startid="#n132s741">p</dynam>
+                                <dynam xml:id="dub51sv" label="p" staff="1" tstamp="2.5">p</dynam>
                                 <slur xml:id="sskn8fb" startid="#n132s741" endid="#ni47acm"/>
                                 <tie xml:id="taezhs" startid="#n132s741" endid="#nsmr6ec"/>
                                 <fing xml:id="f1tffyoy" startid="#n132s741" place="above">4</fing>
@@ -21074,7 +21074,7 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="d1k4o43z" label="sf" startid="#c14i6a4d">sf</dynam>
+                                <dynam xml:id="d1k4o43z" label="sf" staff="1" tstamp="2.5">sf</dynam>
                                 <slur xml:id="s1eng3yf" startid="#c14i6a4d" endid="#c1ntlkrq" curvedir="below"/>
                                 <tie xml:id="tnoi8ou" startid="#n1hyp9w4" endid="#nnb22dg"/>
                                 <fing xml:id="f1dyjboy" place="below" startid="#n1hyp9w4">1</fing>
@@ -21146,7 +21146,7 @@
                                 <tie xml:id="tu84l1r" startid="#ne1utlz" endid="#naip8lx"/>
                                 <fermata xml:id="fp6trv1" startid="#c1ntlkrq"/>
                                 <fing xml:id="f1e75c89" place="below" startid="#nmcg7xk">2</fing>
-                                <dynam xml:id="d1563c6w" label="p" staff="1" startid="#c1qozo1z">p</dynam>
+                                <dynam xml:id="d1563c6w" label="p" staff="1" tstamp="2.5">p</dynam>
                                 <slur xml:id="s16xh1lb" startid="#c1qozo1z" endid="#nehqrnf"/>
                                 <tie xml:id="txw1uv6" startid="#n1j9f65q" endid="#n12b9v36"/>
                                 <tie xml:id="t1wc149j" startid="#n13qay7n" endid="#n2ir77x"/>
@@ -21211,7 +21211,7 @@
                                 <tie xml:id="t1tttlqj" startid="#n1vyz994" endid="#nsc6q4o"/>
                                 <tie xml:id="t1sk2654" startid="#n1pq70ko" endid="#no6vmuy"/>
                                 <fing xml:id="f14g57st" startid="#n1pq70ko" place="above">3</fing>
-                                <dynam xml:id="d16evms0" label="p" staff="2" startid="#c14zvsor">p</dynam>
+                                <dynam xml:id="d16evms0" label="p" staff="2" tstamp="1">p</dynam>
                             </measure>
                             <sb xml:id="c1kq89wj"/>
                             <measure xml:id="mj0xed" n="22">
@@ -21304,7 +21304,7 @@
                                         <rest xml:id="r1mrw9yr" dur="8"/>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="d1funvgb" label="cresc." startid="#c1dx839q">cresc.</dynam>
+                                <dynam xml:id="d1funvgb" label="cresc." staff="1" tstamp="1">cresc.</dynam>
                                 <fing xml:id="fn9d4yq" place="below" startid="#ncgjw5z">2</fing>
                             </measure>
                             <measure xml:id="m13hh5q2" n="24">
@@ -21402,7 +21402,7 @@
                                     </layer>
                                 </staff>
                                 <hairpin xml:id="h3ypabc" form="cres" tstamp="1" tstamp2="1.9" staff="1"/>
-                                <dynam xml:id="d18se6px" label="f" startid="#ce3d7z1">f</dynam>
+                                <dynam xml:id="d18se6px" label="f" staff="1" tstamp="2.5">f</dynam>
                                 <slur xml:id="s1dlut75" startid="#ce3d7z1" endid="#n6v5hvi"/>
                                 <tie xml:id="tct13ps" startid="#n10ba369" endid="#nkx316z"/>
                                 <fing xml:id="fbvxv94" startid="#n10ba369" place="above">4</fing>
@@ -21581,7 +21581,7 @@
                                 </staff>
                                 <hairpin xml:id="hdxlup4" form="dim" tstamp="1" tstamp2="2" staff="1" vo="-6"/>
                                 <fermata xml:id="fzpycyj" startid="#n1781bp8"/>
-                                <dynam xml:id="d1kbmq99" label="p" startid="#csp9gbp">p</dynam>
+                                <dynam xml:id="d1kbmq99" label="p" staff="1" tstamp="2.5">p</dynam>
                                 <slur xml:id="s1lr0vwi" startid="#csp9gbp" endid="#njd0vb2" curvedir="above"/>
                                 <tie xml:id="tk5dwwg" startid="#n19daiw1" endid="#n1msoeiw"/>
                                 <tie xml:id="t1c20si2" startid="#n1o6r8e6" endid="#nxictd3"/>
@@ -21747,7 +21747,7 @@
                                         <rest xml:id="r19j3gzp" dur="8"/>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="d1u57t2m" label="cresc." startid="#c1arsnku">cresc.</dynam>
+                                <dynam xml:id="d1u57t2m" label="cresc." staff="1" tstamp="1">cresc.</dynam>
                             </measure>
                             <measure xml:id="m6yxcmc" right="dbl" n="32">
                                 <staff xml:id="m378s1" n="1">
@@ -21819,7 +21819,7 @@
                                         <rest xml:id="r15srxvf" dur="8"/>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="d1j742lz" label="p" startid="#c13ga9a4">p</dynam>
+                                <dynam xml:id="d1j742lz" label="p" staff="1" tstamp="1">p</dynam>
                                 <dynam xml:id="dse2vnr" label="cresc." startid="#c13ga9a4" endid="#n7fzt0g" place="above">a) cresc. und dann sofort piano</dynam>
                                 <tempo xml:id="du305hu" label="adagio" startid="#nlepmip">adagio</tempo>
                                 <slur xml:id="s91yi8" startid="#nlepmip" endid="#nhwyey3"/>
@@ -22411,7 +22411,7 @@
                                     <fing xml:id="f1go35jf" startid="#n1qr4kc7" place="above">3</fing>
                                     <slur xml:id="s4n8o8w" startid="#n5q3q1u" endid="#n1b74qhn"/>
                                     <fing xml:id="f1m5f7oo" startid="#n5q3q1u" place="above">2</fing>
-                                    <hairpin xml:id="hq5xf7r" form="cres" tstamp="5" tstamp2="6.99" staff="1"/>
+                                    <hairpin xml:id="hq5xf7r" form="cres" tstamp="5" tstamp2="7" staff="1"/>
                                     <fing xml:id="f19hygvd" startid="#n13jd40x" place="above">4</fing>
                                     <tie xml:id="t1l37nro" startid="#n1blypcv" endid="#nz41fzd"/>
                                     <tie xml:id="t1aghqwt" startid="#n10g7wd7" endid="#n1d733s0" curvedir="above"/>
@@ -23019,7 +23019,7 @@
                                     <dynam xml:id="u1lhlkvw" label="cresc." place="above" startid="#nv7zewk">cresc.</dynam>
                                     <dynam xml:id="d1caz72p" label="p" startid="#n1xbyryd">p</dynam>
                                     <slur xml:id="s10xqwrb" startid="#nf9jj5i" endid="#nazd3y5"/>
-                                    <hairpin xml:id="hrv63n4" form="cres" place="above" tstamp="5.5" tstamp2="6.99" staff="1"/>
+                                    <hairpin xml:id="hrv63n4" form="cres" place="above" tstamp="5.5" tstamp2="7" staff="1"/>
                                     <slur xml:id="s1kzp54h" startid="#nj98t67" endid="#n1g04tr0"/>
                                     <slur xml:id="sc1msex" startid="#n17sdpsy" endid="#n9r9uj4"/>
                                     <dynam xml:id="dylud6z" label="sf" staff="2" startid="#n10ie8h4">sf</dynam>
@@ -23367,7 +23367,7 @@
                                     <dynam xml:id="d4z33yj" label="p" startid="#nn9kjpg">p</dynam>
                                     <slur xml:id="shcao3z" startid="#nh35qh5" endid="#n16hfflt"/>
                                     <slur xml:id="s1iamj5p" startid="#n1rft7wg" endid="#n1yvb706"/>
-                                    <hairpin xml:id="h1cfxavg" form="cres" tstamp="6.15" tstamp2="6.99" staff="1"/>
+                                    <hairpin xml:id="h1cfxavg" form="cres" tstamp="6.15" tstamp2="7" staff="1"/>
                                     <slur xml:id="so0rvke" startid="#n3ty3ca" endid="#ntdju30"/>
                                     <slur xml:id="se1iw8k" startid="#n1pvfrfj" endid="#nqdpr6v" curvedir="above"/>
                                     <fing xml:id="f188e4vl" startid="#n1pvfrfj" place="above">1</fing>
@@ -24919,7 +24919,7 @@
                                     <fermata xml:id="f18hiy9x" startid="#c1el0gen"/>
                                     <fing xml:id="f1a1o9w2" startid="#n1dzq49k" ho="-4" vo="-8">2</fing>
                                     <fing xml:id="f1k82vod" startid="#n1nnx3gb" ho="-4" vo="-8">4</fing>
-                                    <hairpin xml:id="h1f822bi" form="dim" tstamp="6" tstamp2="6.99" staff="1"/>
+                                    <hairpin xml:id="h1f822bi" form="dim" tstamp="6" tstamp2="7" staff="1"/>
                                     <dynam xml:id="w1jvo1bt" label="decresc." place="above" startid="#cygw8t8" endid="#nuicqq2" extender="true">decresc.</dynam>
                                     <slur xml:id="s1vovw4c" startid="#c1l638d5" endid="#c14ajkxx" curvedir="above"/>
                                     <fing xml:id="f1ajhjsx" startid="#n17kl3gc" place="above">4</fing>
@@ -26679,7 +26679,7 @@
                                     <fing xml:id="fu5ftdn" startid="#n1g8i79q">1</fing>
                                     <fing xml:id="fx8nflm" startid="#n1ktqj3v">3</fing>
                                     <hairpin xml:id="hieg08" staff="1" form="cres" tstamp="2.75" tstamp2="3.25"/>
-                                    <hairpin xml:id="e5uuti0" staff="1" form="dim" tstamp="3.5" tstamp2="3.99"/>
+                                    <hairpin xml:id="e5uuti0" staff="1" form="dim" tstamp="3.5" tstamp2="3.9"/>
                                     <fing xml:id="f1049967" startid="#n131i36n">1</fing>
                                     <fing xml:id="f9ixt5r" startid="#n40wjoi">5</fing>
                                     <fing xml:id="fo0b6mi" startid="#n14uq7u3">2</fing>
@@ -26689,7 +26689,7 @@
                                     <slur xml:id="s1mja17g" startid="#n8z66fr" endid="#n46fuvq" curvedir="above"/>
                                     <fing xml:id="f15ij5fd" startid="#n8z66fr" place="above">3</fing>
                                     <hairpin xml:id="h1y7zksh" form="cres" tstamp="5.9" tstamp2="6.5" staff="1"/>
-                                    <hairpin xml:id="vmzn9fx" form="dim" tstamp="6.5" tstamp2="6.99" staff="1"/>
+                                    <hairpin xml:id="vmzn9fx" form="dim" tstamp="6.6" tstamp2="6.9" staff="1"/>
                                     <fing xml:id="fz57r6b" startid="#n14shv7a" place="above">5</fing>
                                     <fing xml:id="fe6jwia" startid="#nhhetwx" place="above">4</fing>
                                     <slur xml:id="seix119" startid="#nztazw" endid="#n9ljgpz"/>
@@ -26991,17 +26991,17 @@
                                     <fing xml:id="fk2qfqq" startid="#nlrq9qg">1</fing>
                                     <fing xml:id="f1p8h09o" startid="#nmvbgx9">3</fing>
                                     <hairpin xml:id="h6529o" form="cres" tstamp="2.75" tstamp2="3" staff="1"/>
-                                    <hairpin xml:id="h1qy5mu6" form="dim" tstamp="3" tstamp2="3.75" staff="1"/>
+                                    <hairpin xml:id="h1qy5mu6" form="dim" tstamp="3.25" tstamp2="3.75" staff="1"/>
                                     <fing xml:id="fucv5fy" startid="#nx5yetk">1</fing>
                                     <fing xml:id="f43qrat" startid="#n1xutoxo">5</fing>
                                     <fing xml:id="f3cb8v4" startid="#n1gzs6rn">1</fing>
                                     <fing xml:id="f1emgqbd" startid="#n6h0r3l">4</fing>
                                     <fing xml:id="fu8u3ik" startid="#n1yv6jyv">1</fing>
                                     <fing xml:id="fd4h23d" startid="#nvrwae2">3</fing>
-                                    <hairpin xml:id="h1ttm6c8" startid="#nfti22t" endid="#n1n3ifxd" form="cres" tstamp="1" tstamp2="2.5" staff="1"/>
+                                    <hairpin xml:id="h1ttm6c8" form="cres" tstamp="5.75" tstamp2="6" staff="1"/>
                                     <slur xml:id="sc66cvm" startid="#nfti22t" endid="#n1mxmb1r"/>
                                     <fing xml:id="fkjqt9x" startid="#nfti22t" place="above">3</fing>
-                                    <hairpin xml:id="h5drdbn" startid="#n1n3ifxd" endid="#nn8hg7x" form="dim" tstamp="1" tstamp2="2.5" staff="1"/>
+                                    <hairpin xml:id="h5drdbn" form="dim" tstamp="6.25" tstamp2="6.9" staff="1"/>
                                     <fing xml:id="f1gc6jv1" startid="#n1n3ifxd" place="above">5</fing>
                                     <fing xml:id="f1smpik6" startid="#nn8hg7x" place="above">4</fing>
                                     <slur xml:id="s59tfcu" startid="#n8psmee" endid="#ngmj9ly"/>
@@ -27327,7 +27327,7 @@
                                     <fing xml:id="fzerqbg" startid="#n912fdt" place="above">5</fing>
                                     <tie xml:id="t2x7wdk" startid="#nbpbnr6" endid="#n18dv44i"/>
                                     <fing xml:id="f1fsq2tl" startid="#nbpbnr6" place="above">4</fing>
-                                    <hairpin xml:id="h7uzm2z" startid="#n18dv44i" endid="#n2izy74" form="dim" tstamp="1" tstamp2="2.5" staff="1"/>
+                                    <hairpin xml:id="h7uzm2z" form="dim" tstamp="5" tstamp2="6.75" staff="1"/>
                                     <slur xml:id="sdfh6im" startid="#n11f2szi" endid="#n2izy74"/>
                                     <fing xml:id="f19ek6vx" startid="#n11f2szi" place="above">4</fing>
                                     <fing xml:id="ffqq799" startid="#n2izy74" place="above">3</fing>
@@ -28404,7 +28404,7 @@
                                 <slur xml:id="s1fpo2w2" startid="#n1p847sk" endid="#n5oddck"/>
                                 <fing xml:id="f19frmif" startid="#n1p847sk" vo="-6" ho="-3">1</fing>
                                 <dynam xml:id="d100wp2j" label="sf" staff="2" startid="#n7cjx18">sf</dynam>
-                                <hairpin xml:id="h11kifsd" startid="#nuej41s" endid="#nlv48ds" form="cres" tstamp="1" tstamp2="2.5" staff="1"/>
+                                <hairpin xml:id="h11kifsd" form="cres" tstamp="1.25" tstamp2="3" staff="1"/>
                                 <fing xml:id="f1m41hvb" place="below" startid="#n7cjx18">1</fing>
                             </measure>
                             <measure xml:id="msb9jmh" n="20">
@@ -28779,7 +28779,7 @@
                                     </layer>
                                 </staff>
                                 <fing xml:id="f1tbij" startid="#n8okrhb" place="above">3</fing>
-                                <hairpin xml:id="hj1nh10" startid="#ntfq1r2" endid="#n1jzq49t" form="cres" tstamp="1" tstamp2="2.5" staff="1"/>
+                                <hairpin xml:id="hj1nh10" form="cres" tstamp="1.5" tstamp2="3" staff="1"/>
                                 <fing xml:id="f1y18grb" startid="#ntfq1r2" place="above">1</fing>
                                 <fing xml:id="f1alc3y3" startid="#naxjoe4" place="above">1</fing>
                                 <fing xml:id="f2ka2tx" startid="#n184brhi" place="above">1</fing>
@@ -30217,7 +30217,7 @@
                                 <dynam xml:id="d15m2jm7" label="sf" startid="#n1sg143i">sf</dynam>
                                 <fing xml:id="f15w54z4" startid="#n1sg143i" place="above">2</fing>
                                 <slur xml:id="s1usweez" startid="#n19ivck0" endid="#n1yhbxms"/>
-                                <hairpin xml:id="h13g24xg" staff="1" startid="#n19ivck0" endid="#ng9x6i6" form="dim" tstamp="1" tstamp2="2.5"/>
+                                <hairpin xml:id="h13g24xg" staff="1" form="dim" tstamp="1.5" tstamp2="3"/>
                                 <fing xml:id="f1d427z1" startid="#n19ivck0" place="above">3</fing>
                                 <slur xml:id="svrmaza" startid="#n10ovqe5" endid="#n1w1ceu0"/>
                                 <fing xml:id="fg8cc23" startid="#n10ovqe5" place="above">1</fing>
@@ -32088,8 +32088,8 @@
                                 <trill xml:id="tik9fw4" startid="#n1fbqpfc" endid="#nb8ryx4" extender="true" dur="2"/>
                                 <fing xml:id="f11j2wuu" startid="#nln50a6" place="below">3</fing>
                                 <fing xml:id="f1yoooss" startid="#n1ksulba" place="below">1</fing>
-                                <hairpin xml:id="vuie6e7z" startid="#n1h880l5" endid="#n1gh4rf0" form="cres" place="above" tstamp="1" tstamp2="2.5" staff="1"/>
-                                <hairpin xml:id="vuie6e42" startid="#n1ksulba" endid="#n1e2m1mi" form="dim" place="above" tstamp="1" tstamp2="2.5" staff="1"/>
+                                <hairpin xml:id="vuie6e7z" form="cres" place="above" tstamp="1" tstamp2="1.8" staff="2"/>
+                                <hairpin xml:id="vuie6e42" form="dim" place="above" tstamp="2.2" tstamp2="2.75" staff="2"/>
                             </measure>
                             <measure xml:id="mlyscn2" n="95">
                                 <staff xml:id="m514s1" n="1">
@@ -32283,9 +32283,9 @@
                                         </graceGrp>
                                     </layer>
                                 </staff>
-                                <hairpin xml:id="h8vw6uf" staff="1" startid="#n17twkmr" endid="#n173brwi" form="cres" tstamp="1" tstamp2="2.5"/>
+                                <hairpin xml:id="h8vw6uf" staff="1" form="cres" tstamp="1.1" tstamp2="1.75"/>
                                 <fing xml:id="f18txejz" startid="#n17twkmr" place="above">1</fing>
-                                <hairpin xml:id="h17lg6vl" staff="1" startid="#ncsllex" endid="#nfcc8n3" form="dim" tstamp="1" tstamp2="2.5"/>
+                                <hairpin xml:id="h17lg6vl" staff="1" form="dim" tstamp="2" tstamp2="2.75"/>
                                 <trill xml:id="t1cus18w" startid="#n1gzgv8l" endid="#nby6idp" extender="true" place="above" dur="2"/>
                                 <slur xml:id="sxa49q5" startid="#n1gzgv8l" endid="#n18hn039" curvedir="below"/>
                                 <fing xml:id="f7uksr" startid="#n1gzgv8l" place="above">12</fing>
@@ -32497,7 +32497,7 @@
                                 <fing xml:id="f1o0wl8b" startid="#nk2pc6u" place="above">1</fing>
                                 <slur xml:id="sqmizse" startid="#n3olv1w" endid="#n14elsk" curvedir="above"/>
                                 <fing xml:id="f3oqrel" startid="#n3olv1w" place="above">4</fing>
-                                <hairpin xml:id="o1piw6bi" staff="1" startid="#n3olv1w" endid="#n17mrk1g" form="cres" tstamp="1" tstamp2="2.5"/>
+                                <hairpin xml:id="o1piw6bi" staff="2" form="cres" tstamp="2.7" tstamp2="1m+1.3"/>
                             </measure>
                             <measure xml:id="mqngasn" n="104">
                                 <staff xml:id="m523s1" n="1">
@@ -32554,9 +32554,9 @@
                                 <fing xml:id="fip5c2r" startid="#ndyeh3g" place="above">1</fing>
                                 <fing xml:id="f7i2slm" startid="#n1wq1r9a" place="above">2</fing>
                                 <fing xml:id="f1517ccx" startid="#nayolqb" place="above">1</fing>
-                                <fing xml:id="f1q2n98i" startid="#nmbmxcc" place="within">1</fing>
-                                <fing xml:id="f1lofc19" startid="#n17mrk1g" place="within">3</fing>
-                                <hairpin xml:id="wxgr340" staff="1" startid="#n19mxlwq" endid="#n14elsk" form="dim" tstamp="1" tstamp2="2.5"/>
+                                <fing xml:id="f1q2n98i" startid="#nmbmxcc" vo="-6">1</fing>
+                                <fing xml:id="f1lofc19" startid="#n17mrk1g" vo="-5">3</fing>
+                                <hairpin xml:id="wxgr340" staff="2" form="dim" tstamp="2" tstamp2="2.7"/>
                             </measure>
                             <measure xml:id="metpwro" n="105">
                                 <staff xml:id="m524s1" n="1">
@@ -32602,7 +32602,7 @@
                                 <fing xml:id="fpifn2q" startid="#n1gjj6wv" place="below">4</fing>
                                 <slur xml:id="st0rr27" startid="#n1josy8h" endid="#ni54v1w" curvedir="above"/>
                                 <fing xml:id="fh1v1ri" place="below" startid="#n1josy8h">3</fing>
-                                <hairpin xml:id="r1vp3ctd" staff="1" startid="#n1josy8h" endid="#nyb1z9z" form="cres" tstamp="1" tstamp2="2.5"/>
+                                <hairpin xml:id="r1vp3ctd" staff="2" form="cres" tstamp="2.7" tstamp2="1m+1.7"/>
                             </measure>
                             <sb xml:id="lt4034p"/>
                             <measure xml:id="m1ge4x2z" n="106">
@@ -32657,7 +32657,7 @@
                                 <fing xml:id="f1ifo4lz" startid="#nwt9rkj" place="above">1</fing>
                                 <fing xml:id="fuurzqn" place="below" startid="#n12d673x">4</fing>
                                 <fing xml:id="f1x709hf" place="below" startid="#n1ksme75">1</fing>
-                                <hairpin xml:id="ue496my" staff="1" startid="#n1ksme75" endid="#ni54v1w" form="dim" tstamp="1" tstamp2="2.5"/>
+                                <hairpin xml:id="ue496my" staff="2" form="dim" tstamp="2" tstamp2="2.75"/>
                             </measure>
                             <measure xml:id="m14anrrz" n="107">
                                 <staff xml:id="m526s1" n="1">
@@ -34741,8 +34741,8 @@
                                     </layer>
                                 </staff>
                                 <slur xml:id="s1co237j" startid="#nz3d5c3" endid="#n12n9rdl" curvedir="above"/>
-                                <hairpin xml:id="h18zu4yd" staff="1" startid="#ntc332s" endid="#nfgbfbm" form="dim" place="above" tstamp="1" tstamp2="2.5"/>
-                                <hairpin xml:id="x28q0qg" staff="1" startid="#cp9d2wp" endid="#c4iszrp" form="dim" tstamp="1" tstamp2="2.5"/>
+                                <hairpin xml:id="h18zu4yd" staff="1" form="dim" place="above" tstamp="1.25" tstamp2="1.9" vo="8"/>
+                                <hairpin xml:id="x28q0qg" staff="2" form="dim" tstamp="1.5" tstamp2="2"/>
                                 <slur xml:id="s1bqdoe3" startid="#ntc332s" endid="#nfgbfbm"/>
                                 <fing xml:id="fzqmptc" startid="#ntc332s" place="above">5</fing>
                                 <fing xml:id="f7r3dnl" startid="#nfgbfbm" place="above">4</fing>
@@ -34751,7 +34751,7 @@
                                 <slur xml:id="s3k652z" startid="#n1l1bkv6" endid="#na3xvfp"/>
                                 <trill xml:id="trctuw3" startid="#n1l1bkv6"/>
                                 <fing xml:id="f17dt9q9" startid="#n1l1bkv6" place="above" vo="-9">3</fing>
-                                <fing xml:id="fd9b7o5" place="below" startid="#nl9jp2c">1</fing>
+                                <fing xml:id="fd9b7o5" place="above" startid="#nl9jp2c">1</fing>
                                 <slur xml:id="s1no6ux6" startid="#cp9d2wp" endid="#c4iszrp" curvedir="above"/>
                                 <tie xml:id="tv6bwsu" startid="#n1ghlmmr" endid="#n1dohlbw" curvedir="below"/>
                                 <dir xml:id="okvcni42" startid="#n1l1bkv6" staff="1" place="above" plist="#trctuw3 #mzbhik4">c)</dir>
@@ -35153,9 +35153,9 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                                <hairpin xml:id="h14wn3xf" staff="1" startid="#n5sjydy" endid="#n1mu0yo2" form="dim" place="above" layer="1" tstamp="1" tstamp2="2.5"/>
+                                <hairpin xml:id="h14wn3xf" staff="1" form="dim" place="above" layer="1" tstamp="1" tstamp2="1.5"/>
                                 <fing xml:id="fkggfhs" startid="#n5sjydy" place="above">5</fing>
-                                <hairpin xml:id="h1ahgfqc" staff="1" startid="#nlwyi95" endid="#ngkeq3s" form="dim" place="above" layer="1" tstamp="1" tstamp2="2.5"/>
+                                <hairpin xml:id="h1ahgfqc" staff="1" form="dim" place="above" layer="1" tstamp="2" tstamp2="2.5"/>
                                 <slur xml:id="sj4xzfn" startid="#nlwyi95" endid="#ngkeq3s"/>
                                 <fing xml:id="fjtssub" startid="#nlwyi95" place="above">5</fing>
                                 <trill xml:id="t3x8yds" startid="#n7d74yz" endid="#n1gfpjhq" extender="true" dur="2"/>
@@ -35219,7 +35219,7 @@
                                         <rest xml:id="r1ta0a9h" dur="8"/>
                                     </layer>
                                 </staff>
-                                <hairpin xml:id="hgj9vt5" staff="1" startid="#n1mp5mjc" endid="#n4p7q25" form="dim" place="above" tstamp="1" tstamp2="2.5"/>
+                                <hairpin xml:id="hgj9vt5" staff="1" form="dim" place="above" tstamp="1.2" tstamp2="1.9"/>
                                 <slur xml:id="s1ya8pfl" startid="#n1mp5mjc" endid="#n4p7q25"/>
                                 <fing xml:id="fxm6szz" startid="#n1mp5mjc" place="above">5</fing>
                                 <slur xml:id="s1viaa8y" startid="#n1yxin5j" endid="#n1j6tpmy"/>
@@ -35229,7 +35229,7 @@
                                 <slur xml:id="s1i5fqzn" startid="#nirkd5a" endid="#nguhecr"/>
                                 <trill xml:id="tkg49vd" startid="#nirkd5a" endid="#n12ke1gq" extender="true" dur="8"/>
                                 <fing xml:id="f1rsjddi" startid="#nirkd5a" vo="-16" ho="3">21</fing>
-                                <fing xml:id="f1h5ykor" startid="#n1yal7za">1</fing>
+                                <fing xml:id="f1h5ykor" startid="#n1yal7za" vo="-4">1</fing>
                                 <slur xml:id="s10fbl47" startid="#ncmr82x" endid="#n12ke1gq" curvedir="above"/>
                                 <fing xml:id="f11i2nh5" place="below" startid="#ncmr82x">5</fing>
                                 <fing xml:id="flht4ta" place="below" startid="#n1gkhefg">1</fing>
@@ -35281,7 +35281,7 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                                <hairpin xml:id="hr4rs0m" startid="#n1tacm6u" endid="#n1ga09mf" form="cres" tstamp="1" tstamp2="2.5" staff="1"/>
+                                <hairpin xml:id="hr4rs0m" form="cres" tstamp="1.4" tstamp2="3" staff="1"/>
                                 <fing xml:id="f3314ge" startid="#n1tacm6u" place="above">1</fing>
                                 <fing xml:id="f5i9ko7" startid="#nw2eqr4" place="above">1</fing>
                                 <fing xml:id="f1aqevb6" startid="#n125x8t" place="above">3</fing>
@@ -35478,7 +35478,7 @@
                                 <dynam xml:id="daajdog" label="p" startid="#c1abhbr9">p</dynam>
                                 <fermata xml:id="frzv1yx" startid="#c1abhbr9"/>
                                 <fing xml:id="f6emhpt" startid="#nbhf8l2" place="above">4</fing>
-                                <hairpin xml:id="h5i2qpg" staff="1" startid="#n1jlxoll" endid="#n7hayat" form="cres" layer="1" place="above" vo="-12" tstamp="1" tstamp2="2.5"/>
+                                <hairpin xml:id="h5i2qpg" staff="1" form="cres" layer="1" place="above" vo="-12" tstamp="2.5" tstamp2="1m+1"/>
                                 <slur xml:id="s11dnboq" startid="#nbhf8l2" endid="#n1srbnoj" curvedir="above"/>
                                 <fing xml:id="fhbwtpf" startid="#n1jlxoll" place="above">5</fing>
                                 <pedal xml:id="p7300yn" startid="#c15dnrtw" tstamp2="2.3" dir="down" form="pedstar"/>
@@ -35552,7 +35552,7 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                                <hairpin xml:id="krnfchf" staff="1" place="above" layer="1" tstamp="1.3" tstamp2="2.3" form="dim"/>
+                                <hairpin xml:id="krnfchf" staff="1" place="above" layer="1" tstamp="1.4" tstamp2="2.3" form="dim"/>
                                 <fing xml:id="f1ihmlvi" startid="#n7hayat" place="above">4</fing>
                                 <dir xml:id="d17gkzf5" place="above" staff="1" startid="#n7hayat">molto espress.</dir>
                                 <fing xml:id="f1bz69fu" startid="#n1srbnoj" place="above">3</fing>
@@ -35857,7 +35857,7 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                                <hairpin xml:id="hb4b2a7" startid="#nxa35qf" endid="#n61xo3n" form="cres" tstamp="1" tstamp2="2.5" staff="1"/>
+                                <hairpin xml:id="hb4b2a7" form="cres" tstamp="1.2" tstamp2="2.8" staff="1"/>
                                 <fing xml:id="f1xwqh13" startid="#n1m4rcd2" place="above">1</fing>
                                 <fing xml:id="fj2qxfp" startid="#n1l3bd18" place="above">1</fing>
                                 <fing xml:id="f10f86u1" startid="#n1s75y0m" place="above">1</fing>
@@ -36045,12 +36045,12 @@
                                         <rest xml:id="r1ls9n91" dur="8"/>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="d1w5qd3d" label="p" startid="#nxxnldx">p</dynam>
+                                <dynam xml:id="d1w5qd3d" label="p" staff="1" tstamp="1">p</dynam>
                                 <fermata xml:id="f1020tcy" startid="#nxxnldx"/>
                                 <slur xml:id="sr7tu4e" startid="#nxxnldx" endid="#nebkzsr"/>
                                 <trill xml:id="t194pyue" startid="#nxxnldx" endid="#njoe3jg" extender="true" dur="4"/>
                                 <fing xml:id="f837ntj" startid="#nxxnldx" place="above" ho="-3" vo="-11">2</fing>
-                                <dynam xml:id="d7iwy7c" label="cresc." startid="#njoe3jg">cresc.</dynam>
+                                <dynam xml:id="d7iwy7c" label="cresc." staff="1" tstamp="2.3">cresc.</dynam>
                                 <fing xml:id="f1q8uzl5" startid="#njoe3jg" place="above">1</fing>
                                 <pedal xml:id="p10oif23" tstamp="1" tstamp2="2.3" staff="2" dir="down" form="pedstar"/>
                                 <fermata xml:id="fi91uml" startid="#crufixq"/>
@@ -36111,11 +36111,11 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="drql6y3" label="mf" startid="#n19zr96r">mf</dynam>
+                                <dynam xml:id="drql6y3" label="mf" staff="1" tstamp="1">mf</dynam>
                                 <trill xml:id="t1cqyurh" startid="#n19zr96r" endid="#n1eom50o" extender="true" dur="4"/>
                                 <fing xml:id="f16s72ti" startid="#n19zr96r" place="above" vo="-6" ho="-3">2</fing>
                                 <fing xml:id="fdf0v8" startid="#npy3nl1" place="above">4</fing>
-                                <dynam xml:id="dziinrx" label="dim." startid="#np0rpm4">dim.</dynam>
+                                <dynam xml:id="dziinrx" label="dim." staff="1" tstamp="2.5">dim.</dynam>
                                 <pedal xml:id="p1q3lqys" startid="#n12bhy7u" dir="down" form="pedstar"/>
                                 <slur xml:id="s188v1be" startid="#n1cjlut3" endid="#n1vxjqx6" curvedir="above"/>
                                 <fing xml:id="f6skhg" startid="#n1cjlut3" place="below">5</fing>
@@ -36254,7 +36254,7 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="dl17m6c" label="p" startid="#n5qt44c">p</dynam>
+                                <dynam xml:id="dl17m6c" label="p" staff="1" tstamp="1">p</dynam>
                                 <trill xml:id="tgu09pi" startid="#n5qt44c" endid="#n1m2n9w1" extender="true" dur="8"/>
                                 <slur xml:id="s15kr1vx" startid="#n5qt44c" endid="#nh9m4oz"/>
                                 <fing xml:id="f1v0qjft" startid="#n5qt44c" place="above">2</fing>
@@ -36339,7 +36339,7 @@
                                 </staff>
                                 <slur xml:id="s1n6eavq" startid="#ngy55ak" endid="#nnspyy2"/>
                                 <fing xml:id="f1q5o03h" startid="#ngy55ak" place="above">3</fing>
-                                <dynam xml:id="dg9pp23" label="cresc." startid="#n1jvmomh">cresc.</dynam>
+                                <dynam xml:id="dg9pp23" label="cresc." staff="1" tstamp="1.7">cresc.</dynam>
                                 <fing xml:id="fsartdt" startid="#n8516t0" place="above">4</fing>
                                 <pedal xml:id="pud8axx" startid="#n1qvfyz7" endid="#n17wlhxp" dir="down" form="pedstar"/>
                                 <fing xml:id="fb72d1m" place="above" startid="#npnfdki" ho="-4" vo="-3">2</fing>
@@ -36422,7 +36422,7 @@
                                         </chord>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="d1xf1n0v" label="f" startid="#riz89oe">f</dynam>
+                                <dynam xml:id="d1xf1n0v" label="f" staff="1" tstamp="1">f</dynam>
                                 <slur xml:id="s1oqju1j" startid="#n14fcbdk" endid="#nh348c3"/>
                                 <fing xml:id="fgc40i6" startid="#n14fcbdk" place="above">3</fing>
                                 <slur xml:id="s1074uot" startid="#numm8lo" endid="#nu4vfow"/>
@@ -37149,7 +37149,7 @@
                                         </chord>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="d1erqjma" label="f" startid="#n1rur5sn">più f</dynam>
+                                <dynam xml:id="d1erqjma" label="f" staff="1" tstamp="1">più f</dynam>
                                 <slur xml:id="s38x8yr" startid="#n10y3lc4" endid="#n111k85j"/>
                                 <fing xml:id="f1hvd1o7" startid="#n10y3lc4" place="above">3</fing>
                                 <fing xml:id="fgsx65q" startid="#n1x890j9" place="above">1</fing>
@@ -37728,7 +37728,7 @@
                                 <tie xml:id="thqphjt" startid="#n37x5tf" endid="#nrhy3kp"/>
                                 <slur xml:id="s1y2ove7" startid="#n10j8g23" endid="#n1cj4ayf"/>
                                 <fing xml:id="f13goib3" place="below" startid="#n10j8g23">2</fing>
-                                <dynam xml:id="d1bj2a6k" label="p" place="above" startid="#n1cj4ayf">p</dynam>
+                                <dynam xml:id="d1bj2a6k" label="p" staff="2" place="above" tstamp="2.5">p</dynam>
                                 <slur xml:id="s1sgmpfd" startid="#n1cj4ayf" endid="#c1nbf537"/>
                                 <fing xml:id="f3fqoqs" place="below" startid="#n1cj4ayf">3</fing>
                             </measure>
@@ -37835,7 +37835,7 @@
                                 </staff>
                                 <slur xml:id="sn7mcjb" startid="#n1psbwz2" endid="#n3y7s58"/>
                                 <fing xml:id="f14x3g1j" startid="#n1psbwz2" place="above">1</fing>
-                                <dynam xml:id="d1wsbrr5" label="cresc." place="above" startid="#n1kblvh2" endid="#nd2czgf" extender="true">cresc.</dynam>
+                                <dynam xml:id="d1wsbrr5" label="cresc." staff="2" place="above" tstamp="1.25" tstamp2="3" extender="true">cresc.</dynam>
                                 <fing xml:id="fgn3877" startid="#n1eqbvef" place="above">4</fing>
                                 <fing xml:id="f1u1njf2" place="below" startid="#nxdh8gk">3</fing>
                                 <fing xml:id="f1kgu9hv" place="below" startid="#n7na2je">1</fing>
@@ -37945,8 +37945,8 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="d1b7x2kz" label="f" startid="#nd2czgf">f</dynam>
-                                <dynam xml:id="d1yfxfrm" label="p" startid="#nkl8cb1">p</dynam>
+                                <dynam xml:id="d1b7x2kz" label="f" staff="1" tstamp="1">f</dynam>
+                                <dynam xml:id="d1yfxfrm" label="p" staff="1" tstamp="2.5">p</dynam>
                                 <slur xml:id="s1ntnqdk" startid="#nkl8cb1" endid="#n1i1id0h"/>
                                 <pedal xml:id="pt2p6u5" tstamp="1" tstamp2="2.3" staff="2" dir="down" form="pedstar"/>
                                 <slur xml:id="s1jwbjr8" startid="#ncypu3v" endid="#n1vphsns" curvedir="below"/>
@@ -38055,7 +38055,7 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="d1ux131k" label="cresc." startid="#nuc046p" endid="#cyobqrs" extender="true">cresc.</dynam>
+                                <dynam xml:id="d1ux131k" label="cresc." staff="1" tstamp="1" tstamp2="1m+3" extender="true">cresc.</dynam>
                                 <fing xml:id="fg1t215" place="below" startid="#nvehcrn">1</fing>
                                 <fing xml:id="fh56ofz" place="below" startid="#nf3wkbm">4</fing>
                                 <fing xml:id="fo0mlob" place="below" startid="#n1xw8gy7">3</fing>
@@ -38219,7 +38219,7 @@
                                         </chord>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="dpo4dr1" label="f" startid="#cyobqrs">f</dynam>
+                                <dynam xml:id="dpo4dr1" label="f" staff="1" tstamp="1">f</dynam>
                                 <slur xml:id="sh1dot2" startid="#n13isvqn" endid="#n1jvx7wi"/>
                                 <fing xml:id="fk3z34m" startid="#n13isvqn" place="above">1</fing>
                                 <fing xml:id="f1cs389h" startid="#n1ji2780" place="above">1</fing>
@@ -38301,7 +38301,7 @@
                                         </chord>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="ds8yyg9" label="sf" startid="#n1jvx7wi">sf</dynam>
+                                <dynam xml:id="ds8yyg9" label="sf" staff="1" tstamp="1">sf</dynam>
                                 <slur xml:id="s10xrj4g" startid="#n1beyo56" endid="#n10wliw3"/>
                                 <fing xml:id="f5wnwjv" startid="#n1beyo56" place="above">1</fing>
                                 <fing xml:id="fwj01l1" startid="#nz2i33k" place="above">1</fing>
@@ -38486,7 +38486,7 @@
                                         <space xml:id="sn7lyl6" dur="4"/>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="d1y0v20k" label="p" startid="#neued9x">p</dynam>
+                                <dynam xml:id="d1y0v20k" label="p" staff="1" tstamp="1">p</dynam>
                                 <slur xml:id="siy3u21" startid="#ns8p71x" endid="#nzsebt8"/>
                                 <fing xml:id="f5bulhn" startid="#ns8p71x" place="above">1</fing>
                                 <fing xml:id="fjfvh33" startid="#n1me7zi9" place="above">4</fing>
@@ -38603,7 +38603,7 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="d1tns1xd" label="cresc." startid="#nwrvc7l" endid="#n7brn30" extender="true">cresc.</dynam>
+                                <dynam xml:id="d1tns1xd" label="cresc." staff="1" tstamp="1" tstamp2="3" extender="true">cresc.</dynam>
                                 <fing xml:id="f66jylo" place="below" startid="#nz305ej">3</fing>
                                 <fing xml:id="fta2jt9" place="below" startid="#n1u9kynx">1</fing>
                                 <fing xml:id="f1t728v8" place="below" startid="#nytc7fy">4</fing>
@@ -38708,8 +38708,8 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="d1agaskf" label="f" startid="#n7brn30">f</dynam>
-                                <dynam xml:id="dkcu5sm" label="p" startid="#neh1ajw">p</dynam>
+                                <dynam xml:id="d1agaskf" label="f" staff="1" tstamp="1">f</dynam>
+                                <dynam xml:id="dkcu5sm" label="p" staff="1" tstamp="2.5">p</dynam>
                                 <slur xml:id="sh67kqm" startid="#neh1ajw" endid="#n151uho4"/>
                                 <fing xml:id="fzqsm33" place="below" startid="#n1adxa7s">4</fing>
                                 <fing xml:id="f14dqh70" place="below" startid="#n1iqpsci">2</fing>
@@ -38817,7 +38817,7 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="dw7va37" label="cresc." startid="#no6rg48" endid="#ctrgymb" extender="true">cresc.</dynam>
+                                <dynam xml:id="dw7va37" label="cresc." staff="1" tstamp="1.5" tstamp2="1m+3" extender="true">cresc.</dynam>
                                 <fing xml:id="fney9p2" place="below" startid="#neaslvw">3</fing>
                                 <fing xml:id="f7u05gr" place="below" startid="#n1jjsc32">4</fing>
                                 <fing xml:id="f185iqxa" startid="#n4tqx8k" place="above">4</fing>
@@ -39008,7 +39008,7 @@
                                         </chord>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="d1mp7jh1" label="f" startid="#ctrgymb">f</dynam>
+                                <dynam xml:id="d1mp7jh1" label="f" staff="1" tstamp="1">f</dynam>
                                 <slur xml:id="s155zdz9" startid="#nz05ml9" endid="#npdiuzt"/>
                                 <fing xml:id="f1uh63kp" startid="#nz05ml9" place="above">2</fing>
                                 <fing xml:id="f1axqngs" startid="#nud9flt" place="above">1</fing>
@@ -39083,7 +39083,7 @@
                                         </chord>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="d1h50wmf" label="sf" startid="#npdiuzt">sf</dynam>
+                                <dynam xml:id="d1h50wmf" label="sf" staff="1" tstamp="1">sf</dynam>
                                 <slur xml:id="sxi5uny" startid="#n1gfrrk5" endid="#n11gmoqo"/>
                             </measure>
                             <sb xml:id="w1l98jyu"/>
@@ -39174,7 +39174,7 @@
                                 <fing xml:id="f5tr34y" startid="#n7etmvu" place="above">5</fing>
                                 <slur xml:id="s1666crr" startid="#npifxcu" endid="#n5qnj51"/>
                                 <fing xml:id="f1duwmup" startid="#npifxcu" place="above">1</fing>
-                                <hairpin xml:id="hw2qh79" startid="#n13kyfn7" endid="#njrlbi9" form="dim" tstamp="1" tstamp2="2.5" staff="1"/>
+                                <hairpin xml:id="hw2qh79" form="dim" tstamp="2.125" tstamp2="2.75" staff="1"/>
                                 <fing xml:id="f1m3eww7" startid="#n13kyfn7" place="above">3</fing>
                                 <fing xml:id="fspea30" startid="#n1sykpjf" place="above">1</fing>
                                 <fing xml:id="fqt3gsv" startid="#n6u50e1" ho="-3" vo="-9">3</fing>
@@ -39245,7 +39245,7 @@
                                     </layer>
                                 </staff>
                                 <tempo xml:id="d10d0500" label="lento" startid="#n5qnj51">un poco più lento</tempo>
-                                <dynam xml:id="di4qtf6" label="p" startid="#n5qnj51">p</dynam>
+                                <dynam xml:id="di4qtf6" label="p" staff="1" tstamp="1">p</dynam>
                                 <hairpin xml:id="q103ugrx" staff="1" tstamp="1.7" tstamp2="2.2" form="cres" place="above"/>
                                 <hairpin xml:id="rwh4ppg" staff="1" tstamp="2.3" tstamp2="2.7" form="dim" place="above" vo="6"/>
                                 <slur xml:id="s1vlmi20" startid="#n1ijfoii" endid="#n1tu7li0"/>
@@ -39474,7 +39474,7 @@
                                 </staff>
                                 <fing xml:id="fu4vfy3" startid="#n13dtnl7" vo="-6">4</fing>
                                 <hairpin xml:id="gdtuym0" staff="1" tstamp="1.7" tstamp2="2.2" form="cres" place="above"/>
-                                <hairpin xml:id="h1hu7ddz" staff="1" tstamp="2.3" tstamp2="2.7" form="dim" place="above"/>
+                                <hairpin xml:id="h1hu7ddz" staff="1" tstamp="2.3" tstamp2="2.7" form="dim" place="above" vo="2"/>
                                 <slur xml:id="s1t5k1ww" startid="#nqregoc" endid="#nle6ljn" curvedir="above"/>
                                 <tie xml:id="tf5w37n" startid="#nqregoc" endid="#n1ufv4l8"/>
                                 <fing xml:id="flhvnvo" startid="#nqregoc">1</fing>
@@ -39554,14 +39554,14 @@
                                     </layer>
                                 </staff>
                                 <tempo xml:id="d16xfbi4" label="string" startid="#rjp6amu">stringendo</tempo>
-                                <dynam xml:id="dab2bp5" label="cresc." startid="#n1231px8" endid="#n12kdydb" extender="true">cresc.</dynam>
+                                <dynam xml:id="dab2bp5" label="cresc." staff="1" tstamp="1.375" tstamp2="1m+3" extender="true">cresc.</dynam>
                                 <slur xml:id="s1xi61ld" startid="#n1231px8" endid="#n16n7u3h"/>
-                                <hairpin xml:id="y1m96j4i" staff="1" tstamp="1.5" tstamp2="1.7" form="cres" place="above"/>
-                                <hairpin xml:id="zrukuf6" staff="1" tstamp="1.8" tstamp2="1.9" form="dim" place="above"/>
+                                <hairpin xml:id="y1m96j4i" staff="1" tstamp="1.375" tstamp2="1.7" form="cres" place="above"/>
+                                <hairpin xml:id="zrukuf6" staff="1" tstamp="1.8" tstamp2="1.975" form="dim" place="above" vo="6"/>
                                 <fing xml:id="f1p67j5g" startid="#n1231px8" place="above">1</fing>
-                                <fing xml:id="f1sprbg" startid="#nfom3te" vo="-9">5</fing>
-                                <hairpin xml:id="e1lp6rt8" staff="1" tstamp="2.5" tstamp2="2.7" form="cres" place="above"/>
-                                <hairpin xml:id="fz4n6mj" staff="1" tstamp="2.8" tstamp2="2.9" form="dim" place="above"/>
+                                <fing xml:id="f1sprbg" startid="#nfom3te" place="below" vo="12">5</fing>
+                                <hairpin xml:id="e1lp6rt8" staff="1" tstamp="2.375" tstamp2="2.7" form="cres" place="above"/>
+                                <hairpin xml:id="fz4n6mj" staff="1" tstamp="2.8" tstamp2="2.975" form="dim" place="above"/>
                                 <slur xml:id="sr1i06p" startid="#nlxyrk" endid="#n1s3gp1d"/>
                                 <fing xml:id="foj523v" startid="#nlxyrk" place="below">1</fing>
                                 <fing xml:id="f1a5bptg" startid="#ndened1" place="below">4</fing>
@@ -39755,8 +39755,8 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="dlwwoga" label="f" startid="#n1wbs667">f</dynam>
-                                <dynam xml:id="d1mjb9af" startid="#n1ux9dwu">sempre più forte</dynam>
+                                <dynam xml:id="dlwwoga" label="f" staff="1" tstamp="1">f</dynam>
+                                <dynam xml:id="d1mjb9af" staff="1" tstamp="1.125">sempre più forte</dynam>
                                 <slur xml:id="sijl1bb" startid="#n1ux9dwu" endid="#n106vl76"/>
                                 <fing xml:id="fpq2s72" startid="#n1ux9dwu" place="above">4</fing>
                                 <slur xml:id="sfk8nvv" startid="#n1oc5zpo" endid="#n1e5p9z6"/>
@@ -39936,7 +39936,7 @@
                                         <rest xml:id="r27a66i" dur="8"/>
                                     </layer>
                                 </staff>
-                                <dynam xml:id="d7tu2mj" label="ff" startid="#c1jedsc5">ff</dynam>
+                                <dynam xml:id="d7tu2mj" label="ff" staff="1" tstamp="2">ff</dynam>
                                 <fing xml:id="fg21s5g" place="below" startid="#n1ojt6rl">4</fing>
                                 <fing xml:id="ftcu25a" place="below" startid="#n1vk68kp">2</fing>
                             </measure>
