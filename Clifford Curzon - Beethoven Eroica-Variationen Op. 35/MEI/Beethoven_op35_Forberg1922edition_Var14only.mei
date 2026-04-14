@@ -76,8 +76,8 @@
                                         </note>
                                     </layer>
                                 </staff>
-                                <tempo xml:id="d1x71xvi" label="meno" staff="1" tstamp="0">Meno mosso.</tempo>
-                                <dynam xml:id="dj2lh4p" label="p" staff="2" tstamp="1">p</dynam>
+                                <tempo xml:id="d1x71xvi" label="meno" place="above" tstamp="0">Meno mosso.</tempo>
+                                <dynam xml:id="dj2lh4p" label="p" tstamp="1">p</dynam>
                                 <slur xml:id="seubi4c" startid="#nwqgcz5" endid="#n1ftb3dd"/>
                                 <fing xml:id="ffvuhff" startid="#nwqgcz5" place="above">3</fing>
                             </measure>
