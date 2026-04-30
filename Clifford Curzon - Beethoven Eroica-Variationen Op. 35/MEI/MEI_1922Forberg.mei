@@ -78,7 +78,7 @@
                         <staffGrp xml:id="hoy8q9k" bar.thru="true" symbol="brace" label="piano">
                             <label>Introduzione<lb/><rend fontsize="smaller">col basso del Tema.</rend></label>
                             <instrDef xml:id="j1wrelzf" midi.instrnum="0"/>
-                            <staffDef xml:id="k1nlk7mo" n="1" lines="5"  label="right hand">
+                            <staffDef xml:id="k1nlk7mo" n="1" lines="5" label="right hand">
                                 <clef xml:id="t9edjnw" shape="G" line="2"/>
                             </staffDef>
                             <staffDef xml:id="us8cld0" n="2" lines="5" label="left hand">
@@ -1240,7 +1240,7 @@
             </mdiv>
             <mdiv xml:id="A_tre" label="A tre." n="3" type="IntroSubdiv">
                 <score xml:id="oekln1u">
-                    <scoreDef xml:id="r1ykvktx" keysig="3f" meter.count="2" meter.unit="4" >
+                    <scoreDef xml:id="r1ykvktx" keysig="3f" meter.count="2" meter.unit="4">
                         <staffGrp xml:id="t1mvkocy" bar.thru="true" symbol="brace" label="piano">
                             <instrDef xml:id="v1m05eaq" midi.instrnum="0"/>
                             <staffDef xml:id="waa2cjh" n="1" lines="5" label="right hand">
@@ -1877,7 +1877,7 @@
             </mdiv>
             <mdiv xml:id="A_Quattro" label="A Quattro." n="4" type="IntroSubdiv">
                 <score xml:id="q1qs62j2">
-                    <scoreDef xml:id="t1jx240i" keysig="3f" meter.count="2" meter.unit="4" >
+                    <scoreDef xml:id="t1jx240i" keysig="3f" meter.count="2" meter.unit="4">
                         <staffGrp xml:id="v177zogv" bar.thru="true" symbol="brace" label="piano">
                             <instrDef xml:id="x1wb1bny" midi.instrnum="0"/>
                             <staffDef xml:id="y1kvkmmj" n="1" lines="5" label="right hand">
@@ -5180,7 +5180,7 @@
             </mdiv>
             <mdiv xml:id="Var_2" label="Var. II." n="6" type="variation">
                 <score xml:id="x28s48y">
-                    <scoreDef xml:id="an53q64" keysig="3f" meter.count="2" meter.unit="4" >
+                    <scoreDef xml:id="an53q64" keysig="3f" meter.count="2" meter.unit="4">
                         <staffGrp xml:id="b1rfzvoe" bar.thru="true" symbol="brace" label="piano">
                             <instrDef xml:id="dup0w42" midi.instrnum="0"/>
                             <staffDef xml:id="e1ali639" n="1" lines="5" label="right hand">
@@ -6614,7 +6614,7 @@
             </mdiv>
             <mdiv xml:id="Var_3" label="Var. III." n="7" type="variation">
                 <score xml:id="k1whb1cg">
-                    <scoreDef xml:id="n4beno1" keysig="3f" meter.count="2" meter.unit="4" >
+                    <scoreDef xml:id="n4beno1" keysig="3f" meter.count="2" meter.unit="4">
                         <staffGrp xml:id="o1142y4y" bar.thru="true" symbol="brace" label="piano">
                             <instrDef xml:id="q1u3zw2l" midi.instrnum="0"/>
                             <staffDef xml:id="rqxlosk" n="1" lines="5" label="right hand">
@@ -7949,7 +7949,7 @@
             </mdiv>
             <mdiv xml:id="Var_4" label="Var. IV." n="8" type="variation">
                 <score xml:id="i150em5r">
-                    <scoreDef xml:id="l78oiy4" keysig="3f" meter.count="2" meter.unit="4" >
+                    <scoreDef xml:id="l78oiy4" keysig="3f" meter.count="2" meter.unit="4">
                         <staffGrp xml:id="m1fobmfx" bar.thru="true" symbol="brace" label="piano">
                             <instrDef xml:id="o1g68vkl" midi.instrnum="0"/>
                             <staffDef xml:id="phl8i0" n="1" lines="5" label="right hand">
@@ -8982,7 +8982,7 @@
             </mdiv>
             <mdiv xml:id="Var_5" label="Var. V." n="9" type="variation">
                 <score xml:id="ekxy52p">
-                    <scoreDef xml:id="hm0gj93" keysig="3f" meter.count="2" meter.unit="4" >
+                    <scoreDef xml:id="hm0gj93" keysig="3f" meter.count="2" meter.unit="4">
                         <staffGrp xml:id="i60dha" bar.thru="true" symbol="brace" label="piano">
                             <instrDef xml:id="k76lhuu" midi.instrnum="0"/>
                             <staffDef xml:id="l18xsdsf" n="1" lines="5" label="right hand">
@@ -9716,7 +9716,7 @@
             </mdiv>
             <mdiv xml:id="Var_6" label="Var. VI." n="10" type="variation">
                 <score xml:id="z12yy5sb">
-                    <scoreDef xml:id="c7b5fy8" keysig="3f" meter.count="2" meter.unit="4" >
+                    <scoreDef xml:id="c7b5fy8" keysig="3f" meter.count="2" meter.unit="4">
                         <staffGrp xml:id="d1yt2f6g" bar.thru="true" symbol="brace" label="piano">
                             <instrDef xml:id="f1j0ekla" midi.instrnum="0"/>
                             <staffDef xml:id="g60dmz7" n="1" lines="5" label="right hand">
@@ -12958,7 +12958,7 @@
             </mdiv>
             <mdiv xml:id="Var_9" label="Var. IX." n="13" type="variation">
                 <score xml:id="l6ulkr0">
-                    <scoreDef xml:id="o19jh25x" keysig="3f" meter.count="2" meter.unit="4" >
+                    <scoreDef xml:id="o19jh25x" keysig="3f" meter.count="2" meter.unit="4">
                         <staffGrp xml:id="p1b2q76w" bar.thru="true" symbol="brace" label="piano">
                             <instrDef xml:id="rd8dj0t" midi.instrnum="0"/>
                             <staffDef xml:id="stgtl95" n="1" lines="5" label="right hand">
@@ -14401,7 +14401,7 @@
                             <staffDef xml:id="ezeznx7" n="1" lines="5" label="right hand">
                                 <clef xml:id="n1e2wy1a" shape="G" line="2"/>
                             </staffDef>
-                            <staffDef xml:id="o4del6d" n="2" lines="5" label="right hand"> 
+                            <staffDef xml:id="o4del6d" n="2" lines="5" label="left hand">
                                 <clef xml:id="xkuhscv" shape="F" line="4"/>
                             </staffDef>
                         </staffGrp>
@@ -20150,7 +20150,7 @@
             </mdiv>
             <mdiv xml:id="Var_14" label="Var. XIV. Minore" n="18" type="variation">
                 <score xml:id="zxon8gy">
-                    <scoreDef xml:id="c19nt21v" keysig="3f" meter.count="2" meter.unit="4" >
+                    <scoreDef xml:id="c19nt21v" keysig="3f" meter.count="2" meter.unit="4">
                         <staffGrp xml:id="di5wkoo" bar.thru="true" symbol="brace" label="piano">
                             <label xml:id="fodjn84d">Var. XIV. <lb/>
                                 <rend fontsize="smaller">Minore.</rend></label>
@@ -27594,7 +27594,7 @@
             </mdiv>
             <mdiv xml:id="Finale" label="Finale alla Fuga." n="20" type="variation">
                 <score xml:id="bdfsrbp">
-                    <scoreDef xml:id="e1kterxg"  keysig="3f" meter.count="2" meter.unit="4" >
+                    <scoreDef xml:id="e1kterxg" keysig="3f" meter.count="2" meter.unit="4">
                         <staffGrp xml:id="f63tuf9" bar.thru="true" symbol="brace" label="piano">
                             <instrDef xml:id="h1gmj9gm" midi.instrnum="0"/>
                             <staffDef xml:id="i1l5kknb" n="1" lines="5" label="right hand">
