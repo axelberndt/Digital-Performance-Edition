@@ -1015,7 +1015,7 @@
                                 <fing xml:id="f8cezdc" startid="#n1kdfx66" place="above">5</fing>
                                 <fing xml:id="f6mm58t" startid="#ne4eoh7" place="above">1</fing>
                             </measure>
-                            <measure xml:id="mvbskpx" metcon="false" n="12">
+                            <measure xml:id="mvbskpx" metcon="false" n="12" right="single">
                                 <ossia xml:id="w1qdvjdg">
                                     <oStaff xml:id="z1co5ff8" n="1" metcon="o">
                                         <layer xml:id="m32s1l1" n="1">
@@ -1056,7 +1056,7 @@
                                                     <accid xml:id="atcejjt" accid="n"/>
                                                 </note>
                                             </beam>
-                                            <barLine xml:id="voei4242"/>
+                                            <barLine xml:id="gztfvfzu42"/>
                                         </layer>
                                     </oStaff>
                                     <staff xml:id="m32s1" n="1" metcon="i">
@@ -1064,7 +1064,7 @@
                                             <note xml:id="n7unqz7" dur="4" oct="4" pname="e">
                                                 <accid xml:id="fgwa4r9" accid.ges="f"/>
                                             </note>
-                                            <graceGrp xml:id="j1ryohmq" attach="post">
+                                            <graceGrp xml:id="j1ryohmq" attach="unknown">
                                                 <beam xml:id="gidbdxu">
                                                     <note xml:id="nh1nrn0" dur="8" oct="4" pname="e">
                                                         <accid xml:id="ikhc63f" accid.ges="f"/>
@@ -1077,8 +1077,8 @@
                                                 </beam>
                                             </graceGrp>
                                             <note xml:id="n1b9c2g2" dur="8" oct="4" pname="d" dur.ges="4"/>
-                                            <space xml:id="öfowdin42" dur="8"/>
-                                            <graceGrp xml:id="s1o0o98s" attach="post">
+                                            <space xml:id="rfowdin42" dur="8"/>
+                                            <graceGrp xml:id="s1o0o98s" attach="pre">
                                                 <beam xml:id="o1xlilai">
                                                     <note xml:id="n2ikw9y" dur="16" oct="4" pname="e">
                                                         <accid xml:id="qnmblrj" accid.ges="f"/>
@@ -5989,11 +5989,12 @@
                                 <fing xml:id="f1jwotyf" startid="#n1y7xqiv" place="above">1</fing>
                             </measure>
                             <pb xml:id="u35yj83" n="5"/>
-                            <measure xml:id="mc8uhob" metcon="false" n="12">
+                            <measure xml:id="mc8uhob" n="12">
                                 <staff xml:id="m123s1" n="1">
                                     <layer xml:id="m123s1l1" n="1">
                                         <note xml:id="n1anlfpc" dur="4" oct="6" pname="d"/>
-                                        <graceGrp xml:id="hz1xi15" attach="post">
+                                        <space xml:id="iufgeh42" dur="4"/>
+                                        <graceGrp xml:id="bgfuzig42">
                                             <beam xml:id="ixh08vd">
                                                 <note xml:id="n16hw721" dur="16" oct="6" pname="d"/>
                                                 <note xml:id="n1o16lj7" dur="16" oct="5" pname="b">
@@ -6046,54 +6047,207 @@
                                                 <note xml:id="n5rpft6" dur="16" oct="6" pname="d"/>
                                             </beam>
                                         </graceGrp>
-                                        <beam xml:id="u6qewzy">
-                                            <tuplet xml:id="t1al3pts" num="3" numbase="2" bracket.visible="false">
-                                                <note xml:id="n1wi8mew" dur="16" oct="6" pname="f"/>
-                                                <note xml:id="n1xe30lj" dur="16" oct="6" pname="d"/>
-                                                <note xml:id="nif5eti" dur="16" oct="5" pname="a">
-                                                    <accid xml:id="zwt71s0" accid.ges="f"/>
-                                                </note>
-                                            </tuplet>
-                                            <tuplet xml:id="tqh4kau" num="3" numbase="2" bracket.visible="false">
-                                                <note xml:id="n1vg4ivi" dur="16" oct="6" pname="d"/>
-                                                <note xml:id="nc4vp32" dur="16" oct="5" pname="a">
-                                                    <accid xml:id="d1uf7n47" accid.ges="f"/>
-                                                </note>
-                                                <note xml:id="nz62hdc" dur="16" oct="5" pname="f"/>
-                                            </tuplet>
-                                        </beam>
-                                        <beam xml:id="f1fwcfzb">
-                                            <tuplet xml:id="t1ol7o5a" num="3" numbase="2" bracket.visible="false">
-                                                <note xml:id="n4vif8k" dur="16" oct="5" pname="a">
-                                                    <accid xml:id="iucfi2z" accid.ges="f"/>
-                                                </note>
-                                                <note xml:id="nvh54ew" dur="16" oct="5" pname="f"/>
-                                                <note xml:id="nr6f24b" dur="16" oct="5" pname="d"/>
-                                            </tuplet>
-                                            <tuplet xml:id="tyrhd90" num="3" numbase="2" bracket.visible="false">
-                                                <note xml:id="nqyy71f" dur="16" oct="5" pname="f"/>
-                                                <note xml:id="n13o1py4" dur="16" oct="5" pname="d"/>
-                                                <note xml:id="n10mdkb2" dur="16" oct="4" pname="a">
-                                                    <accid xml:id="p12borlh" accid.ges="f"/>
-                                                </note>
-                                            </tuplet>
-                                        </beam>
-                                        <beam xml:id="q10wtn6t">
-                                            <tuplet xml:id="tk7qvge" num="3" numbase="2" bracket.visible="false" num.place="below">
-                                                <note xml:id="nnsvesl" dur="16" oct="5" pname="d"/>
-                                                <note xml:id="n160h55d" dur="16" oct="4" pname="a">
-                                                    <accid xml:id="u1sk5kcf" accid.ges="f"/>
-                                                </note>
-                                                <note xml:id="n1gx9vci" dur="16" oct="4" pname="f"/>
-                                            </tuplet>
-                                            <tuplet xml:id="t1w8og7d" num="3" numbase="2" bracket.visible="false" num.place="below">
-                                                <note xml:id="n1jvcaoa" dur="16" oct="4" pname="a">
-                                                    <accid xml:id="y1ctz095" accid.ges="f"/>
-                                                </note>
-                                                <note xml:id="n1e23z8u" dur="16" oct="4" pname="f"/>
-                                                <note xml:id="n1nmbsuh" dur="16" oct="4" pname="d"/>
-                                            </tuplet>
-                                        </beam>
+                                        <graceGrp xml:id="fijwenf42">
+                                            <beam xml:id="u6qewzy">
+                                                <tuplet xml:id="t1al3pts" num="3" numbase="2" bracket.visible="false">
+                                                    <note xml:id="n1wi8mew" dur="16" oct="6" pname="f"/>
+                                                    <note xml:id="n1xe30lj" dur="16" oct="6" pname="d"/>
+                                                    <note xml:id="nif5eti" dur="16" oct="5" pname="a">
+                                                        <accid xml:id="zwt71s0" accid.ges="f"/>
+                                                    </note>
+                                                </tuplet>
+                                                <tuplet xml:id="tqh4kau" num="3" numbase="2" bracket.visible="false">
+                                                    <note xml:id="n1vg4ivi" dur="16" oct="6" pname="d"/>
+                                                    <note xml:id="nc4vp32" dur="16" oct="5" pname="a">
+                                                        <accid xml:id="d1uf7n47" accid.ges="f"/>
+                                                    </note>
+                                                    <note xml:id="nz62hdc" dur="16" oct="5" pname="f"/>
+                                                </tuplet>
+                                            </beam>
+                                            <beam xml:id="f1fwcfzb">
+                                                <tuplet xml:id="t1ol7o5a" num="3" numbase="2" bracket.visible="false">
+                                                    <note xml:id="n4vif8k" dur="16" oct="5" pname="a">
+                                                        <accid xml:id="iucfi2z" accid.ges="f"/>
+                                                    </note>
+                                                    <note xml:id="nvh54ew" dur="16" oct="5" pname="f"/>
+                                                    <note xml:id="nr6f24b" dur="16" oct="5" pname="d"/>
+                                                </tuplet>
+                                                <tuplet xml:id="tyrhd90" num="3" numbase="2" bracket.visible="false">
+                                                    <note xml:id="nqyy71f" dur="16" oct="5" pname="f"/>
+                                                    <note xml:id="n13o1py4" dur="16" oct="5" pname="d"/>
+                                                    <note xml:id="n10mdkb2" dur="16" oct="4" pname="a">
+                                                        <accid xml:id="p12borlh" accid.ges="f"/>
+                                                    </note>
+                                                </tuplet>
+                                            </beam>
+                                            <beam xml:id="q10wtn6t">
+                                                <tuplet xml:id="tk7qvge" num="3" numbase="2" bracket.visible="false" num.place="below">
+                                                    <note xml:id="nnsvesl" dur="16" oct="5" pname="d"/>
+                                                    <note xml:id="n160h55d" dur="16" oct="4" pname="a">
+                                                        <accid xml:id="u1sk5kcf" accid.ges="f"/>
+                                                    </note>
+                                                    <note xml:id="n1gx9vci" dur="16" oct="4" pname="f"/>
+                                                </tuplet>
+                                                <tuplet xml:id="t1w8og7d" num="3" numbase="2" bracket.visible="false" num.place="below">
+                                                    <note xml:id="n1jvcaoa" dur="16" oct="4" pname="a">
+                                                        <accid xml:id="y1ctz095" accid.ges="f"/>
+                                                    </note>
+                                                    <note xml:id="n1e23z8u" dur="16" oct="4" pname="f"/>
+                                                    <note xml:id="n1nmbsuh" dur="16" oct="4" pname="d"/>
+                                                </tuplet>
+                                            </beam>
+                                        </graceGrp>
+                                        <!--Verovio does not display sb within measure (or deeper) -->
+                                        <sb xml:id="fug77uz42"/>
+                                        <graceGrp>
+                                            <beam xml:id="et2bkxg" place="above">
+                                                <tuplet xml:id="tdpv9wv" num="3" numbase="2" bracket.visible="false" num.place="below">
+                                                    <note xml:id="n14uj7qj" dur="16" oct="4" pname="f" grace="unknown"/>
+                                                    <note xml:id="n19n2lnl" dur="16" oct="4" pname="d" grace="unknown"/>
+                                                    <note xml:id="n1twob97" dur="16" staff="2" oct="3" pname="a">
+                                                        <accid xml:id="j18svq7n" accid.ges="f"/>
+                                                    </note>
+                                                </tuplet>
+                                                <tuplet xml:id="t149oqj5" num="3" numbase="2" bracket.visible="false" num.place="below">
+                                                    <note xml:id="n1wibtac" dur="16" staff="2" oct="4" pname="d"/>
+                                                    <note xml:id="n1t6wv9q" dur="16" staff="2" oct="3" pname="a">
+                                                        <accid xml:id="nul747r" accid.ges="f"/>
+                                                    </note>
+                                                    <note xml:id="nxfvm7y" dur="16" staff="2" oct="3" pname="f"/>
+                                                </tuplet>
+                                            </beam>
+                                            <beam xml:id="p12jkcu7">
+                                                <tuplet xml:id="tnnbnw5" num="3" numbase="2" bracket.visible="false" num.place="below">
+                                                    <note xml:id="n4tfmh6" dur="16" staff="2" oct="3" pname="a">
+                                                        <accid xml:id="s1ejp3x3" accid.ges="f"/>
+                                                    </note>
+                                                    <note xml:id="n1k8ylyx" dur="16" staff="2" oct="3" pname="f"/>
+                                                    <note xml:id="n194w9dp" dur="16" staff="2" oct="3" pname="d"/>
+                                                </tuplet>
+                                            </beam>
+                                        </graceGrp>
+                                        <graceGrp xml:id="difbgf42">
+                                            <beam xml:id="v4wasrc">
+                                                <tuplet xml:id="twp354e" num="3" numbase="2" num.visible="false" bracket.visible="false">
+                                                    <note xml:id="n66vehz" dur="16" staff="2" oct="2" pname="b">
+                                                        <accid xml:id="y1obop8u" accid.ges="f"/>
+                                                    </note>
+                                                    <note xml:id="n125xyor" dur="16" staff="2" oct="2" pname="b">
+                                                        <accid xml:id="ah8xzwt" accid="n"/>
+                                                    </note>
+                                                    <note xml:id="n1ntlccy" dur="16" staff="2" oct="3" pname="c"/>
+                                                </tuplet>
+                                                <tuplet xml:id="tqf3ize" num="3" numbase="2" num.visible="false" bracket.visible="false">
+                                                    <note xml:id="nowruc2" dur="16" staff="2" oct="3" pname="c">
+                                                        <accid xml:id="a1qy0kiz" accid="s"/>
+                                                    </note>
+                                                    <note xml:id="nfn1aky" dur="16" staff="2" oct="3" pname="d"/>
+                                                    <note xml:id="napfy0x" dur="16" staff="2" oct="3" pname="e">
+                                                        <accid xml:id="h1uvxx72" accid.ges="f"/>
+                                                    </note>
+                                                </tuplet>
+                                            </beam>
+                                            <beam xml:id="l153z61n">
+                                                <tuplet xml:id="t1r7jk7r" num="3" numbase="2" num.visible="false" bracket.visible="false">
+                                                    <note xml:id="n17742wx" dur="16" staff="2" oct="3" pname="e">
+                                                        <accid xml:id="a127usss" accid="n"/>
+                                                    </note>
+                                                    <note xml:id="p11n3aqj" dur="16" staff="2" oct="3" pname="f"/>
+                                                    <note xml:id="qtiw5t" dur="16" staff="2" oct="3" pname="f">
+                                                        <accid xml:id="r69qab8" accid="s"/>
+                                                    </note>
+                                                </tuplet>
+                                                <tuplet xml:id="tegezu7" num="3" numbase="2" num.visible="false" bracket.visible="false">
+                                                    <note xml:id="t1wl7qmg" dur="16" staff="2" oct="3" pname="g"/>
+                                                    <note xml:id="uoc2yp6" dur="16" staff="2" oct="3" pname="a">
+                                                        <accid xml:id="v1e4lo5n" accid="f"/>
+                                                    </note>
+                                                    <note xml:id="n18ok5nl" dur="16" staff="2" oct="3" pname="a">
+                                                        <accid xml:id="axk1p96" accid="n"/>
+                                                    </note>
+                                                </tuplet>
+                                            </beam>
+                                            <beam xml:id="q1pkhlgu" place="above">
+                                                <tuplet xml:id="tx3iles" num="3" numbase="2" num.visible="false" bracket.visible="false">
+                                                    <note xml:id="ncqi6r" dur="16" staff="2" oct="3" pname="b">
+                                                        <accid xml:id="t1fwlxan" accid.ges="f"/>
+                                                    </note>
+                                                    <note xml:id="ncptz0n" dur="16" staff="2" oct="3" pname="b">
+                                                        <accid xml:id="a3mv4ye" accid="n"/>
+                                                    </note>
+                                                    <note xml:id="newxxfm" dur="16" staff="2" oct="4" pname="c"/>
+                                                </tuplet>
+                                                <tuplet xml:id="t5coksk" num="3" numbase="2" num.visible="false" bracket.visible="false">
+                                                    <note xml:id="n5mp6jf" dur="16" staff="2" oct="4" pname="c">
+                                                        <accid xml:id="am5rypb" accid="s"/>
+                                                    </note>
+                                                    <note xml:id="n1egtqwl" dur="16" oct="4" pname="d"/>
+                                                    <note xml:id="nplchzl" dur="16" oct="4" pname="e">
+                                                        <accid xml:id="cadmk8z" accid.ges="f"/>
+                                                    </note>
+                                                </tuplet>
+                                            </beam>
+                                            <beam xml:id="dsi3zm5">
+                                                <tuplet xml:id="t1ka8oq1" num="3" numbase="2" num.visible="false" bracket.visible="false">
+                                                    <note xml:id="n10j2vu" dur="16" oct="4" pname="e">
+                                                        <accid xml:id="a195cnib" accid="n"/>
+                                                    </note>
+                                                    <note xml:id="ni7c3jq" dur="16" oct="4" pname="f"/>
+                                                    <note xml:id="n1ins6yi" dur="16" oct="4" pname="f">
+                                                        <accid xml:id="a1dw3djn" accid="s"/>
+                                                    </note>
+                                                </tuplet>
+                                                <tuplet xml:id="t1fafk6x" num="3" numbase="2" num.visible="false" bracket.visible="false">
+                                                    <note xml:id="n1aywz0u" dur="16" oct="4" pname="g"/>
+                                                    <note xml:id="ns0uepv" dur="16" oct="4" pname="a">
+                                                        <accid xml:id="nsfp0ti" accid.ges="f"/>
+                                                    </note>
+                                                    <note xml:id="n1ri7pp4" dur="16" oct="4" pname="a">
+                                                        <accid xml:id="akeyrwt" accid="n"/>
+                                                    </note>
+                                                </tuplet>
+                                            </beam>
+                                            <beam xml:id="q1myh5hc">
+                                                <tuplet xml:id="t1xjcvci" num="3" numbase="2" num.visible="false" bracket.visible="false">
+                                                    <note xml:id="nobu01h" dur="16" oct="4" pname="b">
+                                                        <accid xml:id="t17vt0oi" accid.ges="f"/>
+                                                    </note>
+                                                    <note xml:id="ng4o0wq" dur="16" oct="4" pname="b">
+                                                        <accid xml:id="axfur75" accid="n"/>
+                                                    </note>
+                                                    <note xml:id="nhsydfb" dur="16" oct="5" pname="c"/>
+                                                </tuplet>
+                                                <tuplet xml:id="t1sdpr8d" num="3" numbase="2" num.visible="false" bracket.visible="false">
+                                                    <note xml:id="n18ecq5" dur="16" oct="5" pname="c">
+                                                        <accid xml:id="a1r7yv80" accid="s"/>
+                                                    </note>
+                                                    <note xml:id="n9679k5" dur="16" oct="5" pname="d"/>
+                                                    <note xml:id="n1wvs0x" dur="16" oct="5" pname="e">
+                                                        <accid xml:id="c1xb5z94" accid.ges="f"/>
+                                                    </note>
+                                                </tuplet>
+                                            </beam>
+                                            <beam xml:id="dev58u7">
+                                                <tuplet xml:id="t1utzkmo" num="3" numbase="2" num.visible="false" bracket.visible="false">
+                                                    <note xml:id="n1f3u6dk" dur="16" oct="5" pname="e">
+                                                        <accid xml:id="a1a2mcpk" accid="n"/>
+                                                    </note>
+                                                    <note xml:id="nl0am69" dur="16" oct="5" pname="f"/>
+                                                    <note xml:id="n1nex4zd" dur="16" oct="5" pname="f">
+                                                        <accid xml:id="ajyps44" accid="s"/>
+                                                    </note>
+                                                </tuplet>
+                                                <tuplet xml:id="t1a7v4l5" num="3" numbase="2" num.visible="false" bracket.visible="false">
+                                                    <note xml:id="nncun7n" dur="16" oct="5" pname="g"/>
+                                                    <note xml:id="n1xtz6kb" dur="16" oct="5" pname="a">
+                                                        <accid xml:id="nv2e68l" accid.ges="f"/>
+                                                    </note>
+                                                    <note xml:id="nb5y6en" dur="16" oct="5" pname="a">
+                                                        <accid xml:id="amsikrz" accid="n"/>
+                                                    </note>
+                                                </tuplet>
+                                            </beam>
+                                        </graceGrp>
                                     </layer>
                                 </staff>
                                 <staff xml:id="m123s2" n="2">
@@ -6116,181 +6270,27 @@
                                 <fing xml:id="fp9znpq" staff="2" place="below" startid="#nxgedll">1</fing>
                                 <fing xml:id="fj5zlds" place="above" startid="#n1pylacg">1</fing>
                                 <fing xml:id="fs11quv" startid="#n5rpft6" place="above">5</fing>
-                                <slur xml:id="s7oi45u" startid="#n1wi8mew" endid="#n194w9dp"/>
+                                <slur xml:id="s7oi45u" startid="#n1wi8mew" endid="#n194w9dp" curvedir="above"/>
                                 <fing xml:id="fkz6sq8" startid="#n1wi8mew" place="above">5</fing>
                                 <fing xml:id="fiecn6q" startid="#n1vg4ivi" place="above">4</fing>
                                 <fing xml:id="fhhz7rp" startid="#n4vif8k" place="above">3</fing>
+                                <!--Verovio does not display hairpin with both start and end on gracenotes -->
                                 <hairpin xml:id="huk9438" startid="#nqyy71f" endid="#nxfvm7y" form="dim"/>
                                 <fing xml:id="fju1kbj" startid="#nqyy71f" place="above">5</fing>
                                 <fing xml:id="fh987zq" place="above" startid="#nnsvesl">4</fing>
                                 <fing xml:id="fsgv2ng" place="above" startid="#n1jvcaoa">3</fing>
                                 <fermata xml:id="f1xoxy2k" startid="#n7ul4vo"/>
-                            </measure>
-                            <sb xml:id="s1e958b9"/>
-                            <measure xml:id="m1juaqgg" metcon="false">
-                                <staff xml:id="m124s1" n="1">
-                                    <layer xml:id="m124s1l1" n="1">
-                                        <beam xml:id="et2bkxg" place="above">
-                                            <tuplet xml:id="tdpv9wv" num="3" numbase="2" bracket.visible="false" num.place="below">
-                                                <note xml:id="n14uj7qj" dur="16" oct="4" pname="f"/>
-                                                <note xml:id="n19n2lnl" dur="16" oct="4" pname="d"/>
-                                                <note xml:id="n1twob97" dur="16" staff="2" oct="3" pname="a">
-                                                    <accid xml:id="j18svq7n" accid.ges="f"/>
-                                                </note>
-                                            </tuplet>
-                                            <tuplet xml:id="t149oqj5" num="3" numbase="2" bracket.visible="false" num.place="below">
-                                                <note xml:id="n1wibtac" dur="16" staff="2" oct="4" pname="d"/>
-                                                <note xml:id="n1t6wv9q" dur="16" staff="2" oct="3" pname="a">
-                                                    <accid xml:id="nul747r" accid.ges="f"/>
-                                                </note>
-                                                <note xml:id="nxfvm7y" dur="16" staff="2" oct="3" pname="f"/>
-                                            </tuplet>
-                                        </beam>
-                                        <beam xml:id="p12jkcu7">
-                                            <tuplet xml:id="tnnbnw5" num="3" numbase="2" bracket.visible="false" num.place="below">
-                                                <note xml:id="n4tfmh6" dur="16" staff="2" oct="3" pname="a">
-                                                    <accid xml:id="s1ejp3x3" accid.ges="f"/>
-                                                </note>
-                                                <note xml:id="n1k8ylyx" dur="16" staff="2" oct="3" pname="f"/>
-                                                <note xml:id="n194w9dp" dur="16" staff="2" oct="3" pname="d"/>
-                                            </tuplet>
-                                        </beam>
-                                        <beam xml:id="v4wasrc">
-                                            <tuplet xml:id="twp354e" num="3" numbase="2" num.visible="false" bracket.visible="false">
-                                                <note xml:id="n66vehz" dur="16" staff="2" oct="2" pname="b">
-                                                    <accid xml:id="y1obop8u" accid.ges="f"/>
-                                                </note>
-                                                <note xml:id="n125xyor" dur="16" staff="2" oct="2" pname="b">
-                                                    <accid xml:id="ah8xzwt" accid="n"/>
-                                                </note>
-                                                <note xml:id="n1ntlccy" dur="16" staff="2" oct="3" pname="c"/>
-                                            </tuplet>
-                                            <tuplet xml:id="tqf3ize" num="3" numbase="2" num.visible="false" bracket.visible="false">
-                                                <note xml:id="nowruc2" dur="16" staff="2" oct="3" pname="c">
-                                                    <accid xml:id="a1qy0kiz" accid="s"/>
-                                                </note>
-                                                <note xml:id="nfn1aky" dur="16" staff="2" oct="3" pname="d"/>
-                                                <note xml:id="napfy0x" dur="16" staff="2" oct="3" pname="e">
-                                                    <accid xml:id="h1uvxx72" accid.ges="f"/>
-                                                </note>
-                                            </tuplet>
-                                        </beam>
-                                        <beam xml:id="l153z61n">
-                                            <tuplet xml:id="t1r7jk7r" num="3" numbase="2" num.visible="false" bracket.visible="false">
-                                                <note xml:id="n17742wx" dur="16" staff="2" oct="3" pname="e">
-                                                    <accid xml:id="a127usss" accid="n"/>
-                                                </note>
-                                                <note xml:id="p11n3aqj" dur="16" staff="2" oct="3" pname="f"/>
-                                                <note xml:id="qtiw5t" dur="16" staff="2" oct="3" pname="f">
-                                                    <accid xml:id="r69qab8" accid="s"/>
-                                                </note>
-                                            </tuplet>
-                                            <tuplet xml:id="tegezu7" num="3" numbase="2" num.visible="false" bracket.visible="false">
-                                                <note xml:id="t1wl7qmg" dur="16" staff="2" oct="3" pname="g"/>
-                                                <note xml:id="uoc2yp6" dur="16" staff="2" oct="3" pname="a">
-                                                    <accid xml:id="v1e4lo5n" accid="f"/>
-                                                </note>
-                                                <note xml:id="n18ok5nl" dur="16" staff="2" oct="3" pname="a">
-                                                    <accid xml:id="axk1p96" accid="n"/>
-                                                </note>
-                                            </tuplet>
-                                        </beam>
-                                        <beam xml:id="q1pkhlgu" place="above">
-                                            <tuplet xml:id="tx3iles" num="3" numbase="2" num.visible="false" bracket.visible="false">
-                                                <note xml:id="ncqi6r" dur="16" staff="2" oct="3" pname="b">
-                                                    <accid xml:id="t1fwlxan" accid.ges="f"/>
-                                                </note>
-                                                <note xml:id="ncptz0n" dur="16" staff="2" oct="3" pname="b">
-                                                    <accid xml:id="a3mv4ye" accid="n"/>
-                                                </note>
-                                                <note xml:id="newxxfm" dur="16" staff="2" oct="4" pname="c"/>
-                                            </tuplet>
-                                            <tuplet xml:id="t5coksk" num="3" numbase="2" num.visible="false" bracket.visible="false">
-                                                <note xml:id="n5mp6jf" dur="16" staff="2" oct="4" pname="c">
-                                                    <accid xml:id="am5rypb" accid="s"/>
-                                                </note>
-                                                <note xml:id="n1egtqwl" dur="16" oct="4" pname="d"/>
-                                                <note xml:id="nplchzl" dur="16" oct="4" pname="e">
-                                                    <accid xml:id="cadmk8z" accid.ges="f"/>
-                                                </note>
-                                            </tuplet>
-                                        </beam>
-                                        <beam xml:id="dsi3zm5">
-                                            <tuplet xml:id="t1ka8oq1" num="3" numbase="2" num.visible="false" bracket.visible="false">
-                                                <note xml:id="n10j2vu" dur="16" oct="4" pname="e">
-                                                    <accid xml:id="a195cnib" accid="n"/>
-                                                </note>
-                                                <note xml:id="ni7c3jq" dur="16" oct="4" pname="f"/>
-                                                <note xml:id="n1ins6yi" dur="16" oct="4" pname="f">
-                                                    <accid xml:id="a1dw3djn" accid="s"/>
-                                                </note>
-                                            </tuplet>
-                                            <tuplet xml:id="t1fafk6x" num="3" numbase="2" num.visible="false" bracket.visible="false">
-                                                <note xml:id="n1aywz0u" dur="16" oct="4" pname="g"/>
-                                                <note xml:id="ns0uepv" dur="16" oct="4" pname="a">
-                                                    <accid xml:id="nsfp0ti" accid.ges="f"/>
-                                                </note>
-                                                <note xml:id="n1ri7pp4" dur="16" oct="4" pname="a">
-                                                    <accid xml:id="akeyrwt" accid="n"/>
-                                                </note>
-                                            </tuplet>
-                                        </beam>
-                                        <beam xml:id="q1myh5hc">
-                                            <tuplet xml:id="t1xjcvci" num="3" numbase="2" num.visible="false" bracket.visible="false">
-                                                <note xml:id="nobu01h" dur="16" oct="4" pname="b">
-                                                    <accid xml:id="t17vt0oi" accid.ges="f"/>
-                                                </note>
-                                                <note xml:id="ng4o0wq" dur="16" oct="4" pname="b">
-                                                    <accid xml:id="axfur75" accid="n"/>
-                                                </note>
-                                                <note xml:id="nhsydfb" dur="16" oct="5" pname="c"/>
-                                            </tuplet>
-                                            <tuplet xml:id="t1sdpr8d" num="3" numbase="2" num.visible="false" bracket.visible="false">
-                                                <note xml:id="n18ecq5" dur="16" oct="5" pname="c">
-                                                    <accid xml:id="a1r7yv80" accid="s"/>
-                                                </note>
-                                                <note xml:id="n9679k5" dur="16" oct="5" pname="d"/>
-                                                <note xml:id="n1wvs0x" dur="16" oct="5" pname="e">
-                                                    <accid xml:id="c1xb5z94" accid.ges="f"/>
-                                                </note>
-                                            </tuplet>
-                                        </beam>
-                                        <beam xml:id="dev58u7">
-                                            <tuplet xml:id="t1utzkmo" num="3" numbase="2" num.visible="false" bracket.visible="false">
-                                                <note xml:id="n1f3u6dk" dur="16" oct="5" pname="e">
-                                                    <accid xml:id="a1a2mcpk" accid="n"/>
-                                                </note>
-                                                <note xml:id="nl0am69" dur="16" oct="5" pname="f"/>
-                                                <note xml:id="n1nex4zd" dur="16" oct="5" pname="f">
-                                                    <accid xml:id="ajyps44" accid="s"/>
-                                                </note>
-                                            </tuplet>
-                                            <tuplet xml:id="t1a7v4l5" num="3" numbase="2" num.visible="false" bracket.visible="false">
-                                                <note xml:id="nncun7n" dur="16" oct="5" pname="g"/>
-                                                <note xml:id="n1xtz6kb" dur="16" oct="5" pname="a">
-                                                    <accid xml:id="nv2e68l" accid.ges="f"/>
-                                                </note>
-                                                <note xml:id="nb5y6en" dur="16" oct="5" pname="a">
-                                                    <accid xml:id="amsikrz" accid="n"/>
-                                                </note>
-                                            </tuplet>
-                                        </beam>
-                                    </layer>
-                                </staff>
-                                <staff xml:id="m124s2" n="2">
-                                    <layer xml:id="m124s2l1" n="1">
-                                        <mRest xml:id="m1tc06u8"/>
-                                    </layer>
-                                </staff>
                                 <fing xml:id="fu5ezhg" place="above" startid="#n14uj7qj">5</fing>
                                 <fing xml:id="f15t1jx0" place="above" startid="#n1wibtac">4</fing>
                                 <fing xml:id="fxuer0j" place="above" staff="2" startid="#n4tfmh6">3</fing>
-                                <slur xml:id="sdl5alq" startid="#n66vehz" endid="#nb5y6en"/>
+                                <slur xml:id="sdl5alq" startid="#n66vehz" endid="#nb5y6en" curvedir="above"/>
+                                <!--Verovio does not display pedal extension line with both start and end on gracenotes -->
                                 <pedal xml:id="p1ql54k1" staff="2" startid="#n66vehz" endid="#nb5y6en" dir="down" form="pedstar"/>
                                 <fing xml:id="f1gmwp9n" place="above" staff="2" startid="#n66vehz">2</fing>
                                 <fing xml:id="f1x7ubg8" place="above" staff="2" startid="#n125xyor">1</fing>
                                 <fing xml:id="f1l96gxl" place="above" staff="2" startid="#nfn1aky">1</fing>
                                 <fing xml:id="fvhghab" place="above" staff="2" startid="#n17742wx">1</fing>
+                                <!--Verovio does not display hairpin with both start and end on gracenotes -->
                                 <hairpin xml:id="hynv2kw" startid="#p11n3aqj" endid="#nb5y6en" form="cres"/>
                                 <fing xml:id="c1kiv6z3" place="above" staff="2" startid="#t1wl7qmg">1</fing>
                                 <fing xml:id="f118jno1" place="above" staff="2" startid="#ncptz0n">1</fing>
@@ -21770,52 +21770,55 @@
                                             <accid xml:id="q128p6jd" accid.ges="f"/>
                                         </note>
                                     </chord>
-                                    <beam xml:id="r61a7qq">
-                                        <note xml:id="nlepmip" dur="128" oct="3" pname="b">
-                                            <accid xml:id="t1ydyvh5" accid.ges="f"/>
-                                        </note>
-                                        <note xml:id="n1st1xqg" dur="128" oct="4" pname="c">
-                                            <accid xml:id="v6ayy75" accid.ges="f"/>
-                                        </note>
-                                        <note xml:id="n7fzt0g" dur="128" oct="3" pname="b">
-                                            <accid xml:id="x17c84ec" accid.ges="f"/>
-                                        </note>
-                                        <note xml:id="n1gfvle3" dur="128" oct="3" pname="a">
-                                            <accid xml:id="aed2c08" accid="n"/>
-                                        </note>
-                                        <note xml:id="n1erapwz" dur="128" oct="3" pname="b">
-                                            <accid xml:id="bz1gdud" accid.ges="f"/>
-                                        </note>
-                                        <note xml:id="nmxyto5" dur="128" oct="4" pname="c">
-                                            <accid xml:id="a9e0jhn" accid="n"/>
-                                        </note>
-                                        <note xml:id="n6s0wyy" dur="128" oct="4" pname="d">
-                                            <accid xml:id="a1sqpbo7" accid="n"/>
-                                        </note>
-                                        <note xml:id="nb1w2y6" dur="128" oct="4" pname="e">
-                                            <accid xml:id="h838yyk" accid.ges="f"/>
-                                        </note>
-                                        <note xml:id="n1ksebqf" dur="128" oct="4" pname="f"/>
-                                        <note xml:id="nbkyjw0" dur="128" oct="4" pname="g">
-                                            <accid xml:id="apnldcv" accid="n"/>
-                                        </note>
-                                        <note xml:id="n12mm9l0" dur="128" oct="4" pname="a">
-                                            <accid xml:id="m1srkbbr" accid.ges="f"/>
-                                        </note>
-                                        <note xml:id="n4f3lsb" dur="128" oct="4" pname="b">
-                                            <accid xml:id="o12kwrlz" accid.ges="f"/>
-                                        </note>
-                                        <note xml:id="n4qfwbf" dur="128" oct="5" pname="c">
-                                            <accid xml:id="akv6n63" accid="n"/>
-                                        </note>
-                                        <note xml:id="n197fke7" dur="128" oct="5" pname="d">
-                                            <accid xml:id="a1f3xeye" accid="n"/>
-                                        </note>
-                                        <note xml:id="n1scanvd" dur="128" oct="5" pname="e">
-                                            <accid xml:id="u1xy9yyo" accid.ges="f"/>
-                                        </note>
-                                        <note xml:id="nhwyey3" dur="128" oct="5" pname="f"/>
-                                    </beam>
+                                    <space xml:id="jhfbhh42" dur="8"/>
+                                    <graceGrp>
+                                        <beam xml:id="r61a7qq">
+                                            <note xml:id="nlepmip" dur="128" oct="3" pname="b">
+                                                <accid xml:id="t1ydyvh5" accid.ges="f"/>
+                                            </note>
+                                            <note xml:id="n1st1xqg" dur="128" oct="4" pname="c">
+                                                <accid xml:id="v6ayy75" accid.ges="f"/>
+                                            </note>
+                                            <note xml:id="n7fzt0g" dur="128" oct="3" pname="b">
+                                                <accid xml:id="x17c84ec" accid.ges="f"/>
+                                            </note>
+                                            <note xml:id="n1gfvle3" dur="128" oct="3" pname="a">
+                                                <accid xml:id="aed2c08" accid="n"/>
+                                            </note>
+                                            <note xml:id="n1erapwz" dur="128" oct="3" pname="b">
+                                                <accid xml:id="bz1gdud" accid.ges="f"/>
+                                            </note>
+                                            <note xml:id="nmxyto5" dur="128" oct="4" pname="c">
+                                                <accid xml:id="a9e0jhn" accid="n"/>
+                                            </note>
+                                            <note xml:id="n6s0wyy" dur="128" oct="4" pname="d">
+                                                <accid xml:id="a1sqpbo7" accid="n"/>
+                                            </note>
+                                            <note xml:id="nb1w2y6" dur="128" oct="4" pname="e">
+                                                <accid xml:id="h838yyk" accid.ges="f"/>
+                                            </note>
+                                            <note xml:id="n1ksebqf" dur="128" oct="4" pname="f"/>
+                                            <note xml:id="nbkyjw0" dur="128" oct="4" pname="g">
+                                                <accid xml:id="apnldcv" accid="n"/>
+                                            </note>
+                                            <note xml:id="n12mm9l0" dur="128" oct="4" pname="a">
+                                                <accid xml:id="m1srkbbr" accid.ges="f"/>
+                                            </note>
+                                            <note xml:id="n4f3lsb" dur="128" oct="4" pname="b">
+                                                <accid xml:id="o12kwrlz" accid.ges="f"/>
+                                            </note>
+                                            <note xml:id="n4qfwbf" dur="128" oct="5" pname="c">
+                                                <accid xml:id="akv6n63" accid="n"/>
+                                            </note>
+                                            <note xml:id="n197fke7" dur="128" oct="5" pname="d">
+                                                <accid xml:id="a1f3xeye" accid="n"/>
+                                            </note>
+                                            <note xml:id="n1scanvd" dur="128" oct="5" pname="e">
+                                                <accid xml:id="u1xy9yyo" accid.ges="f"/>
+                                            </note>
+                                            <note xml:id="nhwyey3" dur="128" oct="5" pname="f"/>
+                                        </beam>
+                                    </graceGrp>
                                 </layer>
                             </staff>
                             <staff xml:id="m378s2" n="2">
@@ -21832,8 +21835,9 @@
                             <tempo xml:id="du305hu" label="adagio" startid="#nlepmip">adagio</tempo>
                             <slur xml:id="s91yi8" startid="#nlepmip" endid="#nhwyey3"/>
                             <fing xml:id="f1270gl3" place="below" startid="#nlepmip">3</fing>
-                            <hairpin xml:id="h1ftuuvt" startid="#n7fzt0g" endid="#n1ksebqf" form="cres" tstamp="1" tstamp2="2.5" staff="1"/>
                             <fing xml:id="ftu33yv" place="below" startid="#nmxyto5">1</fing>
+                            <!--Verovio does not display the hairpins attached to gracenotes -->
+                            <hairpin xml:id="h1ftuuvt" startid="#n7fzt0g" endid="#n1ksebqf" form="cres" tstamp="1" tstamp2="2.5" staff="1"/>
                             <hairpin xml:id="h1oh65tn" startid="#n1ksebqf" endid="#nhwyey3" form="dim" staff="1"/>
                             <fing xml:id="f175n1gw" place="below" startid="#n1ksebqf">1</fing>
                             <fing xml:id="f702jd0" startid="#n4qfwbf" place="within" vo="-2">1</fing>
@@ -23750,7 +23754,7 @@
                                 <tie xml:id="t1nlbf7k" startid="#n1ymqrz4" endid="#n152hp4c" curvedir="above"/>
                                 <slur xml:id="s6lptng" startid="#c1gsxf8u" endid="#cunhcuw"/>
                             </measure>
-                            <measure xml:id="m1gnrp63" metcon="false" n="15">
+                            <measure xml:id="m1gnrp63" metcon="false" n="15" right="invis">
                                 <staff xml:id="m393s1" n="1">
                                     <layer xml:id="m393s1l1" n="1">
                                         <beam xml:id="r100v45t">
@@ -32066,7 +32070,7 @@
                                     <note xml:id="n1fbqpfc" dur="2" oct="4" pname="a">
                                         <accid xml:id="a1ap5kas" accid="n"/>
                                     </note>
-                                    <graceGrp xml:id="hiz8avp" grace="unknown" attach="pre">
+                                    <graceGrp xml:id="hiz8avp" grace="unacc">
                                         <beam xml:id="ijji476">
                                             <note xml:id="nb8ryx4" dur="16" oct="4" pname="g"/>
                                             <note xml:id="nmsa3sb" dur="16" oct="4" pname="a"/>
@@ -34018,7 +34022,7 @@
                             <fermata xml:id="f1blrbso" startid="#c1jkk4uk"/>
                         </measure>
                         <sb xml:id="oexha9s"/>
-                        <measure xml:id="m1fxbjvx" metcon="false" n="132">
+                        <measure xml:id="m1fxbjvx" n="132">
                             <staff xml:id="m551s1" n="1">
                                 <layer xml:id="m551s1l1" n="1">
                                     <chord xml:id="cx3d6dm" dur="8">
@@ -34045,40 +34049,43 @@
                                         <note xml:id="n1560d07" oct="4" pname="d"/>
                                     </chord>
                                     <rest xml:id="r19lxy65" dur="16"/>
-                                    <beam xml:id="q107fbuc">
-                                        <note xml:id="noeiy48" dur="128" oct="3" pname="b">
-                                            <accid xml:id="s1hvyonv" accid.ges="f"/>
-                                        </note>
-                                        <note xml:id="neyh1mr" dur="128" oct="4" pname="c"/>
-                                        <note xml:id="n1yhgulo" dur="128" oct="3" pname="b">
-                                            <accid xml:id="vdw60xn" accid.ges="f"/>
-                                        </note>
-                                        <note xml:id="n298f64" dur="128" oct="3" pname="a">
-                                            <accid xml:id="a1088cxj" accid="n"/>
-                                        </note>
-                                        <note xml:id="n1w2ndff" dur="128" oct="3" pname="b">
-                                            <accid xml:id="z9by9vm" accid.ges="f"/>
-                                        </note>
-                                        <note xml:id="nm2wtn2" dur="128" oct="4" pname="c"/>
-                                        <note xml:id="n1gvrkvg" dur="128" oct="4" pname="d"/>
-                                        <note xml:id="n1qnysi5" dur="128" oct="4" pname="e">
-                                            <accid xml:id="dwqjwbr" accid.ges="f"/>
-                                        </note>
-                                        <note xml:id="ny79xru" dur="128" oct="4" pname="f"/>
-                                        <note xml:id="n1dj32sr" dur="128" oct="4" pname="g"/>
-                                        <note xml:id="nynid9k" dur="128" oct="4" pname="a">
-                                            <accid xml:id="hba6sv7" accid="f"/>
-                                        </note>
-                                        <note xml:id="n109vyoy" dur="128" oct="4" pname="b">
-                                            <accid xml:id="j8itxqh" accid.ges="f"/>
-                                        </note>
-                                        <note xml:id="n1liamk0" dur="128" oct="5" pname="c"/>
-                                        <note xml:id="ngd8j3t" dur="128" oct="5" pname="d"/>
-                                        <note xml:id="n635npe" dur="128" oct="5" pname="e">
-                                            <accid xml:id="nziiy27" accid.ges="f"/>
-                                        </note>
-                                        <note xml:id="nmhg63w" dur="128" oct="5" pname="f"/>
-                                    </beam>
+                                    <space xml:id="foehf42" dur="16"/>
+                                    <graceGrp xml:id="ifhgiduh42">
+                                        <beam xml:id="q107fbuc">
+                                            <note xml:id="noeiy48" dur="128" oct="3" pname="b">
+                                                <accid xml:id="s1hvyonv" accid.ges="f"/>
+                                            </note>
+                                            <note xml:id="neyh1mr" dur="128" oct="4" pname="c"/>
+                                            <note xml:id="n1yhgulo" dur="128" oct="3" pname="b">
+                                                <accid xml:id="vdw60xn" accid.ges="f"/>
+                                            </note>
+                                            <note xml:id="n298f64" dur="128" oct="3" pname="a">
+                                                <accid xml:id="a1088cxj" accid="n"/>
+                                            </note>
+                                            <note xml:id="n1w2ndff" dur="128" oct="3" pname="b">
+                                                <accid xml:id="z9by9vm" accid.ges="f"/>
+                                            </note>
+                                            <note xml:id="nm2wtn2" dur="128" oct="4" pname="c"/>
+                                            <note xml:id="n1gvrkvg" dur="128" oct="4" pname="d"/>
+                                            <note xml:id="n1qnysi5" dur="128" oct="4" pname="e">
+                                                <accid xml:id="dwqjwbr" accid.ges="f"/>
+                                            </note>
+                                            <note xml:id="ny79xru" dur="128" oct="4" pname="f"/>
+                                            <note xml:id="n1dj32sr" dur="128" oct="4" pname="g"/>
+                                            <note xml:id="nynid9k" dur="128" oct="4" pname="a">
+                                                <accid xml:id="hba6sv7" accid="f"/>
+                                            </note>
+                                            <note xml:id="n109vyoy" dur="128" oct="4" pname="b">
+                                                <accid xml:id="j8itxqh" accid.ges="f"/>
+                                            </note>
+                                            <note xml:id="n1liamk0" dur="128" oct="5" pname="c"/>
+                                            <note xml:id="ngd8j3t" dur="128" oct="5" pname="d"/>
+                                            <note xml:id="n635npe" dur="128" oct="5" pname="e">
+                                                <accid xml:id="nziiy27" accid.ges="f"/>
+                                            </note>
+                                            <note xml:id="nmhg63w" dur="128" oct="5" pname="f"/>
+                                        </beam>
+                                    </graceGrp>
                                 </layer>
                             </staff>
                             <staff xml:id="m551s2" n="2">
@@ -34104,7 +34111,6 @@
                                     </chord>
                                     <rest xml:id="r1jh4wi2" dur="16"/>
                                     <rest xml:id="r18golgv" dur="16"/>
-                                    <space xml:id="syfvq11" dur="16"/>
                                 </layer>
                             </staff>
                             <tempo xml:id="d116igtu" label="adagio" staff="1" tstamp="1">Adagio.</tempo>
