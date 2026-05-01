@@ -1064,7 +1064,7 @@
                                             <note xml:id="n7unqz7" dur="4" oct="4" pname="e">
                                                 <accid xml:id="fgwa4r9" accid.ges="f"/>
                                             </note>
-                                            <graceGrp xml:id="j1ryohmq" attach="unknown">
+                                            <graceGrp xml:id="j1ryohmq" attach="pre">
                                                 <beam xml:id="gidbdxu">
                                                     <note xml:id="nh1nrn0" dur="8" oct="4" pname="e">
                                                         <accid xml:id="ikhc63f" accid.ges="f"/>
@@ -1078,7 +1078,7 @@
                                             </graceGrp>
                                             <note xml:id="n1b9c2g2" dur="8" oct="4" pname="d" dur.ges="4"/>
                                             <space xml:id="rfowdin42" dur="8"/>
-                                            <graceGrp xml:id="s1o0o98s" attach="pre">
+                                            <graceGrp xml:id="s1o0o98s" attach="unknown">
                                                 <beam xml:id="o1xlilai">
                                                     <note xml:id="n2ikw9y" dur="16" oct="4" pname="e">
                                                         <accid xml:id="qnmblrj" accid.ges="f"/>
@@ -1692,7 +1692,6 @@
                                                 </tuplet>
                                             </beam>
                                             <note xml:id="n2f7wlw" dur="8" oct="5" pname="f"/>
-                                            <space xml:id="s1b73w4z" dur="8"/>
                                         </layer>
                                     </oStaff>
                                     <staff xml:id="m50s1" n="1">
@@ -1707,15 +1706,15 @@
                                                 </beam>
                                             </graceGrp>
                                             <note xml:id="ncljbwg" dur="8" oct="5" pname="f"/>
-                                            <space xml:id="s1bohofr" dur="8"/>
+                                            <note xml:id="n1dh9251" dur="8" oct="4" pname="a">
+                                                <accid xml:id="m1615yf" accid.ges="f"/>
+                                            </note>
                                         </layer>
                                         <layer xml:id="m50s1l1" n="2">
                                             <note xml:id="nqap1mx" dots="1" dur="4" oct="4" pname="b" stem.dir="down">
                                                 <accid xml:id="k1h21wid" accid.ges="f"/>
                                             </note>
-                                            <note xml:id="n1dh9251" dur="8" oct="4" pname="a">
-                                                <accid xml:id="m1615yf" accid.ges="f"/>
-                                            </note>
+                                            <space xml:id="jdhfld42" dur="8"/>
                                         </layer>
                                     </staff>
                                 </ossia>
@@ -3340,11 +3339,7 @@
                                     </layer>
                                 </staff>
                                 <staff xml:id="m78s2" n="2">
-                                    <layer xml:id="m78s2l3" n="1">
-                                        <space xml:id="s1gdw1oe" dur="4"/>
-                                        <space xml:id="s9341mz" dur="4"/>
-                                    </layer>
-                                    <layer xml:id="m78s2l4" n="4">
+                                    <layer xml:id="m78s2l4" n="1">
                                         <chord xml:id="c14z7vho" dur="4">
                                             <note xml:id="nbxclk8" oct="3" pname="e">
                                                 <accid xml:id="jzgak14" accid.ges="f"/>
@@ -5994,7 +5989,7 @@
                                     <layer xml:id="m123s1l1" n="1">
                                         <note xml:id="n1anlfpc" dur="4" oct="6" pname="d"/>
                                         <space xml:id="iufgeh42" dur="4"/>
-                                        <graceGrp xml:id="bgfuzig42">
+                                        <graceGrp xml:id="bgfuzig42" attach="pre">
                                             <beam xml:id="ixh08vd">
                                                 <note xml:id="n16hw721" dur="16" oct="6" pname="d"/>
                                                 <note xml:id="n1o16lj7" dur="16" oct="5" pname="b">
@@ -6302,6 +6297,7 @@
                                 <fing xml:id="ftwv7hj" startid="#n1f3u6dk" place="above">1</fing>
                                 <fing xml:id="ffxgbs6" startid="#nncun7n" place="above">1</fing>
                             </measure>
+
                             <sb xml:id="a9gepwu"/>
                             <measure xml:id="muieqrf" n="13">
                                 <staff xml:id="m125s1" n="1">
@@ -6747,7 +6743,7 @@
                             <measure xml:id="my8ir94" n="2">
                                 <staff xml:id="m131s1" n="1">
                                     <layer xml:id="m131s1l3" n="1">
-                                        <space xml:id="rp2pfwr" dur="8"/>
+                                        <rest xml:id="rp2pfwr" dur="8"/>
                                         <beam xml:id="n1dggml">
                                             <chord xml:id="c1aemkdq" dur="8" stem.dir="down">
                                                 <note xml:id="n1bi23dt" oct="3" pname="e">
@@ -6842,11 +6838,6 @@
                                     </layer>
                                 </staff>
                                 <staff xml:id="m132s2" n="2">
-                                    <layer xml:id="m132s2l1" n="1">
-                                        <space xml:id="stj19bv" dur="8"/>
-                                        <space xml:id="sw86jco" dur="8"/>
-                                        <space xml:id="s1a1x4qb" dur="4"/>
-                                    </layer>
                                     <layer xml:id="m132s2l2" n="1">
                                         <chord xml:id="c1cbzhrl" dur="8" stem.dir="up">
                                             <artic xml:id="a1k5rshd" artic="stacc" place="below"/>
@@ -6866,7 +6857,7 @@
                                     </layer>
                                 </staff>
                                 <fing xml:id="fsw30gx" startid="#ny5s91r" vo="-10" ho="-3">2</fing>
-                                <pedal xml:id="pu8zsto" startid="#stj19bv" endid="#c1ty81p9" dir="down" form="pedstar"/>
+                                <pedal xml:id="pu8zsto" staff="2" tstamp="1" tstamp2="2.75" dir="down" form="pedstar"/>
                                 <fing xml:id="f1bg7wnf" place="above" startid="#nhzhoj">1</fing>
                                 <fing xml:id="f1vlgidt" place="below" startid="#n1ad95xm">1</fing>
                             </measure>
@@ -15317,11 +15308,7 @@
                                             <artic xml:id="a6bte0p" artic="stacc"/>
                                             <accid xml:id="v69jlhq" accid.ges="f"/>
                                         </note>
-                                        <space xml:id="s10mdumq" dur="4"/>
-                                    </layer>
-                                    <layer xml:id="m286s2l4" n="4">
-                                        <space xml:id="rsrh7tn" dur="4"/>
-                                        <rest xml:id="r4dix5g" dur="8"/>
+                                        <rest xml:id="s10mdumq" dur="8"/>
                                         <note xml:id="n100qdla" dur="8" oct="4" pname="e" stem.dir="up">
                                             <artic xml:id="a1fa4ahw" artic="stacc" place="below"/>
                                             <accid xml:id="c19i0tvx" accid.ges="f"/>
@@ -21771,7 +21758,7 @@
                                         </note>
                                     </chord>
                                     <space xml:id="jhfbhh42" dur="8"/>
-                                    <graceGrp>
+                                    <graceGrp xml:id="kjh7bf42">
                                         <beam xml:id="r61a7qq">
                                             <note xml:id="nlepmip" dur="128" oct="3" pname="b">
                                                 <accid xml:id="t1ydyvh5" accid.ges="f"/>
@@ -21898,8 +21885,7 @@
                                         </beam>
                                     </layer>
                                     <layer xml:id="m379s1l2" n="2">
-                                        <space xml:id="robjq8p" dur="4"/>
-                                        <space xml:id="r1rjz8hl" dur="8"/>
+                                        <space xml:id="robjq8p" dur="4" dots="1"/>
                                         <space xml:id="r10y0smk" dur="4"/>
                                         <note xml:id="n1v6gbyk" dur="8" oct="4" pname="b">
                                             <accid xml:id="kraa16f" accid.ges="f"/>
@@ -22007,8 +21993,7 @@
                                         <note xml:id="nd59gzi" dots="1" dur="8" oct="4" pname="b">
                                             <accid xml:id="u1u8hx0z" accid.ges="f"/>
                                         </note>
-                                        <space xml:id="siemrg1" dur="16"/>
-                                        <space xml:id="s9klrh3" dur="8"/>
+                                        <space xml:id="s9klrh3" dur="8" dots="1"/>
                                     </layer>
                                 </staff>
                                 <staff xml:id="m380s2" n="2">
@@ -22469,7 +22454,6 @@
                                         <rest xml:id="r1d2jng9" dur="32"/>
                                         <rest xml:id="rno8qk6" dur="32"/>
                                         <clef xml:id="cq1yg7k" shape="F" line="4"/>
-
                                         <note xml:id="n1ks8lfa" dur="32" oct="3" pname="g" stem.dir="up"/>
                                         <beam xml:id="e1ine2rp">
                                             <note xml:id="n1kuz7tl" dur="32" oct="3" pname="f">
@@ -26430,8 +26414,7 @@
                                 <ossia xml:id="p19gvjx7">
                                     <oStaff xml:id="s1tepb8w" n="1">
                                         <layer xml:id="tba7ww" n="1">
-                                            <space xml:id="sa28bt" dur="4"/>
-                                            <space xml:id="sti4mnv" dur="8"/>
+                                            <space xml:id="sa28bt" dur="4" dots="1"/>
                                             <beam xml:id="x5gk5q2">
                                                 <note xml:id="nebn7om" dur="8" oct="4" pname="e">
                                                     <accid xml:id="z1i3lq0r" accid.ges="f"/>
@@ -26448,9 +26431,7 @@
                                             <space xml:id="s1pcxwv6" dur="8"/>
                                         </layer>
                                         <layer xml:id="g1sa7er7" n="2">
-                                            <space xml:id="rfm74xh" dur="4"/>
-                                            <space xml:id="r1f0765i" dur="8"/>
-
+                                            <space xml:id="rfm74xh" dur="4" dots="1"/>
                                             <chord xml:id="c1n028ih" dur="4">
                                                 <note xml:id="n1sfzk0m" oct="3" pname="g"/>
                                                 <note xml:id="n17xr1nd" oct="3" pname="b">
@@ -27483,8 +27464,7 @@
                                         <note xml:id="n1cfgq7j" dur="4" oct="2" pname="b">
                                             <accid xml:id="a1gijcmu" accid="n"/>
                                         </note>
-                                        <space xml:id="sj23le2" dur="4"/>
-                                        <space xml:id="s13p20zg" dur="8"/>
+                                        <space xml:id="sj23le2" dur="4" dots="1"/>
                                     </layer>
                                 </staff>
                                 <staff xml:id="m418s2" n="2">
@@ -34049,8 +34029,8 @@
                                         <note xml:id="n1560d07" oct="4" pname="d"/>
                                     </chord>
                                     <rest xml:id="r19lxy65" dur="16"/>
-                                    <space xml:id="foehf42" dur="16"/>
-                                    <graceGrp xml:id="ifhgiduh42">
+                                    <space xml:id="uhbfod42" dur="16"/>
+                                    <graceGrp xml:id="ifhgiduh42" grace.time="100%">
                                         <beam xml:id="q107fbuc">
                                             <note xml:id="noeiy48" dur="128" oct="3" pname="b">
                                                 <accid xml:id="s1hvyonv" accid.ges="f"/>
@@ -34534,7 +34514,7 @@
                             </staff>
                             <staff xml:id="m557s2" n="2">
                                 <layer xml:id="m557s2l3" n="1">
-                                    <space xml:id="s1na0eoq" dur="8"/>
+                                    <note xml:id="s1na0eoq" dur="8" pname="g" oct="2"/>
                                     <beam xml:id="pq519ju">
                                         <chord xml:id="ccinkrg" dur="8" stem.dir="down">
                                             <note xml:id="n1xul5wu" oct="3" pname="g"/>
