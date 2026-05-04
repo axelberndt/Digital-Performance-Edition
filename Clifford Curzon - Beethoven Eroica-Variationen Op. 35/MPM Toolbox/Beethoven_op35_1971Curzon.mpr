@@ -3,31 +3,31 @@
     <msm file="Beethoven_op35_1971Curzon.msm"/>
     <mpm file="Beethoven_op35_1971Curzon.mpm"/>
     <score overlayElementSize="0">
-        <page file="score/Add_64978-0003.jpg" width.pixels="3409" height.pixels="4192"/>
-        <page file="score/Add_64978-0004.jpg" width.pixels="3250" height.pixels="4192"/>
-        <page file="score/Add_64978-0005.jpg" width.pixels="3427" height.pixels="4185"/>
-        <page file="score/Add_64978-0006.jpg" width.pixels="3347" height.pixels="4152"/>
-        <page file="score/Add_64978-0007.jpg" width.pixels="3395" height.pixels="4160"/>
-        <page file="score/Add_64978-0008.jpg" width.pixels="3411" height.pixels="4168"/>
-        <page file="score/Add_64978-0009.jpg" width.pixels="3411" height.pixels="4168"/>
-        <page file="score/Add_64978-0010.jpg" width.pixels="3411" height.pixels="4168"/>
-        <page file="score/Add_64978-0011.jpg" width.pixels="3411" height.pixels="4168"/>
-        <page file="score/Add_64978-0012.jpg" width.pixels="3412" height.pixels="4184"/>
-        <page file="score/Add_64978-0013.jpg" width.pixels="3412" height.pixels="4184"/>
-        <page file="score/Add_64978-0014.jpg" width.pixels="3412" height.pixels="4184"/>
-        <page file="score/Add_64978-0015.jpg" width.pixels="3412" height.pixels="4184"/>
-        <page file="score/Add_64978-0016.jpg" width.pixels="3412" height.pixels="4184"/>
-        <page file="score/Add_64978-0017.jpg" width.pixels="3412" height.pixels="4184"/>
-        <page file="score/Add_64978-0018.jpg" width.pixels="3412" height.pixels="4184"/>
-        <page file="score/Add_64978-0019.jpg" width.pixels="3435" height.pixels="4192"/>
-        <page file="score/Add_64978-0020.jpg" width.pixels="3355" height.pixels="4192"/>
-        <page file="score/Add_64978-0021.jpg" width.pixels="3380" height.pixels="4192"/>
-        <page file="score/Add_64978-0022.jpg" width.pixels="3475" height.pixels="4168"/>
-        <page file="score/Add_64978-0023.jpg" width.pixels="3434" height.pixels="4168"/>
-        <page file="score/Add_64978-0024.jpg" width.pixels="3371" height.pixels="4184"/>
+        <page file="./score/Add_64978-0003.jpg" width.pixels="3409" height.pixels="4192"/>
+        <page file="./score/Add_64978-0004.jpg" width.pixels="3250" height.pixels="4192"/>
+        <page file="./score/Add_64978-0005.jpg" width.pixels="3427" height.pixels="4185"/>
+        <page file="./score/Add_64978-0006.jpg" width.pixels="3347" height.pixels="4152"/>
+        <page file="./score/Add_64978-0007.jpg" width.pixels="3395" height.pixels="4160"/>
+        <page file="./score/Add_64978-0008.jpg" width.pixels="3411" height.pixels="4168"/>
+        <page file="./score/Add_64978-0009.jpg" width.pixels="3411" height.pixels="4168"/>
+        <page file="./score/Add_64978-0010.jpg" width.pixels="3411" height.pixels="4168"/>
+        <page file="./score/Add_64978-0011.jpg" width.pixels="3411" height.pixels="4168"/>
+        <page file="./score/Add_64978-0012.jpg" width.pixels="3412" height.pixels="4184"/>
+        <page file="./score/Add_64978-0013.jpg" width.pixels="3412" height.pixels="4184"/>
+        <page file="./score/Add_64978-0014.jpg" width.pixels="3412" height.pixels="4184"/>
+        <page file="./score/Add_64978-0015.jpg" width.pixels="3412" height.pixels="4184"/>
+        <page file="./score/Add_64978-0016.jpg" width.pixels="3412" height.pixels="4184"/>
+        <page file="./score/Add_64978-0017.jpg" width.pixels="3412" height.pixels="4184"/>
+        <page file="./score/Add_64978-0018.jpg" width.pixels="3412" height.pixels="4184"/>
+        <page file="./score/Add_64978-0019.jpg" width.pixels="3435" height.pixels="4192"/>
+        <page file="./score/Add_64978-0020.jpg" width.pixels="3355" height.pixels="4192"/>
+        <page file="./score/Add_64978-0021.jpg" width.pixels="3380" height.pixels="4192"/>
+        <page file="./score/Add_64978-0022.jpg" width.pixels="3475" height.pixels="4168"/>
+        <page file="./score/Add_64978-0023.jpg" width.pixels="3434" height.pixels="4168"/>
+        <page file="./score/Add_64978-0024.jpg" width.pixels="3371" height.pixels="4184"/>
     </score>
     <audios>
-        <audio file="audio/DECCASXL6523_Curzon_gesamt.mp3">
+        <audio file="./audio/DECCASXL6523_Curzon_gesamt.mp3">
             <alignment>
                 <part id="k1nlk7mo" midi.port="0" midi.channel="0" number="1" name="piano right hand">
                     <note ref="n16speqe" midi.pitch="67.0" milliseconds.date="0.0" milliseconds.date.end="1687.2171008368646" velocity="100.0" fixed="true"/>
