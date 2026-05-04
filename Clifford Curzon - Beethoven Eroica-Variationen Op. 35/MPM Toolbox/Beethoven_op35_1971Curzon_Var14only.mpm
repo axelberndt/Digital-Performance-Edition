@@ -93,7 +93,7 @@
                     <dynamics date="45000.0" volume="mf" xml:id="h1ftuuvt"/>
                     <dynamics date="46260.0" volume="mf" transition.to="p" xml:id="h1oh65tn"/>
                     <dynamics date="46440.0" volume="p" xml:id="mpmToolbox_bf984d54-373e-4ba2-a15a-1e9d3f5d3b9f"/> 
-                </dynamicsMap> 
+                </dynamicsMap>
             </dated>
         </global>
         <part name="right hand" number="1" midi.channel="0" midi.port="0" xml:id="g1tm618u">
@@ -365,63 +365,7 @@
                 </articulationMap>
             </dated>
         </part>
-    </performance>
-    <performance name="Curzon_audio_besoffen" pulsesPerQuarter="720">
-        <global>
-            <header/>
-            <dated>
-                <tempoMap>
-                    <tempo date="0.0" bpm="40.116438880598736" beatLength="0.25"/>
-                    <tempo date="360.0" bpm="42.13657372449811" beatLength="0.25"/>
-                    <tempo date="1080.0" bpm="56.74188368752136" beatLength="0.25"/>
-                    <tempo date="1440.0" bpm="48.16001086508316" beatLength="0.25"/>
-                    <tempo date="1800.0" bpm="51.409908251151656" beatLength="0.25"/>
-                    <tempo date="2160.0" bpm="39.53484335599078" beatLength="0.25"/>
-                    <tempo date="2520.0" bpm="4780.5005568197685" beatLength="0.25"/>
-                    <tempo date="3240.0" bpm="34.80372804862466" beatLength="0.25"/>
-                    <tempo date="45000.0" bpm="21.47050699034595" beatLength="0.25"/>
-                    <tempo date="46080.0" bpm="5.247475009689756" beatLength="0.25"/>
-                    <tempo date="46102.5" bpm="6.257556251506164" beatLength="0.25"/>
-                    <tempo date="46125.0" bpm="6.950327478681829" beatLength="0.25"/>
-                    <tempo date="46170.0" bpm="10.804694404055107" beatLength="0.25"/>
-                    <tempo date="46192.5" bpm="9.21820036894991" beatLength="0.25"/>
-                    <tempo date="46215.0" bpm="12.048896165656952" beatLength="0.25"/>
-                    <tempo date="46237.5" bpm="11.249268877112472" beatLength="0.25"/>
-                    <tempo date="46260.0" bpm="9.897971329722505" beatLength="0.25"/>
-                    <tempo date="46282.5" bpm="9.326157960401604" beatLength="0.25"/>
-                    <tempo date="46305.0" bpm="9.395079986053977" beatLength="0.25"/>
-                    <tempo date="46327.5" bpm="8.243652141116128" beatLength="0.25"/>
-                    <tempo date="46350.0" bpm="6.712331552309491" beatLength="0.25"/>
-                    <tempo date="46372.5" bpm="6.765916906197958" beatLength="0.25"/>
-                    <tempo date="46395.0" bpm="5.660531594163017" beatLength="0.25"/>
-                    <tempo date="46417.5" bpm="5.660531594163017" beatLength="0.25"/> 
-                </tempoMap>
-                <asynchronyMap>
-                    <asynchrony date="0.0" milliseconds.offset="474.63614766526393"/>
-                    <asynchrony date="0.0" milliseconds.offset="474.63614766526393"/>
-                    <asynchrony date="360.01" milliseconds.offset="524.0587485765798"/>
-                    <asynchrony date="1080.0" milliseconds.offset="550.0937100021968"/> 
-                </asynchronyMap>
-            </dated>
-        </global>
-        <part name="Var. XIV. Minore." number="1" midi.channel="0" midi.port="0" xml:id="g1tm618u">
-            <header/>
-            <dated>
-                <articulationMap>
-                    <articulation date="360.0" noteid="#meico_b5deb9b4" absoluteDelayMs="49.42260091131584"/>
-                    <articulation date="1800.0" noteid="#meico_05e53a59" absoluteDelayMs="-1177.668385590232"/> 
-                </articulationMap>
-            </dated>
-        </part>
-        <part name="Var. XIV. Minore." number="2" midi.channel="1" midi.port="0" xml:id="q28k2b5">
-            <header/>
-            <dated>
-                <articulationMap>
-                    <articulation date="360.0" noteid="#meico_6c9c0057" absoluteDurationMs="1473.3637213331722"/> 
-                </articulationMap>
-            </dated>
-        </part>
-    </performance>
+    </performance> 
     <performance name="Curzon_score_annotations" pulsesPerQuarter="720">
         <global>
             <header>
@@ -456,5 +400,231 @@
             <header/>
             <dated/>
         </part>
-    </performance> 
+    </performance>
+    <performance name="Curzon_1971_DECCA-SXL6523_audio" pulsesPerQuarter="720">
+        <global>
+            <header/>
+            <dated>
+                <tempoMap>
+                    <tempo date="0.0" bpm="62.547580586816395" beatLength="0.25"/>
+                    <tempo date="360.0" bpm="64.32504035903574" beatLength="0.25"/>
+                    <tempo date="1080.0" bpm="78.95586999402478" beatLength="0.25"/>
+                    <tempo date="1440.0" bpm="71.78334535336784" beatLength="0.25"/>
+                    <tempo date="1800.0" bpm="74.06340051594685" beatLength="0.25"/>
+                    <tempo date="2160.0" bpm="62.417540614849855" beatLength="0.25"/>
+                    <tempo date="2520.0" bpm="57.355391890875794" beatLength="0.25"/>
+                    <tempo date="3240.0" bpm="68.6465425171484" beatLength="0.25"/>
+                    <tempo date="3600.0" bpm="80.90057247142246" beatLength="0.25"/>
+                    <tempo date="3960.0" bpm="83.52653796704128" beatLength="0.25"/>
+                    <tempo date="4320.0" bpm="74.58333058657048" beatLength="0.25"/>
+                    <tempo date="4680.0" bpm="80.18664672514645" beatLength="0.25"/>
+                    <tempo date="5040.0" bpm="91.08590412751882" beatLength="0.25"/>
+                    <tempo date="5400.0" bpm="78.99163425689449" beatLength="0.25"/>
+                    <tempo date="5760.0" bpm="77.86958373535482" beatLength="0.25"/>
+                    <tempo date="6120.0" bpm="77.44337791655725" beatLength="0.25"/>
+                    <tempo date="6480.0" bpm="85.4838366397317" beatLength="0.25"/>
+                    <tempo date="6840.0" bpm="84.76741073829479" beatLength="0.25"/>
+                    <tempo date="7200.0" bpm="80.66706641904882" beatLength="0.25"/>
+                    <tempo date="7560.0" bpm="73.8010404133676" beatLength="0.25"/>
+                    <tempo date="7920.0" bpm="78.45016387115164" beatLength="0.25"/>
+                    <tempo date="8280.0" bpm="76.38898703768562" beatLength="0.25"/>
+                    <tempo date="8640.0" bpm="73.35048640378398" beatLength="0.25"/>
+                    <tempo date="9000.0" bpm="80.04217746107511" beatLength="0.25"/>
+                    <tempo date="9360.0" bpm="76.71135006179003" beatLength="0.25"/>
+                    <tempo date="9720.0" bpm="65.03192657944815" beatLength="0.25"/>
+                    <tempo date="10080.0" bpm="64.87180932892305" beatLength="0.25"/>
+                    <tempo date="10440.0" bpm="49.86560731526384" beatLength="0.25"/>
+                    <tempo date="10800.0" bpm="40.795864906631955" beatLength="0.25"/>
+                    <tempo date="11160.0" bpm="27.0832532161746" beatLength="0.25"/>
+                    <tempo date="11520.0" bpm="49.178034389284235" beatLength="0.25"/>
+                    <tempo date="11880.0" bpm="64.27471850583379" beatLength="0.25"/>
+                    <tempo date="12240.0" bpm="70.58248812109291" beatLength="0.25"/>
+                    <tempo date="12600.0" bpm="71.44866353132056" beatLength="0.25"/>
+                    <tempo date="12960.0" bpm="56.13934200254467" beatLength="0.25"/>
+                    <tempo date="13320.0" bpm="69.24619996649866" beatLength="0.25"/>
+                    <tempo date="14040.0" bpm="75.47115410594347" beatLength="0.25"/>
+                    <tempo date="14400.0" bpm="71.51137953733893" beatLength="0.25"/>
+                    <tempo date="14760.0" bpm="91.84660872543627" beatLength="0.25"/>
+                    <tempo date="15120.0" bpm="75.86576993527316" beatLength="0.25"/>
+                    <tempo date="15480.0" bpm="73.11813721753091" beatLength="0.25"/>
+                    <tempo date="15840.0" bpm="54.92196641266087" beatLength="0.25"/>
+                    <tempo date="16200.0" bpm="59.54086609592516" beatLength="0.25"/>
+                    <tempo date="16920.0" bpm="68.52756139697958" beatLength="0.25"/>
+                    <tempo date="17280.0" bpm="61.6151888821984" beatLength="0.25"/>
+                    <tempo date="17640.0" bpm="66.76692182368944" beatLength="0.25"/>
+                    <tempo date="18360.0" bpm="56.24728995687953" beatLength="0.25"/>
+                    <tempo date="19080.0" bpm="53.47307479187692" beatLength="0.25"/>
+                    <tempo date="19800.0" bpm="50.200927586948865" beatLength="0.25"/>
+                    <tempo date="20160.0" bpm="58.78036994890245" beatLength="0.25"/>
+                    <tempo date="20520.0" bpm="67.6217275882326" beatLength="0.25"/>
+                    <tempo date="20880.0" bpm="67.93216481425637" beatLength="0.25"/>
+                    <tempo date="21240.0" bpm="48.37925404932429" beatLength="0.25"/>
+                    <tempo date="21600.0" bpm="63.096985701736855" beatLength="0.25"/>
+                    <tempo date="21960.0" bpm="62.073842574497284" beatLength="0.25"/>
+                    <tempo date="22320.0" bpm="47.5229627520898" beatLength="0.25"/>
+                    <tempo date="22680.0" bpm="42.48942455242503" beatLength="0.25"/>
+                    <tempo date="23040.0" bpm="58.17024995725936" beatLength="0.25"/>
+                    <tempo date="23400.0" bpm="74.17142681271974" beatLength="0.25"/>
+                    <tempo date="23760.0" bpm="73.57690947020713" beatLength="0.25"/>
+                    <tempo date="24120.0" bpm="67.57453609823965" beatLength="0.25"/>
+                    <tempo date="24480.0" bpm="55.149851214222174" beatLength="0.25"/>
+                    <tempo date="24840.0" bpm="51.591180289265836" beatLength="0.25"/>
+                    <tempo date="25560.0" bpm="58.25233711327413" beatLength="0.25"/>
+                    <tempo date="25920.0" bpm="70.99395391704503" beatLength="0.25"/>
+                    <tempo date="26280.0" bpm="78.89123119665256" beatLength="0.25"/>
+                    <tempo date="26640.0" bpm="68.78812111161822" beatLength="0.25"/>
+                    <tempo date="27000.0" bpm="59.229445751934186" beatLength="0.25"/>
+                    <tempo date="27360.0" bpm="42.648883940077766" beatLength="0.25"/>
+                    <tempo date="27720.0" bpm="40.59734710386618" beatLength="0.25"/>
+                    <tempo date="28440.0" bpm="15.405391946830262" beatLength="0.25"/>
+                    <tempo date="28800.0" bpm="53.60321082381944" beatLength="0.25"/>
+                    <tempo date="29160.0" bpm="62.917541467268414" beatLength="0.25"/>
+                    <tempo date="29880.0" bpm="60.41697965074364" beatLength="0.25"/>
+                    <tempo date="30240.0" bpm="53.68294011131563" beatLength="0.25"/>
+                    <tempo date="30600.0" bpm="55.18045907065846" beatLength="0.25"/>
+                    <tempo date="31320.0" bpm="48.54241919924676" beatLength="0.25"/>
+                    <tempo date="31680.0" bpm="62.541464338410904" beatLength="0.25"/>
+                    <tempo date="32040.0" bpm="53.705468538144096" beatLength="0.25"/>
+                    <tempo date="32760.0" bpm="37.99985297983608" beatLength="0.25"/>
+                    <tempo date="33480.0" bpm="41.36459295425753" beatLength="0.25"/>
+                    <tempo date="33840.0" bpm="62.174680002728074" beatLength="0.25"/>
+                    <tempo date="34200.0" bpm="68.24711561491058" beatLength="0.25"/>
+                    <tempo date="34560.0" bpm="69.03655734319433" beatLength="0.25"/>
+                    <tempo date="34920.0" bpm="71.67899717408976" beatLength="0.25"/>
+                    <tempo date="35280.0" bpm="68.53220620855328" beatLength="0.25"/>
+                    <tempo date="35640.0" bpm="68.18504574325466" beatLength="0.25"/>
+                    <tempo date="36000.0" bpm="55.96926573242321" beatLength="0.25"/>
+                    <tempo date="36360.0" bpm="52.675511084306244" beatLength="0.25"/>
+                    <tempo date="37080.0" bpm="61.44962659203848" beatLength="0.25"/>
+                    <tempo date="37440.0" bpm="75.00112077725721" beatLength="0.25"/>
+                    <tempo date="37800.0" bpm="66.82783357619557" beatLength="0.25"/>
+                    <tempo date="38160.0" bpm="62.14851417290734" beatLength="0.25"/>
+                    <tempo date="38520.0" bpm="50.622458543607635" beatLength="0.25"/>
+                    <tempo date="38880.0" bpm="34.65685738039777" beatLength="0.25"/>
+                    <tempo date="39240.0" bpm="34.505096841529195" beatLength="0.25"/>
+                    <tempo date="39960.0" bpm="16.109676499895503" beatLength="0.25"/>
+                    <tempo date="40320.0" bpm="57.08439621996071" beatLength="0.25"/>
+                    <tempo date="40680.0" bpm="54.64041388757502" beatLength="0.25"/>
+                    <tempo date="41400.0" bpm="52.99655699198752" beatLength="0.25"/>
+                    <tempo date="41760.0" bpm="48.014960198204605" beatLength="0.25"/>
+                    <tempo date="42120.0" bpm="43.091916619584666" beatLength="0.25"/>
+                    <tempo date="42840.0" bpm="31.931164672378603" beatLength="0.25"/>
+                    <tempo date="43200.0" bpm="57.377925168513514" beatLength="0.25"/>
+                    <tempo date="43560.0" bpm="39.04693216481868" beatLength="0.25"/>
+                    <tempo date="44280.0" bpm="21.08996148449296" beatLength="0.25"/>
+                    <tempo date="45000.0" bpm="31.86386098758232" beatLength="0.25"/>
+                    <tempo date="46080.0" bpm="8.419362411463846" beatLength="0.25"/>
+                    <tempo date="46102.5" bpm="8.851610398495874" beatLength="0.25"/>
+                    <tempo date="46125.0" bpm="11.446272433868968" beatLength="0.25"/>
+                    <tempo date="46147.5" bpm="13.477459528314846" beatLength="0.25"/>
+                    <tempo date="46170.0" bpm="12.889700716344285" beatLength="0.25"/>
+                    <tempo date="46192.5" bpm="14.936987981693964" beatLength="0.25"/>
+                    <tempo date="46215.0" bpm="16.826019518481935" beatLength="0.25"/>
+                    <tempo date="46237.5" bpm="16.09474110705695" beatLength="0.25"/>
+                    <tempo date="46260.0" bpm="15.297947948783845" beatLength="0.25"/>
+                    <tempo date="46282.5" bpm="14.675193442361852" beatLength="0.25"/>
+                    <tempo date="46305.0" bpm="13.868299612863577" beatLength="0.25"/>
+                    <tempo date="46327.5" bpm="12.599862946420954" beatLength="0.25"/>
+                    <tempo date="46350.0" bpm="10.661869433265695" beatLength="0.25"/>
+                    <tempo date="46372.5" bpm="9.83599388187866" beatLength="0.25"/>
+                    <tempo date="46395.0" bpm="8.008482956631871" beatLength="0.25"/>
+                    <tempo date="46417.5" bpm="8.008482956631871" beatLength="0.25"/>
+                </tempoMap>
+                <asynchronyMap>
+                    <asynchrony date="0.0" milliseconds.offset="348.38416685355475"/>
+                    <asynchrony date="0.0" milliseconds.offset="348.38416685355475"/>
+                    <asynchrony date="360.01" milliseconds.offset="384.83919330858106"/>
+                    <asynchrony date="1800.01" milliseconds.offset="406.6721902436199"/>
+                    <asynchrony date="4680.01" milliseconds.offset="428.0155332196197"/>
+                    <asynchrony date="6120.01" milliseconds.offset="436.6328128913207"/>
+                    <asynchrony date="6840.01" milliseconds.offset="489.4212237749595"/>
+                    <asynchrony date="7560.01" milliseconds.offset="515.7686393832917"/>
+                    <asynchrony date="8640.01" milliseconds.offset="549.6109875113559"/>
+                    <asynchrony date="9000.01" milliseconds.offset="589.2718913279311"/>
+                    <asynchrony date="9360.01" milliseconds.offset="605.3940407834123"/>
+                    <asynchrony date="9720.01" milliseconds.offset="644.7130286738281"/>
+                    <asynchrony date="10080.01" milliseconds.offset="648.9768572387254"/>
+                    <asynchrony date="11880.01" milliseconds.offset="655.4839243893346"/>
+                    <asynchrony date="13320.0" milliseconds.offset="655.4839243893346"/>
+                    <asynchrony date="14760.01" milliseconds.offset="679.878515398357"/>
+                    <asynchrony date="16200.01" milliseconds.offset="716.57003452816"/>
+                    <asynchrony date="17640.01" milliseconds.offset="731.0204399625015"/>
+                    <asynchrony date="18360.01" milliseconds.offset="733.0920724582372"/>
+                    <asynchrony date="19080.01" milliseconds.offset="739.0005867978377"/>
+                    <asynchrony date="20160.01" milliseconds.offset="746.708311760847"/>
+                    <asynchrony date="21600.0" milliseconds.offset="746.708311760847"/>
+                    <asynchrony date="21600.01" milliseconds.offset="750.4772236781444"/>
+                    <asynchrony date="24480.01" milliseconds.offset="759.6561398310457"/>
+                    <asynchrony date="33480.01" milliseconds.offset="762.6574451338035"/>
+                </asynchronyMap>
+            </dated>
+        </global>
+        <part name="right hand" number="1" midi.channel="0" midi.port="0" xml:id="g1tm618u">
+            <header/>
+            <dated>
+                <articulationMap>
+                    <articulation date="4680.0" noteid="#njjz3m5" absoluteDelayMs="21.343342975998894"/>
+                    <articulation date="4680.0" noteid="#nx0xxp3" absoluteDelayMs="21.343342975998894"/>
+                    <articulation date="6120.0" noteid="#nel2rvm" absoluteDelayMs="8.61727967170009"/>
+                    <articulation date="6840.0" noteid="#n1gnrdu7" absoluteDelayMs="51.21115216352155"/>
+                    <articulation date="9000.0" noteid="#n1keu81w" absoluteDelayMs="38.405333989569044"/>
+                    <articulation date="9360.0" noteid="#n1ocxnav" absoluteDelayMs="16.122149455479303"/>
+                    <articulation date="9720.0" noteid="#n1ck28h5" absoluteDelayMs="39.318987890414064"/>
+                    <articulation date="10080.0" noteid="#n1xznt0r" absoluteDelayMs="4.263828564895448"/>
+                    <articulation date="11880.0" noteid="#n1qocvw7" absoluteDelayMs="6.507067150607327"/>
+                    <articulation date="11880.0" noteid="#nhouoos" absoluteDelayMs="1.0356943629431044"/>
+                    <articulation date="14760.0" noteid="#ndwo28y" absoluteDelayMs="2.326191353422473"/>
+                    <articulation date="14760.0" noteid="#n1yjazov" absoluteDelayMs="1.348622424648056"/>
+                    <articulation date="16200.0" noteid="#n14lg6kg" absoluteDelayMs="18.575357071302278"/>
+                    <articulation date="16200.0" noteid="#nhyvkfm" absoluteDelayMs="36.691519129803055"/>
+                    <articulation date="16200.0" noteid="#n3ppc2s" absoluteDelayMs="24.614077757454652"/>
+                    <articulation date="17640.0" noteid="#n3zn1ve" absoluteDelayMs="14.45040543434152"/>
+                    <articulation date="17640.0" noteid="#nozi4wb" absoluteDelayMs="14.45040543434152"/>
+                    <articulation date="18360.0" noteid="#nboqhl3" absoluteDelayMs="2.0716324957356846"/>
+                    <articulation date="18360.0" noteid="#n7j0ws0" absoluteDelayMs="2.0716324957356846"/>
+                    <articulation date="19080.0" noteid="#n1hur6tp" absoluteDelayMs="1.2638716259425564"/>
+                    <articulation date="19080.0" noteid="#n6wsszs" absoluteDelayMs="2.9956326560168236"/>
+                    <articulation date="20160.0" noteid="#nw3u4pq" absoluteDelayMs="7.707724963009241"/>
+                    <articulation date="21600.0" noteid="#n1pepyvq" absoluteDelayMs="3.7689119172973733"/>
+                    <articulation date="24480.0" noteid="#nelpv1u" absoluteDelayMs="4.589458076450683"/>
+                    <articulation date="24480.0" noteid="#n1h7e2vk" absoluteDelayMs="9.178916152901365"/>
+                    <articulation date="33480.0" noteid="#nwaf9g4" absoluteDelayMs="3.001305302757828"/>
+                    <articulation date="33480.0" noteid="#n8jghwt" absoluteDelayMs="3.001305302757828"/>
+                </articulationMap>
+            </dated>
+        </part>
+        <part name="left hand" number="2" midi.channel="1" midi.port="0" xml:id="q28k2b5">
+            <header/>
+            <dated>
+                <articulationMap>
+                    <articulation date="360.0" noteid="#niis0bt" absoluteDelayMs="36.455026455026314"/>
+                    <articulation date="1800.0" noteid="#nskncbk" absoluteDelayMs="21.832996935038864"/>
+                    <articulation date="4680.0" noteid="#n20qfko" absoluteDelayMs="21.343342975998894"/>
+                    <articulation date="6120.0" noteid="#n1gp8dny" absoluteDelayMs="8.611154529520718"/>
+                    <articulation date="6120.0" noteid="#n1c77x0z" absoluteDelayMs="8.443268749389063"/>
+                    <articulation date="6120.0" noteid="#n140af6o" absoluteDelayMs="8.61727967170009"/>
+                    <articulation date="6840.0" noteid="#nwwcg6d" absoluteDelayMs="52.78841088363879"/>
+                    <articulation date="6840.0" noteid="#n1nwaf9o" absoluteDelayMs="52.78841088363879"/>
+                    <articulation date="6840.0" noteid="#n1y9wlwc" absoluteDelayMs="52.78841088363879"/>
+                    <articulation date="7560.0" noteid="#n1xbjkbv" absoluteDelayMs="22.875695732827808"/>
+                    <articulation date="7560.0" noteid="#nu59lmr" absoluteDelayMs="20.004175718464467"/>
+                    <articulation date="7560.0" noteid="#n19gnecy" absoluteDelayMs="26.347415608330266"/>
+                    <articulation date="8640.0" noteid="#nxoodw5" absoluteDelayMs="33.84234812806244"/>
+                    <articulation date="9000.0" noteid="#n1uct3s1" absoluteDelayMs="39.66090381657341"/>
+                    <articulation date="9360.0" noteid="#n19fuh32" absoluteDelayMs="16.122149455479303"/>
+                    <articulation date="9720.0" noteid="#n1phrkel" absoluteDelayMs="37.541858494250846"/>
+                    <articulation date="10080.0" noteid="#n10z6tup" absoluteDelayMs="1.5665741779375821"/>
+                    <articulation date="11880.0" noteid="#nycny6q" absoluteDelayMs="6.507067150607327"/>
+                    <articulation date="14760.0" noteid="#nne21f7" absoluteDelayMs="24.394591009022406"/>
+                    <articulation date="17640.0" noteid="#n190ip5i" absoluteDelayMs="14.45040543434152"/>
+                    <articulation date="18360.0" noteid="#nbtjp6t" absoluteDelayMs="2.0716324957356846"/>
+                    <articulation date="19080.0" noteid="#n132vlyg" absoluteDelayMs="5.908514339600515"/>
+                    <articulation date="20160.0" noteid="#nlho7xd" absoluteDelayMs="7.707724963009241"/>
+                    <articulation date="21600.0" noteid="#n3k1x9c" absoluteDelayMs="3.7689119172973733"/>
+                    <articulation date="24480.0" noteid="#n1ajn7jo" absoluteDelayMs="1.5935189344745595"/>
+                    <articulation date="33480.0" noteid="#nbhbsvs" absoluteDelayMs="3.001305302757828"/>
+                </articulationMap>
+            </dated>
+        </part>
+    </performance>
 </mpm>
