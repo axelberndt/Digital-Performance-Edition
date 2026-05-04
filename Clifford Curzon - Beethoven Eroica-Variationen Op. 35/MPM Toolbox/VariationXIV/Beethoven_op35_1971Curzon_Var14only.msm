@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msm title="Eroica-Variationen op. 35 – Variation No. XIV. Minore. - 18 - Var. XIV. Minore" xml:id="Var_14" pulsesPerQuarter="720">
+    <global>
+        <header/>
+        <dated>
+            <timeSignatureMap>
+                <timeSignature date="0.0" numerator="0.5" denominator="4"/>
+                <timeSignature date="360.0" numerator="2.0" denominator="4"/>
+            </timeSignatureMap>
+            <sectionMap>
+                <section date="0.0" xml:id="Var_14_S" date.end="46440.0"/>
+            </sectionMap>
+        </dated>
+    </global>
+    <part name="right hand" number="1" midi.channel="0" midi.port="0" xml:id="g1tm618u">
+        <header/>
+        <dated>
+            <timeSignatureMap>
+                <timeSignature date="0.0" numerator="0.5" denominator="4"/>
+                <timeSignature date="360.0" numerator="2.0" denominator="4"/>
+            </timeSignatureMap>
+            <score>
+                <note xml:id="nbwxzb1" date="360.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="1440.0"/>
+                <note xml:id="n63xubs" date="1800.0" midi.pitch="82.0" pitchname="b" accidentals="-1.0" octave="4.0" duration="1440.0"/>
+                <note xml:id="n1hksdx3" date="3240.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="1440.0"/>
+                <note xml:id="n1vnikpu" date="3240.0" midi.pitch="65.0" pitchname="f" accidentals="0.0" octave="3.0" duration="1440.0"/>
+                <note xml:id="n5hfy1h" date="3240.0" midi.pitch="70.0" pitchname="b" accidentals="-1.0" octave="3.0" duration="1440.0"/>
+                <note xml:id="njjz3m5" date="4680.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="1440.0"/>
+                <note xml:id="nx0xxp3" date="4680.0" midi.pitch="66.0" pitchname="g" accidentals="-1.0" octave="3.0" duration="1440.0"/>
+                <note xml:id="nzrha46" date="4680.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="1440.0"/>
+                <note xml:id="ndpbkgz" date="6120.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="720.0"/>
+                <note xml:id="nel2rvm" date="6120.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1ua7khd" date="6480.0" midi.pitch="66.0" pitchname="g" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1ax8csr" date="6840.0" midi.pitch="74.0" pitchname="d" accidentals="0.0" octave="4.0" duration="720.0"/>
+                <note xml:id="n1gnrdu7" date="6840.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1uynip8" date="7200.0" midi.pitch="66.0" pitchname="g" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1vz4o6x" date="7560.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="1080.0"/>
+                <note xml:id="n1l21wtc" date="7560.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="nwc30jq" date="7920.0" midi.pitch="66.0" pitchname="g" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1x5o87d" date="8280.0" midi.pitch="71.0" pitchname="c" accidentals="-1.0" octave="4.0" duration="360.0"/>
+                <note xml:id="n1rdgjkk" date="8640.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="360.0"/>
+                <note xml:id="najplea" date="8640.0" midi.pitch="69.0" pitchname="b" accidentals="-2.0" octave="3.0" duration="360.0"/>
+                <note xml:id="nt1lpnt" date="9000.0" midi.pitch="76.0" pitchname="f" accidentals="-1.0" octave="4.0" duration="360.0"/>
+                <note xml:id="n1keu81w" date="9000.0" midi.pitch="68.0" pitchname="a" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="nm687d8" date="9360.0" midi.pitch="74.0" pitchname="d" accidentals="0.0" octave="4.0" duration="360.0"/>
+                <note xml:id="n1ocxnav" date="9360.0" midi.pitch="68.0" pitchname="a" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n13giu59" date="9720.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="360.0"/>
+                <note xml:id="n1ck28h5" date="9720.0" midi.pitch="69.0" pitchname="a" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1xznt0r" date="10080.0" midi.pitch="69.0" pitchname="a" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1xu9t7k" date="10080.0" midi.pitch="66.0" pitchname="g" accidentals="-1.0" octave="3.0" duration="720.0"/>
+                <note xml:id="n1ba5m93" date="10440.0" midi.pitch="70.0" pitchname="b" accidentals="-1.0" octave="3.0" duration="1080.0"/>
+                <note xml:id="n1svwcfz" date="10800.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1gkxnqh" date="10800.0" midi.pitch="66.0" pitchname="g" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n9iz6rl" date="11160.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1jlld6s" date="11160.0" midi.pitch="65.0" pitchname="f" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1q76nu4" date="11520.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n1qocvw7" date="11880.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="nhouoos" date="11880.0" midi.pitch="54.0" pitchname="g" accidentals="-1.0" octave="2.0" duration="1440.0"/>
+                <note xml:id="nj5htqb" date="11880.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="1440.0"/>
+                <note xml:id="nkm8rgd" date="12240.0" midi.pitch="66.0" pitchname="g" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1c226x5" date="12600.0" midi.pitch="65.0" pitchname="f" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="nzteqca" date="12960.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="njkbnxs" date="13320.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="720.0"/>
+                <note xml:id="n1oox58n" date="13320.0" midi.pitch="53.0" pitchname="f" accidentals="0.0" octave="2.0" duration="1440.0"/>
+                <note xml:id="nkpubf4" date="13320.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="1440.0"/>
+                <note xml:id="n1yihe3" date="14040.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1259fby" date="14400.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="ndwo28y" date="14760.0" midi.pitch="65.0" pitchname="f" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1yjazov" date="14760.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="1440.0"/>
+                <note xml:id="neq0sbq" date="14760.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="1440.0"/>
+                <note xml:id="n1u3y7g9" date="15120.0" midi.pitch="66.0" pitchname="g" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n3zp936" date="15480.0" midi.pitch="68.0" pitchname="a" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n12qmk7l" date="15840.0" midi.pitch="70.0" pitchname="b" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n14lg6kg" date="16200.0" midi.pitch="68.0" pitchname="a" accidentals="-1.0" octave="3.0" duration="720.0"/>
+                <note xml:id="nhyvkfm" date="16200.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="1440.0"/>
+                <note xml:id="n3ppc2s" date="16200.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="1440.0"/>
+                <note xml:id="ntveext" date="16920.0" midi.pitch="66.0" pitchname="g" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="ndgv6pw" date="17280.0" midi.pitch="68.0" pitchname="a" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n3zn1ve" date="17640.0" midi.pitch="70.0" pitchname="b" accidentals="-1.0" octave="3.0" duration="720.0"/>
+                <note xml:id="n1yriiba" date="17640.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="720.0"/>
+                <note xml:id="nozi4wb" date="17640.0" midi.pitch="66.0" pitchname="g" accidentals="-1.0" octave="3.0" duration="720.0"/>
+                <note xml:id="nboqhl3" date="18360.0" midi.pitch="70.0" pitchname="b" accidentals="-1.0" octave="3.0" duration="720.0"/>
+                <note xml:id="ncv4r2h" date="18360.0" midi.pitch="65.0" pitchname="f" accidentals="0.0" octave="3.0" duration="720.0"/>
+                <note xml:id="n7j0ws0" date="18360.0" midi.pitch="68.0" pitchname="a" accidentals="-1.0" octave="3.0" duration="720.0"/>
+                <note xml:id="n1hur6tp" date="19080.0" midi.pitch="70.0" pitchname="b" accidentals="-1.0" octave="3.0" duration="720.0"/>
+                <note xml:id="n6wsszs" date="19080.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="1080.0"/>
+                <note xml:id="narerll" date="19080.0" midi.pitch="66.0" pitchname="g" accidentals="-1.0" octave="3.0" duration="1080.0"/>
+                <note xml:id="nja5e1o" date="19800.0" midi.pitch="71.0" pitchname="c" accidentals="-1.0" octave="4.0" duration="360.0"/>
+                <note xml:id="nw3u4pq" date="20160.0" midi.pitch="69.0" pitchname="b" accidentals="-2.0" octave="3.0" duration="360.0"/>
+                <note xml:id="nds4xgz" date="20160.0" midi.pitch="59.0" pitchname="c" accidentals="-1.0" octave="3.0" duration="720.0"/>
+                <note xml:id="n1jxawt5" date="20160.0" midi.pitch="66.0" pitchname="g" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="nqioh0d" date="20520.0" midi.pitch="68.0" pitchname="a" accidentals="-1.0" octave="3.0" duration="1080.0"/>
+                <note xml:id="n1xyivg6" date="20520.0" midi.pitch="64.0" pitchname="f" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n13lhfpu" date="20880.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="720.0"/>
+                <note xml:id="net67sr" date="20880.0" midi.pitch="65.0" pitchname="f" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1ohsbag" date="21240.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n132s741" date="21600.0" midi.pitch="66.0" pitchname="g" accidentals="-1.0" octave="3.0" duration="1080.0"/>
+                <note xml:id="n1ihpbnr" date="21600.0" midi.pitch="60.0" pitchname="c" accidentals="0.0" octave="3.0" duration="1080.0"/>
+                <note xml:id="n1pepyvq" date="21600.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="1080.0"/>
+                <note xml:id="ni47acm" date="22680.0" midi.pitch="65.0" pitchname="f" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="ndgxzpg" date="22680.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1td6vii" date="24480.0" midi.pitch="65.0" pitchname="f" accidentals="0.0" octave="3.0" duration="1440.0"/>
+                <note xml:id="nelpv1u" date="24480.0" midi.pitch="68.0" pitchname="a" accidentals="-1.0" octave="3.0" duration="1440.0"/>
+                <note xml:id="n1h7e2vk" date="24480.0" midi.pitch="59.0" pitchname="c" accidentals="-1.0" octave="3.0" duration="1080.0"/>
+                <note xml:id="n1o0zlvb" date="25560.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n1hyp9w4" date="27360.0" midi.pitch="71.0" pitchname="c" accidentals="-1.0" octave="4.0" duration="1080.0"/>
+                <note xml:id="n1p7dhwf" date="27360.0" midi.pitch="77.0" pitchname="f" accidentals="0.0" octave="4.0" duration="1440.0"/>
+                <note xml:id="n14932a4" date="27360.0" midi.pitch="80.0" pitchname="a" accidentals="-1.0" octave="4.0" duration="1440.0"/>
+                <note xml:id="nmcg7xk" date="28440.0" midi.pitch="70.0" pitchname="b" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1j9f65q" date="28800.0" midi.pitch="51.0" pitchname="e" accidentals="-1.0" octave="2.0" duration="1440.0"/>
+                <note xml:id="n13qay7n" date="28800.0" midi.pitch="54.0" pitchname="g" accidentals="-1.0" octave="2.0" duration="1440.0"/>
+                <note xml:id="nkl7ze9" date="28800.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="1080.0"/>
+                <note xml:id="nehqrnf" date="29880.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1q8q723" date="30240.0" midi.pitch="64.0" pitchname="f" accidentals="-1.0" octave="3.0" duration="1440.0"/>
+                <note xml:id="n1vyz994" date="30240.0" midi.pitch="68.0" pitchname="a" accidentals="-1.0" octave="3.0" duration="1440.0"/>
+                <note xml:id="n1pq70ko" date="30240.0" midi.pitch="71.0" pitchname="c" accidentals="-1.0" octave="4.0" duration="1080.0"/>
+                <note xml:id="n1vnc8n9" date="31320.0" midi.pitch="76.0" pitchname="f" accidentals="-1.0" octave="4.0" duration="360.0"/>
+                <note xml:id="ns0p1it" date="31680.0" midi.pitch="54.0" pitchname="g" accidentals="-1.0" octave="2.0" duration="1080.0"/>
+                <note xml:id="nf0fxk3" date="31680.0" midi.pitch="60.0" pitchname="c" accidentals="0.0" octave="3.0" duration="1080.0"/>
+                <note xml:id="ndmiq9p" date="31680.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="1080.0"/>
+                <note xml:id="n1khq61u" date="32760.0" midi.pitch="53.0" pitchname="f" accidentals="0.0" octave="2.0" duration="720.0"/>
+                <note xml:id="n100gd98" date="32760.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="720.0"/>
+                <note xml:id="ngevg3i" date="32760.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="720.0"/>
+                <note xml:id="nc5l9l6" date="33480.0" midi.pitch="54.0" pitchname="g" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="nwaf9g4" date="33480.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n8jghwt" date="33480.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1ndomom" date="33840.0" midi.pitch="66.0" pitchname="g" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1m7wnc8" date="34200.0" midi.pitch="65.0" pitchname="f" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1itvxhj" date="34560.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1f05kf0" date="34920.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n12vifp0" date="35280.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="nky5k6q" date="35640.0" midi.pitch="65.0" pitchname="f" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n10ba369" date="36000.0" midi.pitch="68.0" pitchname="a" accidentals="-1.0" octave="3.0" duration="1440.0"/>
+                <note xml:id="nfw7l20" date="36000.0" midi.pitch="71.0" pitchname="c" accidentals="-1.0" octave="4.0" duration="1080.0"/>
+                <note xml:id="nilcimv" date="36000.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1tcy8b" date="36360.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="1080.0"/>
+                <note xml:id="n6v5hvi" date="37080.0" midi.pitch="70.0" pitchname="b" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="necxfso" date="37440.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="360.0"/>
+                <note xml:id="n19jj02v" date="37800.0" midi.pitch="74.0" pitchname="d" accidentals="0.0" octave="4.0" duration="360.0"/>
+                <note xml:id="n18e52v1" date="38160.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="360.0"/>
+                <note xml:id="nhiryu2" date="38520.0" midi.pitch="77.0" pitchname="f" accidentals="0.0" octave="4.0" duration="360.0"/>
+                <note xml:id="n1dsxcj3" date="38880.0" midi.pitch="83.0" pitchname="c" accidentals="-1.0" octave="5.0" duration="1080.0"/>
+                <note xml:id="nzgt9e6" date="38880.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="360.0"/>
+                <note xml:id="n15rvhyc" date="39240.0" midi.pitch="74.0" pitchname="d" accidentals="0.0" octave="4.0" duration="1080.0"/>
+                <note xml:id="n1781bp8" date="39960.0" midi.pitch="82.0" pitchname="b" accidentals="-1.0" octave="4.0" duration="360.0"/>
+                <note xml:id="n19daiw1" date="40320.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="1440.0"/>
+                <note xml:id="n1o6r8e6" date="40320.0" midi.pitch="66.0" pitchname="g" accidentals="-1.0" octave="3.0" duration="1440.0"/>
+                <note xml:id="n1985uyk" date="40320.0" midi.pitch="70.0" pitchname="b" accidentals="-1.0" octave="3.0" duration="1080.0"/>
+                <note xml:id="njd0vb2" date="41400.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="360.0"/>
+                <note xml:id="nhso13h" date="41760.0" midi.pitch="76.0" pitchname="f" accidentals="-1.0" octave="4.0" duration="1440.0"/>
+                <note xml:id="nog1322" date="41760.0" midi.pitch="80.0" pitchname="a" accidentals="-1.0" octave="4.0" duration="1440.0"/>
+                <note xml:id="n170zupd" date="41760.0" midi.pitch="83.0" pitchname="c" accidentals="-1.0" octave="5.0" duration="1080.0"/>
+                <note xml:id="nv8x4g3" date="42840.0" midi.pitch="88.0" pitchname="f" accidentals="-1.0" octave="5.0" duration="360.0"/>
+                <note xml:id="nmbgzgj" date="43200.0" midi.pitch="54.0" pitchname="g" accidentals="-1.0" octave="2.0" duration="1080.0"/>
+                <note xml:id="nrevevk" date="43200.0" midi.pitch="60.0" pitchname="c" accidentals="0.0" octave="3.0" duration="1080.0"/>
+                <note xml:id="n1lcuzj" date="43200.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="1080.0"/>
+                <note xml:id="n9egt9e" date="44280.0" midi.pitch="53.0" pitchname="f" accidentals="0.0" octave="2.0" duration="720.0"/>
+                <note xml:id="nommt0c" date="44280.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="720.0"/>
+                <note xml:id="nk3zkrg" date="44280.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="720.0"/>
+                <note xml:id="n13panho" date="45000.0" midi.pitch="54.0" pitchname="g" accidentals="-1.0" octave="2.0" duration="1080.0"/>
+                <note xml:id="nok2y38" date="45000.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="1080.0"/>
+                <note xml:id="n1vstb1b" date="45000.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="1080.0"/>
+                <note xml:id="nlepmip" date="46080.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="22.5"/>
+                <note xml:id="n1st1xqg" date="46102.5" midi.pitch="59.0" pitchname="c" accidentals="-1.0" octave="3.0" duration="22.5"/>
+                <note xml:id="n7fzt0g" date="46125.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="22.5"/>
+                <note xml:id="n1gfvle3" date="46147.5" midi.pitch="57.0" pitchname="a" accidentals="0.0" octave="2.0" duration="22.5"/>
+                <note xml:id="n1erapwz" date="46170.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="22.5"/>
+                <note xml:id="nmxyto5" date="46192.5" midi.pitch="60.0" pitchname="c" accidentals="0.0" octave="3.0" duration="22.5"/>
+                <note xml:id="n6s0wyy" date="46215.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="22.5"/>
+                <note xml:id="nb1w2y6" date="46237.5" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="22.5"/>
+                <note xml:id="n1ksebqf" date="46260.0" midi.pitch="65.0" pitchname="f" accidentals="0.0" octave="3.0" duration="22.5"/>
+                <note xml:id="nbkyjw0" date="46282.5" midi.pitch="67.0" pitchname="g" accidentals="0.0" octave="3.0" duration="22.5"/>
+                <note xml:id="n12mm9l0" date="46305.0" midi.pitch="68.0" pitchname="a" accidentals="-1.0" octave="3.0" duration="22.5"/>
+                <note xml:id="n4f3lsb" date="46327.5" midi.pitch="70.0" pitchname="b" accidentals="-1.0" octave="3.0" duration="22.5"/>
+                <note xml:id="n4qfwbf" date="46350.0" midi.pitch="72.0" pitchname="c" accidentals="0.0" octave="4.0" duration="22.5"/>
+                <note xml:id="n197fke7" date="46372.5" midi.pitch="74.0" pitchname="d" accidentals="0.0" octave="4.0" duration="22.5"/>
+                <note xml:id="n1scanvd" date="46395.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="22.5"/>
+                <note xml:id="nhwyey3" date="46417.5" midi.pitch="77.0" pitchname="f" accidentals="0.0" octave="4.0" duration="22.5"/>
+            </score>
+        </dated>
+    </part>
+    <part name="left hand" number="2" midi.channel="1" midi.port="0" xml:id="q28k2b5">
+        <header/>
+        <dated>
+            <timeSignatureMap>
+                <timeSignature date="0.0" numerator="0.5" denominator="4"/>
+                <timeSignature date="360.0" numerator="2.0" denominator="4"/>
+            </timeSignatureMap>
+            <score>
+                <note xml:id="nwqgcz5" date="0.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="niis0bt" date="360.0" midi.pitch="66.0" pitchname="g" accidentals="-1.0" octave="3.0" duration="720.0"/>
+                <note xml:id="n1axox90" date="1080.0" midi.pitch="65.0" pitchname="f" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="nz2irm6" date="1440.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="nskncbk" date="1800.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="noxt7zz" date="2160.0" midi.pitch="59.0" pitchname="c" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1ftb3dd" date="2520.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="1080.0"/>
+                <note xml:id="n12wrtim" date="3600.0" midi.pitch="59.0" pitchname="c" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1ucgq9x" date="3960.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n1d3wph6" date="4320.0" midi.pitch="56.0" pitchname="a" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n20qfko" date="4680.0" midi.pitch="54.0" pitchname="g" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="ndw96g6" date="5040.0" midi.pitch="53.0" pitchname="f" accidentals="0.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n1w2yvlc" date="5400.0" midi.pitch="51.0" pitchname="e" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n1q8opyy" date="5760.0" midi.pitch="49.0" pitchname="d" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n1gp8dny" date="6120.0" midi.pitch="47.0" pitchname="c" accidentals="-1.0" octave="2.0" duration="720.0"/>
+                <note xml:id="n1c77x0z" date="6120.0" midi.pitch="54.0" pitchname="g" accidentals="-1.0" octave="2.0" duration="720.0"/>
+                <note xml:id="n140af6o" date="6120.0" midi.pitch="59.0" pitchname="c" accidentals="-1.0" octave="3.0" duration="720.0"/>
+                <note xml:id="nwwcg6d" date="6840.0" midi.pitch="46.0" pitchname="b" accidentals="-1.0" octave="1.0" duration="720.0"/>
+                <note xml:id="n1nwaf9o" date="6840.0" midi.pitch="54.0" pitchname="g" accidentals="-1.0" octave="2.0" duration="720.0"/>
+                <note xml:id="n1y9wlwc" date="6840.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="720.0"/>
+                <note xml:id="n1xbjkbv" date="7560.0" midi.pitch="54.0" pitchname="g" accidentals="-1.0" octave="2.0" duration="1080.0"/>
+                <note xml:id="nu59lmr" date="7560.0" midi.pitch="59.0" pitchname="c" accidentals="-1.0" octave="3.0" duration="1080.0"/>
+                <note xml:id="n19gnecy" date="7560.0" midi.pitch="47.0" pitchname="c" accidentals="-1.0" octave="2.0" duration="2520.0"/>
+                <note xml:id="nxoodw5" date="8640.0" midi.pitch="57.0" pitchname="b" accidentals="-2.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n1uct3s1" date="9000.0" midi.pitch="56.0" pitchname="a" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n19fuh32" date="9360.0" midi.pitch="53.0" pitchname="f" accidentals="0.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n1phrkel" date="9720.0" midi.pitch="54.0" pitchname="g" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n10z6tup" date="10080.0" midi.pitch="51.0" pitchname="e" accidentals="-1.0" octave="2.0" duration="720.0"/>
+                <note xml:id="n1do2vxt" date="10080.0" midi.pitch="47.0" pitchname="c" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="nzb0w7v" date="10440.0" midi.pitch="46.0" pitchname="b" accidentals="-1.0" octave="1.0" duration="1080.0"/>
+                <note xml:id="n1h3uo6" date="10800.0" midi.pitch="54.0" pitchname="g" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="nvmypsu" date="11160.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="nycny6q" date="11880.0" midi.pitch="39.0" pitchname="e" accidentals="-1.0" octave="1.0" duration="1440.0"/>
+                <note xml:id="nqroevn" date="13320.0" midi.pitch="46.0" pitchname="b" accidentals="-1.0" octave="1.0" duration="1440.0"/>
+                <note xml:id="nne21f7" date="14760.0" midi.pitch="34.0" pitchname="b" accidentals="-1.0" octave="0.0" duration="1440.0"/>
+                <note xml:id="n5dzn4x" date="16200.0" midi.pitch="39.0" pitchname="e" accidentals="-1.0" octave="1.0" duration="1440.0"/>
+                <note xml:id="n190ip5i" date="17640.0" midi.pitch="51.0" pitchname="e" accidentals="-1.0" octave="2.0" duration="720.0"/>
+                <note xml:id="nbtjp6t" date="18360.0" midi.pitch="50.0" pitchname="d" accidentals="0.0" octave="2.0" duration="720.0"/>
+                <note xml:id="n132vlyg" date="19080.0" midi.pitch="51.0" pitchname="e" accidentals="-1.0" octave="2.0" duration="1080.0"/>
+                <note xml:id="nlho7xd" date="20160.0" midi.pitch="51.0" pitchname="e" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n18szrpt" date="20520.0" midi.pitch="52.0" pitchname="f" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="nhp3q9n" date="20880.0" midi.pitch="50.0" pitchname="d" accidentals="0.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n1k9w891" date="21240.0" midi.pitch="51.0" pitchname="e" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n3k1x9c" date="21600.0" midi.pitch="45.0" pitchname="a" accidentals="0.0" octave="1.0" duration="360.0"/>
+                <note xml:id="ns7ef1z" date="21960.0" midi.pitch="46.0" pitchname="b" accidentals="-1.0" octave="1.0" duration="1080.0"/>
+                <note xml:id="ncwb9kp" date="22320.0" midi.pitch="57.0" pitchname="a" accidentals="0.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n186unn2" date="22680.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n1vm6u8k" date="23040.0" midi.pitch="51.0" pitchname="e" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="ny91d4k" date="23400.0" midi.pitch="50.0" pitchname="d" accidentals="0.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n2fhybt" date="23760.0" midi.pitch="51.0" pitchname="e" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="nams049" date="24120.0" midi.pitch="53.0" pitchname="f" accidentals="0.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n1ajn7jo" date="24480.0" midi.pitch="51.0" pitchname="e" accidentals="-1.0" octave="2.0" duration="1080.0"/>
+                <note xml:id="n3s1yxj" date="24840.0" midi.pitch="46.0" pitchname="b" accidentals="-1.0" octave="1.0" duration="1080.0"/>
+                <note xml:id="n1wlzdyp" date="25560.0" midi.pitch="50.0" pitchname="d" accidentals="0.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n70g25x" date="25920.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1k0p70e" date="26280.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n11rggv8" date="26640.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="nkpr3xp" date="27000.0" midi.pitch="65.0" pitchname="f" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n4d775a" date="27360.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="1080.0"/>
+                <note xml:id="n104qhxz" date="27720.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="1080.0"/>
+                <note xml:id="n13wljik" date="28440.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="ngx1f26" date="29160.0" midi.pitch="30.0" pitchname="g" accidentals="-1.0" octave="0.0" duration="360.0"/>
+                <note xml:id="n14ahlx1" date="29160.0" midi.pitch="42.0" pitchname="g" accidentals="-1.0" octave="1.0" duration="360.0"/>
+                <note xml:id="nbeyber" date="30600.0" midi.pitch="56.0" pitchname="a" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n1y3yzsw" date="30600.0" midi.pitch="59.0" pitchname="c" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="ncgjw5z" date="32040.0" midi.pitch="45.0" pitchname="a" accidentals="0.0" octave="1.0" duration="360.0"/>
+                <note xml:id="ng6hp7e" date="32760.0" midi.pitch="46.0" pitchname="b" accidentals="-1.0" octave="1.0" duration="360.0"/>
+                <note xml:id="nbhbsvs" date="33480.0" midi.pitch="39.0" pitchname="e" accidentals="-1.0" octave="1.0" duration="360.0"/>
+                <note xml:id="n10wqvpp" date="34560.0" midi.pitch="51.0" pitchname="e" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n1n9ko7n" date="34920.0" midi.pitch="53.0" pitchname="f" accidentals="0.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n16yhsuy" date="35280.0" midi.pitch="51.0" pitchname="e" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n19casdx" date="35640.0" midi.pitch="50.0" pitchname="d" accidentals="0.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n1sng5up" date="36000.0" midi.pitch="51.0" pitchname="e" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n112tcfk" date="36360.0" midi.pitch="46.0" pitchname="b" accidentals="-1.0" octave="1.0" duration="1080.0"/>
+                <note xml:id="n18mg1et" date="36360.0" midi.pitch="53.0" pitchname="f" accidentals="0.0" octave="2.0" duration="1080.0"/>
+                <note xml:id="n12n7xas" date="37440.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1yn1nc9" date="37440.0" midi.pitch="66.0" pitchname="g" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1h378am" date="37800.0" midi.pitch="65.0" pitchname="f" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1iba4d5" date="37800.0" midi.pitch="68.0" pitchname="a" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1vtwu4u" date="38160.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1gyf11x" date="38160.0" midi.pitch="66.0" pitchname="g" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n1cbtxzq" date="38520.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="noxyeix" date="38520.0" midi.pitch="65.0" pitchname="f" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="nc3tk7n" date="38880.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="nozf56n" date="38880.0" midi.pitch="66.0" pitchname="g" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n9pvokp" date="39240.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="1080.0"/>
+                <note xml:id="n1wcys64" date="39240.0" midi.pitch="65.0" pitchname="f" accidentals="0.0" octave="3.0" duration="1080.0"/>
+                <note xml:id="nlj3n87" date="39240.0" midi.pitch="68.0" pitchname="a" accidentals="-1.0" octave="3.0" duration="1080.0"/>
+                <note xml:id="n15sqsrm" date="40680.0" midi.pitch="42.0" pitchname="g" accidentals="-1.0" octave="1.0" duration="360.0"/>
+                <note xml:id="n6ol2v6" date="40680.0" midi.pitch="54.0" pitchname="g" accidentals="-1.0" octave="2.0" duration="360.0"/>
+                <note xml:id="n1hs0mq0" date="42120.0" midi.pitch="68.0" pitchname="a" accidentals="-1.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n9fu7o8" date="42120.0" midi.pitch="71.0" pitchname="c" accidentals="-1.0" octave="4.0" duration="360.0"/>
+                <note xml:id="n10b8oen" date="43560.0" midi.pitch="45.0" pitchname="a" accidentals="0.0" octave="1.0" duration="360.0"/>
+                <note xml:id="n1x662om" date="44280.0" midi.pitch="46.0" pitchname="b" accidentals="-1.0" octave="1.0" duration="360.0"/>
+                <note xml:id="n9f43h8" date="45000.0" midi.pitch="39.0" pitchname="e" accidentals="-1.0" octave="1.0" duration="1080.0"/>
+            </score>
+        </dated>
+    </part>
+</msm>
