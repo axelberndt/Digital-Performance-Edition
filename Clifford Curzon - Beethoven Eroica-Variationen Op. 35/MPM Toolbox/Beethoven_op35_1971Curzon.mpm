@@ -415,9 +415,9 @@
                     <dynamics volume="+" date="1180800.0"/> 
                 </dynamicsMap>
                 <ornamentationMap>
-                    <style name.ref="MEI export" date="864360.0"/>
+                    <style name.ref="MEI export" date="864360.0" xml:id="meico_19f9383c-8b23-421b-8533-7f9ddc7b3f50"/>
                     <ornament name.ref="arpeggio" scale="0.0" note.order="#n16uom8f #n1346tqj #n1w8bnzt #n1jl9118 #nx93qk5 #n1betdu5 #nxgmwxm" xml:id="a19r3dqs" date="948600.0"/>
-                    <style name.ref="MEI export" date="950760.0"/>
+                    <style name.ref="MEI export" date="950760.0" xml:id="meico_b9a8d1e3-7025-4c93-90ff-253ae7468e91"/>
                     <ornament name.ref="arpeggio" scale="0.0" note.order="#n1rvryt4 #n1yitj5y" xml:id="aacmkpr" date="1061640.0"/>
                     <ornament name.ref="arpeggio" scale="0.0" note.order="#n5h1k0c #nynp2rt #nvljpeb #nk4syg6" xml:id="aymjefg" date="1136520.0"/>
                     <ornament name.ref="arpeggio" scale="0.0" note.order="#n1mmugp1 #nhpjxyb #n1gtgjqp #n102c2jj" xml:id="atpyr13" date="1136520.0"/> 
