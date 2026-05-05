@@ -2,7 +2,14 @@
 <mpmToolboxProject>
     <msm file="MEI1922Forberg_concatenated-000.msm"/>
     <score overlayElementSize="0">
-        <page file="score/Add_64978-0003.jpg" width.pixels="3409" height.pixels="4192"/>
+        <page file="score/Add_64978-0003.jpg" width.pixels="3409" height.pixels="4192">
+            <note ref="n1o1m6wp" x="1062.0" y="961.0"/>
+            <note ref="n16speqe" x="1064.0" y="1032.0"/>
+            <note ref="n1cwo20y" x="1063.0" y="984.0"/>
+            <note ref="ngjti4i" x="1064.0" y="1011.0"/>
+            <note ref="nrnrbws" x="1358.0" y="1004.0"/>
+            <note ref="n1lgdh90" x="1208.0" y="1047.0"/>
+        </page>
         <page file="score/Add_64978-0004.jpg" width.pixels="3250" height.pixels="4192"/>
         <page file="score/Add_64978-0005.jpg" width.pixels="3427" height.pixels="4185"/>
         <page file="score/Add_64978-0006.jpg" width.pixels="3347" height.pixels="4152"/>
