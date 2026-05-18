@@ -406,7 +406,7 @@
                     <tempo date="45000.0" bpm="25.0" beatLength="0.25" xml:id="mpmToolbox_b544a0f1-12da-4c13-9d5c-bf94fd22b48c"/>
                     <tempo date="46080.0" bpm="5.0" transition.to="20.0" beatLength="0.25" xml:id="mpmToolbox_f956406b-f7e5-499a-8c2e-7e3bc4afe3a3"/>
                     <tempo date="46215.0" bpm="20.0" beatLength="0.25" xml:id="mpmToolbox_7bee5f4d-39d7-45de-a7ac-08df5ccac354"/> 
-                </tempoMap> 
+                </tempoMap>
             </dated>
         </global>
         <part name="right hand" number="1" midi.channel="0" midi.port="0" xml:id="g1tm618u">
@@ -664,8 +664,8 @@
                     <articulation date="27360.0" xml:id="s1ynyk32_meico_9780114b-f7d7-4f73-bf89-f48049046ad4_mpmToolbox-copy_13b3eb2b-2c33-41d8-a829-848b3023209e" name.ref="legato" noteid="#n4d775a"/>
                     <articulation date="27720.0" xml:id="s924n5p_meico_1fe2c2b4-36ff-41a6-9e6c-3f1f91929c4a_mpmToolbox-copy_42972aa5-229c-419f-b209-fc41a1fc2790" name.ref="legatostop" noteid="#n104qhxz"/>
                     <articulation date="28440.0" xml:id="s924n5p_meico_caad7270-c966-4d5f-b5ec-06f6bd847e47_mpmToolbox-copy_64ddbce6-45e9-4b26-83e5-f6375831f6e2" name.ref="legatostop" noteid="#n13wljik"/>
-                    <articulation date="29160.0" xml:id="aetao2m_mpmToolbox-copy_158b4b72-d66d-4042-872f-961258469e4a" name.ref="staccato" noteid="#ngx1f26"/>
                     <articulation date="29160.0" xml:id="aetao2m_meico_e5fd9e29-b6e8-4cf7-b175-3b78f03680c8_mpmToolbox-copy_7d1d9b2d-7319-451f-946e-672f52253bb7" name.ref="staccato" noteid="#n14ahlx1"/>
+                    <articulation date="29160.0" xml:id="aetao2m_mpmToolbox-copy_158b4b72-d66d-4042-872f-961258469e4a" name.ref="legato" noteid="#ngx1f26" relativeDuration="0.8"/>
                     <articulation date="30600.0" xml:id="agjbiij_mpmToolbox-copy_c62a6ec9-a846-4a3d-8f01-dd4647c43845" name.ref="staccato" noteid="#nbeyber"/>
                     <articulation date="30600.0" xml:id="agjbiij_meico_05d6ad6d-0238-4c7e-a951-0c0710c2d22f_mpmToolbox-copy_53bf21d6-653c-441a-971f-c653ed17960a" name.ref="staccato" noteid="#n1y3yzsw"/>
                     <articulation date="32040.0" xml:id="a1x09bk3_mpmToolbox-copy_cfed5f06-9120-4cab-8ab6-40288866183f" name.ref="staccato" noteid="#ncgjw5z"/>
