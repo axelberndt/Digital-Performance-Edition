@@ -14479,10 +14479,8 @@
                                  <artic xml:id="a1kfb8xz" artic="stacc" place="above" />
                               </note>
                               <beam xml:id="c12bv69n">
-                                 <note xml:id="nqv78b2" dur="16" oct="4" pname="b" stem.dir="up">
-                                    <accid xml:id="e1e64z8b" accid.ges="f" />
-                                 </note>
-                                 <note xml:id="nz7yzp9" dur="16" oct="5" pname="e" stem.dir="up">
+                                 <note xml:id="nqv78b2" dur="16" oct="4" pname="g" stem.dir="up" />
+                                 <note xml:id="nz7yzp9" dur="16" oct="4" pname="b" stem.dir="up">
                                     <accid xml:id="g67iqt1" accid.ges="f" />
                                  </note>
                               </beam>
@@ -14691,10 +14689,10 @@
                                  <accid xml:id="yl2a73h" accid.ges="f" />
                               </note>
                               <beam xml:id="zplptze">
-                                 <note xml:id="n10zt7vt" dur="16" oct="5" pname="e">
+                                 <note xml:id="n10zt7vt" dur="16" oct="5" pname="c" />
+                                 <note xml:id="nv4cm5p" dur="16" oct="5" pname="e">
                                     <accid xml:id="b1g4vecb" accid.ges="f" />
                                  </note>
-                                 <note xml:id="nv4cm5p" dur="16" oct="5" pname="g" />
                               </beam>
                               <rest xml:id="r1leuj55" dur="16" />
                               <note xml:id="n9pljso" dur="16" oct="5" pname="a">
@@ -24320,10 +24318,8 @@
                                  </chord>
                                  <chord xml:id="cyon8ml" dur="16">
                                     <artic xml:id="adoi8v8" artic="stacc" />
-                                    <note xml:id="n1vauniy" oct="5" pname="e">
-                                       <accid xml:id="nvsfum8" accid.ges="f" />
-                                    </note>
-                                    <note xml:id="n1f1xvfh" oct="5" pname="g" />
+                                    <note xml:id="n1vauniy" oct="5" pname="d" />
+                                    <note xml:id="n1f1xvfh" oct="5" pname="f" />
                                  </chord>
                               </beam>
                               <rest xml:id="rcn1hzu" dur="16" />
