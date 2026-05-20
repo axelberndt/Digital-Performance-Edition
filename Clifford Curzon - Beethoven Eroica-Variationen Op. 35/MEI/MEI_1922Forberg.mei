@@ -43,7 +43,7 @@
       </fileDesc>
       <encodingDesc xml:id="eluoer8">
          <appInfo xml:id="anrnvmv1">
-            <application xml:id="ahheats2" enddate="2026-05-04T14:50:24" startdate="2025-11-26T13:40:51" version="1.2.9">
+            <application xml:id="ahheats2" enddate="2026-05-20T18:11:39" startdate="2025-11-26T13:40:51" version="1.2.9">
                <name xml:id="n7798521">mei-friend</name>
                <p xml:id="pp8gsl3">Edits made by use of mei-friend 1.2.9.</p>
             </application>
@@ -12917,9 +12917,10 @@
                         <dynam xml:id="d18muz30" label="sf" staff="2" startid="#nfa2izb">sf</dynam>
                         <pedal xml:id="p1m6p3up" startid="#nfa2izb" endid="#nb2g01c" dir="down" form="pedstar" />
                         <dynam xml:id="d1wq1jma" label="p" staff="2" startid="#n17qk2vx">p</dynam>
-                        <hairpin xml:id="hqn6qb0" staff="2" startid="#n17qk2vx" tstamp2="0m+3.2" form="dim" />
-                        <slur xml:id="tlnhj42" startid="#n17qk2vx" tstamp2="0m+3" />
-                        <tie xml:id="tlnhjum" startid="#n17qk2vx" tstamp2="0m+3" />
+                        <hairpin xml:id="hqn6qb0" staff="2" startid="#n17qk2vx" endid="#n1me3o2k" form="dim" />
+                        <annot xml:id="mcqk7xl" plist="#n17qk2vx #d1wq1jma">Tied and slurred F5 as well as diminuendo hairpin not properly rendered by Vervovio yet (as of v6.2.0) due to the repetition.</annot>
+                        <slur xml:id="tlnhj42" startid="#n17qk2vx" endid="#nnpl1c0" />
+                        <tie xml:id="tlnhjum" startid="#n17qk2vx" endid="#n1me3o2k" />
                         <fing xml:id="ffi96rs" place="below" startid="#n17qk2vx">2</fing>
                         <fing xml:id="fifoe6" place="below" startid="#nfa2izb">3</fing>
                      </measure>
