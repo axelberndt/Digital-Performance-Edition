@@ -18,10 +18,10 @@
                     </styleDef>
                 </tempoStyles>
                 <dynamicsStyles>
-                    <styleDef name="Default Dynamics"> 
+                    <styleDef name="Default Dynamics">
                         <dynamicsDef name="ppp" value="12.0"/>
                         <dynamicsDef name="pp" value="36.0"/>
-                        <dynamicsDef name="p" value="48.0"/> 
+                        <dynamicsDef name="p" value="48.0"/>
                         <dynamicsDef name="sforzato" value="89.0"/>
                         <dynamicsDef name="mf" value="60.0"/>
                         <dynamicsDef name="f" value="72.0"/>
@@ -38,7 +38,7 @@
                         <articulationDef name="marcato" relativeDuration="0.8" absoluteVelocityChange="25.0"/>
                         <articulationDef name="nonlegato" relativeDuration="0.95"/>
                         <articulationDef name="pizzicato" absoluteDuration="1.0"/>
-                        <articulationDef name="portato" relativeDuration="0.8"/> 
+                        <articulationDef name="portato" relativeDuration="0.8"/>
                         <articulationDef name="snap pizzicato" absoluteDuration="1.0" absoluteVelocityChange="25.0"/>
                         <articulationDef name="spiccato" absoluteDurationMs="140.0" absoluteVelocityChange="25.0"/>
                         <articulationDef name="staccato" absoluteDurationMs="160.0" absoluteVelocityChange="-5.0"/>
@@ -326,9 +326,9 @@
         <global>
             <header>
                 <dynamicsStyles>
-                    <styleDef name="Default Dynamics"> 
+                    <styleDef name="Default Dynamics">
                         <dynamicsDef name="pp" value="36.0"/>
-                        <dynamicsDef name="p" value="48.0"/> 
+                        <dynamicsDef name="p" value="48.0"/>
                         <dynamicsDef name="sforzato" value="89.0"/>
                         <dynamicsDef name="mf" value="60.0"/>
                         <dynamicsDef name="f" value="72.0"/>
@@ -366,7 +366,7 @@
                         <articulationDef name="marcato" relativeDuration="0.8" absoluteVelocityChange="25.0"/>
                         <articulationDef name="nonlegato" relativeDuration="0.95"/>
                         <articulationDef name="pizzicato" absoluteDuration="1.0"/>
-                        <articulationDef name="portato" relativeDuration="0.8"/> 
+                        <articulationDef name="portato" relativeDuration="0.8"/>
                         <articulationDef name="snap pizzicato" absoluteDuration="1.0" absoluteVelocityChange="25.0"/>
                         <articulationDef name="spiccato" absoluteDurationMs="140.0" absoluteVelocityChange="25.0"/>
                         <articulationDef name="staccato" absoluteDurationMs="160.0" absoluteVelocityChange="-5.0"/>
@@ -655,13 +655,13 @@
                     <articulation date="27360.0" xml:id="s1ynyk32_meico_9780114b-f7d7-4f73-bf89-f48049046ad4_mpmToolbox-copy_13b3eb2b-2c33-41d8-a829-848b3023209e" name.ref="legato" noteid="#n4d775a"/>
                     <articulation date="27720.0" xml:id="s924n5p_meico_1fe2c2b4-36ff-41a6-9e6c-3f1f91929c4a_mpmToolbox-copy_42972aa5-229c-419f-b209-fc41a1fc2790" name.ref="legatostop" noteid="#n104qhxz"/>
                     <articulation date="28440.0" xml:id="s924n5p_meico_caad7270-c966-4d5f-b5ec-06f6bd847e47_mpmToolbox-copy_64ddbce6-45e9-4b26-83e5-f6375831f6e2" name.ref="legatostop" noteid="#n13wljik"/>
-                    <articulation date="29160.0" xml:id="aetao2m_meico_e5fd9e29-b6e8-4cf7-b175-3b78f03680c8_mpmToolbox-copy_7d1d9b2d-7319-451f-946e-672f52253bb7" name.ref="staccato" noteid="#n14ahlx1"/>
-                    <articulation date="29160.0" xml:id="aetao2m_mpmToolbox-copy_158b4b72-d66d-4042-872f-961258469e4a" name.ref="legato" noteid="#ngx1f26" relativeDuration="0.8"/>
-                    <articulation date="30600.0" xml:id="agjbiij_mpmToolbox-copy_c62a6ec9-a846-4a3d-8f01-dd4647c43845" name.ref="staccato" noteid="#nbeyber"/>
-                    <articulation date="30600.0" xml:id="agjbiij_meico_05d6ad6d-0238-4c7e-a951-0c0710c2d22f_mpmToolbox-copy_53bf21d6-653c-441a-971f-c653ed17960a" name.ref="staccato" noteid="#n1y3yzsw"/>
-                    <articulation date="32040.0" xml:id="a1x09bk3_mpmToolbox-copy_cfed5f06-9120-4cab-8ab6-40288866183f" name.ref="staccato" noteid="#ncgjw5z"/>
-                    <articulation date="32760.0" xml:id="a3teg98_mpmToolbox-copy_49a94c00-aa46-44bf-9a1d-eb6a6f610fa0" name.ref="staccato" noteid="#ng6hp7e"/>
-                    <articulation date="33480.0" xml:id="ak47jeh_mpmToolbox-copy_6771621a-4b8b-4a83-9597-84ab5a902272" name.ref="staccato" noteid="#nbhbsvs"/>
+                    <articulation date="29160.0" xml:id="aetao2m_mpmToolbox-copy_158b4b72-d66d-4042-872f-961258469e4a" name.ref="legato" noteid="#ngx1f26" relativeDuration="0.6"/>
+                    <articulation date="29160.0" xml:id="mpmToolbox_3dd51db3-2f23-4fc2-b23a-f44a519aa187" name.ref="legato" noteid="#n14ahlx1" relativeDuration="0.6"/>
+                    <articulation date="30600.0" xml:id="mpmToolbox_15b5d1f2-3947-4b33-8c53-10221c7bd74d" name.ref="legato" noteid="#n1y3yzsw" relativeDuration="0.6"/>
+                    <articulation date="30600.0" xml:id="mpmToolbox_b1c91476-c298-4cf4-9fcb-d09c02ba895b" name.ref="legato" noteid="#nbeyber" relativeDuration="0.6"/>
+                    <articulation date="32040.0" xml:id="mpmToolbox_9c2dd29b-0bf3-4382-84c4-7bcf4b272f71" name.ref="legato" noteid="#ncgjw5z" relativeDuration="0.5"/>
+                    <articulation date="32760.0" xml:id="mpmToolbox_17071144-75a4-4cc5-b2c5-267297e59730" name.ref="legato" noteid="#ng6hp7e" relativeDuration="0.5"/>
+                    <articulation date="33480.0" xml:id="mpmToolbox_65d4c533-1102-450e-8570-d172faea36f9" name.ref="legato" noteid="#nbhbsvs" relativeDuration="0.5"/>
                     <articulation date="34560.0" name.ref="legato" noteid="#n10wqvpp" xml:id="sbcxnel_meico_7b3b4b9e-3982-4592-9238-9d3aa66afa3c_mpmToolbox-copy_ec9e00e8-c1ac-42fe-9376-47fc3f3d292f"/>
                     <articulation date="34920.0" name.ref="legato" noteid="#n1n9ko7n" xml:id="sbcxnel_meico_b6e8975b-a2da-43b8-9f9d-fff8272d0de0_mpmToolbox-copy_1936bdfd-fa57-4a10-a5d0-3fc8508df58c"/>
                     <articulation date="35280.0" name.ref="legato" noteid="#n16yhsuy" xml:id="sbcxnel_meico_f7fc2bd7-ff7a-4a53-819c-a8d2694ed563_mpmToolbox-copy_8a0312e5-5af7-4f29-8d86-a02992d597fa"/>
@@ -900,7 +900,7 @@
                 </asynchronyMap>
                 <dynamicsMap>
                     <style date="0.0" name.ref="Default Dynamics"/>
-                    <dynamics date="0.0" volume="mf" xml:id="mpmToolbox_91b65071-1fc9-4578-897f-83605aad82bb"/>
+                    <dynamics date="0.0" volume="mf" xml:id="mpmToolbox_91b65071-1fc9-4578-897f-83605aad82bb"/> 
                 </dynamicsMap>
             </dated>
         </global>
