@@ -3110,13 +3110,9 @@
                 <note xml:id="npypvn9" date="569160.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="180.0"/>
                 <note xml:id="n1u0i8yy" date="569340.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="180.0"/>
                 <note xml:id="ngl9ygb" date="569520.0" midi.pitch="68.0" pitchname="a" accidentals="-1.0" octave="3.0" duration="1080.0"/>
-                <note xml:id="n1skfd3i" date="569520.0" midi.pitch="68.0" pitchname="a" accidentals="-1.0" octave="3.0" duration="180.0"/>
                 <note xml:id="n1v4ruho" date="569700.0" midi.pitch="65.0" pitchname="f" accidentals="0.0" octave="3.0" duration="900.0"/>
-                <note xml:id="nytemo6" date="569700.0" midi.pitch="65.0" pitchname="f" accidentals="0.0" octave="3.0" duration="180.0"/>
-                <note xml:id="n13afw18" date="569880.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="180.0"/>
-                <note xml:id="nzthu65" date="569880.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="n13afw18" date="569880.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="720.0"/>
                 <note xml:id="nf9zps3" date="570060.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="540.0"/>
-                <note xml:id="ns65b4r" date="570240.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="360.0"/>
                 <note xml:id="nixma7p" date="570600.0" midi.pitch="78.0" pitchname="f" accidentals="1.0" octave="4.0" duration="360.0"/>
                 <note xml:id="nrlwwbl" date="570600.0" midi.pitch="81.0" pitchname="a" accidentals="0.0" octave="4.0" duration="360.0"/>
                 <note xml:id="n1yyjo9n" date="570960.0" midi.pitch="79.0" pitchname="g" accidentals="0.0" octave="4.0" duration="1080.0"/>
@@ -3162,13 +3158,9 @@
                 <note xml:id="meico_expansion_of_npypvn9_d6c6e54e-7532-4386-aa3e-7dedacc834e5" date="580680.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="180.0"/>
                 <note xml:id="meico_expansion_of_n1u0i8yy_06223a36-59c6-40a0-ac43-47e533d8d8e7" date="580860.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="180.0"/>
                 <note xml:id="meico_expansion_of_ngl9ygb_b9f4ae94-2b7a-494b-b907-ffb92e41300b" date="581040.0" midi.pitch="68.0" pitchname="a" accidentals="-1.0" octave="3.0" duration="1080.0"/>
-                <note xml:id="meico_expansion_of_n1skfd3i_198a57e2-d670-48dc-8072-739985ed6c5f" date="581040.0" midi.pitch="68.0" pitchname="a" accidentals="-1.0" octave="3.0" duration="180.0"/>
                 <note xml:id="meico_expansion_of_n1v4ruho_49a573b7-ea6f-4710-b3b4-03bd22ee37ff" date="581220.0" midi.pitch="65.0" pitchname="f" accidentals="0.0" octave="3.0" duration="900.0"/>
-                <note xml:id="meico_expansion_of_nytemo6_a336fd1a-00bf-4930-9d87-0f95e269f2bc" date="581220.0" midi.pitch="65.0" pitchname="f" accidentals="0.0" octave="3.0" duration="180.0"/>
-                <note xml:id="meico_expansion_of_n13afw18_6ba01e47-7ff8-43e5-a7a9-deaaf4260674" date="581400.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="180.0"/>
-                <note xml:id="meico_expansion_of_nzthu65_9aba29d1-5b74-4980-9d0b-db429af2c5d2" date="581400.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="360.0"/>
+                <note xml:id="meico_expansion_of_n13afw18_6ba01e47-7ff8-43e5-a7a9-deaaf4260674" date="581400.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="720.0"/>
                 <note xml:id="meico_expansion_of_nf9zps3_d8daeb30-6124-42ce-853c-f79d5739fc2a" date="581580.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="540.0"/>
-                <note xml:id="meico_expansion_of_ns65b4r_4169c240-7343-47f9-89e8-ff570fedfa8a" date="581760.0" midi.pitch="62.0" pitchname="d" accidentals="0.0" octave="3.0" duration="360.0"/>
                 <note xml:id="meico_expansion_of_nixma7p_71cd4043-a023-4e60-9cbf-54c7ceebb827" date="582120.0" midi.pitch="78.0" pitchname="f" accidentals="1.0" octave="4.0" duration="360.0"/>
                 <note xml:id="meico_expansion_of_nrlwwbl_0f2ce052-5204-46b7-aa40-33e907e29277" date="582120.0" midi.pitch="81.0" pitchname="a" accidentals="0.0" octave="4.0" duration="360.0"/>
                 <note xml:id="meico_expansion_of_n1yyjo9n_3ac79b35-0c1d-4b11-ae80-3e7fe7a90d3a" date="582480.0" midi.pitch="79.0" pitchname="g" accidentals="0.0" octave="4.0" duration="1080.0"/>
@@ -3476,8 +3468,8 @@
                 <note xml:id="n1ga60tg" date="634320.0" midi.pitch="70.0" pitchname="b" accidentals="-1.0" octave="3.0" duration="180.0"/>
                 <note xml:id="n1urqmv5" date="634500.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="180.0"/>
                 <note xml:id="n1lww44e" date="634860.0" midi.pitch="79.0" pitchname="g" accidentals="0.0" octave="4.0" duration="180.0"/>
-                <note xml:id="nqv78b2" date="635040.0" midi.pitch="70.0" pitchname="b" accidentals="-1.0" octave="3.0" duration="180.0"/>
-                <note xml:id="nz7yzp9" date="635220.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="180.0"/>
+                <note xml:id="nqv78b2" date="635040.0" midi.pitch="67.0" pitchname="g" accidentals="0.0" octave="3.0" duration="180.0"/>
+                <note xml:id="nz7yzp9" date="635220.0" midi.pitch="70.0" pitchname="b" accidentals="-1.0" octave="3.0" duration="180.0"/>
                 <note xml:id="nwafzg3" date="635580.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="180.0"/>
                 <note xml:id="n1elvg5v" date="635760.0" midi.pitch="64.0" pitchname="e" accidentals="0.0" octave="3.0" duration="180.0"/>
                 <note xml:id="nuy5de4" date="635940.0" midi.pitch="70.0" pitchname="b" accidentals="-1.0" octave="3.0" duration="180.0"/>
@@ -3500,8 +3492,8 @@
                 <note xml:id="n13wtg30" date="640080.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="180.0"/>
                 <note xml:id="n11fhp9c" date="640260.0" midi.pitch="79.0" pitchname="g" accidentals="0.0" octave="4.0" duration="180.0"/>
                 <note xml:id="nwpmy3z" date="640620.0" midi.pitch="82.0" pitchname="b" accidentals="-1.0" octave="4.0" duration="180.0"/>
-                <note xml:id="n10zt7vt" date="640800.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="180.0"/>
-                <note xml:id="nv4cm5p" date="640980.0" midi.pitch="79.0" pitchname="g" accidentals="0.0" octave="4.0" duration="180.0"/>
+                <note xml:id="n10zt7vt" date="640800.0" midi.pitch="72.0" pitchname="c" accidentals="0.0" octave="4.0" duration="180.0"/>
+                <note xml:id="nv4cm5p" date="640980.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="180.0"/>
                 <note xml:id="n9pljso" date="641340.0" midi.pitch="81.0" pitchname="a" accidentals="0.0" octave="4.0" duration="180.0"/>
                 <note xml:id="n1pbysil" date="641520.0" midi.pitch="71.0" pitchname="c" accidentals="-1.0" octave="4.0" duration="180.0"/>
                 <note xml:id="n9j6g5v" date="641700.0" midi.pitch="74.0" pitchname="d" accidentals="0.0" octave="4.0" duration="180.0"/>
@@ -3525,8 +3517,8 @@
                 <note xml:id="meico_expansion_of_n1ga60tg_2659ab1f-cefb-4a5b-b7f7-0acc3f909a59" date="645840.0" midi.pitch="70.0" pitchname="b" accidentals="-1.0" octave="3.0" duration="180.0"/>
                 <note xml:id="meico_expansion_of_n1urqmv5_d20d39bf-e00a-421b-a1c6-860872706a99" date="646020.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="180.0"/>
                 <note xml:id="meico_expansion_of_n1lww44e_284e59a3-36f2-45b1-8b36-f094b10b9cf4" date="646380.0" midi.pitch="79.0" pitchname="g" accidentals="0.0" octave="4.0" duration="180.0"/>
-                <note xml:id="meico_expansion_of_nqv78b2_46caa72c-0ce9-4eaa-985e-1da836b0dab3" date="646560.0" midi.pitch="70.0" pitchname="b" accidentals="-1.0" octave="3.0" duration="180.0"/>
-                <note xml:id="meico_expansion_of_nz7yzp9_dfd33639-d79e-4306-8199-675e91394fe1" date="646740.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="180.0"/>
+                <note xml:id="meico_expansion_of_nqv78b2_46caa72c-0ce9-4eaa-985e-1da836b0dab3" date="646560.0" midi.pitch="67.0" pitchname="g" accidentals="0.0" octave="3.0" duration="180.0"/>
+                <note xml:id="meico_expansion_of_nz7yzp9_dfd33639-d79e-4306-8199-675e91394fe1" date="646740.0" midi.pitch="70.0" pitchname="b" accidentals="-1.0" octave="3.0" duration="180.0"/>
                 <note xml:id="meico_expansion_of_nwafzg3_594f1e54-ed51-4295-a822-6df4d6170295" date="647100.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="180.0"/>
                 <note xml:id="meico_expansion_of_n1elvg5v_e6fad27b-3541-4423-81eb-ea3a2f9e37a4" date="647280.0" midi.pitch="64.0" pitchname="e" accidentals="0.0" octave="3.0" duration="180.0"/>
                 <note xml:id="meico_expansion_of_nuy5de4_7a26b201-61a9-4482-96c2-0140e0ba9d1c" date="647460.0" midi.pitch="70.0" pitchname="b" accidentals="-1.0" octave="3.0" duration="180.0"/>
@@ -3549,8 +3541,8 @@
                 <note xml:id="meico_expansion_of_n13wtg30_182b8ca7-3d1b-4f93-a7a5-0582ef3b68a0" date="651600.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="180.0"/>
                 <note xml:id="meico_expansion_of_n11fhp9c_8a1b384b-0a02-47f8-bdb1-45b26487e52f" date="651780.0" midi.pitch="79.0" pitchname="g" accidentals="0.0" octave="4.0" duration="180.0"/>
                 <note xml:id="meico_expansion_of_nwpmy3z_17520db3-2ad0-4510-98a6-6198b49d0f31" date="652140.0" midi.pitch="82.0" pitchname="b" accidentals="-1.0" octave="4.0" duration="180.0"/>
-                <note xml:id="meico_expansion_of_n10zt7vt_9908a56a-a1c4-4cf9-90a9-203034db984d" date="652320.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="180.0"/>
-                <note xml:id="meico_expansion_of_nv4cm5p_5e28562a-bb12-425b-9762-3cfdf0242af7" date="652500.0" midi.pitch="79.0" pitchname="g" accidentals="0.0" octave="4.0" duration="180.0"/>
+                <note xml:id="meico_expansion_of_n10zt7vt_9908a56a-a1c4-4cf9-90a9-203034db984d" date="652320.0" midi.pitch="72.0" pitchname="c" accidentals="0.0" octave="4.0" duration="180.0"/>
+                <note xml:id="meico_expansion_of_nv4cm5p_5e28562a-bb12-425b-9762-3cfdf0242af7" date="652500.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="180.0"/>
                 <note xml:id="meico_expansion_of_n9pljso_2db1c452-a086-4fd5-832b-c2bce834f825" date="652860.0" midi.pitch="81.0" pitchname="a" accidentals="0.0" octave="4.0" duration="180.0"/>
                 <note xml:id="meico_expansion_of_n1pbysil_818f1e4e-b512-412d-8153-c51479fb5ca6" date="653040.0" midi.pitch="71.0" pitchname="c" accidentals="-1.0" octave="4.0" duration="180.0"/>
                 <note xml:id="meico_expansion_of_n9j6g5v_89fd7795-ca94-481d-8239-d0eea89b04ef" date="653220.0" midi.pitch="74.0" pitchname="d" accidentals="0.0" octave="4.0" duration="180.0"/>
@@ -5060,8 +5052,8 @@
                 <note xml:id="n1ky3d5g" date="900900.0" midi.pitch="80.0" pitchname="a" accidentals="-1.0" octave="4.0" duration="180.0"/>
                 <note xml:id="n1uy93hp" date="901080.0" midi.pitch="77.0" pitchname="f" accidentals="0.0" octave="4.0" duration="1440.0"/>
                 <note xml:id="n19qekb6" date="901080.0" midi.pitch="80.0" pitchname="a" accidentals="-1.0" octave="4.0" duration="1440.0"/>
-                <note xml:id="n1vauniy" date="902520.0" midi.pitch="75.0" pitchname="e" accidentals="-1.0" octave="4.0" duration="180.0"/>
-                <note xml:id="n1f1xvfh" date="902520.0" midi.pitch="79.0" pitchname="g" accidentals="0.0" octave="4.0" duration="180.0"/>
+                <note xml:id="n1vauniy" date="902520.0" midi.pitch="74.0" pitchname="d" accidentals="0.0" octave="4.0" duration="180.0"/>
+                <note xml:id="n1f1xvfh" date="902520.0" midi.pitch="77.0" pitchname="f" accidentals="0.0" octave="4.0" duration="180.0"/>
                 <note xml:id="n14qd9nw" date="903060.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="180.0"/>
                 <note xml:id="n1fybi28" date="903240.0" midi.pitch="53.0" pitchname="f" accidentals="0.0" octave="2.0" duration="180.0"/>
                 <note xml:id="n12eetq2" date="903240.0" midi.pitch="56.0" pitchname="a" accidentals="-1.0" octave="2.0" duration="180.0"/>
@@ -6990,6 +6982,9 @@
                 <note xml:id="nlinooj" date="1244520.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="360.0"/>
                 <note xml:id="n1kp0fxz" date="1244520.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="360.0"/>
             </score>
+            <programChangeMap>
+                <programChange date="46800.0" value="0"/>
+            </programChangeMap>
         </dated>
     </part>
     <part name="piano left hand" number="2" midi.channel="1" midi.port="0" xml:id="us8cld0">
@@ -8983,8 +8978,7 @@
                 <note xml:id="nefxd1u" date="576360.0" midi.pitch="43.0" pitchname="g" accidentals="0.0" octave="1.0" duration="180.0"/>
                 <note xml:id="npahciw" date="576540.0" midi.pitch="39.0" pitchname="e" accidentals="-1.0" octave="1.0" duration="180.0"/>
                 <note xml:id="nfa2izb" date="576720.0" midi.pitch="34.0" pitchname="b" accidentals="-1.0" octave="0.0" duration="360.0"/>
-                <note xml:id="n17qk2vx" date="577440.0" midi.pitch="77.0" pitchname="f" accidentals="0.0" octave="4.0" duration="720.0"/>
-                <note xml:id="meico_expansion_of_n1me3o2k_a66da023-cc87-4257-a351-c28d71db3b28" date="578160.0" midi.pitch="77.0" pitchname="f" accidentals="0.0" octave="4.0" duration="720.0"/>
+                <note xml:id="n17qk2vx" date="577440.0" midi.pitch="77.0" pitchname="f" accidentals="0.0" octave="4.0" duration="1440.0"/>
                 <note xml:id="meico_expansion_of_nnpl1c0_41d39589-bd60-441a-bdcc-1a0bd2788601" date="578880.0" midi.pitch="74.0" pitchname="d" accidentals="0.0" octave="4.0" duration="360.0"/>
                 <note xml:id="meico_expansion_of_n1d11y0h_4b895596-3478-48b4-8bec-28d3d30edcf9" date="579600.0" midi.pitch="34.0" pitchname="b" accidentals="-1.0" octave="0.0" duration="360.0"/>
                 <note xml:id="meico_expansion_of_nwn0nku_34d5d0d3-49c4-4a40-9aab-5d8572b6dbd2" date="580320.0" midi.pitch="77.0" pitchname="f" accidentals="0.0" octave="4.0" duration="1800.0"/>
@@ -12039,6 +12033,9 @@
                 <note xml:id="nytr4gz" date="1244520.0" midi.pitch="46.0" pitchname="b" accidentals="-1.0" octave="1.0" duration="360.0"/>
                 <note xml:id="n1wte6oi" date="1244520.0" midi.pitch="51.0" pitchname="e" accidentals="-1.0" octave="2.0" duration="360.0"/>
             </score>
+            <programChangeMap>
+                <programChange date="46800.0" value="0"/>
+            </programChangeMap>
             <pedalMap>
                 <pedal date="326160.0" state="down" xml:id="pu8zsto" date.end="327420.0"/>
                 <pedal date="337680.0" state="down" xml:id="meico_expansion_of_pu8zsto_7cd1fdca-8afc-4b01-93a7-7e3be8d4efe0" date.end="338940.0"/>
