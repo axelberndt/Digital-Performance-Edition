@@ -53,6 +53,10 @@
                         <tempoDef name="Andante con moto." value="101.0"/>
                         <tempoDef name="un poco più lento" value="51.0"/>
                         <tempoDef name="Allegro con brio" value="147.0"/>
+                        <tempoDef name="Fermata Allegretto vivace" value="27.5"/>
+                    </styleDef>
+                    <styleDef name="Fermatas (over MEI export)">
+                        <tempoDef name="Fermata Allegretto vivace" value="27.5"/>
                     </styleDef>
                 </tempoStyles>
                 <dynamicsStyles>
@@ -70,8 +74,8 @@
                         <dynamicsDef name="sempre più f" value="74.0"/>
                     </styleDef>
                 </dynamicsStyles>
-                <articulationStyles>
-                    <styleDef name="Default Articulations">
+                <articulationStyles> 
+                    <styleDef name="MEI Export">
                         <articulationDef name="breath" absoluteDurationChangeMs="-400.0" absoluteVelocityChange="-5.0"/>
                         <articulationDef name="legatissimo" absoluteDurationChangeMs="250.0"/>
                         <articulationDef name="legato" relativeDuration="1.0"/>
@@ -83,10 +87,10 @@
                         <articulationDef name="snap pizzicato" absoluteDuration="1.0" absoluteVelocityChange="25.0"/>
                         <articulationDef name="spiccato" absoluteDurationMs="140.0" absoluteVelocityChange="25.0"/>
                         <articulationDef name="staccatissimo" absoluteDurationMs="140.0" absoluteVelocityChange="5.0"/>
-                        <articulationDef name="acc" absoluteVelocityChange="25.0"/>
-                        <articulationDef name="legatoStop" relativeDuration="0.8" relativeVelocity="0.7"/>
                         <articulationDef name="stacc" absoluteDurationMs="160.0" absoluteVelocityChange="-5.0"/>
                         <articulationDef name="ten" relativeDuration="0.9" absoluteVelocityChange="12.0"/>
+                        <articulationDef name="acc" absoluteVelocityChange="25.0"/>
+                        <articulationDef name="legatoStop" relativeDuration="0.8" relativeVelocity="0.7"/>
                     </styleDef>
                 </articulationStyles>
                 <ornamentationStyles>
@@ -100,9 +104,55 @@
                             <temporalSpread frame.start="-22.0" frameLength="44.0"/>
                         </ornamentDef>
                     </styleDef>
+                    <styleDef name="Default Ornamentation">
+                        <ornamentDef name="arpeggio">
+                            <dynamicsGradient transition.from="-1.0" transition.to="1.0"/>
+                            <temporalSpread frame.start="-22.0" frameLength="66.0" time.unit="ticks"/>
+                        </ornamentDef>
+                        <ornamentDef name="tremolo">
+                            <dynamicsGradient transition.from="1.0" transition.to="0.0"/>
+                            <temporalSpread frameLength="100.0" time.unit="relative" noteoff.shift="monophonic"/>
+                        </ornamentDef>
+                        <ornamentDef name="trill">
+                            <dynamicsGradient transition.from="-1.0" transition.to="1.0"/>
+                            <temporalSpread frameLength="80.0" time.unit="relative" intensity="0.9" noteoff.shift="monophonic"/>
+                        </ornamentDef>
+                        <ornamentDef name="grace unacc">
+                            <dynamicsGradient transition.from="1.0" transition.to="-1.0"/>
+                            <temporalSpread frame.start="-90.0" frameLength="90.0" time.unit="ticks" noteoff.shift="monophonic"/>
+                        </ornamentDef>
+                        <ornamentDef name="grace acc">
+                            <dynamicsGradient transition.from="1.0" transition.to="-1.0"/>
+                            <temporalSpread frameLength="90.0" time.unit="ticks" noteoff.shift="monophonic"/>
+                        </ornamentDef>
+                        <ornamentDef name="upper mordent">
+                            <dynamicsGradient transition.from="1.0" transition.to="-1.0"/>
+                            <temporalSpread frameLength="180.0" time.unit="ticks" intensity="0.9" noteoff.shift="monophonic"/>
+                        </ornamentDef>
+                        <ornamentDef name="lower mordent">
+                            <dynamicsGradient transition.from="1.0" transition.to="-1.0"/>
+                            <temporalSpread frameLength="180.0" time.unit="ticks" intensity="0.9" noteoff.shift="monophonic"/>
+                        </ornamentDef>
+                        <ornamentDef name="upper turn">
+                            <dynamicsGradient transition.from="-1.0" transition.to="1.0"/>
+                            <temporalSpread frameLength="80.0" time.unit="relative" intensity="0.9" noteoff.shift="monophonic"/>
+                        </ornamentDef>
+                        <ornamentDef name="lower turn">
+                            <dynamicsGradient transition.from="-1.0" transition.to="1.0"/>
+                            <temporalSpread frameLength="80.0" time.unit="relative" intensity="0.9" noteoff.shift="monophonic"/>
+                        </ornamentDef>
+                        <ornamentDef name="upper turn delayed">
+                            <dynamicsGradient transition.from="1.0" transition.to="-1.0"/>
+                            <temporalSpread frameLength="50.0" time.unit="relative" noteoff.shift="monophonic" alignment="at end"/>
+                        </ornamentDef>
+                        <ornamentDef name="lower turn delayed">
+                            <dynamicsGradient transition.from="1.0" transition.to="-1.0"/>
+                            <temporalSpread frameLength="50.0" time.unit="relative" noteoff.shift="monophonic" alignment="at end"/>
+                        </ornamentDef>
+                    </styleDef>
                 </ornamentationStyles>
             </header>
-            <dated> 
+            <dated>
                 <ornamentationMap>
                     <style name.ref="MEI export" date="864360.0" xml:id="meico_19f9383c-8b23-421b-8533-7f9ddc7b3f50"/>
                     <ornament name.ref="arpeggio" scale="0.0" note.order="#n16uom8f #n1346tqj #n1w8bnzt #n1jl9118 #nx93qk5 #n1betdu5 #nxgmwxm" date="948600.0" xml:id="a19r3dqs"/>
@@ -112,54 +162,47 @@
                     <ornament name.ref="arpeggio" scale="0.0" note.order="#n1mmugp1 #nhpjxyb #n1gtgjqp #n102c2jj" date="1136520.0" xml:id="atpyr13"/> 
                 </ornamentationMap>
                 <tempoMap>
-                    <style date="0.0" name.ref="MEI export"/>
-                    <tempo date="0.0" bpm="Allegretto vivace." beatLength="0.25" xml:id="d1fbmac9"/>
-                    <style name.ref="MEI export" date="46800.0"/>
+                    <style date="0.0" name.ref="Fermatas (over MEI export)"/>
+                    <tempo date="0.0" bpm="Fermata Allegretto vivace" beatLength="0.25" xml:id="mpmToolbox_ee8e7ce8-f2ea-43ab-b511-44300027b5d7"/>
+                    <style date="1440.0" name.ref="MEI export"/>
+                    <tempo date="1440.0" bpm="Allegretto vivace." beatLength="0.25" xml:id="mpmToolbox_ca77f516-453f-429b-944d-9258b906bc89"/>
+                    <style date="28800.0" name.ref="Fermatas (over MEI export)"/>
+                    <tempo date="28800.0" bpm="Fermata Allegretto vivace" beatLength="0.25" xml:id="mpmToolbox_623a950f-19de-49fb-8871-41aa3380133f"/>
+                    <style date="29880.0" name.ref="MEI export"/>
+                    <tempo date="29880.0" bpm="Allegretto vivace." beatLength="0.25" xml:id="mpmToolbox_722e0871-e246-47bc-bfa1-365c9e7878f2"/>
+                    <style date="40320.0" name.ref="Fermatas (over MEI export)"/>
+                    <tempo date="40320.0" bpm="Fermata Allegretto vivace" beatLength="0.25" xml:id="mpmToolbox_ab7c235f-68d1-432b-b1f1-5de3308da33e"/>
+                    <style date="41400.0" name.ref="MEI export"/>
+                    <tempo date="41400.0" bpm="Allegretto vivace." beatLength="0.25" xml:id="mpmToolbox_a73e030d-4d12-4384-8ad4-66d96555cfdd"/>
                     <tempo bpm="Poco adagio." beatLength="0.25" xml:id="ddwxqv8" date="74520.0"/>
                     <tempo bpm="Tempo I." beatLength="0.25" xml:id="d1jq6l7w" date="75960.0"/>
                     <tempo bpm="Poco adagio." beatLength="0.25" xml:id="meico_expansion_of_ddwxqv8_700e7e13-1b6f-4462-af39-0708fe2f088f" date="86040.0"/>
                     <tempo bpm="Tempo I." beatLength="0.25" xml:id="meico_expansion_of_d1jq6l7w_9bea61ce-6091-4f00-ad16-714af993798e" date="87480.0"/>
-                    <style name.ref="MEI export" date="92520.0"/>
                     <tempo bpm="Adagio." beatLength="0.25" xml:id="d131vbzq" date="120240.0"/>
                     <tempo bpm="Tempo I." beatLength="0.25" xml:id="d8qifs1" date="121320.0"/>
                     <tempo bpm="Adagio." beatLength="0.25" xml:id="meico_expansion_of_d131vbzq_7ed09543-c53e-44b2-a7f7-8a8e02d40276" date="131760.0"/>
                     <tempo bpm="Tempo I." beatLength="0.25" xml:id="meico_expansion_of_d8qifs1_cb2c8912-f23c-45cc-af8e-91a429ca0a6a" date="132840.0"/>
-                    <style name.ref="MEI export" date="138600.0"/>
                     <tempo bpm="Con brio." beatLength="0.25" xml:id="d1owd8m2" date="138600.0"/>
                     <tempo bpm="Con brio." beatLength="0.25" xml:id="meico_expansion_of_d1owd8m2_faff7a1e-0d46-42ac-988b-fd0caebfb587" date="150120.0"/>
-                    <style name.ref="MEI export" date="230760.0"/>
                     <tempo bpm="Grazioso." beatLength="0.25" xml:id="d1phf169" date="230760.0"/>
                     <tempo bpm="Grazioso." beatLength="0.25" xml:id="meico_expansion_of_d1phf169_15178643-0b18-4cb2-8f98-bc46ddea8ae1" date="242280.0"/>
-                    <style name.ref="MEI export" date="276840.0"/>
                     <tempo bpm="Tempo I." beatLength="0.25" xml:id="d17adnlu" date="306000.0"/>
                     <tempo bpm="Tempo I." beatLength="0.25" xml:id="meico_expansion_of_d17adnlu_5ef11764-81a9-4273-81c6-bf67f2341351" date="317520.0"/>
-                    <style name.ref="MEI export" date="322920.0"/>
                     <tempo bpm="a) Von hier an ist ein lebhafteres Tempo angebracht." beatLength="0.25" xml:id="x1ccvzdy" date="322920.0"/>
                     <tempo bpm="a) Von hier an ist ein lebhafteres Tempo angebracht." beatLength="0.25" xml:id="meico_expansion_of_x1ccvzdy_590705d7-3395-4776-9c8c-27ccfb1ef029" date="334440.0"/>
-                    <style name.ref="MEI export" date="415080.0"/>
                     <tempo bpm="(Più tranquillo)" beatLength="0.25" xml:id="d2qo876" date="415080.0"/>
-                    <style name.ref="MEI export" date="449640.0"/>
                     <tempo bpm="(Animato)" beatLength="0.25" xml:id="dvl3hvn" date="449640.0"/>
                     <tempo bpm="(Animato)" beatLength="0.25" xml:id="meico_expansion_of_dvl3hvn_07df81f0-71a8-47f0-b062-f6226936fa52" date="461160.0"/>
-                    <style name.ref="MEI export" date="496080.0"/>
                     <tempo bpm="Canone all’ottava. (animato)" beatLength="0.25" xml:id="m1ccazaq" date="496080.0"/>
-                    <style name.ref="MEI export" date="541800.0"/>
                     <tempo bpm="(Tranquillo)" beatLength="0.25" xml:id="d3nieq1" date="541800.0"/>
-                    <style name.ref="MEI export" date="587880.0"/>
                     <tempo bpm="(Animato)" beatLength="0.25" xml:id="dtg9iog" date="587880.0"/>
-                    <style name.ref="MEI export" date="680040.0"/>
                     <tempo bpm="(Tranquillo, semplice)" beatLength="0.25" xml:id="dd78ypg" date="680040.0"/>
-                    <style name.ref="MEI export" date="726120.0"/>
                     <tempo bpm="Animato." beatLength="0.25" xml:id="d1jnb961" date="726120.0"/>
                     <tempo bpm="Animato." beatLength="0.25" xml:id="meico_expansion_of_d1jnb961_4334802e-f38e-4570-8196-79442b248935" date="737640.0"/>
-                    <style name.ref="MEI export" date="772200.0"/>
                     <tempo bpm="Sempre animato." beatLength="0.25" xml:id="d1tmeeb" date="772200.0"/>
-                    <style name.ref="MEI export" date="818280.0"/>
                     <tempo bpm="Meno mosso." beatLength="0.25" xml:id="d1x71xvi" date="818280.0"/>
-                    <style name.ref="MEI export" date="864360.0"/>
                     <tempo bpm="Largo." beatLength="0.125" xml:id="djtb47s" date="864360.0"/>
                     <tempo bpm="Largo." transition.to="-" meanTempoAt="0.5" beatLength="0.125" xml:id="brj6lii" date="946800.0"/>
-                    <style name.ref="MEI export" date="950760.0"/>
                     <tempo bpm="Allegro con brio" beatLength="0.25" xml:id="d1s58h4y" date="950760.0"/>
                     <tempo bpm="Adagio." beatLength="0.25" xml:id="d116igtu" date="1139400.0"/>
                     <tempo bpm="Andante con moto." beatLength="0.25" xml:id="d13ith3m" date="1140840.0"/>
@@ -173,12 +216,12 @@
             <header/>
             <dated>
                 <articulationMap>
-                    <style date="0.0" name.ref="Default Articulations" defaultArticulation="nonlegato"/>
-                    <articulation date="1440.0" name.ref="ten" noteid="#n1lgdh90" xml:id="a48ch68"/>
+                    <style date="0.0" name.ref="MEI Export" defaultArticulation="nonlegato"/>
+                    <articulation date="1440.0" xml:id="a48ch68" name.ref="ten" noteid="#n1lgdh90"/>
                     <articulation date="2880.0" name.ref="ten" noteid="#nrnrbws" xml:id="a36t48r"/>
                     <articulation date="4320.0" name.ref="ten" noteid="#n1p22e4r" xml:id="aqvmafv"/>
                     <articulation date="5760.0" name.ref="ten" noteid="#n13vtc3x" xml:id="alw1257"/>
-                    <articulation date="7200.0" name.ref="stacc" noteid="#n1pntvto" xml:id="arejkt9"/>
+                    <articulation date="7200.0" xml:id="arejkt9" name.ref="stacc" noteid="#n1pntvto"/>
                     <articulation date="7920.0" name.ref="stacc" noteid="#nlmvd2g" xml:id="a14b7m3s"/>
                     <articulation date="8640.0" name.ref="ten" noteid="#njrr60x" xml:id="ayn1sc7"/>
                     <articulation date="9720.0" name.ref="stacc" noteid="#nhadohx" xml:id="a5946mx"/>
@@ -5890,7 +5933,7 @@
                     <articulation name.ref="legato" noteid="#nlinooj" xml:id="smnp3cq_meico_37c59f90-b96e-4931-8fe3-7afd4a61fa84" date="1244520.0"/>
                     <articulation name.ref="stacc" noteid="#n1kp0fxz" xml:id="a101lv1a_meico_93f45e94-4190-4aff-82d9-ffd078c2187a" date="1244520.0"/>
                     <articulation name.ref="legato" noteid="#n1kp0fxz" xml:id="smnp3cq_meico_93493b1d-de33-47c0-b837-758a1027ecc7" date="1244520.0"/> 
-                </articulationMap> 
+                </articulationMap>
                 <dynamicsMap>
                     <style date="0.0" name.ref="MEI export"/>
                     <dynamics date="0.0" volume="ff" xml:id="drvjpf4_mpmToolbox-copy_43e739cc-0129-4867-b1de-ab631ffaff09"/>
@@ -6209,7 +6252,7 @@
                     <dynamics volume="ff" xml:id="d174nmb6_mpmToolbox-copy_5ed7bbaa-ed19-4836-b5fe-7383e470a081" date="1177200.0"/>
                     <dynamics volume="p" xml:id="dfwvte_mpmToolbox-copy_c5a5d67a-320e-4f7b-97e6-57a641ab2c53" date="1177920.0"/>
                     <dynamics volume="p" transition.to="+" curvature="0.0" protraction="0.0" xml:id="d9hw9ty_mpmToolbox-copy_ba80c71c-4cb8-4961-bce4-73bddb1367c0" date="1178280.0"/>
-                    <dynamics volume="+" date="1180800.0"/>
+                    <dynamics volume="+" date="1180800.0"/> 
                 </dynamicsMap>
             </dated>
         </part>
@@ -9907,7 +9950,7 @@
                     <articulation name.ref="stacc" noteid="#n12m9h06" xml:id="aujsqwn_meico_ba37cdd6-2a07-4347-9509-57bf0a5895a3" date="1244520.0"/>
                     <articulation name.ref="stacc" noteid="#nytr4gz" xml:id="aujsqwn_meico_39b0656c-3b5b-466e-8291-ea87b67ecc8e" date="1244520.0"/>
                     <articulation name.ref="stacc" noteid="#n1wte6oi" xml:id="aujsqwn_meico_527bbf01-9162-48ed-8d16-b765eb30b5cb" date="1244520.0"/> 
-                </articulationMap> 
+                </articulationMap>
                 <dynamicsMap>
                     <style date="0.0" name.ref="MEI export"/>
                     <dynamics date="0.0" volume="ff" xml:id="drvjpf4"/>
@@ -10226,9 +10269,145 @@
                     <dynamics volume="ff" xml:id="d174nmb6" date="1177200.0"/>
                     <dynamics volume="p" xml:id="dfwvte" date="1177920.0"/>
                     <dynamics volume="p" transition.to="+" curvature="0.0" protraction="0.0" xml:id="d9hw9ty" date="1178280.0"/>
-                    <dynamics volume="+" date="1180800.0"/>
+                    <dynamics volume="+" date="1180800.0"/> 
                 </dynamicsMap>
             </dated>
+        </part>
+    </performance>
+    <performance name="Curzon score annotations" pulsesPerQuarter="720">
+        <global>
+            <header>
+                <tempoStyles>
+                    <styleDef name="MEI export">
+                        <tempoDef name="Allegretto vivace." value="110.0"/>
+                        <tempoDef name="Poco adagio." value="79.0"/>
+                        <tempoDef name="Tempo I." value="100.0"/>
+                        <tempoDef name="Adagio." value="79.0"/>
+                        <tempoDef name="Con brio." value="100.0"/>
+                        <tempoDef name="Grazioso." value="100.0"/>
+                        <tempoDef name="Presto." value="189.0"/>
+                        <tempoDef name="a) Von hier an ist ein lebhafteres Tempo angebracht." value="100.0"/>
+                        <tempoDef name="(Più tranquillo)" value="100.0"/>
+                        <tempoDef name="(Animato)" value="121.0"/>
+                        <tempoDef name="Canone all’ottava. (animato)" value="121.0"/>
+                        <tempoDef name="(Tranquillo)" value="100.0"/>
+                        <tempoDef name="(Tranquillo, semplice)" value="100.0"/>
+                        <tempoDef name="Animato." value="121.0"/>
+                        <tempoDef name="Sempre animato." value="121.0"/>
+                        <tempoDef name="adagio" value="79.0"/>
+                        <tempoDef name="Meno mosso." value="100.0"/>
+                        <tempoDef name="Largo." value="50.0"/>
+                        <tempoDef name="Andante con moto." value="101.0"/>
+                        <tempoDef name="un poco più lento" value="51.0"/>
+                        <tempoDef name="Allegro con brio" value="147.0"/>
+                        <tempoDef name="Fermata Allegretto vivace" value="27.5"/>
+                    </styleDef>
+                    <styleDef name="Fermatas (over MEI export)">
+                        <tempoDef name="Fermata Allegretto vivace" value="27.5"/>
+                    </styleDef>
+                </tempoStyles>
+                <dynamicsStyles>
+                    <styleDef name="MEI export">
+                        <dynamicsDef name="ff" value="111.0"/>
+                        <dynamicsDef name="pp" value="36.0"/>
+                        <dynamicsDef name="p" value="48.0"/>
+                        <dynamicsDef name="f" value="97.0"/>
+                        <dynamicsDef name="sf" value="127.0"/>
+                        <dynamicsDef name="mf" value="83.0"/>
+                        <dynamicsDef name="sempre f" value="74.0"/>
+                        <dynamicsDef name="fp" value="74.0"/>
+                        <dynamicsDef name="sempre più forte" value="74.0"/>
+                        <dynamicsDef name="più f" value="74.0"/>
+                        <dynamicsDef name="sempre più f" value="74.0"/>
+                    </styleDef>
+                </dynamicsStyles>
+                <articulationStyles>
+                    <styleDef name="MEI export">
+                        <articulationDef name="breath" absoluteDurationChangeMs="-400.0" absoluteVelocityChange="-5.0"/>
+                        <articulationDef name="legatissimo" absoluteDurationChangeMs="250.0"/>
+                        <articulationDef name="legato" relativeDuration="1.0"/>
+                        <articulationDef name="marcato" relativeDuration="0.8" absoluteVelocityChange="25.0"/>
+                        <articulationDef name="nonlegato" relativeDuration="0.95"/>
+                        <articulationDef name="pizzicato" absoluteDuration="1.0"/>
+                        <articulationDef name="portato" relativeDuration="0.8"/>
+                        <articulationDef name="sforzato" absoluteVelocity="127.0" relativeDuration="0.8"/>
+                        <articulationDef name="snap pizzicato" absoluteDuration="1.0" absoluteVelocityChange="25.0"/>
+                        <articulationDef name="spiccato" absoluteDurationMs="140.0" absoluteVelocityChange="25.0"/>
+                        <articulationDef name="staccatissimo" absoluteDurationMs="140.0" absoluteVelocityChange="5.0"/>
+                        <articulationDef name="acc" absoluteVelocityChange="25.0"/>
+                        <articulationDef name="legatoStop" relativeDuration="0.8" relativeVelocity="0.7"/>
+                        <articulationDef name="stacc" absoluteDurationMs="160.0" absoluteVelocityChange="-5.0"/>
+                        <articulationDef name="ten" relativeDuration="0.9" absoluteVelocityChange="12.0"/>
+                    </styleDef>
+                </articulationStyles>
+                <ornamentationStyles>
+                    <styleDef name="MEI export">
+                        <ornamentDef name="arpeggio">
+                            <dynamicsGradient transition.from="-1.0" transition.to="1.0"/>
+                            <temporalSpread frame.start="-22.0" frameLength="44.0"/>
+                        </ornamentDef>
+                        <ornamentDef name="arpeggio">
+                            <dynamicsGradient transition.from="-1.0" transition.to="1.0"/>
+                            <temporalSpread frame.start="-22.0" frameLength="44.0"/>
+                        </ornamentDef>
+                    </styleDef>
+                    <styleDef name="Default Ornamentation">
+                        <ornamentDef name="arpeggio">
+                            <dynamicsGradient transition.from="-1.0" transition.to="1.0"/>
+                            <temporalSpread frame.start="-22.0" frameLength="66.0" time.unit="ticks"/>
+                        </ornamentDef>
+                        <ornamentDef name="tremolo">
+                            <dynamicsGradient transition.from="1.0" transition.to="0.0"/>
+                            <temporalSpread frameLength="100.0" time.unit="relative" noteoff.shift="monophonic"/>
+                        </ornamentDef>
+                        <ornamentDef name="trill">
+                            <dynamicsGradient transition.from="-1.0" transition.to="1.0"/>
+                            <temporalSpread frameLength="80.0" time.unit="relative" intensity="0.9" noteoff.shift="monophonic"/>
+                        </ornamentDef>
+                        <ornamentDef name="grace unacc">
+                            <dynamicsGradient transition.from="1.0" transition.to="-1.0"/>
+                            <temporalSpread frame.start="-90.0" frameLength="90.0" time.unit="ticks" noteoff.shift="monophonic"/>
+                        </ornamentDef>
+                        <ornamentDef name="grace acc">
+                            <dynamicsGradient transition.from="1.0" transition.to="-1.0"/>
+                            <temporalSpread frameLength="90.0" time.unit="ticks" noteoff.shift="monophonic"/>
+                        </ornamentDef>
+                        <ornamentDef name="upper mordent">
+                            <dynamicsGradient transition.from="1.0" transition.to="-1.0"/>
+                            <temporalSpread frameLength="180.0" time.unit="ticks" intensity="0.9" noteoff.shift="monophonic"/>
+                        </ornamentDef>
+                        <ornamentDef name="lower mordent">
+                            <dynamicsGradient transition.from="1.0" transition.to="-1.0"/>
+                            <temporalSpread frameLength="180.0" time.unit="ticks" intensity="0.9" noteoff.shift="monophonic"/>
+                        </ornamentDef>
+                        <ornamentDef name="upper turn">
+                            <dynamicsGradient transition.from="-1.0" transition.to="1.0"/>
+                            <temporalSpread frameLength="80.0" time.unit="relative" intensity="0.9" noteoff.shift="monophonic"/>
+                        </ornamentDef>
+                        <ornamentDef name="lower turn">
+                            <dynamicsGradient transition.from="-1.0" transition.to="1.0"/>
+                            <temporalSpread frameLength="80.0" time.unit="relative" intensity="0.9" noteoff.shift="monophonic"/>
+                        </ornamentDef>
+                        <ornamentDef name="upper turn delayed">
+                            <dynamicsGradient transition.from="1.0" transition.to="-1.0"/>
+                            <temporalSpread frameLength="50.0" time.unit="relative" noteoff.shift="monophonic" alignment="at end"/>
+                        </ornamentDef>
+                        <ornamentDef name="lower turn delayed">
+                            <dynamicsGradient transition.from="1.0" transition.to="-1.0"/>
+                            <temporalSpread frameLength="50.0" time.unit="relative" noteoff.shift="monophonic" alignment="at end"/>
+                        </ornamentDef>
+                    </styleDef>
+                </ornamentationStyles>
+            </header>
+            <dated/>
+        </global>
+        <part name="piano right hand" number="1" midi.channel="0" midi.port="0" xml:id="k1nlk7mo">
+            <header/>
+            <dated/>
+        </part>
+        <part name="piano left hand" number="2" midi.channel="1" midi.port="0" xml:id="us8cld0">
+            <header/>
+            <dated/>
         </part>
     </performance>
 </mpm>
