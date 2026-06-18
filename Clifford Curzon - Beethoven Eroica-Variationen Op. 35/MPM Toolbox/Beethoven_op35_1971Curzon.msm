@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<msm title="Eroica-Variationen op. 35 (1922 Leipzig:Forberg edition, Eugen d'Albert) - 1 - Introduzione col Basso del Tema." xml:id="Tema" pulsesPerQuarter="720">
+<msm title="Ludwig van Beethoven: Eroica-Variationen op. 35 (1922 Leipzig:Forberg, ed. Eugen d'Albert)" xml:id="Tema" pulsesPerQuarter="720">
     <global>
         <header/>
         <dated>
@@ -6982,9 +6982,6 @@
                 <note xml:id="nlinooj" date="1244520.0" midi.pitch="58.0" pitchname="b" accidentals="-1.0" octave="2.0" duration="360.0"/>
                 <note xml:id="n1kp0fxz" date="1244520.0" midi.pitch="63.0" pitchname="e" accidentals="-1.0" octave="3.0" duration="360.0"/>
             </score>
-            <programChangeMap>
-                <programChange date="46800.0" value="0"/>
-            </programChangeMap>
         </dated>
     </part>
     <part name="piano left hand" number="2" midi.channel="1" midi.port="0" xml:id="us8cld0">
@@ -12033,9 +12030,6 @@
                 <note xml:id="nytr4gz" date="1244520.0" midi.pitch="46.0" pitchname="b" accidentals="-1.0" octave="1.0" duration="360.0"/>
                 <note xml:id="n1wte6oi" date="1244520.0" midi.pitch="51.0" pitchname="e" accidentals="-1.0" octave="2.0" duration="360.0"/>
             </score>
-            <programChangeMap>
-                <programChange date="46800.0" value="0"/>
-            </programChangeMap>
             <pedalMap>
                 <pedal date="326160.0" state="down" xml:id="pu8zsto" date.end="327420.0"/>
                 <pedal date="337680.0" state="down" xml:id="meico_expansion_of_pu8zsto_7cd1fdca-8afc-4b01-93a7-7e3be8d4efe0" date.end="338940.0"/>
