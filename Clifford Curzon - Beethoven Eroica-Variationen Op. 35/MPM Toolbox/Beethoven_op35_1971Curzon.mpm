@@ -10377,13 +10377,13 @@
                     <tempo bpm="Andante con moto." beatLength="0.25" xml:id="d13ith3m_mpmToolbox-copy_0f5abf4b-eb55-4524-8758-aa1049a79796" date="1140840.0"/>
                     <tempo bpm="un poco più lento" beatLength="0.25" xml:id="d10d0500_mpmToolbox-copy_e666df06-38e2-41f0-86e1-c81bc411d886" date="1231560.0"/>
                     <tempo bpm="un poco più lento" transition.to="+" meanTempoAt="0.5" beatLength="0.25" xml:id="d16xfbi4_mpmToolbox-copy_87d9d581-9b20-4180-ab76-5c89a8b56451" date="1237500.0"/>
-                    <tempo bpm="+" transition.to="+" meanTempoAt="0.5" beatLength="0.25" xml:id="d17c0pi3_mpmToolbox-copy_24f676de-6ea9-401e-aa92-be5c446e91ae" date="1241640.0"/>
+                    <tempo bpm="+" transition.to="+" meanTempoAt="0.5" beatLength="0.25" xml:id="d17c0pi3_mpmToolbox-copy_24f676de-6ea9-401e-aa92-be5c446e91ae" date="1241640.0"/> 
                 </tempoMap>
                 <ornamentationMap>
                     <ornament name.ref="arpeggio" scale="0.0" note.order="#n16uom8f #n1346tqj #n1w8bnzt #n1jl9118 #nx93qk5 #n1betdu5 #nxgmwxm" date="948600.0" xml:id="a19r3dqs_mpmToolbox-copy_24de57b6-ba42-41c9-bfb0-02407520b1a7"/>
                     <ornament name.ref="arpeggio" scale="0.0" note.order="#n1rvryt4 #n1yitj5y" date="1061640.0" xml:id="aacmkpr_mpmToolbox-copy_bc1f1661-27f9-4f66-bab8-e6af38a94f72"/>
                     <ornament name.ref="arpeggio" scale="0.0" note.order="#n5h1k0c #nynp2rt #nvljpeb #nk4syg6" date="1136520.0" xml:id="aymjefg_mpmToolbox-copy_b7836b98-5411-4095-a782-df7e7c83abc7"/>
-                    <ornament name.ref="arpeggio" scale="0.0" note.order="#n1mmugp1 #nhpjxyb #n1gtgjqp #n102c2jj" date="1136520.0" xml:id="atpyr13_mpmToolbox-copy_cd2ee806-2b87-404e-9c56-c7228a85b5bb"/>
+                    <ornament name.ref="arpeggio" scale="0.0" note.order="#n1mmugp1 #nhpjxyb #n1gtgjqp #n102c2jj" date="1136520.0" xml:id="atpyr13_mpmToolbox-copy_cd2ee806-2b87-404e-9c56-c7228a85b5bb"/> 
                 </ornamentationMap>
             </dated>
         </global>
@@ -10403,7 +10403,6 @@
                     <dynamics date="41400.0" volume="pp" xml:id="meico_expansion_of_d14i5iam_922f58c8-31ed-4e17-a8e7-d5cc80c76da8_mpmToolbox-copy_58f07cba-9480-4592-a400-493165cd1d49_mpmToolbox-copy_6fc2962b-e9dd-4c4d-988b-6c21f9bfbd06"/>
                     <dynamics volume="p" xml:id="dzxs9nh_mpmToolbox-copy_ef340b21-8c1d-4f91-8736-d75df79a9e5e_mpmToolbox-copy_1461046c-350f-40b0-ac11-e417ca1463c9" date="46800.0"/>
                     <dynamics volume="p" xml:id="meico_expansion_of_dzxs9nh_6dc96bd7-de97-4aa6-86e8-a555e1c21736_mpmToolbox-copy_fa9be03f-5339-4d1b-b276-4ee5f9cb1a75_mpmToolbox-copy_151fcc92-730e-40b2-bdaa-be1b0009cf4a" date="58320.0"/>
-                    <dynamics volume="p" xml:id="d16dixyd_mpmToolbox-copy_2bfbd64a-c442-4ad7-87c7-dc2df3c3aa6a_mpmToolbox-copy_24847949-5884-4690-b399-ab80cc657f98" date="115560.0"/>
                     <dynamics volume="f" xml:id="d12l7po6_mpmToolbox-copy_07b83c87-2824-4a5e-8cc6-bece642e7981_mpmToolbox-copy_5d9271e2-dd4c-4586-8991-aab12409ac29" date="117360.0"/>
                     <dynamics volume="p" xml:id="dvv5mm_mpmToolbox-copy_926c6d3b-c5d3-475e-8028-86afcf9f9435_mpmToolbox-copy_23a38679-6019-4d00-a308-d273c123aa24" date="118440.0"/>
                     <dynamics volume="p" xml:id="d1j22wrd_mpmToolbox-copy_b93c7712-f15f-4465-ab85-21af5681c8d4_mpmToolbox-copy_97ec1a53-bd86-40ac-a78c-5fa63cbe2f3b" date="120240.0"/>
@@ -10690,7 +10689,7 @@
                     <dynamics volume="ff" xml:id="d174nmb6_mpmToolbox-copy_5ed7bbaa-ed19-4836-b5fe-7383e470a081_mpmToolbox-copy_0a28dead-ac6f-4437-85da-1bbf184f461b" date="1177200.0"/>
                     <dynamics volume="p" xml:id="dfwvte_mpmToolbox-copy_c5a5d67a-320e-4f7b-97e6-57a641ab2c53_mpmToolbox-copy_a70ef09e-d9b0-4894-a149-10fba590e3d6" date="1177920.0"/>
                     <dynamics volume="p" transition.to="+" curvature="0.0" protraction="0.0" xml:id="d9hw9ty_mpmToolbox-copy_ba80c71c-4cb8-4961-bce4-73bddb1367c0_mpmToolbox-copy_0c14d7f8-b42f-42f7-a753-b8c4722f3cae" date="1178280.0"/>
-                    <dynamics volume="+" date="1180800.0"/>
+                    <dynamics volume="+" date="1180800.0"/> 
                 </dynamicsMap>
                 <articulationMap>
                     <style date="0.0" name.ref="MEI export" defaultArticulation="nonlegato"/>
@@ -16390,7 +16389,7 @@
                     <articulation name.ref="stacc" noteid="#nlinooj" xml:id="a101lv1a_meico_189ac106-ef81-4c8f-8a32-2923a929b19e_mpmToolbox-copy_edde3c58-2ff0-45ee-9229-1902fc2564c9" date="1244520.0"/>
                     <articulation name.ref="legato" noteid="#nlinooj" xml:id="smnp3cq_meico_37c59f90-b96e-4931-8fe3-7afd4a61fa84_mpmToolbox-copy_cc071281-84df-472b-b03c-a51746e0ddd1" date="1244520.0"/>
                     <articulation name.ref="stacc" noteid="#n1kp0fxz" xml:id="a101lv1a_meico_93f45e94-4190-4aff-82d9-ffd078c2187a_mpmToolbox-copy_9fd9c850-0f00-435b-8932-2864055da08a" date="1244520.0"/>
-                    <articulation name.ref="legato" noteid="#n1kp0fxz" xml:id="smnp3cq_meico_93493b1d-de33-47c0-b837-758a1027ecc7_mpmToolbox-copy_7e8c5aa3-bc85-4fdb-bcb2-2a11dbfc8034" date="1244520.0"/>
+                    <articulation name.ref="legato" noteid="#n1kp0fxz" xml:id="smnp3cq_meico_93493b1d-de33-47c0-b837-758a1027ecc7_mpmToolbox-copy_7e8c5aa3-bc85-4fdb-bcb2-2a11dbfc8034" date="1244520.0"/> 
                 </articulationMap>
             </dated>
         </part>
@@ -16697,7 +16696,7 @@
                     <dynamics volume="ff" xml:id="d174nmb6_mpmToolbox-copy_4552df6f-b896-4bdf-9964-388ba27362ea" date="1177200.0"/>
                     <dynamics volume="p" xml:id="dfwvte_mpmToolbox-copy_5b2497f8-4fc2-41c8-b790-e3f9bdb245b2" date="1177920.0"/>
                     <dynamics volume="p" transition.to="+" curvature="0.0" protraction="0.0" xml:id="d9hw9ty_mpmToolbox-copy_1bfeb9f1-a8c3-4299-9646-c0bd3fe91d91" date="1178280.0"/>
-                    <dynamics volume="+" date="1180800.0"/>
+                    <dynamics volume="+" date="1180800.0"/> 
                 </dynamicsMap>
                 <articulationMap>
                     <style date="0.0" name.ref="MEI export" defaultArticulation="nonlegato"/>
@@ -20370,7 +20369,7 @@
                     <articulation name.ref="stacc" noteid="#nag1ztj" xml:id="aujsqwn_mpmToolbox-copy_0c48fa73-7301-4c96-af69-27d8a869fc68" date="1244520.0"/>
                     <articulation name.ref="stacc" noteid="#n12m9h06" xml:id="aujsqwn_meico_ba37cdd6-2a07-4347-9509-57bf0a5895a3_mpmToolbox-copy_d385a3c7-4855-42d5-a031-62c2cb0c5fb8" date="1244520.0"/>
                     <articulation name.ref="stacc" noteid="#nytr4gz" xml:id="aujsqwn_meico_39b0656c-3b5b-466e-8291-ea87b67ecc8e_mpmToolbox-copy_9658151d-5d2f-4eca-9bc7-bcbb39cad867" date="1244520.0"/>
-                    <articulation name.ref="stacc" noteid="#n1wte6oi" xml:id="aujsqwn_meico_527bbf01-9162-48ed-8d16-b765eb30b5cb_mpmToolbox-copy_76011ee4-29e8-406e-b64b-4643fe10b812" date="1244520.0"/>
+                    <articulation name.ref="stacc" noteid="#n1wte6oi" xml:id="aujsqwn_meico_527bbf01-9162-48ed-8d16-b765eb30b5cb_mpmToolbox-copy_76011ee4-29e8-406e-b64b-4643fe10b812" date="1244520.0"/> 
                 </articulationMap>
             </dated>
         </part>
