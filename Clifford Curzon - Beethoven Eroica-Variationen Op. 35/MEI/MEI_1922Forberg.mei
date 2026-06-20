@@ -26156,11 +26156,11 @@
                                  </note>
                               </chord>
                               <chord xml:id="c163v10u" dur="8">
-                                 <note xml:id="nce4qwp" oct="3" pname="a">
-                                    <accid xml:id="q1ewolzs" accid.ges="f" />
+                                 <note xml:id="nce4qwp" oct="3" pname="f" />
+                                 <note xml:id="n15ok6b0" oct="3" pname="b" >
+                                    <accid accid.ges="f" />
                                  </note>
-                                 <note xml:id="n15ok6b0" oct="4" pname="d" />
-                                 <note xml:id="n11irh4n" oct="4" pname="f" />
+                                 <note xml:id="n11irh4n" oct="4" pname="d" />
                               </chord>
                            </layer>
                         </staff>
@@ -28443,7 +28443,8 @@
                      <fing xml:id="f1o4qxwe" place="below" startid="#n1jh9qr0">1</fing>
                      <fing xml:id="f13otlvg" place="below" startid="#nvuwxbk">2</fing>
                      <fing xml:id="f1o8zbho" place="below" startid="#nmkz0va">1</fing>
-                     <slur xml:id="s1fpo2w2" startid="#n1p847sk" endid="#n5oddck" />
+                     <tie xml:id="s1fpo2w2" startid="#n1p847sk" endid="#n5oddck" />
+                     <slur xml:id="s1fpo2w21" startid="n172t1nr" endid="ngfi0pl" />
                      <fing xml:id="f19frmif" ho="-3vu" vo="-6vu" startid="#n1p847sk">1</fing>
                      <dynam xml:id="d100wp2j" label="sf" staff="2" startid="#n7cjx18">sf</dynam>
                      <hairpin xml:id="h11kifsd" staff="1" tstamp="1.25" tstamp2="0m+3" form="cres" />
