@@ -38,25 +38,36 @@
                         <tempoDef name="Adagio." value="79.0"/>
                         <tempoDef name="Con brio." value="100.0"/>
                         <tempoDef name="Grazioso." value="100.0"/>
-                        <tempoDef name="Presto." value="189.0"/>
-                        <tempoDef name="a) Von hier an ist ein lebhafteres Tempo angebracht." value="100.0"/>
-                        <tempoDef name="(Più tranquillo)" value="100.0"/>
+                        <tempoDef name="Presto." value="189.0"/> 
                         <tempoDef name="(Animato)" value="121.0"/>
-                        <tempoDef name="Canone all’ottava. (animato)" value="121.0"/>
-                        <tempoDef name="(Tranquillo)" value="100.0"/>
-                        <tempoDef name="(Tranquillo, semplice)" value="100.0"/>
+                        <tempoDef name="Canone all’ottava. (animato)" value="121.0"/> 
                         <tempoDef name="Animato." value="121.0"/>
                         <tempoDef name="Sempre animato." value="121.0"/>
                         <tempoDef name="adagio" value="79.0"/>
                         <tempoDef name="Meno mosso." value="100.0"/>
                         <tempoDef name="Largo." value="50.0"/>
-                        <tempoDef name="Andante con moto." value="101.0"/>
-                        <tempoDef name="un poco più lento" value="51.0"/>
-                        <tempoDef name="Allegro con brio" value="147.0"/>
-                        <tempoDef name="Fermata Allegretto vivace" value="27.5"/>
+                        <tempoDef name="Andante con moto." value="101.0"/> 
+                        <tempoDef name="Allegro con brio" value="147.0"/> 
+                        <tempoDef name="a) Von hier an ist ein lebhafteres Tempo angebracht." value="110.0"/>
+                        <tempoDef name="(Più tranquillo)" value="90.0"/>
+                        <tempoDef name="(Tranquillo)" value="70.0"/>
+                        <tempoDef name="(Tranquillo, semplice)" value="70.0"/>
+                        <tempoDef name="un poco più lento" value="90.0"/>
                     </styleDef>
                     <styleDef name="Fermatas (over MEI export)">
                         <tempoDef name="Fermata Allegretto vivace" value="27.5"/>
+                        <tempoDef name="Fermata Adagio" value="27.5"/>
+                        <tempoDef name="Fermata Grazioso" value="27.5"/>
+                        <tempoDef name="Var. II Presto" value="100.0"/>
+                        <tempoDef name="Fermata Lebhafter" value="27.5"/>
+                        <tempoDef name="Fermata Più tranquillo" value="27.5"/>
+                        <tempoDef name="Fermata Animato" value="27.5"/>
+                        <tempoDef name="Fermata Tranquillo" value="27.5"/>
+                        <tempoDef name="Fermata Meno mosso" value="27.5"/>
+                        <tempoDef name="Fermata Largo" value="10.0"/>
+                        <tempoDef name="Fermata Var. XV ending" value="40.0"/>
+                        <tempoDef name="Fermata Allegro con brio" value="27.5"/>
+                        <tempoDef name="Fermata Andante con moto" value="27.5"/>
                     </styleDef>
                 </tempoStyles>
                 <dynamicsStyles>
@@ -183,36 +194,169 @@
                     <style date="87480.0" name.ref="MEI export" xml:id="mpmToolbox_9c337cbf-18f4-46a8-a86d-61218a7044b8"/>
                     <tempo date="87480.0" bpm="Allegretto vivace." beatLength="0.25" xml:id="mpmToolbox_b23e48a6-5ba3-4d3f-85b5-2a2d3dc7ef1a"/>
                     <tempo bpm="Adagio." beatLength="0.25" xml:id="d131vbzq" date="120240.0"/>
-                    <tempo bpm="Tempo I." beatLength="0.25" xml:id="d8qifs1" date="121320.0"/>
+                    <style date="120960.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_cf95898b-0214-477b-9859-0f1467596328"/>
+                    <tempo date="120960.0" bpm="Fermata Adagio" beatLength="0.25" xml:id="mpmToolbox_6f67660f-eca1-499a-bffd-034dc10417de"/>
+                    <style date="121320.0" name.ref="MEI export" xml:id="mpmToolbox_d037076a-8b5a-4c69-8167-61d51e9c2acd"/>
+                    <tempo date="121320.0" bpm="Allegretto vivace." beatLength="0.25" xml:id="mpmToolbox_8e1667c2-2ba5-44aa-bb29-f32315e7edae"/>
                     <tempo bpm="Adagio." beatLength="0.25" xml:id="meico_expansion_of_d131vbzq_7ed09543-c53e-44b2-a7f7-8a8e02d40276" date="131760.0"/>
-                    <tempo bpm="Tempo I." beatLength="0.25" xml:id="meico_expansion_of_d8qifs1_cb2c8912-f23c-45cc-af8e-91a429ca0a6a" date="132840.0"/>
+                    <style date="132480.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_92a3c771-6433-4df9-9ab0-188718c2ac08"/>
+                    <tempo date="132480.0" bpm="Fermata Adagio" beatLength="0.25" xml:id="mpmToolbox_b5d9f5a3-3373-4f5e-863a-6b10b170df31"/>
+                    <style date="132840.0" name.ref="MEI export" xml:id="mpmToolbox_c1b1ab84-b8c0-4ea1-9c32-32dfa0afc3c5"/>
+                    <tempo date="132840.0" bpm="Allegretto vivace." beatLength="0.25" xml:id="mpmToolbox_4cb07d9f-df98-484a-8c1d-07d53bb3973d"/>
                     <tempo bpm="Con brio." beatLength="0.25" xml:id="d1owd8m2" date="138600.0"/>
                     <tempo bpm="Con brio." beatLength="0.25" xml:id="meico_expansion_of_d1owd8m2_faff7a1e-0d46-42ac-988b-fd0caebfb587" date="150120.0"/>
                     <tempo bpm="Grazioso." beatLength="0.25" xml:id="d1phf169" date="230760.0"/>
                     <tempo bpm="Grazioso." beatLength="0.25" xml:id="meico_expansion_of_d1phf169_15178643-0b18-4cb2-8f98-bc46ddea8ae1" date="242280.0"/>
-                    <tempo bpm="Tempo I." beatLength="0.25" xml:id="d17adnlu" date="306000.0"/>
-                    <tempo bpm="Tempo I." beatLength="0.25" xml:id="meico_expansion_of_d17adnlu_5ef11764-81a9-4273-81c6-bf67f2341351" date="317520.0"/>
+                    <style date="304560.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_73ce761e-7436-4280-9c75-1889484e4240"/>
+                    <tempo date="304560.0" bpm="Fermata Grazioso" beatLength="0.25" xml:id="mpmToolbox_31bcbfe8-e6ed-4d61-83df-2f149012f0cf"/>
+                    <tempo date="304560.0" bpm="Var. II Presto" beatLength="0.25" xml:id="mpmToolbox_618f5c9e-49a3-4857-981e-5d4c3d0dbfa7"/>
+                    <style date="306000.0" name.ref="MEI export" xml:id="mpmToolbox_843b7705-5c86-4026-86a9-5615606f8cb5"/>
+                    <tempo date="306000.0" bpm="Grazioso." beatLength="0.25" xml:id="mpmToolbox_350ab6fb-07ef-40d9-8dd8-d848dabc90a0"/>
+                    <style date="316080.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_212767cd-f48f-4f6e-a9db-0320b49f3f88"/>
+                    <tempo date="316080.0" bpm="Fermata Grazioso" beatLength="0.25" xml:id="mpmToolbox_b6e48b31-1859-4366-9b1b-018b29092438"/>
+                    <tempo date="316080.0" bpm="Var. II Presto" beatLength="0.25" xml:id="mpmToolbox_7266b473-b25a-4420-9d90-3310edef5e11"/>
+                    <style date="317520.0" name.ref="MEI export" xml:id="mpmToolbox_6c38e776-318b-43c3-83c0-7147d3d7756c"/>
+                    <tempo date="317520.0" bpm="Grazioso." beatLength="0.25" xml:id="mpmToolbox_240fcc1e-1888-420e-86a6-bf6ca5bd7ca2"/>
                     <tempo bpm="a) Von hier an ist ein lebhafteres Tempo angebracht." beatLength="0.25" xml:id="x1ccvzdy" date="322920.0"/>
                     <tempo bpm="a) Von hier an ist ein lebhafteres Tempo angebracht." beatLength="0.25" xml:id="meico_expansion_of_x1ccvzdy_590705d7-3395-4776-9c8c-27ccfb1ef029" date="334440.0"/>
+                    <style date="351000.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_08cf4b18-b32a-44c7-891e-a1aef611a60e"/>
+                    <tempo date="351000.0" bpm="Fermata Lebhafter" beatLength="0.25" xml:id="mpmToolbox_4a98fe0b-1c16-46b0-8c77-24a0a69dee73"/>
+                    <style date="351720.0" name.ref="MEI export" xml:id="mpmToolbox_944aa8c3-a433-43f3-8f44-7834e8de444a"/>
+                    <tempo date="351720.0" bpm="a) Von hier an ist ein lebhafteres Tempo angebracht." beatLength="0.25" xml:id="mpmToolbox_dca70dfc-8a07-4d9d-a5ab-4bc7b38ce043"/>
+                    <style date="362520.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_beeb574f-9696-4eb6-bb48-92a46b846b90"/>
+                    <tempo date="362520.0" bpm="Fermata Lebhafter" beatLength="0.25" xml:id="mpmToolbox_cfd086c1-bbd8-4a09-b458-3ea05c31c41e"/>
+                    <style date="363240.0" name.ref="MEI export" xml:id="mpmToolbox_62a852e5-cafd-406d-9037-cf31c479ccb2"/>
+                    <tempo date="363240.0" bpm="a) Von hier an ist ein lebhafteres Tempo angebracht." beatLength="0.25" xml:id="mpmToolbox_b6dd0e32-dc92-43f6-b844-e2c0aef670c1"/>
+                    <style date="397080.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_bd4c7794-0cfa-4222-a750-f8a07943806f"/>
+                    <tempo date="397080.0" bpm="Fermata Lebhafter" beatLength="0.25" xml:id="mpmToolbox_d341575f-c72d-4d88-8112-fbc3433b14bd"/>
+                    <style date="397800.0" name.ref="MEI export" xml:id="mpmToolbox_945a27c8-3a42-4d59-9ad8-a85013790e8d"/>
+                    <tempo date="397800.0" bpm="a) Von hier an ist ein lebhafteres Tempo angebracht." beatLength="0.25" xml:id="mpmToolbox_e42214af-3055-410d-b453-7a064a10f1d1"/>
+                    <style date="408600.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_cbea1c6a-a467-4fc8-82c0-d5f36b4cbec6"/>
+                    <tempo date="408600.0" bpm="Fermata Lebhafter" beatLength="0.25" xml:id="mpmToolbox_f6387276-e236-4bc7-a710-474f31333753"/>
+                    <style date="409320.0" name.ref="MEI export" xml:id="mpmToolbox_04c2c262-07a9-403b-8344-8503feac7360"/>
+                    <tempo date="409320.0" bpm="a) Von hier an ist ein lebhafteres Tempo angebracht." beatLength="0.25" xml:id="mpmToolbox_1dee3b81-851b-4e3f-9a43-2319be6097e3"/>
                     <tempo bpm="(Più tranquillo)" beatLength="0.25" xml:id="d2qo876" date="415080.0"/>
+                    <style date="432000.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_6387f0de-cc3f-4924-83e6-4f266320ea91"/>
+                    <tempo date="432000.0" bpm="Fermata Più tranquillo" beatLength="0.25" xml:id="mpmToolbox_97d42627-9f46-4527-bbcc-32d21e2e682c"/>
+                    <style date="432360.0" name.ref="MEI export" xml:id="mpmToolbox_0abf5651-aa77-42fa-88e0-d76ddb58ec0f"/>
+                    <tempo date="432360.0" bpm="(Più tranquillo)" beatLength="0.25" xml:id="mpmToolbox_0d43da5f-60f0-4df6-bfa4-e2534fc24320"/>
+                    <style date="443520.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_e6a8c0b9-c5b6-4ff4-b55a-7ec3dd0ca8af"/>
+                    <tempo date="443520.0" bpm="Fermata Più tranquillo" beatLength="0.25" xml:id="mpmToolbox_6925c76b-1a1f-4baa-9ad8-420eebc4203f"/>
+                    <style date="443880.0" name.ref="MEI export" xml:id="mpmToolbox_41aa0add-9104-46fa-9e60-ecb1d33c513a"/>
+                    <tempo date="443880.0" bpm="(Più tranquillo)" beatLength="0.25" xml:id="mpmToolbox_c8344dc4-adf2-45c5-aeaf-51575b81bc7c"/>
                     <tempo bpm="(Animato)" beatLength="0.25" xml:id="dvl3hvn" date="449640.0"/>
                     <tempo bpm="(Animato)" beatLength="0.25" xml:id="meico_expansion_of_dvl3hvn_07df81f0-71a8-47f0-b062-f6226936fa52" date="461160.0"/>
+                    <style date="478080.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_fa3158ec-112c-4d62-b61f-71825f857802"/>
+                    <tempo date="478080.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_a835c679-5319-466a-8107-545d269918b1"/>
+                    <style date="478440.0" name.ref="MEI export" xml:id="mpmToolbox_e036c261-2efa-4d31-ba72-41b8f292cfaf"/>
+                    <tempo date="478440.0" bpm="(Animato)" beatLength="0.25" xml:id="mpmToolbox_9d6277dd-619f-4233-ba2c-990af2ce9be2"/>
+                    <style date="489600.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_8e3bafde-9ba1-4e6b-b729-bc592c8eede0"/>
+                    <tempo date="489600.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_23229e0b-422f-4e79-b2ad-b2061d1dea2c"/>
+                    <style date="489960.0" name.ref="MEI export" xml:id="mpmToolbox_128344a7-e6d3-428a-b621-0855c84d7755"/>
+                    <tempo date="489960.0" bpm="(Animato)" beatLength="0.25" xml:id="mpmToolbox_10057517-495b-47e0-9486-ed471e939b7b"/>
                     <tempo bpm="Canone all’ottava. (animato)" beatLength="0.25" xml:id="m1ccazaq" date="496080.0"/>
+                    <style date="524160.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_514c8bbb-04b0-4c9b-b267-026cdd0a7d84"/>
+                    <tempo date="524160.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_8a805ed1-fd53-4ea3-820e-82ab6a3984e7"/>
+                    <style date="524520.0" name.ref="MEI export" xml:id="mpmToolbox_627dea87-6bd2-45f6-b97b-5c3cc0f9bc2e"/>
+                    <tempo date="524520.0" bpm="Canone all’ottava. (animato)" beatLength="0.25" xml:id="mpmToolbox_d77c7e98-ed9d-4c7c-8b6a-91656b851f11"/>
+                    <style date="535680.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_afd0fcea-d636-459d-9b09-ae80913ae9c5"/>
+                    <tempo date="535680.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_1fee2078-218c-4d42-a18f-cc9177638788"/>
+                    <style date="536040.0" name.ref="MEI export" xml:id="mpmToolbox_e38c7c5b-53b3-4f30-ac02-b899967e17b1"/>
+                    <tempo date="536040.0" bpm="Canone all’ottava. (animato)" beatLength="0.25" xml:id="mpmToolbox_184b2d48-3a13-401d-ac2c-d3e56046fccc"/>
                     <tempo bpm="(Tranquillo)" beatLength="0.25" xml:id="d3nieq1" date="541800.0"/>
+                    <style date="570060.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_a4b47085-ec65-4bc4-9897-71cf369e3563"/>
+                    <tempo date="570060.0" bpm="Fermata Tranquillo" beatLength="0.25" xml:id="mpmToolbox_b634acf8-68ec-4b6b-ba1c-55356f474e76"/>
+                    <style date="570600.0" name.ref="MEI export" xml:id="mpmToolbox_c74784c6-fe8a-4924-a3d5-ad9ab4321809"/>
+                    <tempo date="570600.0" bpm="(Tranquillo)" beatLength="0.25" xml:id="mpmToolbox_80d036ea-9c09-4158-ac65-d8bbdc8016a5"/>
+                    <style date="581580.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_7f22f054-910a-4bf3-a2e4-3a4287e1e756"/>
+                    <tempo date="581580.0" bpm="Fermata Tranquillo" beatLength="0.25" xml:id="mpmToolbox_9690db49-2fcc-4b9c-9032-79b6260c6dfa"/>
+                    <style date="582120.0" name.ref="MEI export" xml:id="mpmToolbox_8dba51db-07b0-4049-868a-b75ad9bd36b7"/>
+                    <tempo date="582120.0" bpm="(Tranquillo)" beatLength="0.25" xml:id="mpmToolbox_2dbb68c9-214d-4bc0-b63c-356046c00bbe"/>
                     <tempo bpm="(Animato)" beatLength="0.25" xml:id="dtg9iog" date="587880.0"/>
+                    <style date="616560.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_7400cb9e-4d25-4223-a5af-ae9702c33b06"/>
+                    <tempo date="616560.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_a382390c-68d7-442b-b88e-7bb41c4d600f"/>
+                    <style date="616800.0" name.ref="MEI export" xml:id="mpmToolbox_75ea54a5-671e-43d5-9345-538f3ba3e2af"/>
+                    <tempo date="616800.0" bpm="(Animato)" beatLength="0.25" xml:id="mpmToolbox_5bea53a4-125d-4cff-a57c-cb1263588f77"/>
+                    <style date="628080.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_0cf27ef8-b741-45ee-a0ff-12bc5712d5fc"/>
+                    <tempo date="628080.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_7be943a0-587a-4b5a-bd87-d833bc7a6021"/>
+                    <style date="628320.0" name.ref="MEI export" xml:id="mpmToolbox_98b57ff1-6d61-465d-ad0f-1072ecf08558"/>
+                    <tempo date="628320.0" bpm="(Animato)" beatLength="0.25" xml:id="mpmToolbox_d78bd36e-36a8-4980-847b-42c58913dd1f"/>
+                    <style date="661680.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_00f10849-6458-4f74-8a6c-992613b25db4"/>
+                    <tempo date="661680.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_92c01bad-c762-41e4-b0b7-2defbf1068a5"/>
+                    <style date="662760.0" name.ref="MEI export" xml:id="mpmToolbox_9560765a-e073-409f-a3e3-e3ac276ae49e"/>
+                    <tempo date="662760.0" bpm="(Animato)" beatLength="0.25" xml:id="mpmToolbox_a2f8a663-5796-4680-a8d7-e360f898f3cd"/>
+                    <style date="673200.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_5427f1e4-9422-4114-8fdc-12dbed733ff8"/>
+                    <tempo date="673200.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_43958207-a90c-4f44-a274-ebd2d2d9e0e6"/>
+                    <style date="674280.0" name.ref="MEI export" xml:id="mpmToolbox_af81091b-89d2-4feb-ba11-c404cd132661"/>
+                    <tempo date="674280.0" bpm="(Animato)" beatLength="0.25" xml:id="mpmToolbox_7985a5a1-3437-49f1-af23-3c6aa792a4e0"/>
                     <tempo bpm="(Tranquillo, semplice)" beatLength="0.25" xml:id="dd78ypg" date="680040.0"/>
+                    <style date="708480.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_d3cffaf1-8f02-45e5-97ca-8f4d0375597c"/>
+                    <tempo date="708480.0" bpm="Fermata Tranquillo" beatLength="0.25" xml:id="mpmToolbox_90d67b94-9426-42a1-a15f-69e2af404851"/>
+                    <style date="708840.0" name.ref="MEI export" xml:id="mpmToolbox_b937f2d6-a20a-4ab3-97e0-af6ad0783b75"/>
+                    <tempo date="708840.0" bpm="(Tranquillo)" beatLength="0.25" xml:id="mpmToolbox_52c8ded3-0c03-4dd8-8f64-d2074989ed88"/>
+                    <style date="720000.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_d52c1203-6203-4c15-a8f6-4a334e8302de"/>
+                    <tempo date="720000.0" bpm="Fermata Tranquillo" beatLength="0.25" xml:id="mpmToolbox_3585784e-63a0-4cab-9754-9c3872322ba4"/>
+                    <style date="720360.0" name.ref="MEI export" xml:id="mpmToolbox_c5e8322d-d5a3-4df5-b3c1-69c27432df77"/>
+                    <tempo date="720360.0" bpm="(Tranquillo)" beatLength="0.25" xml:id="mpmToolbox_65ff812b-07f8-42d1-985d-119f3c261ca4"/>
                     <tempo bpm="Animato." beatLength="0.25" xml:id="d1jnb961" date="726120.0"/>
                     <tempo bpm="Animato." beatLength="0.25" xml:id="meico_expansion_of_d1jnb961_4334802e-f38e-4570-8196-79442b248935" date="737640.0"/>
+                    <style date="754560.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_ed6eef7d-9cf0-4aa4-a2ee-762a9195da78"/>
+                    <tempo date="754560.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_41a4fe68-8e1e-46e6-ac24-cf3d56c6947c"/>
+                    <style date="754920.0" name.ref="MEI export" xml:id="mpmToolbox_19f3158e-d5ee-4b7d-8fdd-30be7ba40428"/>
+                    <tempo date="754920.0" bpm="(Animato)" beatLength="0.25" xml:id="mpmToolbox_cfe97efb-c56e-40e3-927d-215c66b7a991"/>
+                    <style date="766080.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_c9412823-5dfc-4001-a735-3f9c440c0465"/>
+                    <tempo date="766080.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_d18a2038-72a6-407f-857e-65a5365eb195"/>
+                    <style date="766440.0" name.ref="MEI export" xml:id="mpmToolbox_7dcf7be8-a144-4c08-ae4a-198238a82b1a"/>
+                    <tempo date="766440.0" bpm="(Animato)" beatLength="0.25" xml:id="mpmToolbox_36216ab8-1a23-4a22-bceb-f7a332dd7db3"/>
                     <tempo bpm="Sempre animato." beatLength="0.25" xml:id="d1tmeeb" date="772200.0"/>
+                    <style date="799920.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_e5b60378-ef31-44e7-892e-feb1c1fd6003"/>
+                    <tempo date="799920.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_bf171371-cdaa-4960-a570-ea24d99b379e"/>
+                    <style date="801000.0" name.ref="MEI export" xml:id="mpmToolbox_f491a6a5-2e38-4175-8c45-53f152de0a84"/>
+                    <tempo date="801000.0" bpm="(Animato)" beatLength="0.25" xml:id="mpmToolbox_73eb5d03-d33d-4f7b-8252-233683b04527"/>
+                    <style date="811440.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_2beddc65-ccb4-4467-9712-acc58fb8c2d5"/>
+                    <tempo date="811440.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_b6e23fb7-7b10-4b74-8cf7-f03d801af130"/>
+                    <style date="812520.0" name.ref="MEI export" xml:id="mpmToolbox_8afd82f3-1c46-408a-96ad-a045528f9f20"/>
+                    <tempo date="812520.0" bpm="Animato." beatLength="0.25" xml:id="mpmToolbox_8845fd6e-528a-4b87-9578-d711e80ad016"/>
                     <tempo bpm="Meno mosso." beatLength="0.25" xml:id="d1x71xvi" date="818280.0"/>
+                    <style date="846720.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_2883e340-2de4-4259-ad2a-45271e8f6ede"/>
+                    <tempo date="846720.0" bpm="Fermata Meno mosso" beatLength="0.25" xml:id="mpmToolbox_bd783114-473e-4c84-96d3-a8af693c4a79"/>
+                    <style date="847080.0" name.ref="MEI export" xml:id="mpmToolbox_0ae4d2d5-0bf1-4359-993a-ef31a11611cd"/>
+                    <tempo date="847080.0" bpm="Meno mosso." beatLength="0.25" xml:id="mpmToolbox_f666d02e-0f78-455d-bcbf-6b6cec85fbfb"/>
+                    <style date="858240.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_e808ed77-866f-4fc5-9906-af43b4053434"/>
+                    <tempo date="858240.0" bpm="Fermata Meno mosso" beatLength="0.25" xml:id="mpmToolbox_7da9ea5a-f4ce-4d9a-b954-3a2ccf68f7c9"/>
+                    <style date="858600.0" name.ref="MEI export" xml:id="mpmToolbox_5f8a48c2-5796-4fba-975b-0ff232719bf9"/>
+                    <tempo date="858600.0" bpm="Meno mosso." beatLength="0.25" xml:id="mpmToolbox_5e48322c-8442-41d5-92b9-15793492a7ca"/>
+                    <tempo date="863280.0" bpm="adagio" beatLength="0.25" xml:id="mpmToolbox_2754f75b-1ca7-40d5-a11d-e1111251bf19"/>
                     <tempo bpm="Largo." beatLength="0.125" xml:id="djtb47s" date="864360.0"/>
-                    <tempo bpm="Largo." transition.to="-" meanTempoAt="0.5" beatLength="0.125" xml:id="brj6lii" date="946800.0"/>
+                    <style date="907020.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_fe12cb5c-ab6e-46d1-8d9c-d8df1ff423d9"/>
+                    <tempo date="907020.0" bpm="Fermata Largo" beatLength="0.25" xml:id="mpmToolbox_d02baca8-573e-411e-8e2e-46acbb71bddf"/>
+                    <style date="907200.0" name.ref="MEI export" xml:id="mpmToolbox_04e284b8-56eb-4b5c-a362-420b0e0ea5ff"/>
+                    <tempo date="907200.0" bpm="Largo." beatLength="0.25" xml:id="mpmToolbox_15abc250-2b9b-406f-823e-20435ec00459"/>
+                    <style date="924300.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_cc0ddc30-439c-4cdf-8bfe-4275c021bbd8"/>
+                    <tempo date="924300.0" bpm="Fermata Largo" beatLength="0.25" xml:id="mpmToolbox_fcf94c0c-0b67-4f94-92d4-f2163a5727f7"/>
+                    <style date="924480.0" name.ref="MEI export" xml:id="mpmToolbox_d344eebf-8c83-42c5-886b-7ff3fffd4c84"/>
+                    <tempo date="924480.0" bpm="Largo." beatLength="0.25" xml:id="mpmToolbox_d6445c02-17aa-4e00-b8db-6a74ef53b402"/>
+                    <tempo date="946800.0" bpm="Largo." transition.to="40.0" beatLength="0.125" xml:id="brj6lii"/>
+                    <style date="948600.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_5ef74882-71c5-4de0-8cdc-46d425ba8927"/>
+                    <tempo date="948600.0" bpm="Fermata Var. XV ending" beatLength="0.25" xml:id="mpmToolbox_95294be4-1f22-4eb5-ae05-8652870b332e"/>
+                    <style date="950760.0" name.ref="MEI export" xml:id="mpmToolbox_25ce50ee-9ea8-44bf-ac0f-e13bbae69e4f"/>
                     <tempo bpm="Allegro con brio" beatLength="0.25" xml:id="d1s58h4y" date="950760.0"/>
+                    <style date="1135080.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_f6575368-8393-4943-8435-30dbc965470d"/>
+                    <tempo date="1135080.0" bpm="Fermata Allegro con brio" beatLength="0.25" xml:id="mpmToolbox_7c84368e-761f-49c4-a34f-7b5e42a85af6"/>
+                    <style date="1139400.0" name.ref="MEI export" xml:id="mpmToolbox_8dbe9d77-7382-427d-ac38-f05a2f4e06a4"/>
                     <tempo bpm="Adagio." beatLength="0.25" xml:id="d116igtu" date="1139400.0"/>
                     <tempo bpm="Andante con moto." beatLength="0.25" xml:id="d13ith3m" date="1140840.0"/>
+                    <style date="1168200.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_f26b7bad-5e87-4465-94a3-60782964fc5c"/>
+                    <tempo date="1168200.0" bpm="Fermata Andante con moto" beatLength="0.25" xml:id="mpmToolbox_5fbf65b4-aa47-4cfd-aad5-140a101923cb"/>
+                    <style date="1169280.0" name.ref="MEI export" xml:id="mpmToolbox_0f01b70f-51cc-4ff2-a0ec-8c970001d44a"/>
+                    <tempo date="1169280.0" bpm="Andante con moto." beatLength="0.25" xml:id="mpmToolbox_f7e17301-63ec-46da-9519-a5b17200a340"/>
+                    <style date="1179720.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_dfcba688-ed13-4c91-ad55-29242115eb53"/>
+                    <tempo date="1179720.0" bpm="Fermata Andante con moto" beatLength="0.25" xml:id="mpmToolbox_e417ef36-49a1-4b62-b757-a6097bbd6685"/>
+                    <style date="1180800.0" name.ref="MEI export" xml:id="mpmToolbox_e08e7882-3823-4e43-a77e-d6748fe8d5cc"/>
+                    <tempo date="1180800.0" bpm="Andante con moto." beatLength="0.25" xml:id="mpmToolbox_46c1d9d4-82d1-4e35-89c4-0bf395dfb576"/>
                     <tempo bpm="un poco più lento" beatLength="0.25" xml:id="d10d0500" date="1231560.0"/>
-                    <tempo bpm="un poco più lento" transition.to="+" meanTempoAt="0.5" beatLength="0.25" xml:id="d16xfbi4" date="1237500.0"/>
-                    <tempo bpm="+" transition.to="+" meanTempoAt="0.5" beatLength="0.25" xml:id="d17c0pi3" date="1241640.0"/> 
+                    <tempo date="1237500.0" bpm="un poco più lento" transition.to="100.0" beatLength="0.25" xml:id="d16xfbi4"/>
+                    <tempo date="1241640.0" bpm="100.0" transition.to="110.0" beatLength="0.25" xml:id="d17c0pi3"/> 
                 </tempoMap>
             </dated>
         </global>
@@ -10333,51 +10477,237 @@
                 <tempoMap>
                     <style date="0.0" name.ref="Fermatas (over MEI export)"/>
                     <tempo date="0.0" bpm="Fermata Allegretto vivace" beatLength="0.25" xml:id="mpmToolbox_ee8e7ce8-f2ea-43ab-b511-44300027b5d7_mpmToolbox-copy_ef7a26fa-d8f4-4872-916f-7a2b586fa1c5"/>
+                    <style date="0.0" name.ref="Fermatas (over MEI export)"/>
+                    <tempo date="0.0" bpm="Fermata Allegretto vivace" beatLength="0.25" xml:id="mpmToolbox_ee8e7ce8-f2ea-43ab-b511-44300027b5d7_mpmToolbox-copy_b4c0e100-14cf-4eb7-b928-0d1f1da52abe"/>
                     <style date="1440.0" name.ref="MEI export"/>
                     <tempo date="1440.0" bpm="Allegretto vivace." beatLength="0.25" xml:id="mpmToolbox_ca77f516-453f-429b-944d-9258b906bc89_mpmToolbox-copy_34240591-cc58-418c-9101-1811cc967cf9"/>
+                    <style date="1440.0" name.ref="MEI export"/>
+                    <tempo date="1440.0" bpm="Allegretto vivace." beatLength="0.25" xml:id="mpmToolbox_ca77f516-453f-429b-944d-9258b906bc89_mpmToolbox-copy_460e9325-8263-484f-b3f9-90e352c3aed5"/>
                     <style date="28800.0" name.ref="Fermatas (over MEI export)"/>
                     <tempo date="28800.0" bpm="Fermata Allegretto vivace" beatLength="0.25" xml:id="mpmToolbox_623a950f-19de-49fb-8871-41aa3380133f_mpmToolbox-copy_cc108a77-f0b0-40d7-996e-63c21ad6ba77"/>
+                    <style date="28800.0" name.ref="Fermatas (over MEI export)"/>
+                    <tempo date="28800.0" bpm="Fermata Allegretto vivace" beatLength="0.25" xml:id="mpmToolbox_623a950f-19de-49fb-8871-41aa3380133f_mpmToolbox-copy_02300cf0-dfc6-4067-963b-21e93759b028"/>
                     <style date="29880.0" name.ref="MEI export"/>
                     <tempo date="29880.0" bpm="Allegretto vivace." beatLength="0.25" xml:id="mpmToolbox_722e0871-e246-47bc-bfa1-365c9e7878f2_mpmToolbox-copy_5cf6004a-e99b-4f7a-980b-3c6b83f1311a"/>
+                    <style date="29880.0" name.ref="MEI export"/>
+                    <tempo date="29880.0" bpm="Allegretto vivace." beatLength="0.25" xml:id="mpmToolbox_722e0871-e246-47bc-bfa1-365c9e7878f2_mpmToolbox-copy_d50dc61c-29e8-46f1-b4af-3f50e3364570"/>
                     <style date="40320.0" name.ref="Fermatas (over MEI export)"/>
                     <tempo date="40320.0" bpm="Fermata Allegretto vivace" beatLength="0.25" xml:id="mpmToolbox_ab7c235f-68d1-432b-b1f1-5de3308da33e_mpmToolbox-copy_33d6facd-aaba-416d-818c-b6e9bef579cc"/>
+                    <style date="40320.0" name.ref="Fermatas (over MEI export)"/>
+                    <tempo date="40320.0" bpm="Fermata Allegretto vivace" beatLength="0.25" xml:id="mpmToolbox_ab7c235f-68d1-432b-b1f1-5de3308da33e_mpmToolbox-copy_ad88f9c1-a170-491c-b0f9-33259429768b"/>
                     <style date="41400.0" name.ref="MEI export"/>
                     <tempo date="41400.0" bpm="Allegretto vivace." beatLength="0.25" xml:id="mpmToolbox_a73e030d-4d12-4384-8ad4-66d96555cfdd_mpmToolbox-copy_383bfb09-21d6-4980-9c0f-75f77c902264"/>
+                    <style date="41400.0" name.ref="MEI export"/>
+                    <tempo date="41400.0" bpm="Allegretto vivace." beatLength="0.25" xml:id="mpmToolbox_a73e030d-4d12-4384-8ad4-66d96555cfdd_mpmToolbox-copy_fe4441f2-aae2-4988-bdac-2ef7eecf8bbf"/>
                     <tempo bpm="Poco adagio." beatLength="0.25" xml:id="ddwxqv8_mpmToolbox-copy_307dcb0a-8c98-4a43-90d6-ec8d4cc78fe6" date="74520.0"/>
+                    <style date="74520.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_29e8b5e1-2618-44df-acbe-98cd9119edd2_mpmToolbox-copy_660c44c2-f559-4fba-aea6-52d80c66baae"/>
+                    <tempo date="74520.0" bpm="Fermata Allegretto vivace" beatLength="0.25" xml:id="mpmToolbox_ef0f014d-80d8-47fe-be31-860d21f1ce97_mpmToolbox-copy_d6ab2bf9-1a8b-40cf-9fc3-ba757648256c"/>
+                    <tempo date="75240.0" bpm="Fermata Allegretto vivace" beatLength="0.25" xml:id="mpmToolbox_3da0c1e8-37cc-4123-96d2-f2799b661fb0_mpmToolbox-copy_fc8fb010-0ca1-4064-b490-587a24b44c8b"/>
                     <tempo bpm="Tempo I." beatLength="0.25" xml:id="d1jq6l7w_mpmToolbox-copy_a353f22e-645c-40d1-9dc3-62a4e4df1706" date="75960.0"/>
+                    <style date="75960.0" name.ref="MEI export" xml:id="mpmToolbox_a317d2b7-f4cf-4cfc-ab5f-18955fe43649_mpmToolbox-copy_f9f2b5e0-26a2-4fb3-aa62-f02c0fb38ced"/>
+                    <tempo date="75960.0" bpm="Allegretto vivace." beatLength="0.25" xml:id="mpmToolbox_e43d06b5-3203-4657-9b9f-a067b2f92bbd_mpmToolbox-copy_a4633044-88d0-4e75-ae0e-983a50dfed6c"/>
                     <tempo bpm="Poco adagio." beatLength="0.25" xml:id="meico_expansion_of_ddwxqv8_700e7e13-1b6f-4462-af39-0708fe2f088f_mpmToolbox-copy_d300a15e-1c5b-4084-920b-30ddaff87356" date="86040.0"/>
+                    <style date="86040.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_333f8d3e-fe43-4d5e-b271-c37ca653529c_mpmToolbox-copy_61d5b842-d0b6-4f05-b6f6-e76a351d6369"/>
+                    <tempo date="86040.0" bpm="Fermata Allegretto vivace" beatLength="0.25" xml:id="mpmToolbox_f63588f5-07a9-43e8-bf70-148781d6e867_mpmToolbox-copy_36507098-c02a-4d1c-9417-e2d9b0873464"/>
+                    <tempo date="86760.0" bpm="Fermata Allegretto vivace" beatLength="0.25" xml:id="mpmToolbox_26078537-f61e-4862-8685-6760afc9b887_mpmToolbox-copy_383cc94c-2e73-4356-a345-afb3dd08aacb"/>
                     <tempo bpm="Tempo I." beatLength="0.25" xml:id="meico_expansion_of_d1jq6l7w_9bea61ce-6091-4f00-ad16-714af993798e_mpmToolbox-copy_6e90006c-4bae-4b23-9f85-1adf3ac54b05" date="87480.0"/>
+                    <style date="87480.0" name.ref="MEI export" xml:id="mpmToolbox_9c337cbf-18f4-46a8-a86d-61218a7044b8_mpmToolbox-copy_10285ac0-e647-46cb-a28c-7ccb8ba4d0fd"/>
+                    <tempo date="87480.0" bpm="Allegretto vivace." beatLength="0.25" xml:id="mpmToolbox_b23e48a6-5ba3-4d3f-85b5-2a2d3dc7ef1a_mpmToolbox-copy_ceb71829-9de1-4639-8c9d-739826211b7f"/>
                     <tempo bpm="Adagio." beatLength="0.25" xml:id="d131vbzq_mpmToolbox-copy_675e0ef7-beba-4f5b-a9fe-8ffc188f1122" date="120240.0"/>
+                    <tempo bpm="Adagio." beatLength="0.25" xml:id="d131vbzq_mpmToolbox-copy_dd6be709-1bfb-47a3-8f7f-87e330d7cb10" date="120240.0"/>
+                    <style date="120960.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_cf95898b-0214-477b-9859-0f1467596328_mpmToolbox-copy_0267882f-1157-4dfb-a773-6fb1015746a7"/>
+                    <tempo date="120960.0" bpm="Fermata Adagio" beatLength="0.25" xml:id="mpmToolbox_6f67660f-eca1-499a-bffd-034dc10417de_mpmToolbox-copy_721472dc-b8db-45b8-9175-581062fd1c18"/>
                     <tempo bpm="Tempo I." beatLength="0.25" xml:id="d8qifs1_mpmToolbox-copy_ff7186a4-31e4-4083-91dd-db47c49bd437" date="121320.0"/>
+                    <style date="121320.0" name.ref="MEI export" xml:id="mpmToolbox_d037076a-8b5a-4c69-8167-61d51e9c2acd_mpmToolbox-copy_f500dfe3-542f-4da0-bdbc-edf8b8b18475"/>
+                    <tempo date="121320.0" bpm="Allegretto vivace." beatLength="0.25" xml:id="mpmToolbox_8e1667c2-2ba5-44aa-bb29-f32315e7edae_mpmToolbox-copy_da763282-e163-4385-9514-5539f244105f"/>
                     <tempo bpm="Adagio." beatLength="0.25" xml:id="meico_expansion_of_d131vbzq_7ed09543-c53e-44b2-a7f7-8a8e02d40276_mpmToolbox-copy_465b324e-4399-49d9-a56d-ea5828a7d733" date="131760.0"/>
+                    <tempo bpm="Adagio." beatLength="0.25" xml:id="meico_expansion_of_d131vbzq_7ed09543-c53e-44b2-a7f7-8a8e02d40276_mpmToolbox-copy_da5d4e7a-6668-4ecb-9482-f959a723d1c0" date="131760.0"/>
+                    <style date="132480.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_92a3c771-6433-4df9-9ab0-188718c2ac08_mpmToolbox-copy_cdcb0ca5-6ef7-40fd-8945-b31ba26808cd"/>
+                    <tempo date="132480.0" bpm="Fermata Adagio" beatLength="0.25" xml:id="mpmToolbox_b5d9f5a3-3373-4f5e-863a-6b10b170df31_mpmToolbox-copy_4c2ef61f-3c7d-427e-8445-2dcb0b43e209"/>
                     <tempo bpm="Tempo I." beatLength="0.25" xml:id="meico_expansion_of_d8qifs1_cb2c8912-f23c-45cc-af8e-91a429ca0a6a_mpmToolbox-copy_a111d821-400a-4284-a2fa-240f12704dbc" date="132840.0"/>
+                    <style date="132840.0" name.ref="MEI export" xml:id="mpmToolbox_c1b1ab84-b8c0-4ea1-9c32-32dfa0afc3c5_mpmToolbox-copy_35c79a1b-f148-4277-a4f2-bdc7f8d6a682"/>
+                    <tempo date="132840.0" bpm="Allegretto vivace." beatLength="0.25" xml:id="mpmToolbox_4cb07d9f-df98-484a-8c1d-07d53bb3973d_mpmToolbox-copy_0db48468-82b6-42cc-ad73-43516fbfe063"/>
                     <tempo bpm="Con brio." beatLength="0.25" xml:id="d1owd8m2_mpmToolbox-copy_06e9d387-fea3-4dfe-b7b0-1ed87c0abc14" date="138600.0"/>
+                    <tempo bpm="Con brio." beatLength="0.25" xml:id="d1owd8m2_mpmToolbox-copy_590b9192-861c-49c5-b94c-ca249e99619c" date="138600.0"/>
                     <tempo bpm="Con brio." beatLength="0.25" xml:id="meico_expansion_of_d1owd8m2_faff7a1e-0d46-42ac-988b-fd0caebfb587_mpmToolbox-copy_935df4a4-09a6-46d4-bcdc-f5281520c6dd" date="150120.0"/>
+                    <tempo bpm="Con brio." beatLength="0.25" xml:id="meico_expansion_of_d1owd8m2_faff7a1e-0d46-42ac-988b-fd0caebfb587_mpmToolbox-copy_2bd5636d-fd67-47db-bc43-f53a81cc94e7" date="150120.0"/>
                     <tempo bpm="Grazioso." beatLength="0.25" xml:id="d1phf169_mpmToolbox-copy_2dc2e447-7e81-4850-bcdb-c26c7a8942d9" date="230760.0"/>
+                    <tempo bpm="Grazioso." beatLength="0.25" xml:id="d1phf169_mpmToolbox-copy_ebb4841a-a53b-4734-96b0-edcb32bc1deb" date="230760.0"/>
                     <tempo bpm="Grazioso." beatLength="0.25" xml:id="meico_expansion_of_d1phf169_15178643-0b18-4cb2-8f98-bc46ddea8ae1_mpmToolbox-copy_7f8bc0b3-c6b0-443a-86cd-dcf253c61f93" date="242280.0"/>
+                    <tempo bpm="Grazioso." beatLength="0.25" xml:id="meico_expansion_of_d1phf169_15178643-0b18-4cb2-8f98-bc46ddea8ae1_mpmToolbox-copy_1fc9f830-1b56-4a73-9256-6429827b45f6" date="242280.0"/>
+                    <style date="304560.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_73ce761e-7436-4280-9c75-1889484e4240_mpmToolbox-copy_7c49fed2-a27b-48ed-89ee-bb9f4baf2769"/>
+                    <tempo date="304560.0" bpm="Fermata Grazioso" beatLength="0.25" xml:id="mpmToolbox_31bcbfe8-e6ed-4d61-83df-2f149012f0cf_mpmToolbox-copy_24cc7565-a2a7-443c-b7d4-cdd95cd61334"/>
+                    <tempo date="304560.0" bpm="Var. II Presto" beatLength="0.25" xml:id="mpmToolbox_618f5c9e-49a3-4857-981e-5d4c3d0dbfa7_mpmToolbox-copy_2ba763a2-d571-43d6-bb8a-6d53bb1b0d9c"/>
                     <tempo bpm="Tempo I." beatLength="0.25" xml:id="d17adnlu_mpmToolbox-copy_e605ad26-8e89-406e-ac02-51c5073291bc" date="306000.0"/>
+                    <style date="306000.0" name.ref="MEI export" xml:id="mpmToolbox_843b7705-5c86-4026-86a9-5615606f8cb5_mpmToolbox-copy_71f9f2c3-057c-4396-ac1b-c6b0d1b9dfd5"/>
+                    <tempo date="306000.0" bpm="Grazioso." beatLength="0.25" xml:id="mpmToolbox_350ab6fb-07ef-40d9-8dd8-d848dabc90a0_mpmToolbox-copy_b7915c71-325c-4268-b7f6-2eab6c47754e"/>
+                    <style date="316080.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_212767cd-f48f-4f6e-a9db-0320b49f3f88_mpmToolbox-copy_18f77654-18fb-4713-8f42-e55c4b488848"/>
+                    <tempo date="316080.0" bpm="Fermata Grazioso" beatLength="0.25" xml:id="mpmToolbox_b6e48b31-1859-4366-9b1b-018b29092438_mpmToolbox-copy_38129924-d1e4-4588-9451-304efeb30217"/>
+                    <tempo date="316080.0" bpm="Var. II Presto" beatLength="0.25" xml:id="mpmToolbox_7266b473-b25a-4420-9d90-3310edef5e11_mpmToolbox-copy_6b8e363d-d491-4091-8d97-7cb987a8a7a3"/>
                     <tempo bpm="Tempo I." beatLength="0.25" xml:id="meico_expansion_of_d17adnlu_5ef11764-81a9-4273-81c6-bf67f2341351_mpmToolbox-copy_8a757339-8a5f-48d8-86a7-3fd7f66a43a1" date="317520.0"/>
+                    <style date="317520.0" name.ref="MEI export" xml:id="mpmToolbox_6c38e776-318b-43c3-83c0-7147d3d7756c_mpmToolbox-copy_902a4010-416e-41a3-97d5-6f246eefd0dd"/>
+                    <tempo date="317520.0" bpm="Grazioso." beatLength="0.25" xml:id="mpmToolbox_240fcc1e-1888-420e-86a6-bf6ca5bd7ca2_mpmToolbox-copy_a00b1943-e6ec-4f99-8fbf-bc7746d81fe7"/>
                     <tempo bpm="a) Von hier an ist ein lebhafteres Tempo angebracht." beatLength="0.25" xml:id="x1ccvzdy_mpmToolbox-copy_d9e4e9ab-fc14-42a5-9c22-de6cabb9ad1c" date="322920.0"/>
+                    <tempo bpm="a) Von hier an ist ein lebhafteres Tempo angebracht." beatLength="0.25" xml:id="x1ccvzdy_mpmToolbox-copy_919426e2-055a-4fea-b370-efc235e90248" date="322920.0"/>
                     <tempo bpm="a) Von hier an ist ein lebhafteres Tempo angebracht." beatLength="0.25" xml:id="meico_expansion_of_x1ccvzdy_590705d7-3395-4776-9c8c-27ccfb1ef029_mpmToolbox-copy_7a4b472d-91f1-49a2-92de-ee6538c5db98" date="334440.0"/>
+                    <tempo bpm="a) Von hier an ist ein lebhafteres Tempo angebracht." beatLength="0.25" xml:id="meico_expansion_of_x1ccvzdy_590705d7-3395-4776-9c8c-27ccfb1ef029_mpmToolbox-copy_7cca17bb-4ecd-46ca-95d0-3130252b104a" date="334440.0"/>
+                    <style date="351000.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_08cf4b18-b32a-44c7-891e-a1aef611a60e_mpmToolbox-copy_186b0888-081b-4cfa-bc0e-52cb75a96bce"/>
+                    <tempo date="351000.0" bpm="Fermata Lebhafter" beatLength="0.25" xml:id="mpmToolbox_4a98fe0b-1c16-46b0-8c77-24a0a69dee73_mpmToolbox-copy_88ad3141-e09b-4390-b94a-9270cac6eeed"/>
+                    <style date="351720.0" name.ref="MEI export" xml:id="mpmToolbox_944aa8c3-a433-43f3-8f44-7834e8de444a_mpmToolbox-copy_a8f7d226-d9e3-44b3-9acb-f331411101c6"/>
+                    <tempo date="351720.0" bpm="a) Von hier an ist ein lebhafteres Tempo angebracht." beatLength="0.25" xml:id="mpmToolbox_dca70dfc-8a07-4d9d-a5ab-4bc7b38ce043_mpmToolbox-copy_1026f403-4eaf-4641-98da-5da23fd9b1dd"/>
+                    <style date="362520.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_beeb574f-9696-4eb6-bb48-92a46b846b90_mpmToolbox-copy_70cfb967-e327-492b-9dea-b6819d87836e"/>
+                    <tempo date="362520.0" bpm="Fermata Lebhafter" beatLength="0.25" xml:id="mpmToolbox_cfd086c1-bbd8-4a09-b458-3ea05c31c41e_mpmToolbox-copy_b12d0fbf-1ded-4085-850a-c8bcdd3ca8b4"/>
+                    <style date="363240.0" name.ref="MEI export" xml:id="mpmToolbox_62a852e5-cafd-406d-9037-cf31c479ccb2_mpmToolbox-copy_c230e4db-2acd-41ab-8360-1cf7e0a7a616"/>
+                    <tempo date="363240.0" bpm="a) Von hier an ist ein lebhafteres Tempo angebracht." beatLength="0.25" xml:id="mpmToolbox_b6dd0e32-dc92-43f6-b844-e2c0aef670c1_mpmToolbox-copy_067bb5cc-ff24-45f7-851d-0ab00739c730"/>
+                    <style date="397080.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_bd4c7794-0cfa-4222-a750-f8a07943806f_mpmToolbox-copy_a0235ce6-4d49-483f-af50-e62869099eae"/>
+                    <tempo date="397080.0" bpm="Fermata Lebhafter" beatLength="0.25" xml:id="mpmToolbox_d341575f-c72d-4d88-8112-fbc3433b14bd_mpmToolbox-copy_e1084b0e-57e8-4480-8780-205ecd2bba1b"/>
+                    <style date="397800.0" name.ref="MEI export" xml:id="mpmToolbox_945a27c8-3a42-4d59-9ad8-a85013790e8d_mpmToolbox-copy_01aae110-e164-4ec4-92d4-9a371e3a7e98"/>
+                    <tempo date="397800.0" bpm="a) Von hier an ist ein lebhafteres Tempo angebracht." beatLength="0.25" xml:id="mpmToolbox_e42214af-3055-410d-b453-7a064a10f1d1_mpmToolbox-copy_4d2bdb3b-a80d-4cd9-ac35-259e23ff259c"/>
+                    <style date="408600.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_cbea1c6a-a467-4fc8-82c0-d5f36b4cbec6_mpmToolbox-copy_2cf444b0-4da8-4811-abc5-fa11756365f5"/>
+                    <tempo date="408600.0" bpm="Fermata Lebhafter" beatLength="0.25" xml:id="mpmToolbox_f6387276-e236-4bc7-a710-474f31333753_mpmToolbox-copy_287ae41e-ebd5-4463-a5be-a2194231ab0a"/>
+                    <style date="409320.0" name.ref="MEI export" xml:id="mpmToolbox_04c2c262-07a9-403b-8344-8503feac7360_mpmToolbox-copy_360e8a8f-1fa0-4421-9164-38b306fe8d3a"/>
+                    <tempo date="409320.0" bpm="a) Von hier an ist ein lebhafteres Tempo angebracht." beatLength="0.25" xml:id="mpmToolbox_1dee3b81-851b-4e3f-9a43-2319be6097e3_mpmToolbox-copy_c0bc68a8-5b1e-4898-b4fc-8e5e70e567d0"/>
                     <tempo bpm="(Più tranquillo)" beatLength="0.25" xml:id="d2qo876_mpmToolbox-copy_5f502148-d9cc-442c-85d0-5d14d2620e98" date="415080.0"/>
+                    <tempo bpm="(Più tranquillo)" beatLength="0.25" xml:id="d2qo876_mpmToolbox-copy_c9ccae4a-82b2-44fc-94bc-539feca75bbc" date="415080.0"/>
+                    <style date="432000.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_6387f0de-cc3f-4924-83e6-4f266320ea91_mpmToolbox-copy_3520250d-dc3f-4402-a029-4070d1647af9"/>
+                    <tempo date="432000.0" bpm="Fermata Più tranquillo" beatLength="0.25" xml:id="mpmToolbox_97d42627-9f46-4527-bbcc-32d21e2e682c_mpmToolbox-copy_768c95b7-03c2-4611-9ed0-30a43836e5ed"/>
+                    <style date="432360.0" name.ref="MEI export" xml:id="mpmToolbox_0abf5651-aa77-42fa-88e0-d76ddb58ec0f_mpmToolbox-copy_a3c0e0b9-ea90-422b-9ccc-2fc476a2f993"/>
+                    <tempo date="432360.0" bpm="(Più tranquillo)" beatLength="0.25" xml:id="mpmToolbox_0d43da5f-60f0-4df6-bfa4-e2534fc24320_mpmToolbox-copy_ec62973a-dfea-4614-b957-4be16341a477"/>
+                    <style date="443520.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_e6a8c0b9-c5b6-4ff4-b55a-7ec3dd0ca8af_mpmToolbox-copy_0a024719-ad96-414f-8e28-59b44180df94"/>
+                    <tempo date="443520.0" bpm="Fermata Più tranquillo" beatLength="0.25" xml:id="mpmToolbox_6925c76b-1a1f-4baa-9ad8-420eebc4203f_mpmToolbox-copy_681f8c65-7acb-49da-9b7e-620d3fa64592"/>
+                    <style date="443880.0" name.ref="MEI export" xml:id="mpmToolbox_41aa0add-9104-46fa-9e60-ecb1d33c513a_mpmToolbox-copy_f2aff6f6-1e26-4c5f-9db5-4d389eb65b5e"/>
+                    <tempo date="443880.0" bpm="(Più tranquillo)" beatLength="0.25" xml:id="mpmToolbox_c8344dc4-adf2-45c5-aeaf-51575b81bc7c_mpmToolbox-copy_a2514f28-4498-4494-bc10-ef9866ab7d50"/>
                     <tempo bpm="(Animato)" beatLength="0.25" xml:id="dvl3hvn_mpmToolbox-copy_8a7f5f44-62cc-4bbf-9271-1c2ac908b622" date="449640.0"/>
+                    <tempo bpm="(Animato)" beatLength="0.25" xml:id="dvl3hvn_mpmToolbox-copy_9e2d2ee3-4874-4b18-a831-391d66ca4402" date="449640.0"/>
                     <tempo bpm="(Animato)" beatLength="0.25" xml:id="meico_expansion_of_dvl3hvn_07df81f0-71a8-47f0-b062-f6226936fa52_mpmToolbox-copy_31ed0b94-d65e-4a8f-b018-ce7238a12ec2" date="461160.0"/>
+                    <tempo bpm="(Animato)" beatLength="0.25" xml:id="meico_expansion_of_dvl3hvn_07df81f0-71a8-47f0-b062-f6226936fa52_mpmToolbox-copy_8e346c90-9672-4ea7-a67f-85280af6ffbc" date="461160.0"/>
+                    <style date="478080.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_fa3158ec-112c-4d62-b61f-71825f857802_mpmToolbox-copy_7aa39e12-aa6c-4983-8236-7aea27342593"/>
+                    <tempo date="478080.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_a835c679-5319-466a-8107-545d269918b1_mpmToolbox-copy_40d40828-d918-42a7-b375-8f68ee45f360"/>
+                    <style date="478440.0" name.ref="MEI export" xml:id="mpmToolbox_e036c261-2efa-4d31-ba72-41b8f292cfaf_mpmToolbox-copy_520f182b-70b8-4d2a-a3e4-cfd70471c89b"/>
+                    <tempo date="478440.0" bpm="(Animato)" beatLength="0.25" xml:id="mpmToolbox_9d6277dd-619f-4233-ba2c-990af2ce9be2_mpmToolbox-copy_a2f639eb-3d93-464d-b2ec-76afab24846e"/>
+                    <style date="489600.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_8e3bafde-9ba1-4e6b-b729-bc592c8eede0_mpmToolbox-copy_45efffc8-cf4a-4dd4-8f7d-28bc3a5a71da"/>
+                    <tempo date="489600.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_23229e0b-422f-4e79-b2ad-b2061d1dea2c_mpmToolbox-copy_f118bf2c-6472-4097-bfa9-e0198e00dee0"/>
+                    <style date="489960.0" name.ref="MEI export" xml:id="mpmToolbox_128344a7-e6d3-428a-b621-0855c84d7755_mpmToolbox-copy_0992bc33-ea1f-4aaa-9078-8fbc6b16e9d1"/>
+                    <tempo date="489960.0" bpm="(Animato)" beatLength="0.25" xml:id="mpmToolbox_10057517-495b-47e0-9486-ed471e939b7b_mpmToolbox-copy_0facaa75-4883-4863-989d-6ea23886fd2f"/>
                     <tempo bpm="Canone all’ottava. (animato)" beatLength="0.25" xml:id="m1ccazaq_mpmToolbox-copy_a83d0131-65af-466d-8c2d-3617327aac37" date="496080.0"/>
+                    <tempo bpm="Canone all’ottava. (animato)" beatLength="0.25" xml:id="m1ccazaq_mpmToolbox-copy_bb4a3679-6806-49e0-abed-8ef9842e6f87" date="496080.0"/>
+                    <style date="524160.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_514c8bbb-04b0-4c9b-b267-026cdd0a7d84_mpmToolbox-copy_0ec3b45c-45cb-4606-9e26-8f711d0df78f"/>
+                    <tempo date="524160.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_8a805ed1-fd53-4ea3-820e-82ab6a3984e7_mpmToolbox-copy_11b55b02-c7df-448a-8d59-a90f8260e671"/>
+                    <style date="524520.0" name.ref="MEI export" xml:id="mpmToolbox_627dea87-6bd2-45f6-b97b-5c3cc0f9bc2e_mpmToolbox-copy_f3f1ebc6-00f3-40f3-8060-acc8e167ead0"/>
+                    <tempo date="524520.0" bpm="Canone all’ottava. (animato)" beatLength="0.25" xml:id="mpmToolbox_d77c7e98-ed9d-4c7c-8b6a-91656b851f11_mpmToolbox-copy_7ae45c92-0003-4deb-85cf-9610fe11c723"/>
+                    <style date="535680.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_afd0fcea-d636-459d-9b09-ae80913ae9c5_mpmToolbox-copy_78eac46a-f7a4-4d9c-add1-8ba0d45db82d"/>
+                    <tempo date="535680.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_1fee2078-218c-4d42-a18f-cc9177638788_mpmToolbox-copy_695be976-a766-46c2-a9c0-e9fdb84044a3"/>
+                    <style date="536040.0" name.ref="MEI export" xml:id="mpmToolbox_e38c7c5b-53b3-4f30-ac02-b899967e17b1_mpmToolbox-copy_eb4d8594-dc96-464c-a4f9-ca8e2b8d8805"/>
+                    <tempo date="536040.0" bpm="Canone all’ottava. (animato)" beatLength="0.25" xml:id="mpmToolbox_184b2d48-3a13-401d-ac2c-d3e56046fccc_mpmToolbox-copy_b0be9098-ce31-4871-b147-bff5ef10b53c"/>
                     <tempo bpm="(Tranquillo)" beatLength="0.25" xml:id="d3nieq1_mpmToolbox-copy_d292d142-75a4-4d17-ab33-c762b92b0467" date="541800.0"/>
+                    <tempo bpm="(Tranquillo)" beatLength="0.25" xml:id="d3nieq1_mpmToolbox-copy_611b52d4-1d69-4a51-9585-9d6bd3fb4f3b" date="541800.0"/>
+                    <style date="570060.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_a4b47085-ec65-4bc4-9897-71cf369e3563_mpmToolbox-copy_76b6b92d-2415-40d8-b681-b044bd80b8e7"/>
+                    <tempo date="570060.0" bpm="Fermata Tranquillo" beatLength="0.25" xml:id="mpmToolbox_b634acf8-68ec-4b6b-ba1c-55356f474e76_mpmToolbox-copy_01e8a7c7-ac68-4fd8-bf41-715e8c9872d1"/>
+                    <style date="570600.0" name.ref="MEI export" xml:id="mpmToolbox_c74784c6-fe8a-4924-a3d5-ad9ab4321809_mpmToolbox-copy_fd4ab5b8-a3d6-4cc7-af97-e5c65d5dc9c7"/>
+                    <tempo date="570600.0" bpm="(Tranquillo)" beatLength="0.25" xml:id="mpmToolbox_80d036ea-9c09-4158-ac65-d8bbdc8016a5_mpmToolbox-copy_5acfa64f-415a-4891-b3d2-bafb3e2795ec"/>
+                    <style date="581580.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_7f22f054-910a-4bf3-a2e4-3a4287e1e756_mpmToolbox-copy_7f806753-a146-4f67-a8b2-8111fa8ea9c1"/>
+                    <tempo date="581580.0" bpm="Fermata Tranquillo" beatLength="0.25" xml:id="mpmToolbox_9690db49-2fcc-4b9c-9032-79b6260c6dfa_mpmToolbox-copy_60ac9a79-8c47-45c5-b567-ba0e2a00d8c6"/>
+                    <style date="582120.0" name.ref="MEI export" xml:id="mpmToolbox_8dba51db-07b0-4049-868a-b75ad9bd36b7_mpmToolbox-copy_cc513cb4-1d47-4dd2-8376-8e2aa5a349a7"/>
+                    <tempo date="582120.0" bpm="(Tranquillo)" beatLength="0.25" xml:id="mpmToolbox_2dbb68c9-214d-4bc0-b63c-356046c00bbe_mpmToolbox-copy_af3fc3a5-3073-4f2e-b82b-7038b0276af0"/>
                     <tempo bpm="(Animato)" beatLength="0.25" xml:id="dtg9iog_mpmToolbox-copy_4d93541f-995f-4c04-857a-0b69095347ad" date="587880.0"/>
+                    <tempo bpm="(Animato)" beatLength="0.25" xml:id="dtg9iog_mpmToolbox-copy_5e05d442-f677-4761-bccb-59bc58e63260" date="587880.0"/>
+                    <style date="616560.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_7400cb9e-4d25-4223-a5af-ae9702c33b06_mpmToolbox-copy_45fa3282-6c51-4f94-8ba1-bda7787bddb2"/>
+                    <tempo date="616560.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_a382390c-68d7-442b-b88e-7bb41c4d600f_mpmToolbox-copy_bfd695c1-c959-466e-b98f-f8f9834f16ab"/>
+                    <style date="616800.0" name.ref="MEI export" xml:id="mpmToolbox_75ea54a5-671e-43d5-9345-538f3ba3e2af_mpmToolbox-copy_b01bdabf-442a-46f5-8d4c-b3218a71f159"/>
+                    <tempo date="616800.0" bpm="(Animato)" beatLength="0.25" xml:id="mpmToolbox_5bea53a4-125d-4cff-a57c-cb1263588f77_mpmToolbox-copy_7d49481e-ac56-44a6-baef-7f69f1ddf05c"/>
+                    <style date="628080.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_0cf27ef8-b741-45ee-a0ff-12bc5712d5fc_mpmToolbox-copy_036186b0-4acd-4697-bc2a-26bc0f6493c9"/>
+                    <tempo date="628080.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_7be943a0-587a-4b5a-bd87-d833bc7a6021_mpmToolbox-copy_0ca284a0-fea7-415f-9c43-f90ca18c0414"/>
+                    <style date="628320.0" name.ref="MEI export" xml:id="mpmToolbox_98b57ff1-6d61-465d-ad0f-1072ecf08558_mpmToolbox-copy_1110a9a7-d083-442d-bc92-b49b5577be67"/>
+                    <tempo date="628320.0" bpm="(Animato)" beatLength="0.25" xml:id="mpmToolbox_d78bd36e-36a8-4980-847b-42c58913dd1f_mpmToolbox-copy_a1da616c-f0a3-4a51-bc7f-8fcbb3079408"/>
+                    <style date="661680.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_00f10849-6458-4f74-8a6c-992613b25db4_mpmToolbox-copy_c24e02f0-ffec-444b-a87c-33575de12684"/>
+                    <tempo date="661680.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_92c01bad-c762-41e4-b0b7-2defbf1068a5_mpmToolbox-copy_8aa6eca9-b521-4142-a706-5e7bf7b950e7"/>
+                    <style date="662760.0" name.ref="MEI export" xml:id="mpmToolbox_9560765a-e073-409f-a3e3-e3ac276ae49e_mpmToolbox-copy_4717f0d1-621f-436b-b095-ffc7c7a966a9"/>
+                    <tempo date="662760.0" bpm="(Animato)" beatLength="0.25" xml:id="mpmToolbox_a2f8a663-5796-4680-a8d7-e360f898f3cd_mpmToolbox-copy_b727412c-4a11-4624-9a83-eeb950c57321"/>
+                    <style date="673200.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_5427f1e4-9422-4114-8fdc-12dbed733ff8_mpmToolbox-copy_fdffd670-68fe-40a3-9203-3e8f272fa89b"/>
+                    <tempo date="673200.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_43958207-a90c-4f44-a274-ebd2d2d9e0e6_mpmToolbox-copy_cccd0dfd-f4a6-489c-ae7b-571ad35ff697"/>
+                    <style date="674280.0" name.ref="MEI export" xml:id="mpmToolbox_af81091b-89d2-4feb-ba11-c404cd132661_mpmToolbox-copy_a875082d-cfbc-4297-86c8-88763ebc6f32"/>
+                    <tempo date="674280.0" bpm="(Animato)" beatLength="0.25" xml:id="mpmToolbox_7985a5a1-3437-49f1-af23-3c6aa792a4e0_mpmToolbox-copy_e8e4f633-d233-4a2d-aee8-96bdb16e9454"/>
                     <tempo bpm="(Tranquillo, semplice)" beatLength="0.25" xml:id="dd78ypg_mpmToolbox-copy_2c3b5267-3fdf-4fd6-9a7e-bdcaf9248f9b" date="680040.0"/>
+                    <tempo bpm="(Tranquillo, semplice)" beatLength="0.25" xml:id="dd78ypg_mpmToolbox-copy_cef2d1bf-6b45-4ebf-bdde-35028238b851" date="680040.0"/>
+                    <style date="708480.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_d3cffaf1-8f02-45e5-97ca-8f4d0375597c_mpmToolbox-copy_3981e1f1-358b-4d61-bca8-3926657d722d"/>
+                    <tempo date="708480.0" bpm="Fermata Tranquillo" beatLength="0.25" xml:id="mpmToolbox_90d67b94-9426-42a1-a15f-69e2af404851_mpmToolbox-copy_bd8b0f7b-804f-4c80-bcf1-05937272e88a"/>
+                    <style date="708840.0" name.ref="MEI export" xml:id="mpmToolbox_b937f2d6-a20a-4ab3-97e0-af6ad0783b75_mpmToolbox-copy_bd611959-6b19-4afb-adf6-b8c75c12c788"/>
+                    <tempo date="708840.0" bpm="(Tranquillo)" beatLength="0.25" xml:id="mpmToolbox_52c8ded3-0c03-4dd8-8f64-d2074989ed88_mpmToolbox-copy_8b81469f-0353-42eb-9e20-8a999b9ce346"/>
+                    <style date="720000.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_d52c1203-6203-4c15-a8f6-4a334e8302de_mpmToolbox-copy_be91dfe3-f18b-4431-afe7-be1e0de2e4af"/>
+                    <tempo date="720000.0" bpm="Fermata Tranquillo" beatLength="0.25" xml:id="mpmToolbox_3585784e-63a0-4cab-9754-9c3872322ba4_mpmToolbox-copy_5b9da421-c2c3-4744-a8f7-43111529d1e8"/>
+                    <style date="720360.0" name.ref="MEI export" xml:id="mpmToolbox_c5e8322d-d5a3-4df5-b3c1-69c27432df77_mpmToolbox-copy_d99cc368-cc85-42ab-8b3a-323979ebac53"/>
+                    <tempo date="720360.0" bpm="(Tranquillo)" beatLength="0.25" xml:id="mpmToolbox_65ff812b-07f8-42d1-985d-119f3c261ca4_mpmToolbox-copy_cfb1a9dd-fbb1-45a8-a450-21fc14751e6a"/>
                     <tempo bpm="Animato." beatLength="0.25" xml:id="d1jnb961_mpmToolbox-copy_55aafc18-2d8b-481d-b5da-6ad63392b836" date="726120.0"/>
+                    <tempo bpm="Animato." beatLength="0.25" xml:id="d1jnb961_mpmToolbox-copy_ecd4dd80-bbc2-4f0e-bb93-662a883a8e06" date="726120.0"/>
                     <tempo bpm="Animato." beatLength="0.25" xml:id="meico_expansion_of_d1jnb961_4334802e-f38e-4570-8196-79442b248935_mpmToolbox-copy_50e718c8-d13e-47b2-844d-e00e92b8bbc2" date="737640.0"/>
+                    <tempo bpm="Animato." beatLength="0.25" xml:id="meico_expansion_of_d1jnb961_4334802e-f38e-4570-8196-79442b248935_mpmToolbox-copy_5e4a9907-69bd-46e9-9931-050dc540d4ce" date="737640.0"/>
+                    <style date="754560.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_ed6eef7d-9cf0-4aa4-a2ee-762a9195da78_mpmToolbox-copy_9a0e7da6-637e-434b-afca-6eabd4073074"/>
+                    <tempo date="754560.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_41a4fe68-8e1e-46e6-ac24-cf3d56c6947c_mpmToolbox-copy_8666cc4b-af46-4975-9d02-dae10b8cd551"/>
+                    <style date="754920.0" name.ref="MEI export" xml:id="mpmToolbox_19f3158e-d5ee-4b7d-8fdd-30be7ba40428_mpmToolbox-copy_79cec760-a6ce-43aa-a43c-1a733fa4f2c9"/>
+                    <tempo date="754920.0" bpm="(Animato)" beatLength="0.25" xml:id="mpmToolbox_cfe97efb-c56e-40e3-927d-215c66b7a991_mpmToolbox-copy_d19f12db-4102-4ca4-b746-c7d4a9e49b84"/>
+                    <style date="766080.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_c9412823-5dfc-4001-a735-3f9c440c0465_mpmToolbox-copy_98ca03ae-33f3-432d-a856-cbe1565422d7"/>
+                    <tempo date="766080.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_d18a2038-72a6-407f-857e-65a5365eb195_mpmToolbox-copy_fb6ed895-d977-4930-9547-56effc5a1db5"/>
+                    <style date="766440.0" name.ref="MEI export" xml:id="mpmToolbox_7dcf7be8-a144-4c08-ae4a-198238a82b1a_mpmToolbox-copy_671fcb29-6e25-49fb-bbc4-49cbf9b26475"/>
+                    <tempo date="766440.0" bpm="(Animato)" beatLength="0.25" xml:id="mpmToolbox_36216ab8-1a23-4a22-bceb-f7a332dd7db3_mpmToolbox-copy_1ca97059-bf6c-4b19-bcf3-d22b5626ac13"/>
                     <tempo bpm="Sempre animato." beatLength="0.25" xml:id="d1tmeeb_mpmToolbox-copy_1d090d07-d926-4273-8c5e-d4e323ef662b" date="772200.0"/>
+                    <tempo bpm="Sempre animato." beatLength="0.25" xml:id="d1tmeeb_mpmToolbox-copy_72959f74-16fb-449f-a8e9-a0e2be5458bc" date="772200.0"/>
+                    <style date="799920.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_e5b60378-ef31-44e7-892e-feb1c1fd6003_mpmToolbox-copy_6224de69-5356-4e0d-a7e4-2908037a00c2"/>
+                    <tempo date="799920.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_bf171371-cdaa-4960-a570-ea24d99b379e_mpmToolbox-copy_af70457b-19e9-43b5-b429-ff2b26e10250"/>
+                    <style date="801000.0" name.ref="MEI export" xml:id="mpmToolbox_f491a6a5-2e38-4175-8c45-53f152de0a84_mpmToolbox-copy_c3447b72-aa09-47da-a03e-24e6b497da6b"/>
+                    <tempo date="801000.0" bpm="(Animato)" beatLength="0.25" xml:id="mpmToolbox_73eb5d03-d33d-4f7b-8252-233683b04527_mpmToolbox-copy_ae33e1f7-b1f1-482c-beff-47e8b13322bf"/>
+                    <style date="811440.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_2beddc65-ccb4-4467-9712-acc58fb8c2d5_mpmToolbox-copy_72ce4f39-717e-4d2c-a3d7-e26e83496c80"/>
+                    <tempo date="811440.0" bpm="Fermata Animato" beatLength="0.25" xml:id="mpmToolbox_b6e23fb7-7b10-4b74-8cf7-f03d801af130_mpmToolbox-copy_72d29a58-f771-4282-8769-571c45d9c64c"/>
+                    <style date="812520.0" name.ref="MEI export" xml:id="mpmToolbox_8afd82f3-1c46-408a-96ad-a045528f9f20_mpmToolbox-copy_5bc75ff1-07cd-408a-a1e1-d02a66fcb1d9"/>
+                    <tempo date="812520.0" bpm="Animato." beatLength="0.25" xml:id="mpmToolbox_8845fd6e-528a-4b87-9578-d711e80ad016_mpmToolbox-copy_f1b76703-ee12-4f73-bfce-e08d5dbb46d5"/>
                     <tempo bpm="Meno mosso." beatLength="0.25" xml:id="d1x71xvi_mpmToolbox-copy_e878c26a-7b91-44ab-818c-4bf281f0ef80" date="818280.0"/>
+                    <tempo bpm="Meno mosso." beatLength="0.25" xml:id="d1x71xvi_mpmToolbox-copy_976837c5-f463-476d-a57d-6b74d19296ae" date="818280.0"/>
+                    <style date="846720.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_2883e340-2de4-4259-ad2a-45271e8f6ede_mpmToolbox-copy_b648a653-62ee-4806-976f-bfc4236445c1"/>
+                    <tempo date="846720.0" bpm="Fermata Meno mosso" beatLength="0.25" xml:id="mpmToolbox_bd783114-473e-4c84-96d3-a8af693c4a79_mpmToolbox-copy_329e6f41-c838-41a4-b488-ab7ea43e61ed"/>
+                    <style date="847080.0" name.ref="MEI export" xml:id="mpmToolbox_0ae4d2d5-0bf1-4359-993a-ef31a11611cd_mpmToolbox-copy_7f094bed-ad1d-4b66-9106-b476009cc641"/>
+                    <tempo date="847080.0" bpm="Meno mosso." beatLength="0.25" xml:id="mpmToolbox_f666d02e-0f78-455d-bcbf-6b6cec85fbfb_mpmToolbox-copy_6d5e9d6b-5505-47b2-b3e3-a5856b9514ed"/>
+                    <style date="858240.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_e808ed77-866f-4fc5-9906-af43b4053434_mpmToolbox-copy_16027296-a819-43bb-8fc6-efa237cd1ea7"/>
+                    <tempo date="858240.0" bpm="Fermata Meno mosso" beatLength="0.25" xml:id="mpmToolbox_7da9ea5a-f4ce-4d9a-b954-3a2ccf68f7c9_mpmToolbox-copy_dc1cc111-0b99-4a0b-92a5-dd2d766275ac"/>
+                    <style date="858600.0" name.ref="MEI export" xml:id="mpmToolbox_5f8a48c2-5796-4fba-975b-0ff232719bf9_mpmToolbox-copy_f1a76cb8-7b93-4d07-86e6-b6ed53d128f5"/>
+                    <tempo date="858600.0" bpm="Meno mosso." beatLength="0.25" xml:id="mpmToolbox_5e48322c-8442-41d5-92b9-15793492a7ca_mpmToolbox-copy_96957d0b-b5d6-44d2-a805-a6f53a7365d3"/>
+                    <tempo date="863280.0" bpm="adagio" beatLength="0.25" xml:id="mpmToolbox_2754f75b-1ca7-40d5-a11d-e1111251bf19_mpmToolbox-copy_524342dd-732d-475e-b794-cc8ebd292662"/>
                     <tempo bpm="Largo." beatLength="0.125" xml:id="djtb47s_mpmToolbox-copy_bc4a64ed-89dd-42aa-98cb-48ec46e24750" date="864360.0"/>
+                    <tempo bpm="Largo." beatLength="0.125" xml:id="djtb47s_mpmToolbox-copy_7171cab7-c9bb-4511-9b40-57dcefcc604f" date="864360.0"/>
+                    <style date="907020.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_fe12cb5c-ab6e-46d1-8d9c-d8df1ff423d9_mpmToolbox-copy_5394b73e-77b5-4d87-b52f-5ab13d9f86ec"/>
+                    <tempo date="907020.0" bpm="Fermata Largo" beatLength="0.25" xml:id="mpmToolbox_d02baca8-573e-411e-8e2e-46acbb71bddf_mpmToolbox-copy_623bc077-cd2c-4d60-9d7e-e2813044c130"/>
+                    <style date="907200.0" name.ref="MEI export" xml:id="mpmToolbox_04e284b8-56eb-4b5c-a362-420b0e0ea5ff_mpmToolbox-copy_e1f9782e-f455-4a9e-b5ca-a795cca5e86c"/>
+                    <tempo date="907200.0" bpm="Largo." beatLength="0.25" xml:id="mpmToolbox_15abc250-2b9b-406f-823e-20435ec00459_mpmToolbox-copy_ed12af59-b532-4175-adfc-45ca450d1670"/>
+                    <style date="924300.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_cc0ddc30-439c-4cdf-8bfe-4275c021bbd8_mpmToolbox-copy_fbc408b8-4983-45d5-9755-de148926397c"/>
+                    <tempo date="924300.0" bpm="Fermata Largo" beatLength="0.25" xml:id="mpmToolbox_fcf94c0c-0b67-4f94-92d4-f2163a5727f7_mpmToolbox-copy_9c5a4bae-445b-4390-b8aa-3ef150f4f5aa"/>
+                    <style date="924480.0" name.ref="MEI export" xml:id="mpmToolbox_d344eebf-8c83-42c5-886b-7ff3fffd4c84_mpmToolbox-copy_2bfcb2c1-23c3-4c5e-a39f-588add3b6724"/>
+                    <tempo date="924480.0" bpm="Largo." beatLength="0.25" xml:id="mpmToolbox_d6445c02-17aa-4e00-b8db-6a74ef53b402_mpmToolbox-copy_accc6545-c68f-43e5-8300-54b8223b9672"/>
                     <tempo bpm="Largo." transition.to="-" meanTempoAt="0.5" beatLength="0.125" xml:id="brj6lii_mpmToolbox-copy_64b246fe-2b6d-4d6a-8a8e-2a8db811df6a" date="946800.0"/>
+                    <tempo date="946800.0" bpm="Largo." transition.to="40.0" beatLength="0.125" xml:id="brj6lii_mpmToolbox-copy_6084c9f2-06d3-4837-b864-7515a704542b"/>
+                    <style date="948600.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_5ef74882-71c5-4de0-8cdc-46d425ba8927_mpmToolbox-copy_d51f3c02-be53-4507-bc6f-3ce069f2f8f2"/>
+                    <tempo date="948600.0" bpm="Fermata Var. XV ending" beatLength="0.25" xml:id="mpmToolbox_95294be4-1f22-4eb5-ae05-8652870b332e_mpmToolbox-copy_5724f2af-2fbf-4102-ad16-cfc4cb1f9529"/>
                     <tempo bpm="Allegro con brio" beatLength="0.25" xml:id="d1s58h4y_mpmToolbox-copy_02111ad4-8cea-4c1b-bf2b-ce28d2e4fc6d" date="950760.0"/>
+                    <style date="950760.0" name.ref="MEI export" xml:id="mpmToolbox_25ce50ee-9ea8-44bf-ac0f-e13bbae69e4f_mpmToolbox-copy_2798376c-a790-4a13-bfaa-5c605115eb8f"/>
+                    <tempo bpm="Allegro con brio" beatLength="0.25" xml:id="d1s58h4y_mpmToolbox-copy_1fd18c70-7238-4e84-b035-e821ead7001a" date="950760.0"/>
+                    <style date="1135080.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_f6575368-8393-4943-8435-30dbc965470d_mpmToolbox-copy_961f8664-f330-4b46-a8d2-992a11caeca6"/>
+                    <tempo date="1135080.0" bpm="Fermata Allegro con brio" beatLength="0.25" xml:id="mpmToolbox_7c84368e-761f-49c4-a34f-7b5e42a85af6_mpmToolbox-copy_75e68790-ee2e-4bb1-90bc-9444cadbedcc"/>
                     <tempo bpm="Adagio." beatLength="0.25" xml:id="d116igtu_mpmToolbox-copy_08229e5c-3f47-44a5-8112-f394954e8bce" date="1139400.0"/>
+                    <style date="1139400.0" name.ref="MEI export" xml:id="mpmToolbox_8dbe9d77-7382-427d-ac38-f05a2f4e06a4_mpmToolbox-copy_0192a0dc-20a1-4b57-bef7-cca1668b25af"/>
+                    <tempo bpm="Adagio." beatLength="0.25" xml:id="d116igtu_mpmToolbox-copy_b0e5277e-7e15-4b50-b380-713eb1c03fae" date="1139400.0"/>
                     <tempo bpm="Andante con moto." beatLength="0.25" xml:id="d13ith3m_mpmToolbox-copy_0f5abf4b-eb55-4524-8758-aa1049a79796" date="1140840.0"/>
+                    <tempo bpm="Andante con moto." beatLength="0.25" xml:id="d13ith3m_mpmToolbox-copy_037463ba-3a6c-4414-832e-4660b1e22f02" date="1140840.0"/>
+                    <style date="1168200.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_f26b7bad-5e87-4465-94a3-60782964fc5c_mpmToolbox-copy_3ca71306-7351-4624-84bd-44cd5f0975bd"/>
+                    <tempo date="1168200.0" bpm="Fermata Andante con moto" beatLength="0.25" xml:id="mpmToolbox_5fbf65b4-aa47-4cfd-aad5-140a101923cb_mpmToolbox-copy_64e83b9e-4189-4d29-9085-2b2fd45e1aa4"/>
+                    <style date="1169280.0" name.ref="MEI export" xml:id="mpmToolbox_0f01b70f-51cc-4ff2-a0ec-8c970001d44a_mpmToolbox-copy_927cb9f5-b8ad-4a97-be70-7a8495252c01"/>
+                    <tempo date="1169280.0" bpm="Andante con moto." beatLength="0.25" xml:id="mpmToolbox_f7e17301-63ec-46da-9519-a5b17200a340_mpmToolbox-copy_b03371f2-ed56-4c72-b2f6-da935e5f537f"/>
+                    <style date="1179720.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_dfcba688-ed13-4c91-ad55-29242115eb53_mpmToolbox-copy_f03b3c9a-8b5f-4d06-ba37-e09ddec21a47"/>
+                    <tempo date="1179720.0" bpm="Fermata Andante con moto" beatLength="0.25" xml:id="mpmToolbox_e417ef36-49a1-4b62-b757-a6097bbd6685_mpmToolbox-copy_b0526d32-514a-41bf-ad68-dfa2f582fa81"/>
+                    <style date="1180800.0" name.ref="MEI export" xml:id="mpmToolbox_e08e7882-3823-4e43-a77e-d6748fe8d5cc_mpmToolbox-copy_41fe965a-f104-45fd-aeb5-3babe9be60c3"/>
+                    <tempo date="1180800.0" bpm="Andante con moto." beatLength="0.25" xml:id="mpmToolbox_46c1d9d4-82d1-4e35-89c4-0bf395dfb576_mpmToolbox-copy_ddb0b2a4-ecc1-4e31-8659-c7200d2a3a91"/>
                     <tempo bpm="un poco più lento" beatLength="0.25" xml:id="d10d0500_mpmToolbox-copy_e666df06-38e2-41f0-86e1-c81bc411d886" date="1231560.0"/>
+                    <tempo bpm="un poco più lento" beatLength="0.25" xml:id="d10d0500_mpmToolbox-copy_d0c654ca-4349-4116-abd7-9fd9011159a4" date="1231560.0"/>
                     <tempo bpm="un poco più lento" transition.to="+" meanTempoAt="0.5" beatLength="0.25" xml:id="d16xfbi4_mpmToolbox-copy_87d9d581-9b20-4180-ab76-5c89a8b56451" date="1237500.0"/>
-                    <tempo bpm="+" transition.to="+" meanTempoAt="0.5" beatLength="0.25" xml:id="d17c0pi3_mpmToolbox-copy_24f676de-6ea9-401e-aa92-be5c446e91ae" date="1241640.0"/> 
+                    <tempo date="1237500.0" bpm="un poco più lento" transition.to="100.0" beatLength="0.25" xml:id="d16xfbi4_mpmToolbox-copy_b34fd7c6-a5ec-4014-bc01-b6ae06140342"/>
+                    <tempo bpm="+" transition.to="+" meanTempoAt="0.5" beatLength="0.25" xml:id="d17c0pi3_mpmToolbox-copy_24f676de-6ea9-401e-aa92-be5c446e91ae" date="1241640.0"/>
+                    <tempo date="1241640.0" bpm="100.0" transition.to="110.0" beatLength="0.25" xml:id="d17c0pi3_mpmToolbox-copy_c9284a70-95c0-47e2-8a84-0135aaae5563"/> 
                 </tempoMap>
                 <ornamentationMap>
                     <ornament name.ref="arpeggio" scale="0.0" note.order="#n16uom8f #n1346tqj #n1w8bnzt #n1jl9118 #nx93qk5 #n1betdu5 #nxgmwxm" date="948600.0" xml:id="a19r3dqs_mpmToolbox-copy_24de57b6-ba42-41c9-bfb0-02407520b1a7"/>
