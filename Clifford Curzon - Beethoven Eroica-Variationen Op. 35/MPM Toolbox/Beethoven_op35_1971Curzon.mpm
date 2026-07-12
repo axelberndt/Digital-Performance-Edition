@@ -354,13 +354,9 @@
                     <style date="1139400.0" name.ref="MEI export" xml:id="mpmToolbox_8dbe9d77-7382-427d-ac38-f05a2f4e06a4"/>
                     <tempo bpm="Adagio." beatLength="0.25" xml:id="d116igtu" date="1139400.0"/>
                     <tempo bpm="Andante con moto." beatLength="0.25" xml:id="d13ith3m" date="1140840.0"/>
-                    <style date="1168200.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_f26b7bad-5e87-4465-94a3-60782964fc5c"/>
                     <tempo date="1168200.0" bpm="Fermata Andante con moto" beatLength="0.25" xml:id="mpmToolbox_5fbf65b4-aa47-4cfd-aad5-140a101923cb"/>
-                    <style date="1169280.0" name.ref="MEI export" xml:id="mpmToolbox_0f01b70f-51cc-4ff2-a0ec-8c970001d44a"/>
                     <tempo date="1169280.0" bpm="Andante con moto." beatLength="0.25" xml:id="mpmToolbox_f7e17301-63ec-46da-9519-a5b17200a340"/>
-                    <style date="1179720.0" name.ref="Fermatas (over MEI export)" xml:id="mpmToolbox_dfcba688-ed13-4c91-ad55-29242115eb53"/>
                     <tempo date="1179720.0" bpm="Fermata Andante con moto" beatLength="0.25" xml:id="mpmToolbox_e417ef36-49a1-4b62-b757-a6097bbd6685"/>
-                    <style date="1180800.0" name.ref="MEI export" xml:id="mpmToolbox_e08e7882-3823-4e43-a77e-d6748fe8d5cc"/>
                     <tempo date="1180800.0" bpm="Andante con moto." beatLength="0.25" xml:id="mpmToolbox_46c1d9d4-82d1-4e35-89c4-0bf395dfb576"/>
                     <tempo bpm="un poco più lento" beatLength="0.25" xml:id="d10d0500" date="1231560.0"/>
                     <tempo date="1237500.0" bpm="un poco più lento" transition.to="100.0" beatLength="0.25" xml:id="d16xfbi4"/>
@@ -10591,7 +10587,7 @@
                     <tempo date="907200.0" bpm="Largo." beatLength="0.25" xml:id="mpmToolbox_15abc250-2b9b-406f-823e-20435ec00459"/>
                     <tempo date="924120.0" bpm="Fermata Largo" beatLength="0.25" xml:id="mpmToolbox_fcf94c0c-0b67-4f94-92d4-f2163a5727f7"/>
                     <tempo date="924480.0" bpm="Largo." beatLength="0.25" xml:id="mpmToolbox_d6445c02-17aa-4e00-b8db-6a74ef53b402"/>
-                    <tempo date="946800.0" bpm="Largo." transition.to="40.0" beatLength="0.125" xml:id="brj6lii"/>
+                    <tempo date="946845.0" bpm="Largo." transition.to="40.0" beatLength="0.125" xml:id="brj6lii"/>
                     <tempo date="948600.0" bpm="Fermata Var. XV ending" beatLength="0.25" xml:id="mpmToolbox_95294be4-1f22-4eb5-ae05-8652870b332e"/>
                     <tempo bpm="Allegro con brio" beatLength="0.25" xml:id="d1s58h4y" date="950760.0"/>
                     <tempo date="1135080.0" bpm="Fermata Allegro con brio" beatLength="0.25" xml:id="mpmToolbox_7c84368e-761f-49c4-a34f-7b5e42a85af6"/>
@@ -10602,7 +10598,7 @@
                     <tempo date="1179720.0" bpm="Fermata Andante con moto" beatLength="0.25" xml:id="mpmToolbox_e417ef36-49a1-4b62-b757-a6097bbd6685"/>
                     <tempo date="1180800.0" bpm="Andante con moto." beatLength="0.25" xml:id="mpmToolbox_46c1d9d4-82d1-4e35-89c4-0bf395dfb576"/>
                     <tempo bpm="un poco più lento" beatLength="0.25" xml:id="d10d0500" date="1231560.0"/>
-                    <tempo date="1237500.0" bpm="un poco più lento" transition.to="100.0" beatLength="0.25" xml:id="d16xfbi4"/>
+                    <tempo date="1237560.0" bpm="un poco più lento" transition.to="100.0" beatLength="0.25" xml:id="d16xfbi4"/>
                     <tempo date="1241640.0" bpm="100.0" transition.to="110.0" beatLength="0.25" xml:id="d17c0pi3"/> 
                 </tempoMap>
                 <ornamentationMap>
