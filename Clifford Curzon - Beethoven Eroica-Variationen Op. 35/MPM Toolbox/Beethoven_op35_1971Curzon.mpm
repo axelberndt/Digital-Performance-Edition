@@ -16744,7 +16744,6 @@
                     <dynamics volume="sf" xml:id="do1mpfi_mpmToolbox-copy_7b515888-a23c-4646-a42f-1ce50f5e72fd" date="524160.0"/>
                     <dynamics volume="sf" xml:id="meico_expansion_of_do1mpfi_addf5d9f-e27f-4663-acc6-10e54337ceda_mpmToolbox-copy_305f2725-77e4-4109-a78d-2530805ec906" date="535680.0"/>
                     <dynamics volume="p" xml:id="d1mokam6_mpmToolbox-copy_84a716f1-12e5-4718-af5a-a70733157e9e" date="565920.0"/>
-                    <dynamics volume="p" transition.to="+" curvature="0.0" protraction="0.0" xml:id="s1137sne_mpmToolbox-copy_2aa1fb43-5820-4909-aeae-8c1570e4f653" date="568980.0"/>
                     <dynamics volume="+" transition.to="+" curvature="0.0" protraction="0.0" xml:id="meico_expansion_of_s1137sne_302e0c71-57e2-4a7f-b244-63e37be92895_mpmToolbox-copy_890b790c-feab-468f-a6e3-e69b64befa82" date="580500.0"/>
                     <dynamics volume="sempre f" xml:id="d2bc5fh_mpmToolbox-copy_b85cd518-97f9-439f-9d71-d762ee873d2d" date="587880.0"/>
                     <dynamics volume="sf" xml:id="d1wh6s7e_mpmToolbox-copy_cf103419-14eb-46b3-9ecf-2be94e588a36" date="616560.0"/>
