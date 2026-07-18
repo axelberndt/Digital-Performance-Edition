@@ -15071,18 +15071,11 @@
                     <articulation name.ref="stacc" noteid="#n17eo06n" xml:id="a1aivpo7_meico_881729c3-462a-4446-97f6-8f939a957e3f_mpmToolbox-copy_4ed790b4-d494-49eb-9a40-2349da86c453" date="918180.0"/>
                     <articulation name.ref="legato" noteid="#n163n5v2" xml:id="s1p8vy90_meico_079969a3-eb65-4cb1-9951-9da1b39797a9_mpmToolbox-copy_0fb2eab9-edce-4e42-88e3-2df7fb49ff7d" date="918360.0"/>
                     <articulation name.ref="legato" noteid="#n1t5hwu8" xml:id="s1p8vy90_meico_8148a9a6-ba8a-40f7-b68d-34cfd4243871_mpmToolbox-copy_330eb4d5-b323-4e3e-8078-e658db85bd58" date="918360.0"/>
-                    <articulation name.ref="legato" noteid="#nwen9ht" xml:id="s1p8vy90_meico_b02355c8-d859-4866-b4b5-447c0c5b96df_mpmToolbox-copy_cd8d8b85-0be7-4fdf-85d2-422d16d0c85d" date="919440.0"/>
-                    <articulation name.ref="legato" noteid="#nso4kss" xml:id="s1p8vy90_meico_0e6db389-cefd-447d-8561-78336729b038_mpmToolbox-copy_bb58d2d8-bf7f-4e9d-9428-47e265ba5807" date="919440.0"/>
                     <articulation name.ref="stacc" noteid="#n1ibbuu8" xml:id="afnm70j_mpmToolbox-copy_e9153795-43ca-4bab-a93d-13394b4d88cf" date="919800.0"/>
                     <articulation name.ref="legatoStop" noteid="#n1ibbuu8" xml:id="s1p8vy90_meico_e87a4e5d-2fea-422e-adba-48745389a21e_mpmToolbox-copy_eab0a222-7d8e-47e9-b9b7-93b3c53ac721" date="919800.0"/>
                     <articulation name.ref="stacc" noteid="#n1p2oess" xml:id="afnm70j_meico_f71f577c-ab2d-4f51-82e0-c86a769a6a2b_mpmToolbox-copy_1b2debe4-0884-4525-8561-758dd32c03fc" date="919800.0"/>
                     <articulation name.ref="legatoStop" noteid="#n1p2oess" xml:id="s1p8vy90_meico_8337dd06-de71-4baa-b37c-dac819fb8508_mpmToolbox-copy_c8a405c2-0473-4b23-8eff-b0580504506d" date="919800.0"/>
                     <articulation name.ref="stacc" noteid="#n4go4tu" xml:id="a1xw8skf_mpmToolbox-copy_04a0b195-e6f7-47ec-8980-e606acdcf325" date="920340.0"/>
-                    <articulation name.ref="legato" noteid="#n4go4tu" xml:id="s1ncgh3s_meico_afbe5b2c-4842-4431-9fd7-33bf3a42e1a9_mpmToolbox-copy_8b909d37-926b-499d-9466-fe0493e931d2" date="920340.0"/>
-                    <articulation name.ref="legato" noteid="#n1g6xpq1" xml:id="s1ncgh3s_meico_5fd8edd0-a9c8-409c-9849-6f6a5838ad21_mpmToolbox-copy_10830853-21a4-4025-bff8-4752e9b358e8" date="920520.0"/>
-                    <articulation name.ref="legato" noteid="#nx0yrdv" xml:id="s1ncgh3s_meico_e895efde-a4c7-45e6-8172-f97b61d243ab_mpmToolbox-copy_63e3d6f2-5547-484e-8237-ff1350997f4d" date="920520.0"/>
-                    <articulation name.ref="legato" noteid="#nhv6c72" xml:id="s1ncgh3s_meico_6d871094-3707-4c59-a318-fbbf244a0550_mpmToolbox-copy_7ce73b8a-3156-4487-8236-ac3ee3ec9752" date="920520.0"/>
-                    <articulation name.ref="legato" noteid="#n1g5ivxv" xml:id="s1ncgh3s_meico_14fb0287-2ee1-43c3-9312-4729d62f2e32_mpmToolbox-copy_223541c6-ba42-49c1-a775-7aded57d804f" date="920520.0"/>
                     <articulation name.ref="legato" noteid="#n7nlb30" xml:id="s1b106fw_meico_43e9182f-05c6-4375-99cc-ea31392aad9a_mpmToolbox-copy_7fa5270a-a82c-4645-b0bc-0de4727bcd34" date="920700.0"/>
                     <articulation name.ref="legato" noteid="#n1xwsukd" xml:id="s1b106fw_meico_d7fb9986-865d-40f2-a4bf-2c86b685f005_mpmToolbox-copy_1bba3301-a705-4193-8679-55c907b28d19" date="920745.0"/>
                     <articulation name.ref="legato" noteid="#n1vu11a" xml:id="s1b106fw_meico_dbf55e7d-809b-420b-82e8-d459ae7ab022_mpmToolbox-copy_14ec4ac7-0a70-4dda-9763-98546455c2bd" date="920790.0"/>
@@ -15206,25 +15199,15 @@
                     <articulation name.ref="stacc" noteid="#n1udoe3f" xml:id="a59dh71_mpmToolbox-copy_96eb3fe3-3bf7-4b91-9d6f-461804edd156" date="925920.0"/>
                     <articulation name.ref="legato" noteid="#n1udoe3f" xml:id="s1ncgh3s_meico_e4729170-4789-4196-8904-36ae717da9c1_mpmToolbox-copy_969c63e7-c7bd-4e95-a824-d8a963b87731" date="925920.0"/>
                     <articulation name.ref="stacc" noteid="#nvb4v6f" xml:id="aj2u5u5_mpmToolbox-copy_9e8a37bf-2fb6-4ce6-9654-a9f2a9656903" date="926010.0"/>
-                    <articulation name.ref="legato" noteid="#nvb4v6f" xml:id="s1ncgh3s_meico_a11b05ae-42b6-4143-8fe6-8755b0cf2b1f_mpmToolbox-copy_0fa2e575-f063-4fd0-a071-f763d87d40ef" date="926010.0"/>
                     <articulation name.ref="stacc" noteid="#ngay4ei" xml:id="asz9tf0_mpmToolbox-copy_4ab1b3c2-b150-4907-8bfa-1cf7d0cce6c5" date="926100.0"/>
-                    <articulation name.ref="legato" noteid="#ngay4ei" xml:id="s1ncgh3s_meico_fd1566d7-1d38-4516-9a2b-abe271766df7_mpmToolbox-copy_2f7ada0c-9e44-4934-a277-7a536bf12fc1" date="926100.0"/>
                     <articulation name.ref="stacc" noteid="#n1wr6lar" xml:id="aekj5o4_mpmToolbox-copy_f5ca352d-0bcb-492b-8687-f9374d5b9a55" date="926190.0"/>
-                    <articulation name.ref="legato" noteid="#n1wr6lar" xml:id="s1ncgh3s_meico_572d3e7f-2083-4729-b63c-d3782d0e3b5c_mpmToolbox-copy_d6d9c0ca-deae-47d8-a06f-3f0f74b1aa1f" date="926190.0"/>
                     <articulation name.ref="stacc" noteid="#n18xcmss" xml:id="anh8fse_mpmToolbox-copy_7e007e00-8c04-4d66-9364-7220760d1f93" date="926280.0"/>
-                    <articulation name.ref="legato" noteid="#n18xcmss" xml:id="s1ncgh3s_meico_ebb4cfac-08dc-4612-974b-c7ad8d4093d9_mpmToolbox-copy_873405e8-5f7e-4e54-83bd-8a7529565285" date="926280.0"/>
                     <articulation name.ref="stacc" noteid="#n1r2mf9b" xml:id="a8cdv9m_mpmToolbox-copy_f7a6237a-f537-45d4-805c-0cb241b60863" date="926370.0"/>
-                    <articulation name.ref="legato" noteid="#n1r2mf9b" xml:id="s1ncgh3s_meico_eb052fa3-f643-4b90-adbe-661b0efdc5f9_mpmToolbox-copy_8529ba56-e0be-434d-84fe-f79130ec0bb7" date="926370.0"/>
                     <articulation name.ref="stacc" noteid="#ncybpv8" xml:id="a1q3u16a_mpmToolbox-copy_03ac19e7-0950-43f0-8a59-89873ca36732" date="926460.0"/>
-                    <articulation name.ref="legato" noteid="#ncybpv8" xml:id="s1ncgh3s_meico_4b7c366d-9b33-414c-937f-74e2e5d4e396_mpmToolbox-copy_e280d795-b08d-4327-addd-873911d447b6" date="926460.0"/>
                     <articulation name.ref="stacc" noteid="#naojie7" xml:id="asclq61_mpmToolbox-copy_ca35c0a5-8ace-48be-ad51-0d92aa215c30" date="926550.0"/>
-                    <articulation name.ref="legato" noteid="#naojie7" xml:id="s1ncgh3s_meico_3e373aaa-f65e-4d89-b98e-4e852e70cad5_mpmToolbox-copy_c6be97ee-8254-4203-a878-4febf8a42798" date="926550.0"/>
                     <articulation name.ref="stacc" noteid="#n53dtqc" xml:id="azrbmrm_mpmToolbox-copy_8e5db6d4-0b47-45da-b042-7d5e1be2e984" date="926640.0"/>
-                    <articulation name.ref="legato" noteid="#n53dtqc" xml:id="s1ncgh3s_meico_63ea1ce3-d2e0-481c-976c-7fa888581c37_mpmToolbox-copy_66f1db50-4485-49f3-8e9e-3676d4c0678a" date="926640.0"/>
                     <articulation name.ref="stacc" noteid="#njnuenw" xml:id="aexqcuj_mpmToolbox-copy_db4d99d2-e33a-4a1f-8809-72b5afa12ea0" date="926730.0"/>
-                    <articulation name.ref="legato" noteid="#njnuenw" xml:id="s1ncgh3s_meico_d7096891-4e05-4312-9bc6-db25d953a1ae_mpmToolbox-copy_27f715f7-a76d-453d-9c2f-81544e924160" date="926730.0"/>
                     <articulation name.ref="stacc" noteid="#n176kpr8" xml:id="ave41ia_mpmToolbox-copy_bfd1d72a-002e-4c78-a0e8-6e6b35590e26" date="926820.0"/>
-                    <articulation name.ref="legato" noteid="#n176kpr8" xml:id="s1ncgh3s_meico_d7b1b42d-fe23-4e04-a738-5b9a28089618_mpmToolbox-copy_cb2713dc-14be-4a18-abc8-356833a5ca3c" date="926820.0"/>
                     <articulation name.ref="stacc" noteid="#n1ljgtz6" xml:id="a1a9657n_mpmToolbox-copy_8510077c-1c72-482f-9e8d-4d4182cb23cb" date="926910.0"/>
                     <articulation name.ref="legato" noteid="#n1ljgtz6" xml:id="s1ncgh3s_meico_60b1c444-ba56-4602-939e-1f8dc25bbe26_mpmToolbox-copy_acf0eca5-4edd-4dee-bc19-8f7ec2537e6a" date="926910.0"/>
                     <articulation name.ref="legato" noteid="#n1jvn2p8" xml:id="s1ncgh3s_meico_0a13bd2a-a3c5-4643-9b59-5866e214e09d_mpmToolbox-copy_950260cb-51ec-4eda-8f14-ab9c2ba12c3e" date="927360.0"/>
