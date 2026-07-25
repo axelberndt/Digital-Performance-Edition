@@ -15012,7 +15012,14 @@
                     <articulation name.ref="legatoStop" noteid="#npljbec" xml:id="s1vovw4c_meico_057ccdde-557d-4b1c-9741-96788b5cba77_mpmToolbox-copy_54e64d20-6c49-492a-a4dd-777a2360ea25" date="907560.0"/>
                     <articulation name.ref="legatoStop" noteid="#n623hax" xml:id="s1vovw4c_meico_6c7a991b-fe90-4d5b-90e7-e2556f7ffc18_mpmToolbox-copy_3b789dd6-c75a-4abc-b6a0-5d8a2be199c1" date="907560.0"/>
                     <articulation name.ref="legatoStop" noteid="#n16wp86m" xml:id="s1vovw4c_meico_41c16ad0-ee8a-42d6-8f13-cd12529362c7_mpmToolbox-copy_851b3d3f-5734-41a9-ae3d-e399a2fd5ced" date="907560.0"/>
+                    <articulation date="908460.0" name.ref="legato" noteid="#n8ccnjz" xml:id="mpmToolbox_10a34fa5-3f90-43db-8af0-a1ac0864f438"/>
+                    <articulation date="908490.0" name.ref="legato" noteid="#ne7l0ge" xml:id="mpmToolbox_d1a88377-ca03-4275-af6c-4aaf7babe520"/>
+                    <articulation date="908520.0" name.ref="legato" noteid="#n1e6xwak" xml:id="mpmToolbox_08bd473e-79b5-46e2-a3bd-2e2c07a4929a"/>
+                    <articulation date="908550.0" name.ref="legato" noteid="#n16txt14" xml:id="mpmToolbox_737d870e-dacc-4051-af8b-aaca9e2ca642"/>
+                    <articulation date="908580.0" name.ref="legato" noteid="#npfo8qo" xml:id="mpmToolbox_a2bfd7e3-e482-4f9c-870f-05f372ec45f6"/>
+                    <articulation date="908610.0" name.ref="legato" noteid="#n1r12z31" xml:id="mpmToolbox_0800eb7c-a46e-4897-8d36-d277c86726ad"/>
                     <articulation name.ref="stacc" noteid="#nutlckt" xml:id="a18ly0a4_mpmToolbox-copy_3b3c4cd8-2f29-43a2-9a97-b9687e8fcc80" date="908640.0"/>
+                    <articulation date="908640.0" name.ref="legatoStop" noteid="#nutlckt" xml:id="mpmToolbox_84487f82-65e5-4e97-9aa4-1479206647b5"/>
                     <articulation name.ref="stacc" noteid="#n19z5wqe" xml:id="amib6qy_mpmToolbox-copy_d489d48f-d4af-46b8-aa46-84ddcd2c03ed" date="908820.0"/>
                     <articulation name.ref="stacc" noteid="#nxpvqd5" xml:id="axz2cvm_mpmToolbox-copy_043d56ad-9468-466e-9bad-d488db578fad" date="909000.0"/>
                     <articulation name.ref="stacc" noteid="#n1ak9sgh" xml:id="a1hzhadj_mpmToolbox-copy_0fcc01a0-f889-4c44-94fb-005facc11142" date="909180.0"/>
