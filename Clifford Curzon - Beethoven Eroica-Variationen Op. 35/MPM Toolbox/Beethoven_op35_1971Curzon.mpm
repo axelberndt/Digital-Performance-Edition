@@ -27,7 +27,7 @@
             <resource uri="MEI_1922Forberg-19.msm" type="msm"/>
         </relatedResources>
     </metadata>
-    <performance name="MEI export performance" pulsesPerQuarter="720">
+    <performance name="score print (1922 Leipzig:Forberg)" pulsesPerQuarter="720">
         <global>
             <header>
                 <tempoStyles>
@@ -71,7 +71,7 @@
                     </styleDef>
                 </tempoStyles>
                 <dynamicsStyles>
-                    <styleDef name="MEI export">
+                    <styleDef name="printed dynamics">
                         <dynamicsDef name="ff" value="111.0"/>
                         <dynamicsDef name="pp" value="36.0"/>
                         <dynamicsDef name="p" value="48.0"/>
@@ -86,15 +86,14 @@
                     </styleDef>
                 </dynamicsStyles>
                 <articulationStyles>
-                    <styleDef name="MEI Export">
+                    <styleDef name="printed articulation">
                         <articulationDef name="breath" absoluteDurationChangeMs="-400.0" absoluteVelocityChange="-5.0"/>
                         <articulationDef name="legatissimo" absoluteDurationChangeMs="250.0"/>
                         <articulationDef name="legato" relativeDuration="1.0"/>
                         <articulationDef name="marcato" relativeDuration="0.8" absoluteVelocityChange="25.0"/>
                         <articulationDef name="nonlegato" relativeDuration="0.95"/>
                         <articulationDef name="pizzicato" absoluteDuration="1.0"/>
-                        <articulationDef name="portato" relativeDuration="0.8"/>
-                        <articulationDef name="sforzato" absoluteVelocity="127.0" relativeDuration="0.8"/>
+                        <articulationDef name="portato" relativeDuration="0.8"/> 
                         <articulationDef name="snap pizzicato" absoluteDuration="1.0" absoluteVelocityChange="25.0"/>
                         <articulationDef name="spiccato" absoluteDurationMs="140.0" absoluteVelocityChange="25.0"/>
                         <articulationDef name="staccatissimo" absoluteDurationMs="140.0" absoluteVelocityChange="5.0"/>
@@ -104,20 +103,11 @@
                         <articulationDef name="legatoStop" relativeDuration="0.8" relativeVelocity="0.7"/>
                         <articulationDef name="poco marcato" relativeDuration="0.9" absoluteVelocityChange="13.0"/>
                         <articulationDef name="dolce" relativeDuration="1.1" absoluteDelayMs="70.0" relativeVelocity="0.8"/>
+                        <articulationDef name="sforzato" relativeDuration="0.8" relativeVelocity="1.5"/>
                     </styleDef>
                 </articulationStyles>
-                <ornamentationStyles>
-                    <styleDef name="MEI export">
-                        <ornamentDef name="arpeggio">
-                            <dynamicsGradient transition.from="-1.0" transition.to="1.0"/>
-                            <temporalSpread frame.start="-22.0" frameLength="44.0"/>
-                        </ornamentDef>
-                        <ornamentDef name="arpeggio">
-                            <dynamicsGradient transition.from="-1.0" transition.to="1.0"/>
-                            <temporalSpread frame.start="-22.0" frameLength="44.0"/>
-                        </ornamentDef>
-                    </styleDef>
-                    <styleDef name="Default Ornamentation">
+                <ornamentationStyles> 
+                    <styleDef name="printed ornamentation">
                         <ornamentDef name="arpeggio">
                             <dynamicsGradient transition.from="-1.0" transition.to="1.0"/>
                             <temporalSpread frame.start="-22.0" frameLength="66.0" time.unit="ticks"/>
@@ -167,6 +157,7 @@
             </header>
             <dated>
                 <ornamentationMap>
+                    <style date="0.0" name.ref="printed ornamentation"/>
                     <ornament name.ref="arpeggio" scale="0.0" note.order="#n16uom8f #n1346tqj #n1w8bnzt #n1jl9118 #nx93qk5 #n1betdu5 #nxgmwxm" date="948600.0" xml:id="a19r3dqs"/>
                     <ornament name.ref="arpeggio" scale="0.0" note.order="#n1rvryt4 #n1yitj5y" date="1061640.0" xml:id="aacmkpr"/>
                     <ornament name.ref="arpeggio" scale="0.0" note.order="#n5h1k0c #nynp2rt #nvljpeb #nk4syg6" date="1136520.0" xml:id="aymjefg"/>
@@ -370,7 +361,7 @@
             <header/>
             <dated>
                 <articulationMap>
-                    <style date="0.0" name.ref="MEI Export" defaultArticulation="nonlegato"/>
+                    <style date="0.0" name.ref="printed articulation" defaultArticulation="nonlegato"/>
                     <articulation date="1440.0" xml:id="a48ch68" name.ref="ten" noteid="#n1lgdh90"/>
                     <articulation date="2880.0" name.ref="ten" noteid="#nrnrbws" xml:id="a36t48r"/>
                     <articulation date="4320.0" name.ref="ten" noteid="#n1p22e4r" xml:id="aqvmafv"/>
@@ -6070,7 +6061,7 @@
                     <articulation name.ref="legato" noteid="#n1kp0fxz" xml:id="smnp3cq_meico_93493b1d-de33-47c0-b837-758a1027ecc7" date="1244520.0"/> 
                 </articulationMap>
                 <dynamicsMap>
-                    <style date="0.0" name.ref="MEI export"/>
+                    <style date="0.0" name.ref="printed dynamics" xml:id="a0fbfaee-4ba6-41bb-8213-e8ca0a30e0b4"/>
                     <dynamics date="0.0" volume="ff" xml:id="drvjpf4_mpmToolbox-copy_43e739cc-0129-4867-b1de-ab631ffaff09"/>
                     <dynamics date="1440.0" volume="pp" xml:id="d1eukokj_mpmToolbox-copy_b575b13d-55ef-46b9-bafb-b86c8ddc15b1"/>
                     <dynamics date="12960.0" volume="pp" xml:id="meico_expansion_of_d1eukokj_8ea8ac57-a469-4602-a013-10c9833bd751_mpmToolbox-copy_f9b49797-c4f0-4985-bab4-ed5205d5c688"/>
@@ -6377,7 +6368,7 @@
             <header/>
             <dated>
                 <articulationMap>
-                    <style date="0.0" name.ref="MEI Export" defaultArticulation="nonlegato"/>
+                    <style date="0.0" name.ref="printed articulation" defaultArticulation="nonlegato"/>
                     <articulation date="1440.0" name.ref="ten" noteid="#n1mg4kqe" xml:id="a98hk1n"/>
                     <articulation date="1440.0" name.ref="ten" noteid="#n1wp99dh" xml:id="a98hk1n_meico_4fba63ee-45c0-40a4-a45c-12702ef5fa93"/>
                     <articulation date="2880.0" name.ref="ten" noteid="#nxn4kex" xml:id="a1t4osxk"/>
@@ -10050,7 +10041,7 @@
                     <articulation name.ref="stacc" noteid="#n1wte6oi" xml:id="aujsqwn_meico_527bbf01-9162-48ed-8d16-b765eb30b5cb" date="1244520.0"/> 
                 </articulationMap>
                 <dynamicsMap>
-                    <style date="0.0" name.ref="MEI export"/>
+                    <style date="0.0" name.ref="printed dynamics"/>
                     <dynamics date="0.0" volume="ff" xml:id="drvjpf4"/>
                     <dynamics date="1440.0" volume="pp" xml:id="d1eukokj"/>
                     <dynamics date="12960.0" volume="pp" xml:id="meico_expansion_of_d1eukokj_8ea8ac57-a469-4602-a013-10c9833bd751"/>
@@ -10396,7 +10387,7 @@
                     </styleDef>
                 </tempoStyles>
                 <dynamicsStyles>
-                    <styleDef name="MEI export">
+                    <styleDef name="printed dynamics">
                         <dynamicsDef name="ff" value="111.0"/>
                         <dynamicsDef name="pp" value="36.0"/>
                         <dynamicsDef name="p" value="48.0"/>
@@ -10412,15 +10403,14 @@
                     </styleDef>
                 </dynamicsStyles>
                 <articulationStyles>
-                    <styleDef name="MEI export">
+                    <styleDef name="printed articulation">
                         <articulationDef name="breath" absoluteDurationChangeMs="-400.0" absoluteVelocityChange="-5.0"/>
                         <articulationDef name="legatissimo" absoluteDurationChangeMs="250.0"/>
                         <articulationDef name="legato" relativeDuration="1.0"/>
                         <articulationDef name="marcato" relativeDuration="0.8" absoluteVelocityChange="25.0"/>
                         <articulationDef name="nonlegato" relativeDuration="0.95"/>
                         <articulationDef name="pizzicato" absoluteDuration="1.0"/>
-                        <articulationDef name="portato" relativeDuration="0.8"/>
-                        <articulationDef name="sforzato" absoluteVelocity="127.0" relativeDuration="0.8"/>
+                        <articulationDef name="portato" relativeDuration="0.8"/> 
                         <articulationDef name="snap pizzicato" absoluteDuration="1.0" absoluteVelocityChange="25.0"/>
                         <articulationDef name="spiccato" absoluteDurationMs="140.0" absoluteVelocityChange="25.0"/>
                         <articulationDef name="staccatissimo" absoluteDurationMs="140.0" absoluteVelocityChange="5.0"/>
@@ -10430,10 +10420,11 @@
                         <articulationDef name="ten" relativeDuration="0.9" absoluteVelocityChange="12.0"/>
                         <articulationDef name="poco marcato" relativeDuration="0.9" absoluteVelocityChange="13.0"/>
                         <articulationDef name="dolce" relativeDuration="1.1" absoluteDelayMs="70.0" relativeVelocity="0.8"/>
+                        <articulationDef name="sforzato" relativeDuration="0.8" relativeVelocity="1.5"/>
                     </styleDef>
                 </articulationStyles>
                 <ornamentationStyles>
-                    <styleDef name="MEI export">
+                    <styleDef name="printed ornamentation">
                         <ornamentDef name="arpeggio">
                             <dynamicsGradient transition.from="-1.0" transition.to="1.0"/>
                             <temporalSpread frame.start="-22.0" frameLength="44.0"/>
@@ -10607,6 +10598,7 @@
                     <tempo date="1241640.0" bpm="100.0" transition.to="110.0" beatLength="0.25" xml:id="d17c0pi3"/> 
                 </tempoMap>
                 <ornamentationMap>
+                    <style date="0.0" name.ref="Default Ornamentation" xml:id="meico_f87bd997-54da-4557-bf56-74b49c8171fc"/>
                     <ornament name.ref="arpeggio" scale="0.0" note.order="#n16uom8f #n1346tqj #n1w8bnzt #n1jl9118 #nx93qk5 #n1betdu5 #nxgmwxm" date="948600.0" xml:id="a19r3dqs_mpmToolbox-copy_24de57b6-ba42-41c9-bfb0-02407520b1a7"/>
                     <ornament name.ref="arpeggio" scale="0.0" note.order="#n1rvryt4 #n1yitj5y" date="1061640.0" xml:id="aacmkpr_mpmToolbox-copy_bc1f1661-27f9-4f66-bab8-e6af38a94f72"/>
                     <ornament name.ref="arpeggio" scale="0.0" note.order="#n5h1k0c #nynp2rt #nvljpeb #nk4syg6" date="1136520.0" xml:id="aymjefg_mpmToolbox-copy_b7836b98-5411-4095-a782-df7e7c83abc7"/>
@@ -10618,7 +10610,7 @@
             <header/>
             <dated>
                 <dynamicsMap>
-                    <style date="0.0" name.ref="MEI export"/>
+                    <style date="0.0" name.ref="printed dynamics"/>
                     <dynamics date="0.0" volume="ff" xml:id="drvjpf4_mpmToolbox-copy_43e739cc-0129-4867-b1de-ab631ffaff09_mpmToolbox-copy_9e98a5b3-347a-49df-999d-318283963eba"/>
                     <dynamics date="1440.0" volume="pp" xml:id="d1eukokj_mpmToolbox-copy_b575b13d-55ef-46b9-bafb-b86c8ddc15b1_mpmToolbox-copy_5f529029-0125-42c9-a7dd-235ddf4b40c7"/>
                     <dynamics date="12960.0" volume="pp" xml:id="meico_expansion_of_d1eukokj_8ea8ac57-a469-4602-a013-10c9833bd751_mpmToolbox-copy_f9b49797-c4f0-4985-bab4-ed5205d5c688_mpmToolbox-copy_580710e2-09f3-4b05-97d7-4410cadca035"/>
@@ -10941,7 +10933,7 @@
                     <dynamics volume="+" date="1180800.0" xml:id="mpmToolbox_a456970d-637b-48f6-97ac-7ca00db3f636"/> 
                 </dynamicsMap>
                 <articulationMap>
-                    <style date="0.0" name.ref="MEI export" defaultArticulation="nonlegato"/>
+                    <style date="0.0" name.ref="printed articulation" defaultArticulation="nonlegato"/>
                     <articulation date="1440.0" xml:id="a48ch68_mpmToolbox-copy_9acf87fa-dd97-4292-bf07-7c0cdda8e345" name.ref="ten" noteid="#n1lgdh90"/>
                     <articulation date="2880.0" name.ref="ten" noteid="#nrnrbws" xml:id="a36t48r_mpmToolbox-copy_a77af670-c628-411d-b03e-36fd4271c337"/>
                     <articulation date="4320.0" name.ref="ten" noteid="#n1p22e4r" xml:id="aqvmafv_mpmToolbox-copy_235723cb-eb8c-457d-99ab-0b9108fa82fe"/>
@@ -16646,7 +16638,7 @@
             <header/>
             <dated>
                 <dynamicsMap>
-                    <style date="0.0" name.ref="MEI export"/>
+                    <style date="0.0" name.ref="printed dynamics"/>
                     <dynamics date="0.0" volume="ff" xml:id="drvjpf4_mpmToolbox-copy_b5ec9f1a-8afc-4bcd-92f4-b9d133c9b092"/>
                     <dynamics date="1440.0" volume="pp" xml:id="d1eukokj_mpmToolbox-copy_e8815fdd-471b-47e2-b8c5-1b5c75e39990"/>
                     <dynamics date="12960.0" volume="pp" xml:id="meico_expansion_of_d1eukokj_8ea8ac57-a469-4602-a013-10c9833bd751_mpmToolbox-copy_fde63ec0-b2c0-4f03-9f0b-635592ac6194"/>
@@ -16970,7 +16962,7 @@
                     <dynamics volume="+" date="1180800.0" xml:id="mpmToolbox_d4cc7c4f-8714-44cf-aebe-cb94e5bfebd4"/> 
                 </dynamicsMap>
                 <articulationMap>
-                    <style date="0.0" name.ref="MEI export" defaultArticulation="nonlegato"/>
+                    <style date="0.0" name.ref="printed articulation" defaultArticulation="nonlegato"/>
                     <articulation date="1440.0" name.ref="ten" noteid="#n1mg4kqe" xml:id="a98hk1n_mpmToolbox-copy_d3619502-605f-4842-a17c-1a4a58d8becb"/>
                     <articulation date="1440.0" name.ref="ten" noteid="#n1wp99dh" xml:id="a98hk1n_meico_4fba63ee-45c0-40a4-a45c-12702ef5fa93_mpmToolbox-copy_83a2ecc8-0710-4fda-98af-cf995f222464"/>
                     <articulation date="2880.0" name.ref="ten" noteid="#nxn4kex" xml:id="a1t4osxk_mpmToolbox-copy_22c19a78-5b4a-42da-baae-e80a6679cf92"/>
