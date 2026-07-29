@@ -93,7 +93,7 @@
                         <articulationDef name="marcato" relativeDuration="0.8" absoluteVelocityChange="25.0"/>
                         <articulationDef name="nonlegato" relativeDuration="0.95"/>
                         <articulationDef name="pizzicato" absoluteDuration="1.0"/>
-                        <articulationDef name="portato" relativeDuration="0.8"/> 
+                        <articulationDef name="portato" relativeDuration="0.8"/>
                         <articulationDef name="snap pizzicato" absoluteDuration="1.0" absoluteVelocityChange="25.0"/>
                         <articulationDef name="spiccato" absoluteDurationMs="140.0" absoluteVelocityChange="25.0"/>
                         <articulationDef name="staccatissimo" absoluteDurationMs="140.0" absoluteVelocityChange="5.0"/>
@@ -106,7 +106,7 @@
                         <articulationDef name="sforzato" relativeDuration="0.8" relativeVelocity="1.5"/>
                     </styleDef>
                 </articulationStyles>
-                <ornamentationStyles> 
+                <ornamentationStyles>
                     <styleDef name="printed ornamentation">
                         <ornamentDef name="arpeggio">
                             <dynamicsGradient transition.from="-1.0" transition.to="1.0"/>
@@ -10410,7 +10410,7 @@
                         <articulationDef name="marcato" relativeDuration="0.8" absoluteVelocityChange="25.0"/>
                         <articulationDef name="nonlegato" relativeDuration="0.95"/>
                         <articulationDef name="pizzicato" absoluteDuration="1.0"/>
-                        <articulationDef name="portato" relativeDuration="0.8"/> 
+                        <articulationDef name="portato" relativeDuration="0.8"/>
                         <articulationDef name="snap pizzicato" absoluteDuration="1.0" absoluteVelocityChange="25.0"/>
                         <articulationDef name="spiccato" absoluteDurationMs="140.0" absoluteVelocityChange="25.0"/>
                         <articulationDef name="staccatissimo" absoluteDurationMs="140.0" absoluteVelocityChange="5.0"/>
