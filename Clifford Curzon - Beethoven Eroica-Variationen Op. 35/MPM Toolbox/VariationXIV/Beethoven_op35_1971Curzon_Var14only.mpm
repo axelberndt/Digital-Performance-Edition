@@ -977,7 +977,7 @@
             <header>
                 <dynamicsStyles>
                     <styleDef name="Default Dynamics">
-                        <dynamicsDef name="pp" value="36.0"/> 
+                        <dynamicsDef name="pp" value="36.0"/>
                         <dynamicsDef name="ff" value="56.0"/>
                         <dynamicsDef name="p" value="41.0"/>
                         <dynamicsDef name="mf" value="46.0"/>
@@ -995,13 +995,13 @@
                         <articulationDef name="marcato" relativeDuration="0.8" absoluteVelocityChange="25.0"/>
                         <articulationDef name="nonlegato" relativeDuration="0.95"/>
                         <articulationDef name="pizzicato" absoluteDuration="1.0"/>
-                        <articulationDef name="portato" relativeDuration="0.8"/>
-                        <articulationDef name="sforzato" absoluteVelocity="127.0" relativeDuration="0.8"/>
+                        <articulationDef name="portato" relativeDuration="0.8"/> 
                         <articulationDef name="snap pizzicato" absoluteDuration="1.0" absoluteVelocityChange="25.0"/>
                         <articulationDef name="spiccato" absoluteDurationMs="140.0" absoluteVelocityChange="25.0"/>
                         <articulationDef name="staccato" absoluteDurationMs="160.0" absoluteVelocityChange="-5.0"/>
                         <articulationDef name="staccatissimo" absoluteDurationMs="140.0" absoluteVelocityChange="5.0"/>
                         <articulationDef name="tenuto" relativeDuration="0.9" absoluteVelocityChange="12.0"/>
+                        <articulationDef name="sforzato" relativeDuration="0.8" absoluteVelocity="61.0"/>
                     </styleDef>
                 </articulationStyles>
             </header>
@@ -1157,11 +1157,7 @@
                     <asynchrony date="21600.01" milliseconds.offset="750.4772236781444"/>
                     <asynchrony date="24480.01" milliseconds.offset="759.6561398310457"/>
                     <asynchrony date="33480.01" milliseconds.offset="762.6574451338035"/> 
-                </asynchronyMap>
-                <dynamicsMap>
-                    <style date="0.0" name.ref="Default Dynamics"/>
-                    <dynamics date="0.0" volume="mf" xml:id="mpmToolbox_91b65071-1fc9-4578-897f-83605aad82bb"/> 
-                </dynamicsMap>
+                </asynchronyMap> 
             </dated>
         </global>
         <part name="right hand" number="1" midi.channel="0" midi.port="0" xml:id="g1tm618u">
@@ -1374,7 +1370,7 @@
                     <dynamics date="45000.0" volume="p" xml:id="mpmToolbox_14bb2d4b-1e39-4397-88b2-fc8905c78071_mpmToolbox-copy_9dacf452-12be-4970-bb4c-732ca40a7d55"/>
                     <dynamics date="45000.0" volume="p" transition.to="mf" xml:id="mpmToolbox_94d0cdb0-d2ef-4607-876c-4764651d127f_mpmToolbox-copy_f56cb174-1839-4d64-815c-42fa46f3b03c"/>
                     <dynamics date="45000.0" volume="mf" transition.to="p" xml:id="mpmToolbox_dc30d994-7e49-49da-8b55-cfc6b33df1cc_mpmToolbox-copy_9f522d5b-c345-44eb-babc-ec4cbbc36489"/>
-                    <dynamics date="46440.0" volume="p" xml:id="mpmToolbox_b19e1981-8216-44b0-a406-3069f0acdf29_mpmToolbox-copy_75a193db-c88b-4c38-abb6-1340e14b9876"/>
+                    <dynamics date="46440.0" volume="p" xml:id="mpmToolbox_b19e1981-8216-44b0-a406-3069f0acdf29_mpmToolbox-copy_75a193db-c88b-4c38-abb6-1340e14b9876"/> 
                 </dynamicsMap>
             </dated>
         </part>
@@ -1543,7 +1539,7 @@
                     <dynamics date="39960.0" volume="p" xml:id="mpmToolbox_bd832cf4-6891-4fd6-bb34-50f319ffe31d_mpmToolbox-copy_eba5075c-1bf5-4f09-a0f3-53d37d28c357"/>
                     <dynamics date="43560.0" volume="p" transition.to="mf" xml:id="mpmToolbox_5c916cbf-d11b-44e6-98b4-04755b047138_mpmToolbox-copy_007fc500-5893-4fe2-907f-e6bd6892c30f"/>
                     <dynamics date="44280.0" volume="mf" xml:id="mpmToolbox_69f321e9-2dd3-473d-af22-de47519fbea8_mpmToolbox-copy_394af414-27b0-44b0-bbdb-6253228d48af"/>
-                    <dynamics date="45000.0" volume="p" xml:id="mpmToolbox_f7c256b7-2c6a-448a-a0d2-009e961d3577_mpmToolbox-copy_ec374a13-2f07-4d92-8f9f-7c3accbf1311"/>
+                    <dynamics date="45000.0" volume="p" xml:id="mpmToolbox_f7c256b7-2c6a-448a-a0d2-009e961d3577_mpmToolbox-copy_ec374a13-2f07-4d92-8f9f-7c3accbf1311"/> 
                 </dynamicsMap>
             </dated>
         </part>
