@@ -3,7 +3,7 @@
     <msm file="Beethoven_op35_1971Curzon.msm"/>
     <mpm file="Beethoven_op35_1971Curzon.mpm"/>
     <score overlayElementSize="0">
-        <page file="score\Add_64978-0003.jpg" width.pixels="3409" height.pixels="4192">
+        <page file="score/Add_64978-0003.jpg" width.pixels="3409" height.pixels="4192">
             <note ref="n1l0wn27" x="1068.0" y="1248.0"/>
             <note ref="nxmaby9" x="1068.0" y="1212.0"/>
             <note ref="ngjti4i" x="1064.0" y="1011.0"/>
@@ -1137,7 +1137,7 @@
             <note ref="meico_expansion_of_n1g2q03r_06042850-c609-44e8-bdf6-df1fead073f7" x="2771.0" y="3371.0"/>
             <articulation ref="meico_expansion_of_st6t1po_e25a3c55-16c4-42c0-bf21-3d3d1c339b86_meico_31c84040-364a-4e55-98bf-5664040fb957_mpmToolbox-copy_406633e8-5f9e-4d79-adda-67fe3ea30507" x="2771.0" y="3344.0"/>
         </page>
-        <page file="score\Add_64978-0004.jpg" width.pixels="3250" height.pixels="4192">
+        <page file="score/Add_64978-0004.jpg" width.pixels="3250" height.pixels="4192">
             <note ref="n17ok4fy" x="976.0" y="856.0"/>
             <note ref="n17axw8c" x="974.0" y="593.0"/>
             <tempo ref="d1owd8m2" x="834.0" y="460.0"/>
@@ -3226,7 +3226,7 @@
             <articulation ref="meico_expansion_of_arkr6rp_229234fc-0546-4e7e-b8db-1eb318d244bf_mpmToolbox-copy_398ff57f-eb9d-4f7d-91af-b3110aba974b" x="2674.0" y="3638.0"/>
             <articulation ref="mpmToolbox_441fed7d-cbad-4b8a-ace8-71aaad0a2250_mpmToolbox-copy_a016cd2b-e5fc-4db3-be2d-5cafb4b39434" x="2672.0" y="3653.0"/>
         </page>
-        <page file="score\Add_64978-0005.jpg" width.pixels="3427" height.pixels="4185">
+        <page file="score/Add_64978-0005.jpg" width.pixels="3427" height.pixels="4185">
             <note ref="nv0kgad" x="1055.0" y="628.0"/>
             <tempo ref="d1phf169" x="988.0" y="405.0"/>
             <articulation ref="stkw7dh_meico_cd45e235-37f7-40b7-a889-7c5a3c63bd3b_mpmToolbox-copy_3463c419-0858-4f1a-b77d-d4a23341b61c" x="1055.0" y="510.0"/>
@@ -4524,7 +4524,7 @@
             <note ref="meico_expansion_of_n1cdsc00_2aa8bb04-7077-4640-80b9-a03fbf22a799" x="2951.0" y="3168.0"/>
             <articulation ref="s144zwkt_meico_fdacb728-adcb-405c-966e-26b55618b237_mpmToolbox-copy_3c7a6dfd-797e-427c-8101-3bf17269bd25" x="2947.0" y="3134.0"/>
         </page>
-        <page file="score\Add_64978-0006.jpg" width.pixels="3347" height.pixels="4152">
+        <page file="score/Add_64978-0006.jpg" width.pixels="3347" height.pixels="4152">
             <note ref="n1anlfpc" x="647.0" y="501.0"/>
             <note ref="n7ul4vo" x="651.0" y="906.0"/>
             <tempo ref="mpmToolbox_618f5c9e-49a3-4857-981e-5d4c3d0dbfa7" x="794.0" y="425.0"/>
@@ -5932,7 +5932,7 @@
             <articulation ref="meico_expansion_of_ab6evz2_cf3edafd-0479-4776-90af-251351a2a992_meico_0d213599-7967-4fcd-80ae-f6b7c06e0dde_mpmToolbox-copy_0f16dc1b-3e5c-468e-a025-0894dd875010" x="2810.0" y="3612.0"/>
             <articulation ref="meico_expansion_of_ab6evz2_cf3edafd-0479-4776-90af-251351a2a992_meico_fdaa7150-3398-4a9f-b012-c6985a4f0792_mpmToolbox-copy_8e85cb1d-1818-424e-92a8-59ceb9438df1" x="2810.0" y="3597.0"/>
         </page>
-        <page file="score\Add_64978-0007.jpg" width.pixels="3395" height.pixels="4160">
+        <page file="score/Add_64978-0007.jpg" width.pixels="3395" height.pixels="4160">
             <note ref="n1g5vzxd" x="1019.0" y="810.0"/>
             <dynamics ref="d147smcm_mpmToolbox-copy_53778fc9-e561-4fdf-a8ef-f8651af85e41" x="1019.0" y="735.0"/>
             <articulation ref="s1dr21eu_meico_3cb2743a-d114-4937-8ef1-9edfcd09d455_mpmToolbox-copy_8ccf5e01-2848-4b31-a6f8-02413f55c4ee" x="1012.0" y="872.0"/>
@@ -7341,7 +7341,7 @@
             <note ref="meico_expansion_of_no1unta_b348281d-f3fa-4c1d-bccf-935db53ed717" x="2941.0" y="3472.0"/>
             <note ref="meico_expansion_of_n1yyq5ve_686f746e-c249-40f7-881b-6756d3e6d2f2" x="4474.0" y="1587.0"/>
         </page>
-        <page file="score\Add_64978-0008.jpg" width.pixels="3411" height.pixels="4168">
+        <page file="score/Add_64978-0008.jpg" width.pixels="3411" height.pixels="4168">
             <note ref="n1yyq5ve" x="687.0" y="499.0"/>
             <note ref="n4lycnj" x="685.0" y="520.0"/>
             <note ref="n1wa5igp" x="687.0" y="763.0"/>
@@ -8465,7 +8465,7 @@
             <articulation ref="meico_expansion_of_aq039mf_de6e66b8-fae5-4108-a7db-47dd6747db02_mpmToolbox-copy_ba4024f7-575b-4fbb-bd88-6a0f59bfa878" x="2785.0" y="3601.0"/>
             <articulation ref="meico_expansion_of_ssjybkf_40ff7a86-4f5b-415a-beff-c83966e784b2_meico_79bb0cd5-e56f-4355-86d6-bff3a18922ed_mpmToolbox-copy_0eb316a3-a328-41a5-8ee5-d91f3bf78dab" x="2785.0" y="3620.0"/>
         </page>
-        <page file="score\Add_64978-0009.jpg" width.pixels="3411" height.pixels="4168">
+        <page file="score/Add_64978-0009.jpg" width.pixels="3411" height.pixels="4168">
             <note ref="n1pwbf74" x="1097.0" y="517.0"/>
             <tempo ref="d3nieq1" x="1003.0" y="423.0"/>
             <articulation ref="szjzmtc_meico_6a2a7033-0a0f-4062-b807-7b0ac9a37397_mpmToolbox-copy_939cfeab-9446-4023-9382-b140a12a9cae" x="1112.0" y="488.0"/>
@@ -9421,7 +9421,7 @@
             <articulation ref="meico_expansion_of_a1f3jgkm_4bdee06e-7491-4716-89a0-b2180707c54a_meico_4f9065b2-2fbf-4abf-94e9-c77c17aefeb2_mpmToolbox-copy_ce0b4812-d466-4f8d-bd83-b9513f531994" x="2014.0" y="3220.0"/>
             <articulation ref="meico_expansion_of_a1f3jgkm_4bdee06e-7491-4716-89a0-b2180707c54a_mpmToolbox-copy_f8ec038d-7c22-4298-8547-d4aa9b6ac3dd" x="2014.0" y="3234.0"/>
         </page>
-        <page file="score\Add_64978-0010.jpg" width.pixels="3411" height.pixels="4168">
+        <page file="score/Add_64978-0010.jpg" width.pixels="3411" height.pixels="4168">
             <note ref="nmht75w" x="751.0" y="534.0"/>
             <note ref="n7jclxx" x="751.0" y="556.0"/>
             <note ref="n1niua7n" x="754.0" y="816.0"/>
@@ -10386,7 +10386,7 @@
             <note ref="n1bosj1b" x="2823.0" y="3563.0"/>
             <articulation ref="a1sbzaz7_mpmToolbox-copy_9add6f27-e9c4-4098-9050-eb03ba7cb20e" x="2823.0" y="3592.0"/>
         </page>
-        <page file="score\Add_64978-0011.jpg" width.pixels="3411" height.pixels="4168">
+        <page file="score/Add_64978-0011.jpg" width.pixels="3411" height.pixels="4168">
             <note ref="nuur4x7" x="1026.0" y="568.0"/>
             <tempo ref="dd78ypg" x="952.0" y="458.0"/>
             <dynamics ref="dsw3z8a_mpmToolbox-copy_c873e5df-b250-481f-a5ff-ee59d4e72218_mpmToolbox-copy_bb6e15ae-821f-4bfb-8811-f3dd4bf06c54" x="1023.0" y="654.0"/>
@@ -11635,7 +11635,7 @@
             <articulation ref="meico_expansion_of_s19rnnb1_8cf28773-4e71-469c-9671-a6fcec7172bc_meico_b736ffd1-4b1e-45fd-b7c7-c24ef567ab21_mpmToolbox-copy_b3fb8b7c-b57c-494e-8d4e-c4ea58da825b" x="2904.0" y="3448.0"/>
             <articulation ref="meico_expansion_of_s19rnnb1_8cf28773-4e71-469c-9671-a6fcec7172bc_meico_c028a9fc-630c-4381-bb0a-97b55d7a4995_mpmToolbox-copy_62c6156d-e0f8-47c6-9885-a16e56cdda02" x="2904.0" y="3464.0"/>
         </page>
-        <page file="score\Add_64978-0012.jpg" width.pixels="3412" height.pixels="4184">
+        <page file="score/Add_64978-0012.jpg" width.pixels="3412" height.pixels="4184">
             <note ref="n9wrr5f" x="741.0" y="707.0"/>
             <note ref="n1b1dux1" x="746.0" y="517.0"/>
             <note ref="no7avem" x="745.0" y="495.0"/>
@@ -13221,7 +13221,7 @@
             <note ref="n18dxio1" x="2784.0" y="3488.0"/>
             <note ref="ndgicfv" x="2784.0" y="3468.0"/>
         </page>
-        <page file="score\Add_64978-0013.jpg" width.pixels="3412" height.pixels="4184">
+        <page file="score/Add_64978-0013.jpg" width.pixels="3412" height.pixels="4184">
             <note ref="nwqgcz5" x="1178.0" y="805.0"/>
             <tempo ref="d1x71xvi" x="1051.0" y="442.0"/>
             <articulation ref="seubi4c_meico_2d6268c2-c2f0-4ff4-b129-fae11b4449b6_mpmToolbox-copy_f1929380-0165-4cb7-be7b-62a46c29a8e5" x="1189.0" y="822.0"/>
@@ -13664,7 +13664,7 @@
             <articulation ref="s1vynoq7_meico_217b02af-5849-49fe-9524-a5e3352391e0_mpmToolbox-copy_1b129407-d4c3-47e5-b2f3-81e01e772b88" x="1929.0" y="3258.0"/>
             <articulation ref="s1vynoq7_meico_9e7c3826-546d-4ab3-9046-9ad7c971f750_mpmToolbox-copy_49cddfa9-7e08-4ad3-9ce9-8f2b22984064" x="1930.0" y="3275.0"/>
         </page>
-        <page file="score\Add_64978-0014.jpg" width.pixels="3412" height.pixels="4184">
+        <page file="score/Add_64978-0014.jpg" width.pixels="3412" height.pixels="4184">
             <note ref="na8150v" x="1004.0" y="510.0"/>
             <note ref="n1c3h9b3" x="1005.0" y="561.0"/>
             <note ref="nj0pxmq" x="1008.0" y="698.0"/>
@@ -14355,7 +14355,7 @@
             <note ref="n1fv42zp" x="2835.0" y="3279.0"/>
             <articulation ref="s1d3opat_meico_b795c892-801b-4d73-b2f4-21482650a919_mpmToolbox-copy_e019d127-0e30-4d88-9371-923e0990d48f" x="2837.0" y="3246.0"/>
         </page>
-        <page file="score\Add_64978-0015.jpg" width.pixels="3412" height.pixels="4184">
+        <page file="score/Add_64978-0015.jpg" width.pixels="3412" height.pixels="4184">
             <note ref="n1pvfrfj" x="739.0" y="695.0"/>
             <note ref="n1noxhx4" x="738.0" y="549.0"/>
             <note ref="n1s2pur7" x="737.0" y="488.0"/>
@@ -15182,7 +15182,7 @@
             <tempo ref="mpmToolbox_15abc250-2b9b-406f-823e-20435ec00459" x="2782.0" y="3073.0"/>
             <articulation ref="s1td3w9b_meico_35d14c7d-fc0c-406b-b005-4646e72f6245_mpmToolbox-copy_98487570-b6a2-4b78-94ec-4a8ca75259da" x="2838.0" y="3544.0"/>
         </page>
-        <page file="score\Add_64978-0016.jpg" width.pixels="3412" height.pixels="4184">
+        <page file="score/Add_64978-0016.jpg" width.pixels="3412" height.pixels="4184">
             <note ref="n623hax" x="722.0" y="655.0"/>
             <note ref="nak4259" x="724.0" y="945.0"/>
             <note ref="n16wp86m" x="721.0" y="613.0"/>
@@ -16027,7 +16027,7 @@
             <note ref="n1ljgtz6" x="2808.0" y="3202.0"/>
             <articulation ref="a1a9657n_mpmToolbox-copy_8510077c-1c72-482f-9e8d-4d4182cb23cb" x="2807.0" y="3174.0"/>
         </page>
-        <page file="score\Add_64978-0017.jpg" width.pixels="3412" height.pixels="4184">
+        <page file="score/Add_64978-0017.jpg" width.pixels="3412" height.pixels="4184">
             <note ref="nf7qap9" x="787.0" y="915.0"/>
             <articulation ref="a16u1rcj_mpmToolbox-copy_8bab42ed-923e-4ddf-adf0-ef1570592eff" x="786.0" y="940.0"/>
             <note ref="n1jvn2p8" x="878.0" y="503.0"/>
@@ -16662,7 +16662,7 @@
             <dynamics ref="dsj8jui_mpmToolbox-copy_e2add558-717e-4c34-8bab-0cd61f8b1d66" x="2809.0" y="3400.0"/>
             <dynamics ref="dsj8jui_mpmToolbox-copy_144a7e77-b7e1-48b4-8424-91fd5a5703f4_mpmToolbox-copy_783fc1cd-ad73-4dc7-ba67-c95365be6edc" x="2809.0" y="3373.0"/>
         </page>
-        <page file="score\Add_64978-0018.jpg" width.pixels="3412" height.pixels="4184">
+        <page file="score/Add_64978-0018.jpg" width.pixels="3412" height.pixels="4184">
             <note ref="n1bvz4yj" x="1071.0" y="835.0"/>
             <articulation ref="oinfed42_mpmToolbox-copy_74ce1274-52af-43f1-afcf-75d5cdc5af3d" x="1070.0" y="861.0"/>
             <tempo ref="d1s58h4y" x="1002.0" y="538.0"/>
@@ -17133,7 +17133,7 @@
             <note ref="nv3oxcu" x="2830.0" y="3260.0"/>
             <note ref="nahvnf1" x="2870.0" y="3270.0"/>
         </page>
-        <page file="score\Add_64978-0019.jpg" width.pixels="3435" height.pixels="4192">
+        <page file="score/Add_64978-0019.jpg" width.pixels="3435" height.pixels="4192">
             <note ref="n12f2cjs" x="741.0" y="557.0"/>
             <note ref="n149pkfj" x="741.0" y="579.0"/>
             <note ref="nb1kt1w" x="786.0" y="566.0"/>
@@ -17771,7 +17771,7 @@
             <note ref="n18mkn6t" x="2831.0" y="3294.0"/>
             <note ref="nrjf3za" x="2875.0" y="3304.0"/>
         </page>
-        <page file="score\Add_64978-0020.jpg" width.pixels="3355" height.pixels="4192">
+        <page file="score/Add_64978-0020.jpg" width.pixels="3355" height.pixels="4192">
             <note ref="nfo4hsp" x="672.0" y="688.0"/>
             <note ref="nxwqs4" x="676.0" y="781.0"/>
             <articulation ref="a4q4crd_mpmToolbox-copy_ee146ba2-6b35-4789-b5fc-492d5939a34a" x="674.0" y="737.0"/>
@@ -18349,7 +18349,7 @@
             <note ref="n1o9aupu" x="2745.0" y="3595.0"/>
             <note ref="nvc0erl" x="2792.0" y="3524.0"/>
         </page>
-        <page file="score\Add_64978-0021.jpg" width.pixels="3380" height.pixels="4192">
+        <page file="score/Add_64978-0021.jpg" width.pixels="3380" height.pixels="4192">
             <note ref="n1ag4cfm" x="752.0" y="512.0"/>
             <note ref="npltjmk" x="759.0" y="844.0"/>
             <note ref="nsw3k64" x="823.0" y="769.0"/>
@@ -18889,7 +18889,7 @@
             <note ref="na3xvfp" x="2871.0" y="3176.0"/>
             <articulation ref="s3k652z_meico_19c4b847-49cb-4544-a7b0-e375af5c6fa7_mpmToolbox-copy_cbb13b90-1d12-4b24-b0f1-17e5ca489d67" x="2873.0" y="3087.0"/>
         </page>
-        <page file="score\Add_64978-0022.jpg" width.pixels="3475" height.pixels="4168">
+        <page file="score/Add_64978-0022.jpg" width.pixels="3475" height.pixels="4168">
             <note ref="nvfd0p6" x="912.0" y="835.0"/>
             <note ref="nuc5ckd" x="909.0" y="497.0"/>
             <note ref="nvhtka4" x="911.0" y="548.0"/>
@@ -19531,7 +19531,7 @@
             <note ref="nnspyy2" x="2941.0" y="3266.0"/>
             <articulation ref="s1n6eavq_meico_45030e3d-ec08-45ea-a09e-9ea62927abdd_mpmToolbox-copy_46ab681d-98b5-4348-b6dc-2d8572f92726" x="2941.0" y="3176.0"/>
         </page>
-        <page file="score\Add_64978-0023.jpg" width.pixels="3434" height.pixels="4168">
+        <page file="score/Add_64978-0023.jpg" width.pixels="3434" height.pixels="4168">
             <note ref="n1m222uo" x="671.0" y="719.0"/>
             <note ref="naox7y6" x="671.0" y="770.0"/>
             <note ref="nkhqz29" x="672.0" y="751.0"/>
@@ -20385,7 +20385,7 @@
             <note ref="n12sb90y" x="2802.0" y="3256.0"/>
             <articulation ref="smnp3cq_meico_2f4c234a-9a15-49cd-b5ab-e87c8403014b_mpmToolbox-copy_634a9659-c41b-4c83-b331-06a5e1564ce4" x="2805.0" y="3195.0"/>
         </page>
-        <page file="score\Add_64978-0024.jpg" width.pixels="3371" height.pixels="4184">
+        <page file="score/Add_64978-0024.jpg" width.pixels="3371" height.pixels="4184">
             <note ref="nysrndk" x="658.0" y="838.0"/>
             <note ref="n1jvx7wi" x="650.0" y="498.0"/>
             <note ref="n1mbxb19" x="657.0" y="816.0"/>
@@ -21278,29 +21278,29 @@
         </page>
     </score>
     <audios>
-        <audio file=".\audio\DECCASXL6523_Curzon_gesamt.mp3">
-            <spectrogram windowFunction="Hamming{length=4096}" hopSize="128" minFrequency="8.175799" maxFrequency="12543.854" binsPerSemitone="1" normalize="true" file=".\audio\DECCASXL6523_Curzon_gesamt.png"/>
+        <audio file="./audio/DECCASXL6523_Curzon_gesamt.mp3">
+            <spectrogram windowFunction="Hamming{length=4096}" hopSize="128" minFrequency="8.175799" maxFrequency="12543.854" binsPerSemitone="1" normalize="true" file="./audio/DECCASXL6523_Curzon_gesamt.png"/>
             <alignment>
                 <part midi.port="0" midi.channel="0" number="1" name="piano right hand" id="k1nlk7mo">
-                    <note ref="n16speqe" midi.pitch="67.0" milliseconds.date="2644.8243767754348" milliseconds.date.end="10020.269917806392" velocity="100.0" fixed="false"/>
-                    <note ref="ngjti4i" midi.pitch="70.0" milliseconds.date="2644.8243767754348" milliseconds.date.end="10020.269917806392" velocity="100.0" fixed="false"/>
-                    <note ref="n1cwo20y" midi.pitch="75.0" milliseconds.date="2644.8243767754348" milliseconds.date.end="10020.269917806392" velocity="100.0" fixed="false"/>
-                    <note ref="n1o1m6wp" midi.pitch="79.0" milliseconds.date="2644.8243767754348" milliseconds.date.end="10020.269917806392" velocity="100.0" fixed="false"/>
-                    <note ref="n1lgdh90" midi.pitch="63.0" milliseconds.date="10020.269917806392" milliseconds.date.end="11303.09862432923" velocity="100.0" fixed="false"/>
-                    <note ref="nrnrbws" midi.pitch="70.0" milliseconds.date="11303.09862432923" milliseconds.date.end="12574.051737633363" velocity="100.0" fixed="false"/>
-                    <note ref="n1p22e4r" midi.pitch="58.0" milliseconds.date="12574.051737633363" milliseconds.date.end="13860.874912739095" velocity="100.0" fixed="false"/>
-                    <note ref="n13vtc3x" midi.pitch="63.0" milliseconds.date="13860.874912739095" milliseconds.date.end="15021.666126102324" velocity="100.0" fixed="false"/>
-                    <note ref="n1pntvto" midi.pitch="63.0" milliseconds.date="15021.666126102324" milliseconds.date.end="15557.388008941723" velocity="100.0" fixed="false"/>
-                    <note ref="nlmvd2g" midi.pitch="62.0" milliseconds.date="15557.388008941723" milliseconds.date.end="16155.114830567498" velocity="100.0" fixed="false"/>
-                    <note ref="njrr60x" midi.pitch="63.0" milliseconds.date="16155.114830567498" milliseconds.date.end="17001.077464652004" velocity="100.0" fixed="false"/>
-                    <note ref="nhadohx" midi.pitch="64.0" milliseconds.date="17001.077464652004" milliseconds.date.end="17272.97880832849" velocity="100.0" fixed="false"/>
-                    <note ref="n1who2vx" midi.pitch="65.0" milliseconds.date="17272.97880832849" milliseconds.date.end="17546.379758332434" velocity="100.0" fixed="false"/>
-                    <note ref="nhmv48" midi.pitch="62.0" milliseconds.date="17546.379758332434" milliseconds.date.end="17811.223222294586" velocity="100.0" fixed="false"/>
+                    <note ref="n16speqe" midi.pitch="67.0" milliseconds.date="2644.8243767754348" milliseconds.date.end="10042.177507865428" velocity="100.0" fixed="false"/>
+                    <note ref="ngjti4i" midi.pitch="70.0" milliseconds.date="2644.8243767754348" milliseconds.date.end="10042.177507865428" velocity="100.0" fixed="false"/>
+                    <note ref="n1cwo20y" midi.pitch="75.0" milliseconds.date="2644.8243767754348" milliseconds.date.end="10042.177507865428" velocity="100.0" fixed="false"/>
+                    <note ref="n1o1m6wp" midi.pitch="79.0" milliseconds.date="2644.8243767754348" milliseconds.date.end="10042.177507865428" velocity="100.0" fixed="false"/>
+                    <note ref="n1lgdh90" midi.pitch="63.0" milliseconds.date="10042.177507865426" milliseconds.date.end="11323.078086542224" velocity="100.0" fixed="true"/>
+                    <note ref="nrnrbws" midi.pitch="70.0" milliseconds.date="11323.078086542224" milliseconds.date.end="12590.381500421921" velocity="100.0" fixed="true"/>
+                    <note ref="n1p22e4r" midi.pitch="58.0" milliseconds.date="12590.381500421921" milliseconds.date.end="13888.36962257552" velocity="100.0" fixed="false"/>
+                    <note ref="n13vtc3x" midi.pitch="63.0" milliseconds.date="13888.36962257552" milliseconds.date.end="15018.627240664455" velocity="100.0" fixed="false"/>
+                    <note ref="n1pntvto" midi.pitch="63.0" milliseconds.date="15018.627240664455" milliseconds.date.end="15585.155601997258" velocity="100.0" fixed="true"/>
+                    <note ref="nlmvd2g" midi.pitch="62.0" milliseconds.date="15585.155601997258" milliseconds.date.end="16183.011138311083" velocity="100.0" fixed="false"/>
+                    <note ref="njrr60x" midi.pitch="63.0" milliseconds.date="16183.011138311083" milliseconds.date.end="17007.906783858034" velocity="100.0" fixed="false"/>
+                    <note ref="nhadohx" midi.pitch="64.0" milliseconds.date="17007.906783858034" milliseconds.date.end="17279.61699144138" velocity="100.0" fixed="false"/>
+                    <note ref="n1who2vx" midi.pitch="65.0" milliseconds.date="17279.61699144138" milliseconds.date.end="17553.017941445323" velocity="100.0" fixed="false"/>
+                    <note ref="nhmv48" midi.pitch="62.0" milliseconds.date="17553.017941445323" milliseconds.date.end="17811.223222294586" velocity="100.0" fixed="false"/>
                     <note ref="nprxxwr" midi.pitch="63.0" milliseconds.date="17811.223222294586" milliseconds.date.end="18090.85305978431" velocity="100.0" fixed="false"/>
                     <note ref="nx9py4a" midi.pitch="57.0" milliseconds.date="18090.85305978431" milliseconds.date.end="18444.271506315017" velocity="100.0" fixed="false"/>
                     <note ref="n1xseu06" midi.pitch="58.0" milliseconds.date="18444.271506315017" milliseconds.date.end="19045.047530904514" velocity="100.0" fixed="false"/>
-                    <note ref="meico_expansion_of_n1lgdh90_f0d58327-83e5-4b46-82d6-568af3bea808" midi.pitch="63.0" milliseconds.date="19645.823555494007" milliseconds.date.end="20874.09793230442" velocity="100.0" fixed="false"/>
-                    <note ref="meico_expansion_of_nrnrbws_47be81e0-0405-4829-bbf7-3bc807696047" midi.pitch="70.0" milliseconds.date="20874.09793230442" milliseconds.date.end="22077.921713334963" velocity="100.0" fixed="false"/>
+                    <note ref="meico_expansion_of_n1lgdh90_f0d58327-83e5-4b46-82d6-568af3bea808" midi.pitch="63.0" milliseconds.date="19645.823555494007" milliseconds.date.end="20872.308283012386" velocity="100.0" fixed="false"/>
+                    <note ref="meico_expansion_of_nrnrbws_47be81e0-0405-4829-bbf7-3bc807696047" midi.pitch="70.0" milliseconds.date="20872.308283012386" milliseconds.date.end="22077.921713334963" velocity="100.0" fixed="false"/>
                     <note ref="meico_expansion_of_n1p22e4r_ccd59f34-b0a8-44da-bb45-102bd8defe65" midi.pitch="58.0" milliseconds.date="22077.921713334963" milliseconds.date.end="23324.083228454307" velocity="100.0" fixed="false"/>
                     <note ref="meico_expansion_of_n13vtc3x_94b4999d-4666-4425-9502-eee11191b8c4" midi.pitch="63.0" milliseconds.date="23324.083228454307" milliseconds.date.end="24448.620648895132" velocity="100.0" fixed="false"/>
                     <note ref="meico_expansion_of_n1pntvto_9b7fc079-0bd1-44e3-8447-3320dce69589" midi.pitch="63.0" milliseconds.date="24448.620648895132" milliseconds.date.end="24994.64427068802" velocity="100.0" fixed="false"/>
@@ -27643,40 +27643,40 @@
                     <note ref="n1kp0fxz" midi.pitch="63.0" milliseconds.date="1448125.6891562839" milliseconds.date.end="1448792.175562155" velocity="100.0" fixed="false"/>
                 </part>
                 <part midi.port="0" midi.channel="1" number="2" name="piano left hand" id="us8cld0">
-                    <note ref="n1l0wn27" midi.pitch="39.0" milliseconds.date="2644.8243767754348" milliseconds.date.end="10020.269917806392" velocity="100.0" fixed="true"/>
-                    <note ref="n13sc2hk" midi.pitch="43.0" milliseconds.date="2644.8243767754348" milliseconds.date.end="10020.269917806392" velocity="100.0" fixed="false"/>
-                    <note ref="nxmaby9" midi.pitch="46.0" milliseconds.date="2644.8243767754348" milliseconds.date.end="10020.269917806392" velocity="100.0" fixed="false"/>
-                    <note ref="nbebj6r" midi.pitch="51.0" milliseconds.date="2644.8243767754348" milliseconds.date.end="10020.269917806392" velocity="100.0" fixed="false"/>
-                    <note ref="n1mg4kqe" midi.pitch="39.0" milliseconds.date="10020.269917806392" milliseconds.date.end="11303.09862432923" velocity="100.0" fixed="true"/>
-                    <note ref="n1wp99dh" midi.pitch="51.0" milliseconds.date="10020.269917806392" milliseconds.date.end="11303.09862432923" velocity="100.0" fixed="false"/>
-                    <note ref="nxn4kex" midi.pitch="46.0" milliseconds.date="11303.09862432923" milliseconds.date.end="12574.051737633363" velocity="100.0" fixed="true"/>
-                    <note ref="n1ekktj2" midi.pitch="58.0" milliseconds.date="11303.09862432923" milliseconds.date.end="12574.051737633363" velocity="100.0" fixed="false"/>
-                    <note ref="n14n8idc" midi.pitch="34.0" milliseconds.date="12574.051737633363" milliseconds.date.end="13860.874912739095" velocity="100.0" fixed="true"/>
-                    <note ref="n5dx45z" midi.pitch="46.0" milliseconds.date="12574.051737633363" milliseconds.date.end="13860.874912739095" velocity="100.0" fixed="false"/>
-                    <note ref="n1qnm924" midi.pitch="39.0" milliseconds.date="13860.874912739095" milliseconds.date.end="15021.666126102324" velocity="100.0" fixed="true"/>
-                    <note ref="n1ux1cae" midi.pitch="51.0" milliseconds.date="13860.874912739095" milliseconds.date.end="15021.666126102324" velocity="100.0" fixed="false"/>
-                    <note ref="nfuur87" midi.pitch="39.0" milliseconds.date="15021.666126102324" milliseconds.date.end="15557.388008941723" velocity="100.0" fixed="true"/>
-                    <note ref="nbo5tvm" midi.pitch="51.0" milliseconds.date="15021.666126102324" milliseconds.date.end="15557.388008941723" velocity="100.0" fixed="false"/>
-                    <note ref="n1ig9rls" midi.pitch="38.0" milliseconds.date="15557.388008941723" milliseconds.date.end="16155.114830567498" velocity="100.0" fixed="true"/>
-                    <note ref="n1pm61s7" midi.pitch="50.0" milliseconds.date="15557.388008941723" milliseconds.date.end="16155.114830567498" velocity="100.0" fixed="false"/>
-                    <note ref="nz38vt3" midi.pitch="39.0" milliseconds.date="16155.114830567498" milliseconds.date.end="17001.077464652004" velocity="100.0" fixed="true"/>
-                    <note ref="ng6pony" midi.pitch="51.0" milliseconds.date="16155.114830567498" milliseconds.date.end="17001.077464652004" velocity="100.0" fixed="false"/>
-                    <note ref="nr3inm3" midi.pitch="40.0" milliseconds.date="17001.077464652004" milliseconds.date.end="17272.97880832849" velocity="100.0" fixed="true"/>
-                    <note ref="n14z42g0" midi.pitch="52.0" milliseconds.date="17001.077464652004" milliseconds.date.end="17272.97880832849" velocity="100.0" fixed="false"/>
-                    <note ref="n1fpd73o" midi.pitch="41.0" milliseconds.date="17272.97880832849" milliseconds.date.end="17546.379758332434" velocity="100.0" fixed="true"/>
-                    <note ref="nklx36l" midi.pitch="53.0" milliseconds.date="17272.97880832849" milliseconds.date.end="17546.379758332434" velocity="100.0" fixed="false"/>
-                    <note ref="nstkxd7" midi.pitch="38.0" milliseconds.date="17546.379758332434" milliseconds.date.end="17811.223222294586" velocity="100.0" fixed="true"/>
-                    <note ref="n1r9dfmp" midi.pitch="50.0" milliseconds.date="17546.379758332434" milliseconds.date.end="17811.223222294586" velocity="100.0" fixed="false"/>
+                    <note ref="n1l0wn27" midi.pitch="39.0" milliseconds.date="2644.8243767754348" milliseconds.date.end="10042.177507865428" velocity="100.0" fixed="true"/>
+                    <note ref="n13sc2hk" midi.pitch="43.0" milliseconds.date="2644.8243767754348" milliseconds.date.end="10042.177507865428" velocity="100.0" fixed="false"/>
+                    <note ref="nxmaby9" midi.pitch="46.0" milliseconds.date="2644.8243767754348" milliseconds.date.end="10042.177507865428" velocity="100.0" fixed="false"/>
+                    <note ref="nbebj6r" midi.pitch="51.0" milliseconds.date="2644.8243767754348" milliseconds.date.end="10042.177507865428" velocity="100.0" fixed="false"/>
+                    <note ref="n1wp99dh" midi.pitch="51.0" milliseconds.date="10070.344409369898" milliseconds.date.end="11323.078086542224" velocity="100.0" fixed="true"/>
+                    <note ref="n1mg4kqe" midi.pitch="39.0" milliseconds.date="10070.344409369902" milliseconds.date.end="11323.078086542224" velocity="100.0" fixed="true"/>
+                    <note ref="n1ekktj2" midi.pitch="58.0" milliseconds.date="11323.327536483052" milliseconds.date.end="12590.381500421921" velocity="100.0" fixed="true"/>
+                    <note ref="nxn4kex" midi.pitch="46.0" milliseconds.date="11323.680466568721" milliseconds.date.end="12590.381500421921" velocity="100.0" fixed="true"/>
+                    <note ref="n14n8idc" midi.pitch="34.0" milliseconds.date="12590.381500421921" milliseconds.date.end="13888.36962257552" velocity="100.0" fixed="true"/>
+                    <note ref="n5dx45z" midi.pitch="46.0" milliseconds.date="12590.381500421921" milliseconds.date.end="13888.36962257552" velocity="100.0" fixed="false"/>
+                    <note ref="n1qnm924" midi.pitch="39.0" milliseconds.date="13888.36962257552" milliseconds.date.end="15018.627240664455" velocity="100.0" fixed="true"/>
+                    <note ref="n1ux1cae" midi.pitch="51.0" milliseconds.date="13888.36962257552" milliseconds.date.end="15018.627240664455" velocity="100.0" fixed="false"/>
+                    <note ref="nfuur87" midi.pitch="39.0" milliseconds.date="15038.326681935643" milliseconds.date.end="15585.155601997258" velocity="100.0" fixed="true"/>
+                    <note ref="nbo5tvm" midi.pitch="51.0" milliseconds.date="15038.326681935643" milliseconds.date.end="15585.155601997258" velocity="100.0" fixed="false"/>
+                    <note ref="n1ig9rls" midi.pitch="38.0" milliseconds.date="15585.155601997258" milliseconds.date.end="16183.011138311083" velocity="100.0" fixed="true"/>
+                    <note ref="n1pm61s7" midi.pitch="50.0" milliseconds.date="15585.155601997258" milliseconds.date.end="16183.011138311083" velocity="100.0" fixed="false"/>
+                    <note ref="nz38vt3" midi.pitch="39.0" milliseconds.date="16183.011138311083" milliseconds.date.end="17007.906783858034" velocity="100.0" fixed="true"/>
+                    <note ref="ng6pony" midi.pitch="51.0" milliseconds.date="16183.011138311083" milliseconds.date.end="17007.906783858034" velocity="100.0" fixed="false"/>
+                    <note ref="nr3inm3" midi.pitch="40.0" milliseconds.date="17007.906783858034" milliseconds.date.end="17279.61699144138" velocity="100.0" fixed="true"/>
+                    <note ref="n14z42g0" midi.pitch="52.0" milliseconds.date="17007.906783858034" milliseconds.date.end="17279.61699144138" velocity="100.0" fixed="false"/>
+                    <note ref="n1fpd73o" midi.pitch="41.0" milliseconds.date="17279.61699144138" milliseconds.date.end="17553.017941445323" velocity="100.0" fixed="true"/>
+                    <note ref="nklx36l" midi.pitch="53.0" milliseconds.date="17279.61699144138" milliseconds.date.end="17553.017941445323" velocity="100.0" fixed="false"/>
+                    <note ref="nstkxd7" midi.pitch="38.0" milliseconds.date="17553.017941445323" milliseconds.date.end="17811.223222294586" velocity="100.0" fixed="true"/>
+                    <note ref="n1r9dfmp" midi.pitch="50.0" milliseconds.date="17553.017941445323" milliseconds.date.end="17811.223222294586" velocity="100.0" fixed="false"/>
                     <note ref="n1icesqp" midi.pitch="39.0" milliseconds.date="17811.223222294586" milliseconds.date.end="18090.85305978431" velocity="100.0" fixed="true"/>
                     <note ref="nr8jtdc" midi.pitch="51.0" milliseconds.date="17811.223222294586" milliseconds.date.end="18090.85305978431" velocity="100.0" fixed="false"/>
                     <note ref="n4bxi2g" midi.pitch="33.0" milliseconds.date="18090.85305978431" milliseconds.date.end="18444.271506315017" velocity="100.0" fixed="true"/>
                     <note ref="nm30m0b" midi.pitch="45.0" milliseconds.date="18090.85305978431" milliseconds.date.end="18444.271506315017" velocity="100.0" fixed="false"/>
                     <note ref="n1muvukp" midi.pitch="34.0" milliseconds.date="18444.271506315017" milliseconds.date.end="19045.047530904514" velocity="100.0" fixed="true"/>
                     <note ref="n1h8f4hm" midi.pitch="46.0" milliseconds.date="18444.271506315017" milliseconds.date.end="19045.047530904514" velocity="100.0" fixed="false"/>
-                    <note ref="meico_expansion_of_n1mg4kqe_9bd5a322-66e3-4cd9-a9e6-8c7c4a04d7bc" midi.pitch="39.0" milliseconds.date="19645.823555494007" milliseconds.date.end="20874.09793230442" velocity="100.0" fixed="true"/>
-                    <note ref="meico_expansion_of_n1wp99dh_11b26e2e-337f-4a37-9338-d11714401184" midi.pitch="51.0" milliseconds.date="19645.823555494007" milliseconds.date.end="20874.09793230442" velocity="100.0" fixed="false"/>
-                    <note ref="meico_expansion_of_nxn4kex_8d3e75d7-7cc1-4d3e-ad20-ffaa79b01de3" midi.pitch="46.0" milliseconds.date="20874.09793230442" milliseconds.date.end="22077.921713334963" velocity="100.0" fixed="true"/>
-                    <note ref="meico_expansion_of_n1ekktj2_576eab7d-d4d8-4e0a-b69a-be4dd383d179" midi.pitch="58.0" milliseconds.date="20874.09793230442" milliseconds.date.end="22077.921713334963" velocity="100.0" fixed="false"/>
+                    <note ref="meico_expansion_of_n1mg4kqe_9bd5a322-66e3-4cd9-a9e6-8c7c4a04d7bc" midi.pitch="39.0" milliseconds.date="19645.823555494007" milliseconds.date.end="20872.308283012386" velocity="100.0" fixed="true"/>
+                    <note ref="meico_expansion_of_n1wp99dh_11b26e2e-337f-4a37-9338-d11714401184" midi.pitch="51.0" milliseconds.date="19645.823555494007" milliseconds.date.end="20872.308283012386" velocity="100.0" fixed="false"/>
+                    <note ref="meico_expansion_of_nxn4kex_8d3e75d7-7cc1-4d3e-ad20-ffaa79b01de3" midi.pitch="46.0" milliseconds.date="20872.308283012386" milliseconds.date.end="22077.921713334963" velocity="100.0" fixed="true"/>
+                    <note ref="meico_expansion_of_n1ekktj2_576eab7d-d4d8-4e0a-b69a-be4dd383d179" midi.pitch="58.0" milliseconds.date="20872.308283012386" milliseconds.date.end="22077.921713334963" velocity="100.0" fixed="false"/>
                     <note ref="meico_expansion_of_n14n8idc_ac0d62a8-2a6b-42a9-84bd-7ce25cf33ffb" midi.pitch="34.0" milliseconds.date="22077.921713334963" milliseconds.date.end="23324.083228454307" velocity="100.0" fixed="true"/>
                     <note ref="meico_expansion_of_n5dx45z_3f5aa9b3-6280-471c-b529-f0dc807c49e7" midi.pitch="46.0" milliseconds.date="22077.921713334963" milliseconds.date.end="23324.083228454307" velocity="100.0" fixed="false"/>
                     <note ref="meico_expansion_of_n1qnm924_894607de-0d1e-4f21-935f-829d19a5a781" midi.pitch="39.0" milliseconds.date="23324.083228454307" milliseconds.date.end="24448.620648895132" velocity="100.0" fixed="true"/>
