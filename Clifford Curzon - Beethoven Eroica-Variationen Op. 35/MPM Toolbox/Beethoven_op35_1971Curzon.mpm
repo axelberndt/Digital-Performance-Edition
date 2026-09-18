@@ -157,11 +157,11 @@
             </header>
             <dated>
                 <ornamentationMap>
-                    <style date="0.0" name.ref="printed ornamentation"/>
-                    <ornament name.ref="arpeggio" scale="0.0" note.order="#n16uom8f #n1346tqj #n1w8bnzt #n1jl9118 #nx93qk5 #n1betdu5 #nxgmwxm" date="948600.0" xml:id="a19r3dqs"/>
-                    <ornament name.ref="arpeggio" scale="0.0" note.order="#n1rvryt4 #n1yitj5y" date="1061640.0" xml:id="aacmkpr"/>
-                    <ornament name.ref="arpeggio" scale="0.0" note.order="#n5h1k0c #nynp2rt #nvljpeb #nk4syg6" date="1136520.0" xml:id="aymjefg"/>
-                    <ornament name.ref="arpeggio" scale="0.0" note.order="#n1mmugp1 #nhpjxyb #n1gtgjqp #n102c2jj" date="1136520.0" xml:id="atpyr13"/> 
+                    <style date="0.0" name.ref="printed ornamentation" xml:id="meico_e32f9791-5dcd-47ce-a492-456327a444ea"/>
+                    <ornament name.ref="arpeggio" scale="0.0" note.order="#n16uom8f #n1346tqj #n1w8bnzt #n1jl9118 #nx93qk5 #n1betdu5 #nxgmwxm" date="948600.0" xml:id="a19r3dqs" note.order.perf="#n16uom8f #n1346tqj #n1w8bnzt #n1jl9118 #nx93qk5 #n1betdu5 #nxgmwxm"/>
+                    <ornament name.ref="arpeggio" scale="0.0" note.order="#n1rvryt4 #n1yitj5y" date="1061640.0" xml:id="aacmkpr" note.order.perf="#n1rvryt4 #n1yitj5y"/>
+                    <ornament name.ref="arpeggio" scale="0.0" note.order="#n5h1k0c #nynp2rt #nvljpeb #nk4syg6" date="1136520.0" xml:id="aymjefg" note.order.perf="#n5h1k0c #nynp2rt #nvljpeb #nk4syg6"/>
+                    <ornament name.ref="arpeggio" scale="0.0" note.order="#n1mmugp1 #nhpjxyb #n1gtgjqp #n102c2jj" date="1136520.0" xml:id="atpyr13" note.order.perf="#n1mmugp1 #nhpjxyb #n1gtgjqp #n102c2jj"/> 
                 </ornamentationMap>
                 <tempoMap>
                     <style date="0.0" name.ref="Fermatas (over MEI export)"/>
