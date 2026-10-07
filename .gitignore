@@ -1,9 +1,11 @@
+# macOS
 .DS_Store
 
-// ignore audio files
-.wav
-.mp3
-.flac
-.aiff
-.aif
-.ogg
+
+# Audio
+*.wav
+*.mp3
+*.flac
+*.aiff
+*.aif
+*.ogg
