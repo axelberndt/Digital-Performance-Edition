@@ -995,7 +995,7 @@
                         <articulationDef name="marcato" relativeDuration="0.8" absoluteVelocityChange="25.0"/>
                         <articulationDef name="nonlegato" relativeDuration="0.95"/>
                         <articulationDef name="pizzicato" absoluteDuration="1.0"/>
-                        <articulationDef name="portato" relativeDuration="0.8"/> 
+                        <articulationDef name="portato" relativeDuration="0.8"/>
                         <articulationDef name="snap pizzicato" absoluteDuration="1.0" absoluteVelocityChange="25.0"/>
                         <articulationDef name="spiccato" absoluteDurationMs="140.0" absoluteVelocityChange="25.0"/>
                         <articulationDef name="staccato" absoluteDurationMs="160.0" absoluteVelocityChange="-5.0"/>
@@ -1157,7 +1157,7 @@
                     <asynchrony date="21600.01" milliseconds.offset="750.4772236781444"/>
                     <asynchrony date="24480.01" milliseconds.offset="759.6561398310457"/>
                     <asynchrony date="33480.01" milliseconds.offset="762.6574451338035"/> 
-                </asynchronyMap> 
+                </asynchronyMap>
             </dated>
         </global>
         <part name="right hand" number="1" midi.channel="0" midi.port="0" xml:id="g1tm618u">
