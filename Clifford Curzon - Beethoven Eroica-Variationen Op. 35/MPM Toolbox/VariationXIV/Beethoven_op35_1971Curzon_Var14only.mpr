@@ -958,4 +958,7 @@
             </alignment>
         </audio>
     </audios>
+    <svgs>
+        <svg file="svg/Add_64978-0013_mit_desc.svg" page="./score/Add_64978-0013.jpg"/>
+    </svgs>
 </mpmToolboxProject>
