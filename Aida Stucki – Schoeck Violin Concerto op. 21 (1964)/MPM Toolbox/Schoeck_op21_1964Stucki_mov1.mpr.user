@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mprUser>
+  <syncPlayer selectedAudio="1" performance="MEI export performance" midiOut="Gervill" skip="0"/>
+  <dockableState>&lt;DockableList id="EL-1QB63-9t14q-dWBE7-89TN6-ID" size="2518,1014" orientation="vertical"&gt; &lt;DockableList id="EL-50h2C-6WW5O-MGGT2-hOp6a-ID" size="200,40" orientation="horizontal"&gt; &lt;DockableFrame id="msmFrame" size="490,271" state="docked" restoreState="docked"/&gt; &lt;DockableFrame id="annotationFrame" size="161,271" state="minimized" restoreState="docked"/&gt; &lt;DockableContent id="dockablepane.content" size="0,0"/&gt; &lt;DockableFrame id="svgFrame" size="238,47" state="docked" restoreState="docked"/&gt; &lt;DockableFrame id="mpmFrame" size="333,271" state="docked" restoreState="docked"/&gt; &lt;/DockableList&gt; &lt;DockableFrame id="playerFrame" size="1178,91" state="docked" restoreState="docked"/&gt; &lt;/DockableList&gt;</dockableState>
+  <tabsState>&lt;DocumentPaneState split="false" selectedId="Audio"&gt; &lt;string&gt;Score&lt;/string&gt; &lt;string&gt;Audio&lt;/string&gt; &lt;string&gt;Analytics&lt;/string&gt; &lt;/DocumentPaneState&gt;</tabsState>
+</mprUser>
