@@ -320,6 +320,7 @@
     </score>
     <audios>
         <audio file="audio/02 1964 Stucki, Aida_Schoeck Violinkonzert B-Dur op. 21 (Transfer DSR 2005-2008).mp3">
+            <spectrogram windowFunction="Hamming{length=1024}" hopSize="512" minFrequency="8.175799" maxFrequency="12543.854" binsPerSemitone="1" normalize="true" file="audio/02 1964 Stucki, Aida_Schoeck Violinkonzert B-Dur op. 21 (Transfer DSR 2005-2008).png"/>
             <alignment>
                 <part midi.port="0" midi.channel="0" number="1" name="" id="a2trwae">
                     <note ref="n1xtr4qc" midi.pitch="67.0" milliseconds.date="17262.12211937265" milliseconds.date.end="18221.12890378224" velocity="100.0" fixed="true"/>
