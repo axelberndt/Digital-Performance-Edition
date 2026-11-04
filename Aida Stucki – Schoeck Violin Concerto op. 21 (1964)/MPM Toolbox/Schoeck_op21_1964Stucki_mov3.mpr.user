@@ -3,6 +3,5 @@
   <syncPlayer selectedAudio="1" performance="MEI export performance" midiOut="Gervill" skip="0"/>
   <dockableState>&lt;DockableList id="EL-yy476-3nkB6-4FByl-n196r-ID" size="2518,1304" orientation="vertical"&gt; &lt;DockableList id="EL-ZrJ78-h541j-56j3H-9KJKC-ID" size="200,40" orientation="horizontal"&gt; &lt;DockableFrame id="msmFrame" size="345,271" state="docked" restoreState="docked"/&gt; &lt;DockableFrame id="annotationFrame" size="161,191" state="minimized" restoreState="docked"/&gt; &lt;DockableContent id="dockablepane.content" size="0,0"/&gt; &lt;DockableFrame id="svgFrame" size="238,47" state="docked" restoreState="docked"/&gt; &lt;DockableFrame id="mpmFrame" size="333,271" state="docked" restoreState="docked"/&gt; &lt;/DockableList&gt; &lt;DockableFrame id="playerFrame" size="810,91" state="docked" restoreState="docked"/&gt; &lt;/DockableList&gt;</dockableState>
   <tabsState>&lt;DocumentPaneState split="false" selectedId="Score"&gt; &lt;string&gt;Score&lt;/string&gt; &lt;string&gt;Audio&lt;/string&gt; &lt;string&gt;Analytics&lt;/string&gt; &lt;/DocumentPaneState&gt;</tabsState>
-  <audioSplit fractions="0.3339301700984781,0.333034914950761,0.333034914950761"/>
-  <score zoom="1.2360046129881648" offsetX="-419.99684920439574" offsetY="-1087.673326960894" page="2"/>
+  <score zoom="1.4955655817156797" offsetX="-1840.4057668093797" offsetY="-3500.869124118601" page="2"/>
 </mprUser>
