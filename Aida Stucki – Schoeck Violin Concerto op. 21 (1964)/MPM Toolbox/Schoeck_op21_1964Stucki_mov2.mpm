@@ -8,7 +8,7 @@
             <resource uri="SchoeckOp21_HugCo_3rdEd_Vl_mov2.msm" type="msm"/>
         </relatedResources>
     </metadata>
-    <performance name="MEI export performance" pulsesPerQuarter="720">
+    <performance name="score print (Leipzig/Zürich: Hug &amp; Co.)" pulsesPerQuarter="720">
         <global>
             <header>
                 <tempoStyles>
