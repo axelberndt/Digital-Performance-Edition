@@ -79,8 +79,8 @@
             <articulation ref="a55tv35_mpmToolbox-copy_ea3caa06-8761-49c8-84bd-f15627400174" x="1989.0" y="915.0"/>
             <articulation ref="s1gely5g_meico_97261427-10a8-4a6b-a8cd-570a467a7d1c_mpmToolbox-copy_b444c610-9151-4a8f-8ef4-669e1a2f7c49" x="1989.0" y="775.0"/>
             <note ref="n1xxqtus" x="2016.0" y="882.0"/>
-            <tempo ref="t18ez8wi_mpmToolbox-copy_8731570e-d6af-4b1d-be06-7368e06d4ffe" x="2044.0" y="910.0"/>
             <articulation ref="s1ugvzrq_meico_78639e94-705c-41f8-b597-4c95d7b03a6f_mpmToolbox-copy_9b8b108d-0aba-4abd-bfad-daba4f05404b" x="2072.0" y="826.0"/>
+            <tempo ref="t18ez8wi_mpmToolbox-copy_8731570e-d6af-4b1d-be06-7368e06d4ffe" x="2021.0" y="758.0"/>
             <note ref="n3b0jyt" x="2049.0" y="870.0"/>
             <dynamics ref="h1gxnj49_mpmToolbox-copy_5488ed14-02d7-4c4c-a290-71702b2adc30" x="2077.0" y="898.0"/>
             <articulation ref="s1ugvzrq_meico_659c3e2e-95f7-4930-9a3b-5c230d8dec68_mpmToolbox-copy_ea184a24-d43b-4065-a636-283f58eb8e25" x="2105.0" y="926.0"/>
@@ -107,9 +107,9 @@
             <note ref="ns0yv4w" x="2374.0" y="783.0"/>
             <articulation ref="sqxewwb_meico_4947f484-6ac8-4590-b085-f09c1cae17f3_mpmToolbox-copy_3023f610-b737-47a8-a24f-259f8422c419" x="2402.0" y="755.0"/>
             <note ref="n10o3rj2" x="687.0" y="1006.0"/>
-            <tempo ref="tuez5z8_mpmToolbox-copy_ddcdc87b-1bcb-4afe-9f3e-9ed6d0dbdbc8" x="715.0" y="978.0"/>
             <dynamics ref="mpmToolbox_af881dda-8112-4d02-ab41-f48dea1d6574" x="743.0" y="950.0"/>
             <articulation ref="sfi35dv_meico_203daa87-c428-441d-b894-b4c10cf31968_mpmToolbox-copy_3bce82f1-1cad-45ca-8e1c-7eebed112d33" x="659.0" y="1034.0"/>
+            <tempo ref="tuez5z8_mpmToolbox-copy_ddcdc87b-1bcb-4afe-9f3e-9ed6d0dbdbc8" x="662.0" y="970.0"/>
             <note ref="n1yvospp" x="742.0" y="1021.0"/>
             <articulation ref="sfi35dv_meico_c7b62e58-2510-47f3-b83b-dd70736a1334_mpmToolbox-copy_a84ce1c2-5a7b-4a41-9ae9-e830ce59ac37" x="770.0" y="993.0"/>
             <note ref="ni7p76z" x="796.0" y="1031.0"/>
@@ -121,12 +121,13 @@
             <note ref="n8nwvip" x="1046.0" y="1066.0"/>
             <dynamics ref="h1kd9089_mpmToolbox-copy_07c12745-dc36-467c-a79c-da41cd415c12" x="1074.0" y="1038.0"/>
             <articulation ref="s1f1efk7_meico_2a6a30ae-1640-4661-9f28-c327aae32210_mpmToolbox-copy_191636c4-2774-47bd-a98c-78352d5a578d" x="1074.0" y="1094.0"/>
+            <tempo ref="r1mrex8s_mpmToolbox-copy_d652639f-0bf2-4806-be6f-9b7126f57b32" x="1114.0" y="1040.0"/>
             <note ref="n59erh8" x="1168.0" y="1094.0"/>
             <articulation ref="s1f1efk7_meico_c0105c3c-dd2e-46b4-8e6c-390c0e4e340a_mpmToolbox-copy_8086b84a-d48d-4eab-8a49-7f2a7c6efeef" x="1196.0" y="1066.0"/>
             <note ref="n3xobpy" x="1280.0" y="1085.0"/>
-            <tempo ref="t1m68ogs_mpmToolbox-copy_c846a62c-961a-44ca-a39d-94c07ade737c" x="1308.0" y="1057.0"/>
             <dynamics ref="d1syzhq7_mpmToolbox-copy_e7adbaf6-dea0-4850-862a-3cf9c86ba5ef" x="1336.0" y="1029.0"/>
             <articulation ref="sa58stl_meico_6deeed76-74c8-4341-88f2-d66ed3439a9a_mpmToolbox-copy_4d887a78-9139-46e3-9b18-db50e0dabdd9" x="1252.0" y="1113.0"/>
+            <tempo ref="t1m68ogs_mpmToolbox-copy_c846a62c-961a-44ca-a39d-94c07ade737c" x="1270.0" y="1038.0"/>
             <note ref="n1etqk0x" x="1329.0" y="1098.0"/>
             <articulation ref="sa58stl_meico_50b99ccf-c828-41f6-96f2-a3bac9e3654f_mpmToolbox-copy_dda75a60-8796-43b4-9503-8c1d4bc1e9a4" x="1357.0" y="1070.0"/>
             <note ref="n4ea2yd" x="1381.0" y="1109.0"/>
@@ -167,8 +168,8 @@
             <dynamics ref="h1nmuro_mpmToolbox-copy_7ea15315-2087-4a9f-a19f-ef5230b043f4" x="715.0" y="1281.0"/>
             <articulation ref="s1kbuh61_meico_a437e00a-a985-4fbd-bbe5-b0c4084b4c2f_mpmToolbox-copy_a331b071-a2a9-4811-9c62-4131cbef6ccf" x="715.0" y="1337.0"/>
             <note ref="nlvk2zf" x="877.0" y="1313.0"/>
-            <tempo ref="m1cv6c25_mpmToolbox-copy_f3ae8fd1-ac6b-4021-8de5-87f239d4fbc9" x="905.0" y="1285.0"/>
             <articulation ref="s1kbuh61_meico_ddcc0ea0-e028-4af4-bdfb-1fb6fd6e66cd_mpmToolbox-copy_fb7b7313-b743-47a3-8e3a-3a3a4cac20b9" x="905.0" y="1341.0"/>
+            <tempo ref="m1cv6c25_mpmToolbox-copy_f3ae8fd1-ac6b-4021-8de5-87f239d4fbc9" x="867.0" y="1254.0"/>
             <note ref="nuvtb2a" x="981.0" y="1316.0"/>
             <dynamics ref="mpmToolbox_2b5584a1-276a-4993-adbf-f9983ab6f5c5" x="1009.0" y="1288.0"/>
             <articulation ref="s1qrboro_meico_01d4f14b-9007-4fc4-8862-12dc805cfc02_mpmToolbox-copy_b1bf465d-9fcc-4956-b429-419d8ccc862c" x="1009.0" y="1344.0"/>
@@ -176,9 +177,9 @@
             <dynamics ref="h1ds7rey_mpmToolbox-copy_a86f728e-b30d-490e-be76-bb2bfb6e302b" x="1122.0" y="1279.0"/>
             <articulation ref="s1qrboro_meico_e9cdcc32-4b17-4f65-ab77-9a90e27c5aaf_mpmToolbox-copy_61c765db-12b8-4320-9a70-c3211b3fd38c" x="1122.0" y="1335.0"/>
             <note ref="n12ci3af" x="1269.0" y="1277.0"/>
-            <tempo ref="telrn0n_mpmToolbox-copy_d260d02f-70eb-42f6-bebb-aeae419f28ee" x="1297.0" y="1249.0"/>
             <dynamics ref="d17qs9hu_mpmToolbox-copy_44d66306-6a0f-4f2c-be11-c9c379db1773" x="1325.0" y="1221.0"/>
             <articulation ref="s1rh17k2_meico_8f820356-e213-41f0-abde-0fd55139819c_mpmToolbox-copy_d8728c23-e0b7-4431-b819-b76f0a90a184" x="1297.0" y="1305.0"/>
+            <tempo ref="telrn0n_mpmToolbox-copy_d260d02f-70eb-42f6-bebb-aeae419f28ee" x="1241.0" y="1246.0"/>
             <note ref="n18kubez" x="1337.0" y="1303.0"/>
             <articulation ref="s1rh17k2_meico_1063b900-9a51-4fcd-9433-4645396b7de7_mpmToolbox-copy_b3ebc6e6-03c9-4256-950d-43f1479d9b6a" x="1365.0" y="1275.0"/>
             <note ref="n1hoqq2g" x="1390.0" y="1323.0"/>
@@ -197,8 +198,8 @@
             <articulation ref="s17mx186_meico_89979d84-e89b-4d4c-8e7a-1eb7b513a7bd_mpmToolbox-copy_28339bb5-81b7-4133-b530-e149b9d5b926" x="1847.0" y="1267.0"/>
             <note ref="n1vewp0f" x="1853.0" y="1305.0"/>
             <articulation ref="s17mx186_meico_fb43b7ee-f1fc-42ed-9879-8a896d03e119_mpmToolbox-copy_fdf6cc45-432b-432a-91f5-e5c04bad75a5" x="1881.0" y="1277.0"/>
-            <note ref="n5lf8ca" x="1891.0" y="1316.0"/>
             <articulation ref="s17mx186_meico_8b71a612-f092-44de-b0a6-ab01eb37bec6_mpmToolbox-copy_01ead2bc-f9d9-44f8-b334-36f415ec217c" x="1919.0" y="1288.0"/>
+            <note ref="n5lf8ca" x="1891.0" y="1316.0"/>
             <note ref="n1uyngch" x="1925.0" y="1326.0"/>
             <articulation ref="s17mx186_meico_2a6a3a23-abe9-4dd6-ab75-b27d27b3fdec_mpmToolbox-copy_82148cfa-059b-485b-bd9c-8a8eb9d19e60" x="1953.0" y="1298.0"/>
             <note ref="nho94wp" x="1998.0" y="1252.0"/>
@@ -249,12 +250,13 @@
             <articulation ref="s1lyew78_meico_f4fc914f-706f-44f2-aa12-7070d0baeddd_mpmToolbox-copy_6a817bb4-43e4-4376-b323-c50fbc5d1cdc" x="1365.0" y="1560.0"/>
             <note ref="n1puylf5" x="1397.0" y="1501.0"/>
             <note ref="ncc48le" x="1469.0" y="1534.0"/>
-            <tempo ref="o78f048_mpmToolbox-copy_9bf4302a-8bed-4f1e-9846-2d91342d5df1" x="1497.0" y="1506.0"/>
             <articulation ref="s7wjqb1_meico_e75a1e6e-8e10-490b-9c4f-b9626678cf46_mpmToolbox-copy_33d3dfaf-b52d-4068-becd-a52d92007502" x="1497.0" y="1562.0"/>
+            <tempo ref="o78f048_mpmToolbox-copy_9bf4302a-8bed-4f1e-9846-2d91342d5df1" x="1475.0" y="1463.0"/>
             <note ref="nr88efl" x="1529.0" y="1535.0"/>
             <articulation ref="s7wjqb1_meico_5e49788e-417a-468a-8231-216b4495bf21_mpmToolbox-copy_58b3b330-2cae-43c7-9b2e-7854b9254170" x="1557.0" y="1507.0"/>
             <note ref="n1cn4oyk" x="1607.0" y="1525.0"/>
             <articulation ref="s7wjqb1_meico_a438d249-889d-45e2-aea9-e43338423dc7_mpmToolbox-copy_6ba37eb0-d058-44e5-9a80-394991036fa8" x="1635.0" y="1497.0"/>
+            <tempo ref="mpmToolbox_44df70fc-6c29-4023-866a-3c8e28b192ca" x="1608.0" y="1462.0"/>
             <note ref="nnckoph" x="2053.0" y="1614.0"/>
             <dynamics ref="h196vdf5_mpmToolbox-copy_83cf9dd9-a681-46a3-a832-726ad148731a" x="2081.0" y="1586.0"/>
             <articulation ref="a1yqn9s6_mpmToolbox-copy_1a693648-4a23-46e4-93a8-4d26d0025289" x="2081.0" y="1642.0"/>
@@ -282,10 +284,10 @@
             <articulation ref="syvmho9_meico_904e778a-3808-4279-b36b-743a88c45618_mpmToolbox-copy_1ba4ffbe-9a9b-4628-9957-7e54100c9c8c" x="2483.0" y="1441.0"/>
             <note ref="njf2e1j" x="690.0" y="1737.0"/>
             <note ref="nm339z5" x="945.0" y="1834.0"/>
-            <tempo ref="kc57i7p_mpmToolbox-copy_54037a83-b18e-4f6f-9b11-42f13bde560a" x="973.0" y="1862.0"/>
             <dynamics ref="h1lsu7fu_mpmToolbox-copy_8e2d49ba-4cbd-47ef-bd08-f390d13220ae" x="917.0" y="1862.0"/>
             <articulation ref="ay4s6_mpmToolbox-copy_ba87cc95-1429-4c35-b915-84ae7094b7e9" x="917.0" y="1806.0"/>
             <articulation ref="szlckir_meico_37e6a225-7530-4cb8-81fb-7cd21853ebee_mpmToolbox-copy_877e74ef-5626-4f59-9b22-1725f633628f" x="945.0" y="1778.0"/>
+            <tempo ref="kc57i7p_mpmToolbox-copy_54037a83-b18e-4f6f-9b11-42f13bde560a" x="905.0" y="1711.0"/>
             <note ref="nambfzm" x="988.0" y="1813.0"/>
             <articulation ref="szlckir_meico_2a55aedf-0894-4c49-93a4-cd5b6f5b0106_mpmToolbox-copy_729b0655-1d8f-4dd7-b765-a6aab13e6225" x="1016.0" y="1785.0"/>
             <note ref="nt5e96o" x="1052.0" y="1793.0"/>
@@ -323,6 +325,7 @@
             <articulation ref="s4t97bl_meico_57728340-004a-4e65-a989-e8a413414000_mpmToolbox-copy_6dad076e-3eeb-4945-9dd7-c80fd21a25fb" x="2117.0" y="1674.0"/>
             <note ref="n1p1gvni" x="2157.0" y="1681.0"/>
             <articulation ref="s1a5ap98_meico_4ddc0cdb-1a1d-4ff3-9f19-612a273b05b9_mpmToolbox-copy_14010981-9d9b-43ea-9701-3b51319f4461" x="2185.0" y="1653.0"/>
+            <tempo ref="mpmToolbox_539f9423-e105-4a09-91d9-c5f26aec685d" x="2157.0" y="1653.0"/>
             <note ref="n12pniz2" x="2227.0" y="1695.0"/>
             <articulation ref="a1gmsnly_mpmToolbox-copy_97d9395a-6e0d-4852-9b23-8573b3b122d3" x="2255.0" y="1667.0"/>
             <articulation ref="s1a5ap98_meico_d09a0e35-3e35-403b-b0e4-449ca79be2f9_mpmToolbox-copy_00ce636a-297b-4427-8bb0-168d105d7151" x="2255.0" y="1723.0"/>
@@ -355,10 +358,10 @@
             <dynamics ref="h6ukik1_mpmToolbox-copy_bb8aec27-e9c7-41dc-993d-72890b1c2a43" x="1023.0" y="1940.0"/>
             <articulation ref="s11v8kf2_meico_46c19040-5ad5-4b20-bf59-d163a5543199_mpmToolbox-copy_9b4d8c36-a795-4375-b4ba-23daac6ef765" x="1023.0" y="1996.0"/>
             <note ref="nxuuprm" x="1061.0" y="1958.0"/>
-            <tempo ref="w1wng16m_mpmToolbox-copy_5e63e062-b011-4039-afba-0e0a4334a827" x="1089.0" y="1930.0"/>
             <articulation ref="s11v8kf2_meico_4a2903bb-5e04-45bb-a6b7-c7b7028b9e51_mpmToolbox-copy_e8288f33-06db-477a-9b2f-062404175a22" x="1089.0" y="1986.0"/>
             <note ref="n19a6e4x" x="1108.0" y="1959.0"/>
             <articulation ref="s1bbdirl_meico_2ef1aff2-ce38-4d33-a1d8-9dda2431a8d8_mpmToolbox-copy_d35dd017-2aa3-4dbd-8b51-224022c799ff" x="1136.0" y="1987.0"/>
+            <tempo ref="mpmToolbox_b35d1005-869e-4362-9dc2-cc43bfca0fc9" x="1060.0" y="1905.0"/>
             <note ref="npefysf" x="1157.0" y="1951.0"/>
             <articulation ref="s1bbdirl_meico_22b3b696-d567-45f1-82a5-cc71c6fd9523_mpmToolbox-copy_ea6fb1cb-dc8f-4048-93a8-2ec6677e4ffe" x="1129.0" y="1923.0"/>
             <note ref="n5pgacl" x="1196.0" y="1952.0"/>
@@ -366,8 +369,8 @@
             <note ref="n192hcw2" x="1273.0" y="1972.0"/>
             <articulation ref="s1eo1wot_meico_a87a466c-a67d-486f-9180-6233d2425536_mpmToolbox-copy_4dac1fa8-eee7-4c49-997b-e0bf08c93af0" x="1301.0" y="1944.0"/>
             <note ref="n1xoaqan" x="1341.0" y="1982.0"/>
-            <tempo ref="tztqajf_mpmToolbox-copy_940d13a8-8b02-478e-b686-983443c8b530" x="1369.0" y="1954.0"/>
             <dynamics ref="mpmToolbox_1639bebd-1254-4d63-9243-393599f18aa7" x="1397.0" y="1982.0"/>
+            <tempo ref="tztqajf_mpmToolbox-copy_940d13a8-8b02-478e-b686-983443c8b530" x="1342.0" y="1870.0"/>
             <note ref="n17iy2m6" x="1407.0" y="1927.0"/>
             <dynamics ref="d12tjzl_mpmToolbox-copy_743cb60e-5c3e-42c4-98a8-a9add44464b2" x="1435.0" y="1899.0"/>
             <articulation ref="pkfsjib_mpmToolbox-copy_1279dcae-c5e6-4786-b30d-e6b131f49310" x="1435.0" y="1955.0"/>
@@ -416,18 +419,18 @@
             <articulation ref="sufi59j_meico_822b959d-1ca0-407b-a171-872ca7f7d28a_mpmToolbox-copy_1ee18c52-8da3-4f2a-a61b-b6d43092a502" x="918.0" y="2111.0"/>
             <note ref="nw4wwhy" x="977.0" y="2141.0"/>
             <note ref="n11ksyik" x="1032.0" y="2266.0"/>
-            <tempo ref="w178vq35_mpmToolbox-copy_9edb2161-dfb7-4b64-9601-9f5de7fcd547" x="1060.0" y="2238.0"/>
             <articulation ref="svl98sz_meico_61e676f5-215e-4722-9303-1e157ce3e713_mpmToolbox-copy_e55521ee-21e8-4df1-a53e-c65874afdbc9" x="1060.0" y="2294.0"/>
+            <tempo ref="mpmToolbox_917d75bb-ffd6-4a93-ae8b-d127a8d3ff8f" x="1031.0" y="2168.0"/>
             <note ref="n83yzv" x="1176.0" y="2274.0"/>
             <articulation ref="svl98sz_meico_2838ffef-ed5b-4e25-a3b4-b459ce18187d_mpmToolbox-copy_06ce434f-f991-4158-bcf4-0bde825b5224" x="1204.0" y="2246.0"/>
             <note ref="n1hlzpcc" x="1230.0" y="2289.0"/>
             <articulation ref="svl98sz_meico_3a9139e0-403f-432f-98cd-1ff2418f7873_mpmToolbox-copy_b406d25a-2d4a-4583-9085-d6b5ca807913" x="1258.0" y="2261.0"/>
             <note ref="n1azndhd" x="1393.0" y="2290.0"/>
             <note ref="nzpjsse" x="1396.0" y="2238.0"/>
-            <tempo ref="d1sov85m_mpmToolbox-copy_aeb19fb9-0c8f-4567-b540-9857a693111a" x="1424.0" y="2210.0"/>
             <dynamics ref="huqcsp7_mpmToolbox-copy_7b7cc148-d09f-4626-94f4-d65871e9c646" x="1452.0" y="2182.0"/>
             <articulation ref="s1pmo4lh_meico_00e4ce4f-4028-42a1-b319-69288ed62554_mpmToolbox-copy_cd4d7e4d-80af-45cb-9f54-8b9615a3440e" x="1421.0" y="2262.0"/>
             <articulation ref="s1pmo4lh_meico_39a562b7-996c-4739-8040-79d82b197a89_mpmToolbox-copy_88c21f41-fb12-4cb8-a913-6e4a66723e38" x="1368.0" y="2266.0"/>
+            <tempo ref="d1sov85m_mpmToolbox-copy_aeb19fb9-0c8f-4567-b540-9857a693111a" x="1330.0" y="2150.0"/>
             <note ref="n12f4d3v" x="1465.0" y="2298.0"/>
             <note ref="n1pxi44u" x="1467.0" y="2249.0"/>
             <articulation ref="s1pmo4lh_meico_4c9e917c-c832-47fb-9267-2607bbfb298a_mpmToolbox-copy_82c68965-4a38-436e-b4de-5139844aaa9c" x="1437.0" y="2326.0"/>
@@ -456,6 +459,7 @@
             <dynamics ref="h9glkyk_mpmToolbox-copy_2b4d5378-f7cf-4b8a-8910-497fc41d0fb4" x="1873.0" y="2237.0"/>
             <articulation ref="slr4hx7_meico_801d35e0-2634-4c6b-b785-a8e499d31ca1_mpmToolbox-copy_dff0e316-4bab-4148-a17f-451b9531a1bf" x="1873.0" y="2293.0"/>
             <articulation ref="s1mvkxrv_meico_41501223-44fd-4000-ac9d-950b82177669_mpmToolbox-copy_db2a3ff6-46e8-4451-b97b-4be6390867ed" x="1875.0" y="2343.0"/>
+            <tempo ref="t1w5r5al_mpmToolbox-copy_9ae3dafe-ddef-430a-8358-0677ba4e5f09" x="1963.0" y="2155.0"/>
             <note ref="n141g16h" x="2197.0" y="2310.0"/>
             <dynamics ref="dwqezgx_mpmToolbox-copy_56b542aa-95a0-40c1-b3db-d662caecf90e" x="2225.0" y="2282.0"/>
             <articulation ref="a166fpa3_mpmToolbox-copy_ce08d912-cf2e-440d-9cf2-ee1d3c036a32" x="2225.0" y="2338.0"/>
@@ -497,10 +501,10 @@
             <note ref="nt0iqg3" x="1614.0" y="2479.0"/>
             <articulation ref="sq8c2oq_meico_8f177e3b-71b9-4fe5-8620-edcca7feddf5_mpmToolbox-copy_ecb91ee7-271f-4d44-b007-8d9c05962443" x="1642.0" y="2451.0"/>
             <note ref="norihal" x="1707.0" y="2490.0"/>
-            <tempo ref="g1cdymns_mpmToolbox-copy_b0c3b522-bd16-4021-be67-decfbdc90e90" x="1735.0" y="2462.0"/>
             <dynamics ref="dtkv1z6_mpmToolbox-copy_b8b71bc0-98a0-486c-bc58-6ae1d6ef8ccb" x="1763.0" y="2434.0"/>
             <dynamics ref="dcqy683_mpmToolbox-copy_030d1237-4480-4f10-8024-40784dc28828" x="1791.0" y="2406.0"/>
             <articulation ref="s3w50vd_meico_28a99287-0d27-4fef-8a63-c3e287425386_mpmToolbox-copy_4e527097-6da1-402f-b10a-0f0b052a889b" x="1735.0" y="2518.0"/>
+            <tempo ref="g1cdymns_mpmToolbox-copy_b0c3b522-bd16-4021-be67-decfbdc90e90" x="1695.0" y="2390.0"/>
             <note ref="n795vlg" x="1817.0" y="2482.0"/>
             <articulation ref="s3w50vd_meico_b5b99b02-c008-4e7c-9ab2-167857beb9b2_mpmToolbox-copy_4bea04c6-df72-4187-b0c3-86a1e9e1be21" x="1845.0" y="2510.0"/>
             <note ref="n1r64r84" x="1855.0" y="2472.0"/>
@@ -517,8 +521,8 @@
             <note ref="n1fb3jbw" x="2125.0" y="2491.0"/>
             <articulation ref="s5g4dn6_meico_bb06bf8e-9297-4f5d-8565-ae65101e59e3_mpmToolbox-copy_923e1e29-7522-4a89-8eff-1dcc91a76fcd" x="2153.0" y="2463.0"/>
             <note ref="n1dc137m" x="2211.0" y="2504.0"/>
-            <tempo ref="tcybcgq_mpmToolbox-copy_d77bf13e-1f83-44e5-8fb6-358e91c53659" x="2239.0" y="2476.0"/>
             <dynamics ref="mpmToolbox_430ae06a-cfd5-4e2f-8098-ea24223a2a2a" x="2267.0" y="2448.0"/>
+            <tempo ref="tcybcgq_mpmToolbox-copy_d77bf13e-1f83-44e5-8fb6-358e91c53659" x="2196.0" y="2402.0"/>
             <note ref="n55lwlw" x="2351.0" y="2384.0"/>
             <dynamics ref="d1njirmp_mpmToolbox-copy_76e1cd10-a720-43a7-9d40-8dd862e0a8bb" x="2379.0" y="2356.0"/>
             <dynamics ref="x1yic2n2_mpmToolbox-copy_1457737e-cb62-435d-96c1-3fdc7f6450c9" x="2407.0" y="2328.0"/>
@@ -627,9 +631,9 @@
             <dynamics ref="mpmToolbox_8b092cf0-b2ba-4b27-bc54-ad22815781fe" x="2436.0" y="2558.0"/>
             <articulation ref="sgsupu6_meico_c28c7c5a-39bc-4d66-81fe-9d2522cd36cf_mpmToolbox-copy_af402a96-6b5f-4a51-8aea-a9c4bbc92732" x="2436.0" y="2614.0"/>
             <note ref="n1yr0h7g" x="593.0" y="2776.0"/>
-            <tempo ref="t13rs3op_mpmToolbox-copy_a4255a23-64d4-41f9-9948-c2aa82485848" x="621.0" y="2748.0"/>
             <dynamics ref="d1szsija_mpmToolbox-copy_37291c8b-67fd-4d26-aaa3-76903d727d72" x="649.0" y="2720.0"/>
             <articulation ref="sdbdju5_meico_ccd5f9af-7357-4cb3-b024-9938a6281581_mpmToolbox-copy_c6a98728-612a-49a2-8839-9457b6f9785d" x="565.0" y="2804.0"/>
+            <tempo ref="t13rs3op_mpmToolbox-copy_a4255a23-64d4-41f9-9948-c2aa82485848" x="586.0" y="2737.0"/>
             <note ref="nh9wc91" x="647.0" y="2788.0"/>
             <articulation ref="sdbdju5_meico_5360f37b-9875-4ebb-95f6-0f7f1a140f00_mpmToolbox-copy_469a464c-8d8c-4a83-a8d5-aed80cc81d57" x="675.0" y="2760.0"/>
             <note ref="n63duy6" x="696.0" y="2798.0"/>
@@ -725,6 +729,7 @@
             <note ref="n1i2irra" x="1572.0" y="3060.0"/>
             <articulation ref="ao5oync_mpmToolbox-copy_4fbac7e2-ae45-4897-84ba-7491e774a9ba" x="1600.0" y="3103.0"/>
             <articulation ref="ao5oync_meico_b22c46e7-37e0-42ae-8b20-cbddd9bec9bc_mpmToolbox-copy_4aaf0413-1fa2-4f15-bd69-e92aadb4d15a" x="1600.0" y="3032.0"/>
+            <tempo ref="mpmToolbox_4504a7bb-cd93-40ea-a39e-411c85e6b781" x="1596.0" y="3230.0"/>
             <note ref="n1aqqmyu" x="1655.0" y="3111.0"/>
             <note ref="no7reyh" x="1654.0" y="3044.0"/>
             <articulation ref="aacpfkg_mpmToolbox-copy_b1b2c4cb-577c-4ecd-9bbb-91ff6c2504a2" x="1683.0" y="3083.0"/>
@@ -765,11 +770,13 @@
             <articulation ref="aw0zbp6_meico_3bdba0d1-57f5-4a89-9a04-64b4d91049aa_mpmToolbox-copy_4eccf271-d5b1-417f-ad1a-89d882f8e3cd" x="2117.0" y="3055.0"/>
             <note ref="n10gwhko" x="2213.0" y="3194.0"/>
             <note ref="n4ze7kl" x="2211.0" y="3118.0"/>
-            <tempo ref="tpasc60_mpmToolbox-copy_2a74bb11-fbed-42e9-9ac8-a647f0432144" x="2239.0" y="3090.0"/>
             <articulation ref="a1yy4cmd_mpmToolbox-copy_b1610d59-b4ab-4f73-952a-ad61aefbe96a" x="2241.0" y="3166.0"/>
             <articulation ref="a1yy4cmd_meico_006743da-4871-4687-9714-82473b51d513_mpmToolbox-copy_2eb39bf2-77e7-4ef6-b344-41f6d21976f7" x="2183.0" y="3146.0"/>
+            <tempo ref="tpasc60_mpmToolbox-copy_2a74bb11-fbed-42e9-9ac8-a647f0432144" x="2163.0" y="3246.0"/>
+            <tempo ref="r181n7w6_mpmToolbox-copy_4a9b6c87-770e-4514-89d4-a8087415179b" x="2331.0" y="3052.0"/>
         </page>
         <page file="score/IMG_7343.JPG" width.pixels="2788" height.pixels="3739">
+            <tempo ref="z5k9g73_mpmToolbox-copy_3596eae5-f608-453e-8545-62e2bc1e01f7" x="555.0" y="414.0"/>
             <note ref="n1v66nw7" x="772.0" y="565.0"/>
             <note ref="nt1k8i6" x="832.0" y="544.0"/>
             <note ref="n12q4atb" x="887.0" y="534.0"/>
@@ -869,10 +876,12 @@
             <note ref="nm388ja" x="2472.0" y="925.0"/>
             <note ref="nipttwn" x="2569.0" y="955.0"/>
             <note ref="n1u6t2io" x="590.0" y="1276.0"/>
+            <tempo ref="vcd9lk0_mpmToolbox-copy_b08e1455-ff8c-40c7-a190-e9de7d6b1868" x="592.0" y="1218.0"/>
             <note ref="n1sah0y6" x="693.0" y="1289.0"/>
             <note ref="nhqzy43" x="924.0" y="1271.0"/>
             <note ref="n1qv91st" x="971.0" y="1283.0"/>
             <note ref="nczjphd" x="1097.0" y="1293.0"/>
+            <tempo ref="t1vnesf4_mpmToolbox-copy_588869cd-4dc5-4835-95d1-cbea50eccdf5" x="1056.0" y="1223.0"/>
             <note ref="n1jgi0b1" x="1554.0" y="1365.0"/>
             <note ref="nw31haf" x="1714.0" y="1273.0"/>
             <note ref="n5v15ev" x="1897.0" y="1277.0"/>

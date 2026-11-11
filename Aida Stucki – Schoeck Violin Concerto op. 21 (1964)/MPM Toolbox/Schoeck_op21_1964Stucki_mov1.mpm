@@ -1803,13 +1803,7 @@
                 <tempoStyles>
                     <styleDef name="MEI export">
                         <tempoDef name="Allegretto." value="110.0"/>
-                        <tempoDef name="Tranquillo." value="100.0"/>
-                        <tempoDef name="Tempo I." value="100.0"/>
-                        <tempoDef name=" fließend" value="100.0"/>
-                        <tempoDef name=" a tempo" value="100.0"/>
-                        <tempoDef name=" immer breiter" value="100.0"/>
-                        <tempoDef name=" più moto" value="100.0"/>
-                        <tempoDef name="Allegrorisoluto." value="147.0"/>
+                        <tempoDef name="Tranquillo." value="100.0"/> 
                         <tempoDef name="Allegro, ma non troppo." value="147.0"/>
                         <tempoDef name=" quasi Allegro." value="147.0"/>
                         <tempoDef name=" un poco sostenuto" value="100.0"/>
@@ -1818,6 +1812,11 @@
                         <tempoDef name="Andante molto tranquillo." value="101.0"/>
                         <tempoDef name="Lento." value="51.0"/>
                         <tempoDef name="Un poco Allegretto." value="110.0"/>
+                        <tempoDef name="Tempo I." value="110.0"/>
+                        <tempoDef name="a tempo" value="110.0"/>
+                        <tempoDef name="Allegro risoluto." value="147.0"/>
+                        <tempoDef name=" più moto" value="120.0"/>
+                        <tempoDef name=" fließend" value="80.0"/>
                     </styleDef>
                 </tempoStyles>
                 <dynamicsStyles>
@@ -1850,25 +1849,27 @@
                     <tempo date="0.0" bpm="Allegretto." beatLength="0.25" xml:id="yvdv6f5_mpmToolbox-copy_dba37750-616b-4189-8817-d334e4ac708c"/>
                     <tempo date="11520.0" bpm="Allegretto." transition.to="Tranquillo." meanTempoAt="0.5" beatLength="0.25" xml:id="t18ez8wi_mpmToolbox-copy_8731570e-d6af-4b1d-be06-7368e06d4ffe"/>
                     <tempo date="15120.0" bpm="Tranquillo." beatLength="0.25" xml:id="tuez5z8_mpmToolbox-copy_ddcdc87b-1bcb-4afe-9f3e-9ed6d0dbdbc8"/>
-                    <tempo date="20880.0" bpm="Tranquillo." transition.to="Tempo I." meanTempoAt="0.5" beatLength="0.25" xml:id="r1mrex8s_mpmToolbox-copy_d652639f-0bf2-4806-be6f-9b7126f57b32"/>
+                    <tempo date="19440.0" bpm="Tranquillo." transition.to="80.0" beatLength="0.25" xml:id="r1mrex8s_mpmToolbox-copy_d652639f-0bf2-4806-be6f-9b7126f57b32"/>
                     <tempo date="23760.0" bpm="Tempo I." beatLength="0.25" xml:id="t1m68ogs_mpmToolbox-copy_c846a62c-961a-44ca-a39d-94c07ade737c"/>
                     <tempo date="44640.0" bpm="Tempo I." transition.to=" fließend" meanTempoAt="0.5" beatLength="0.25" xml:id="m1cv6c25_mpmToolbox-copy_f3ae8fd1-ac6b-4021-8de5-87f239d4fbc9"/>
                     <tempo date="49680.0" bpm=" fließend" beatLength="0.25" xml:id="telrn0n_mpmToolbox-copy_d260d02f-70eb-42f6-bebb-aeae419f28ee"/>
-                    <tempo date="74160.0" bpm=" fließend" transition.to="-" meanTempoAt="0.5" beatLength="0.25" xml:id="o78f048_mpmToolbox-copy_9bf4302a-8bed-4f1e-9846-2d91342d5df1"/>
-                    <tempo date="93120.0" bpm="-" transition.to="+" meanTempoAt="0.5" beatLength="0.25" xml:id="kc57i7p_mpmToolbox-copy_54037a83-b18e-4f6f-9b11-42f13bde560a"/>
-                    <tempo date="104040.0" bpm="+" transition.to=" a tempo" meanTempoAt="0.5" beatLength="0.25" xml:id="w1wng16m_mpmToolbox-copy_5e63e062-b011-4039-afba-0e0a4334a827"/>
-                    <tempo date="105840.0" bpm=" a tempo" beatLength="0.25" xml:id="tztqajf_mpmToolbox-copy_940d13a8-8b02-478e-b686-983443c8b530"/>
-                    <tempo date="120240.0" bpm=" a tempo" transition.to=" immer breiter" meanTempoAt="0.5" beatLength="0.25" xml:id="w178vq35_mpmToolbox-copy_9edb2161-dfb7-4b64-9601-9f5de7fcd547"/>
-                    <tempo date="123120.0" bpm=" immer breiter" beatLength="0.25" xml:id="d1sov85m_mpmToolbox-copy_aeb19fb9-0c8f-4567-b540-9857a693111a"/>
-                    <tempo date="128160.0" bpm=" a tempo" beatLength="0.25" xml:id="t1w5r5al_mpmToolbox-copy_9ae3dafe-ddef-430a-8358-0677ba4e5f09"/>
-                    <tempo date="151200.0" bpm=" a tempo" transition.to=" a tempo" meanTempoAt="0.5" beatLength="0.25" xml:id="g1cdymns_mpmToolbox-copy_b0c3b522-bd16-4021-be67-decfbdc90e90"/>
+                    <tempo date="74160.0" bpm=" fließend" transition.to="90.0" beatLength="0.25" xml:id="o78f048_mpmToolbox-copy_9bf4302a-8bed-4f1e-9846-2d91342d5df1"/>
+                    <tempo date="75600.0" bpm="90.0" beatLength="0.25" xml:id="mpmToolbox_44df70fc-6c29-4023-866a-3c8e28b192ca"/>
+                    <tempo date="93120.0" bpm="90.0" transition.to="110.0" beatLength="0.25" xml:id="kc57i7p_mpmToolbox-copy_54037a83-b18e-4f6f-9b11-42f13bde560a"/>
+                    <tempo date="99360.0" bpm="110.0" beatLength="0.25" xml:id="mpmToolbox_539f9423-e105-4a09-91d9-c5f26aec685d"/>
+                    <tempo date="104400.0" bpm="110.0" transition.to="100.0" beatLength="0.25" xml:id="mpmToolbox_b35d1005-869e-4362-9dc2-cc43bfca0fc9"/>
+                    <tempo date="105840.0" bpm="a tempo" beatLength="0.25" xml:id="tztqajf_mpmToolbox-copy_940d13a8-8b02-478e-b686-983443c8b530"/>
+                    <tempo date="120240.0" bpm="110.0" transition.to="100.0" beatLength="0.25" xml:id="mpmToolbox_917d75bb-ffd6-4a93-ae8b-d127a8d3ff8f"/>
+                    <tempo date="123120.0" bpm="100.0" transition.to="70.0" beatLength="0.25" xml:id="d1sov85m_mpmToolbox-copy_aeb19fb9-0c8f-4567-b540-9857a693111a"/>
+                    <tempo date="128160.0" bpm="a tempo" beatLength="0.25" xml:id="t1w5r5al_mpmToolbox-copy_9ae3dafe-ddef-430a-8358-0677ba4e5f09"/>
+                    <tempo date="151200.0" bpm="a tempo" transition.to="80.0" beatLength="0.25" xml:id="g1cdymns_mpmToolbox-copy_b0c3b522-bd16-4021-be67-decfbdc90e90"/>
                     <tempo date="156960.0" bpm=" a tempo" beatLength="0.25" xml:id="tcybcgq_mpmToolbox-copy_d77bf13e-1f83-44e5-8fb6-358e91c53659"/>
                     <tempo date="177120.0" bpm=" più moto" beatLength="0.25" xml:id="t13rs3op_mpmToolbox-copy_a4255a23-64d4-41f9-9948-c2aa82485848"/>
-                    <tempo date="213120.0" bpm=" più moto" transition.to=" a tempo" meanTempoAt="0.5" beatLength="0.25" xml:id="xu0zf1t_mpmToolbox-copy_f98214de-e374-470f-b283-53ba7936b88b"/>
-                    <tempo date="218880.0" bpm=" a tempo" beatLength="0.25" xml:id="tpasc60_mpmToolbox-copy_2a74bb11-fbed-42e9-9ac8-a647f0432144"/>
-                    <tempo date="221040.0" bpm="Allegrorisoluto." beatLength="0.5" xml:id="r181n7w6_mpmToolbox-copy_4a9b6c87-770e-4514-89d4-a8087415179b"/>
+                    <tempo date="212400.0" bpm=" più moto" transition.to="110.0" beatLength="0.25" xml:id="mpmToolbox_4504a7bb-cd93-40ea-a39e-411c85e6b781"/>
+                    <tempo date="218880.0" bpm="120.0" beatLength="0.25" xml:id="tpasc60_mpmToolbox-copy_2a74bb11-fbed-42e9-9ac8-a647f0432144"/>
+                    <tempo date="221040.0" bpm="Allegro risoluto." beatLength="0.5" xml:id="r181n7w6_mpmToolbox-copy_4a9b6c87-770e-4514-89d4-a8087415179b"/>
                     <tempo date="228240.0" bpm="Allegro, ma non troppo." beatLength="0.25" xml:id="z5k9g73_mpmToolbox-copy_3596eae5-f608-453e-8545-62e2bc1e01f7"/>
-                    <tempo date="262800.0" bpm="Allegro, ma non troppo." transition.to=" quasi Allegro." meanTempoAt="0.5" beatLength="0.25" xml:id="vcd9lk0_mpmToolbox-copy_b08e1455-ff8c-40c7-a190-e9de7d6b1868"/>
+                    <tempo date="262800.0" bpm="Allegro, ma non troppo." transition.to="137.0" beatLength="0.25" xml:id="vcd9lk0_mpmToolbox-copy_b08e1455-ff8c-40c7-a190-e9de7d6b1868"/>
                     <tempo date="267120.0" bpm=" quasi Allegro." beatLength="0.25" xml:id="t1vnesf4_mpmToolbox-copy_588869cd-4dc5-4835-95d1-cbea50eccdf5"/>
                     <tempo date="307080.0" bpm=" quasi Allegro." transition.to=" a tempo" meanTempoAt="0.5" beatLength="0.25" xml:id="p1w4sriv_mpmToolbox-copy_84061602-01bf-4831-b1cc-1f0577278f05"/>
                     <tempo date="309600.0" bpm=" a tempo" beatLength="0.25" xml:id="t16cjgjl_mpmToolbox-copy_fcc1f169-be63-4661-b8dd-041da9381ad2"/>
