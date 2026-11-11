@@ -1797,9 +1797,53 @@
             </dated>
         </part>
     </performance>
-    <performance name="Stucki score annotations" pulsesPerQuarter="720">
+    <performance name="Stucki w/ score annotations" pulsesPerQuarter="720">
         <global>
-            <header/>
+            <header>
+                <tempoStyles>
+                    <styleDef name="MEI export">
+                        <tempoDef name="Allegretto." value="110.0"/>
+                        <tempoDef name="Tranquillo." value="100.0"/>
+                        <tempoDef name="Tempo I." value="100.0"/>
+                        <tempoDef name=" fließend" value="100.0"/>
+                        <tempoDef name=" a tempo" value="100.0"/>
+                        <tempoDef name=" immer breiter" value="100.0"/>
+                        <tempoDef name=" più moto" value="100.0"/>
+                        <tempoDef name="Allegrorisoluto." value="147.0"/>
+                        <tempoDef name="Allegro, ma non troppo." value="147.0"/>
+                        <tempoDef name=" quasi Allegro." value="147.0"/>
+                        <tempoDef name=" un poco sostenuto" value="100.0"/>
+                        <tempoDef name="Allegro." value="147.0"/>
+                        <tempoDef name="Andantino." value="80.0"/>
+                        <tempoDef name="Andante molto tranquillo." value="101.0"/>
+                        <tempoDef name="Lento." value="51.0"/>
+                        <tempoDef name="Un poco Allegretto." value="110.0"/>
+                    </styleDef>
+                </tempoStyles>
+                <dynamicsStyles>
+                    <styleDef name="MEI export">
+                        <dynamicsDef name="p" value="48.0"/>
+                        <dynamicsDef name="mf" value="83.0"/>
+                        <dynamicsDef name="f" value="97.0"/>
+                        <dynamicsDef name="fz" value="127.0"/>
+                        <dynamicsDef name="ff" value="111.0"/>
+                        <dynamicsDef name="pp" value="36.0"/>
+                        <dynamicsDef name="ppp" value="12.0"/>
+                    </styleDef>
+                </dynamicsStyles>
+                <articulationStyles>
+                    <styleDef name="MEI export">
+                        <articulationDef name="nonlegato" relativeDuration="0.95"/>
+                        <articulationDef name="legato" relativeDuration="1.0"/>
+                        <articulationDef name="legatoStop" relativeDuration="0.8" relativeVelocity="0.7"/>
+                        <articulationDef name="stacc" absoluteDurationMs="160.0" absoluteVelocityChange="-5.0"/>
+                        <articulationDef name="upbow"/>
+                        <articulationDef name="dnbow"/>
+                        <articulationDef name="acc" absoluteVelocityChange="25.0"/>
+                        <articulationDef name="ten" relativeDuration="0.9" absoluteVelocityChange="12.0"/>
+                    </styleDef>
+                </articulationStyles>
+            </header>
             <dated>
                 <tempoMap>
                     <style date="0.0" name.ref="MEI export"/>
