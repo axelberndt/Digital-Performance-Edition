@@ -1804,14 +1804,12 @@
                     <styleDef name="MEI export">
                         <tempoDef name="Allegretto." value="110.0"/>
                         <tempoDef name="Tranquillo." value="100.0"/>
-                        <tempoDef name="Allegro, ma non troppo." value="147.0"/> 
+                        <tempoDef name="Allegro, ma non troppo." value="147.0"/>
                         <tempoDef name=" un poco sostenuto" value="100.0"/>
                         <tempoDef name="Allegro." value="147.0"/>
-                        <tempoDef name="Andantino." value="80.0"/>
-                        <tempoDef name="Andante molto tranquillo." value="101.0"/>
-                        <tempoDef name="Lento." value="51.0"/>
-                        <tempoDef name="Un poco Allegretto." value="110.0"/>
-                        <tempoDef name="Tempo I." value="110.0"/> 
+                        <tempoDef name="Andantino." value="80.0"/> 
+                        <tempoDef name="Lento." value="51.0"/> 
+                        <tempoDef name="Tempo I." value="110.0"/>
                         <tempoDef name="Allegro risoluto." value="147.0"/>
                         <tempoDef name=" più moto" value="120.0"/>
                         <tempoDef name=" fließend" value="80.0"/>
@@ -1821,17 +1819,25 @@
                         <tempoDef name="a tempo [3]" value="110.0"/>
                         <tempoDef name="a tempo [4]" value="147.0"/>
                         <tempoDef name="a tempo [5]" value="80.0"/>
+                        <tempoDef name="a tempo [6]" value="157.0"/>
+                        <tempoDef name="Andante molto tranquillo." value="55.0"/>
+                        <tempoDef name="a tempo [7]" value="55.0"/>
+                        <tempoDef name="Un poco Allegretto." value="84.0"/>
                     </styleDef>
                 </tempoStyles>
-                <dynamicsStyles>
-                    <styleDef name="MEI export">
+                <dynamicsStyles> 
+                    <styleDef name="Default Dynamics">
+                        <dynamicsDef name="pppp" value="5.0"/>
+                        <dynamicsDef name="ppp" value="12.0"/>
+                        <dynamicsDef name="pp" value="36.0"/>
                         <dynamicsDef name="p" value="48.0"/>
+                        <dynamicsDef name="mp" value="64.0"/>
                         <dynamicsDef name="mf" value="83.0"/>
                         <dynamicsDef name="f" value="97.0"/>
-                        <dynamicsDef name="fz" value="127.0"/>
                         <dynamicsDef name="ff" value="111.0"/>
-                        <dynamicsDef name="pp" value="36.0"/>
-                        <dynamicsDef name="ppp" value="12.0"/>
+                        <dynamicsDef name="fff" value="120.0"/>
+                        <dynamicsDef name="ffff" value="125.0"/>
+                        <dynamicsDef name="sforzato" value="127.0"/>
                     </styleDef>
                 </dynamicsStyles>
                 <articulationStyles>
@@ -1898,46 +1904,49 @@
                     <tempo date="524160.0" bpm="a tempo [5]" transition.to="70.0" beatLength="0.25" xml:id="fv2edjq_mpmToolbox-copy_69f8f7d4-f77d-4fec-ab42-d53d85898942"/>
                     <tempo date="527040.0" bpm="70.0" transition.to="50.0" beatLength="0.25" xml:id="g1vtifph_mpmToolbox-copy_3509cc95-67c3-497b-b111-73f8139572f6"/>
                     <tempo date="532080.0" bpm="a tempo [5]" beatLength="0.25" xml:id="ppaic4y_mpmToolbox-copy_d177f81d-0ba6-4bc7-8a86-dab58a88fb5b"/>
-                    <tempo date="558000.0" bpm=" a tempo" transition.to="+" meanTempoAt="0.5" beatLength="0.25" xml:id="g1uhqe7_mpmToolbox-copy_18bdd322-c24e-4ee3-9d10-76a66721b1f1"/>
-                    <tempo date="582480.0" bpm="+" transition.to=" quasi Allegro." meanTempoAt="0.5" beatLength="0.25" xml:id="ysthykf_mpmToolbox-copy_a4ae3539-4a3b-49ab-a293-e783b3c2dfae"/>
+                    <tempo date="558000.0" bpm="a tempo [5]" transition.to="90.0" beatLength="0.25" xml:id="g1uhqe7_mpmToolbox-copy_18bdd322-c24e-4ee3-9d10-76a66721b1f1"/>
+                    <tempo date="560880.0" bpm="90.0" beatLength="0.25" xml:id="mpmToolbox_8c92ccd3-5865-455d-95a7-9cfb2ae65a32"/>
+                    <tempo date="582480.0" bpm="90.0" transition.to="80.0" beatLength="0.25" xml:id="ysthykf_mpmToolbox-copy_a4ae3539-4a3b-49ab-a293-e783b3c2dfae"/>
                     <tempo date="586800.0" bpm=" quasi Allegro." beatLength="0.25" xml:id="h1d3g5u1_mpmToolbox-copy_13319a49-c2cc-411d-a8c6-98ed83f4dc86"/>
-                    <tempo date="632520.0" bpm=" quasi Allegro." transition.to=" a tempo" meanTempoAt="0.5" beatLength="0.25" xml:id="rwxp296_mpmToolbox-copy_a524b891-1086-43d5-822b-32b1cb4a10d6"/>
-                    <tempo date="635040.0" bpm=" a tempo" beatLength="0.25" xml:id="u1mylos7_mpmToolbox-copy_af73a282-5f16-497b-b3e7-515a43a7e582"/>
-                    <tempo date="658080.0" bpm=" a tempo" transition.to="Allegro." meanTempoAt="0.5" beatLength="0.25" xml:id="iuj43is_mpmToolbox-copy_d6de88e8-7766-4ec5-aae1-c14137f621e4"/>
+                    <tempo date="632520.0" bpm=" quasi Allegro." transition.to="100.0" beatLength="0.25" xml:id="rwxp296_mpmToolbox-copy_a524b891-1086-43d5-822b-32b1cb4a10d6"/>
+                    <tempo date="635040.0" bpm="a tempo [3]" beatLength="0.25" xml:id="u1mylos7_mpmToolbox-copy_af73a282-5f16-497b-b3e7-515a43a7e582"/>
+                    <tempo date="658080.0" bpm="a tempo [3]" transition.to="Allegro." beatLength="0.25" xml:id="iuj43is_mpmToolbox-copy_d6de88e8-7766-4ec5-aae1-c14137f621e4"/>
                     <tempo date="669600.0" bpm="Allegro." beatLength="0.5" xml:id="u15g3dmt_mpmToolbox-copy_b254c274-35da-4921-8d64-73427d2d0513"/>
-                    <tempo date="672480.0" bpm="Allegro." transition.to="+" meanTempoAt="0.5" beatLength="0.5" xml:id="so30suu_mpmToolbox-copy_22f85009-f56e-4683-a0a3-dcff4c277f92"/>
-                    <tempo date="692640.0" bpm="+" transition.to=" a tempo" meanTempoAt="0.5" beatLength="0.5" xml:id="fo6pl2w_mpmToolbox-copy_56e3bc84-8e10-4be7-b7e3-67ce51f41a17"/>
-                    <tempo date="698400.0" bpm=" a tempo" beatLength="0.5" xml:id="z1ylnze3_mpmToolbox-copy_fd8d2659-2adc-41ee-b6fc-4490c78a7ec4"/>
-                    <tempo date="770400.0" bpm=" a tempo" transition.to="Andantino." meanTempoAt="0.5" beatLength="0.5" xml:id="gdz2gh8_mpmToolbox-copy_ff9bdede-cb15-41fd-a6ff-0a1a490c4b6b"/>
+                    <tempo date="672480.0" bpm="Allegro." transition.to="157.0" beatLength="0.5" xml:id="so30suu_mpmToolbox-copy_22f85009-f56e-4683-a0a3-dcff4c277f92"/>
+                    <tempo date="692640.0" bpm="157.0" transition.to="a tempo [4]" beatLength="0.5" xml:id="fo6pl2w_mpmToolbox-copy_56e3bc84-8e10-4be7-b7e3-67ce51f41a17"/>
+                    <tempo date="698400.0" bpm="a tempo [6]" transition.to="177.0" beatLength="0.5" xml:id="z1ylnze3_mpmToolbox-copy_fd8d2659-2adc-41ee-b6fc-4490c78a7ec4"/>
+                    <tempo date="770400.0" bpm="177.0" transition.to="Andantino." beatLength="0.5" xml:id="gdz2gh8_mpmToolbox-copy_ff9bdede-cb15-41fd-a6ff-0a1a490c4b6b"/>
                     <tempo date="779040.0" bpm="Andantino." beatLength="0.5" xml:id="t14rm1s0_mpmToolbox-copy_257b6726-a3f8-4c5e-83b0-5fe534c9b3ad"/>
                     <tempo date="787680.0" bpm="Andantino." transition.to="Andante molto tranquillo." meanTempoAt="0.5" beatLength="0.5" xml:id="m1srinqe_mpmToolbox-copy_7a2c8502-debe-4cfe-8f4c-d18fc2b690dc"/>
                     <tempo date="790560.0" bpm="Andante molto tranquillo." beatLength="0.5" xml:id="t11sod7s_mpmToolbox-copy_43b048d2-3e91-4a4d-b17a-9dd023b3dabf"/>
-                    <tempo date="805392.0" bpm="Andante molto tranquillo." transition.to=" a tempo" meanTempoAt="0.5" beatLength="0.5" xml:id="ithoxf_mpmToolbox-copy_a0ac66ee-11aa-41b7-b669-496ae575fe0c"/>
-                    <tempo date="806400.0" bpm=" a tempo" beatLength="0.5" xml:id="lv4scdm_mpmToolbox-copy_c3e95ad4-05c0-4c64-85a6-52a908770ec8"/>
-                    <tempo date="817200.0" bpm=" a tempo" transition.to="-" meanTempoAt="0.5" beatLength="0.5" xml:id="mvrcerf_mpmToolbox-copy_a74eb120-bd7b-4e34-8371-e1484744bb64"/>
-                    <tempo date="821520.0" bpm="-" transition.to="Lento." meanTempoAt="0.5" beatLength="0.25" xml:id="y18ko58w_mpmToolbox-copy_f6c1d365-9922-4d01-b07c-5702d8ca5c88"/>
+                    <tempo date="805392.0" bpm="Andante molto tranquillo." transition.to="45.0" beatLength="0.5" xml:id="ithoxf_mpmToolbox-copy_a0ac66ee-11aa-41b7-b669-496ae575fe0c"/>
+                    <tempo date="805680.0" bpm="a tempo [7]" beatLength="0.5" xml:id="lv4scdm_mpmToolbox-copy_c3e95ad4-05c0-4c64-85a6-52a908770ec8"/>
+                    <tempo date="815760.0" bpm="a tempo [7]" transition.to="45.0" beatLength="0.5" xml:id="mvrcerf_mpmToolbox-copy_a74eb120-bd7b-4e34-8371-e1484744bb64"/>
+                    <tempo date="817200.0" bpm="55.0" beatLength="0.25" xml:id="mpmToolbox_50a85462-c90a-46cb-8bb8-27fe811f4d58"/>
+                    <tempo date="821520.0" bpm="55.0" transition.to="35.0" beatLength="0.25" xml:id="y18ko58w_mpmToolbox-copy_f6c1d365-9922-4d01-b07c-5702d8ca5c88"/>
                     <tempo date="825840.0" bpm="Lento." beatLength="0.25" xml:id="t1laf1ij_mpmToolbox-copy_bf4b3e72-33d4-4376-b416-482bc08dc46b"/>
                     <tempo date="838800.0" bpm="Un poco Allegretto." beatLength="0.25" xml:id="t7crjyo_mpmToolbox-copy_10a4a802-2c42-4dc1-b23f-269eda8112c7"/>
                     <tempo date="856800.0" bpm="Lento." beatLength="0.25" xml:id="t1ssvxyb_mpmToolbox-copy_5bc26801-5557-49d0-830f-5a5129660ea9"/> 
                 </tempoMap>
                 <dynamicsMap>
-                    <style date="0.0" name.ref="MEI export"/>
+                    <style date="0.0" name.ref="Default Dynamics"/>
                     <dynamics date="6480.0" volume="p" xml:id="d11glp6n_mpmToolbox-copy_4ab5047d-db7b-4ba3-b270-d9a691e5670b"/>
                     <dynamics date="8640.0" volume="p" transition.to="+" curvature="0.0" protraction="0.0" xml:id="hgps6el_mpmToolbox-copy_f9900f88-ec40-4b67-8b7d-81077ad7c4a9"/>
-                    <dynamics date="9360.0" volume="+" xml:id="mpmToolbox_84c94b43-5828-4a9d-9e1a-df56ddceff0c"/>
-                    <dynamics date="9900.0" volume="+" transition.to="-" curvature="0.0" protraction="0.0" xml:id="hc4sacj_mpmToolbox-copy_15326fd4-83da-457f-a6ad-26e86bdfba33"/>
-                    <dynamics date="10800.0" volume="-" xml:id="mpmToolbox_b585435b-4257-440c-8ed9-65207eab0c1e"/>
-                    <dynamics date="11700.0" volume="-" transition.to="-" curvature="0.0" protraction="0.0" xml:id="h1gxnj49_mpmToolbox-copy_5488ed14-02d7-4c4c-a290-71702b2adc30"/>
-                    <dynamics date="12600.0" volume="-" xml:id="mpmToolbox_6fe9d5c2-261c-436f-a9d8-18f9c7a42b17"/>
-                    <dynamics date="12960.0" volume="-" transition.to="-" curvature="0.0" protraction="0.0" xml:id="hhkc4qi_mpmToolbox-copy_54c01b3a-2820-49f0-beba-2624074258d6"/>
-                    <dynamics date="15120.0" volume="-" xml:id="mpmToolbox_af881dda-8112-4d02-ab41-f48dea1d6574"/>
-                    <dynamics date="19440.0" volume="-" transition.to="mf" curvature="0.0" protraction="0.0" xml:id="h1kd9089_mpmToolbox-copy_07c12745-dc36-467c-a79c-da41cd415c12"/>
+                    <dynamics date="9360.0" volume="mp" xml:id="mpmToolbox_84c94b43-5828-4a9d-9e1a-df56ddceff0c"/>
+                    <dynamics date="9900.0" volume="mp" transition.to="p" xml:id="hc4sacj_mpmToolbox-copy_15326fd4-83da-457f-a6ad-26e86bdfba33"/>
+                    <dynamics date="10800.0" volume="p" xml:id="mpmToolbox_b585435b-4257-440c-8ed9-65207eab0c1e"/>
+                    <dynamics date="11700.0" volume="p" transition.to="pp" xml:id="h1gxnj49_mpmToolbox-copy_5488ed14-02d7-4c4c-a290-71702b2adc30"/>
+                    <dynamics date="12600.0" volume="pp" xml:id="mpmToolbox_6fe9d5c2-261c-436f-a9d8-18f9c7a42b17"/>
+                    <dynamics date="12960.0" volume="pp" transition.to="ppp" xml:id="hhkc4qi_mpmToolbox-copy_54c01b3a-2820-49f0-beba-2624074258d6"/>
+                    <dynamics date="15120.0" volume="ppp" xml:id="mpmToolbox_af881dda-8112-4d02-ab41-f48dea1d6574"/>
+                    <dynamics date="19440.0" volume="pp" transition.to="mf" xml:id="h1kd9089_mpmToolbox-copy_07c12745-dc36-467c-a79c-da41cd415c12"/>
                     <dynamics date="23760.0" volume="mf" xml:id="d1syzhq7_mpmToolbox-copy_e7adbaf6-dea0-4850-862a-3cf9c86ba5ef"/>
-                    <dynamics date="25920.0" volume="mf" transition.to="-" curvature="0.0" protraction="0.0" xml:id="h1wsftfw_mpmToolbox-copy_0d632d3c-91e2-47fa-bbba-f26da81a18a1"/>
-                    <dynamics date="28080.0" volume="-" transition.to="-" curvature="0.0" protraction="0.0" xml:id="h11wix_mpmToolbox-copy_d3072fde-8ae3-4627-804d-5ed3af0af459"/>
-                    <dynamics date="30240.0" volume="-" transition.to="+" curvature="0.0" protraction="0.0" xml:id="hyodmj_mpmToolbox-copy_2e3891b3-7934-425f-ad6e-56d3fab37b57"/>
-                    <dynamics date="32400.0" volume="+" xml:id="mpmToolbox_aaf02c3a-c75a-4696-b6c1-3dc889653332"/>
-                    <dynamics date="36720.0" volume="+" transition.to="-" curvature="0.0" protraction="0.0" xml:id="hgzuw9c_mpmToolbox-copy_b5c3d776-388f-4b92-8182-775e79bfbcf8"/>
+                    <dynamics date="25920.0" volume="mf" transition.to="mp" xml:id="h1wsftfw_mpmToolbox-copy_0d632d3c-91e2-47fa-bbba-f26da81a18a1"/>
+                    <dynamics date="27360.0" volume="mp" xml:id="mpmToolbox_8dbf04d4-410f-4a94-8042-dd2263943b34"/>
+                    <dynamics date="28080.0" volume="mp" transition.to="p" xml:id="h11wix_mpmToolbox-copy_d3072fde-8ae3-4627-804d-5ed3af0af459"/>
+                    <dynamics date="30240.0" volume="p" transition.to="mp" xml:id="hyodmj_mpmToolbox-copy_2e3891b3-7934-425f-ad6e-56d3fab37b57"/>
+                    <dynamics date="32400.0" volume="mp" xml:id="mpmToolbox_aaf02c3a-c75a-4696-b6c1-3dc889653332"/>
+                    <dynamics date="36720.0" volume="mp" transition.to="p" xml:id="hgzuw9c_mpmToolbox-copy_b5c3d776-388f-4b92-8182-775e79bfbcf8"/>
                     <dynamics date="38880.0" volume="-" xml:id="mpmToolbox_8b71992a-0b60-4bd2-98a1-898079c62d2f"/>
                     <dynamics date="41040.0" volume="-" transition.to="+" curvature="0.0" protraction="0.0" xml:id="h1nmuro_mpmToolbox-copy_7ea15315-2087-4a9f-a19f-ef5230b043f4"/>
                     <dynamics date="45360.0" volume="+" xml:id="mpmToolbox_2b5584a1-276a-4993-adbf-f9983ab6f5c5"/>
@@ -2191,7 +2200,7 @@
                     <articulation date="12780.0" name.ref="legatoStop" noteid="#n1csrkxy" xml:id="shyya5b_meico_f5769d62-a9fa-45f6-998d-3861d19dec8c_mpmToolbox-copy_7c4df3ed-f8cd-4bc8-a65f-a98a833eaeb0"/>
                     <articulation date="12960.0" name.ref="legato" noteid="#nz6fa9v" xml:id="sqxewwb_meico_91cf9d6d-ea8d-4044-908e-f46a6d79ff2f_mpmToolbox-copy_0ba698d8-793e-4d28-b16c-8443e30d325f"/>
                     <articulation date="14400.0" name.ref="legatoStop" noteid="#ns0yv4w" xml:id="sqxewwb_meico_4947f484-6ac8-4590-b085-f09c1cae17f3_mpmToolbox-copy_3023f610-b737-47a8-a24f-259f8422c419"/>
-                    <articulation date="15120.0" name.ref="legato" noteid="#n10o3rj2" xml:id="sfi35dv_meico_203daa87-c428-441d-b894-b4c10cf31968_mpmToolbox-copy_3bce82f1-1cad-45ca-8e1c-7eebed112d33"/>
+                    <articulation date="14400.0" name.ref="legato" noteid="#ns0yv4w" xml:id="s1oukyym_meico_ce14cb94-34d7-435a-af7a-58326a6293d7_mpmToolbox-copy_d38952f4-39e9-4db2-b355-ee43920e09d6"/>
                     <articulation date="15840.0" name.ref="legato" noteid="#n1yvospp" xml:id="sfi35dv_meico_c7b62e58-2510-47f3-b83b-dd70736a1334_mpmToolbox-copy_a84ce1c2-5a7b-4a41-9ae9-e830ce59ac37"/>
                     <articulation date="16560.0" name.ref="legatoStop" noteid="#ni7p76z" xml:id="sfi35dv_meico_d522e35f-611e-4032-b498-ac96f39ca73a_mpmToolbox-copy_6c57b553-c486-437c-9bf5-a9699fd83204"/>
                     <articulation date="17280.0" name.ref="legato" noteid="#n1e54hse" xml:id="s18ay0vn_meico_c7b0938d-bba4-4052-beac-624946d52370_mpmToolbox-copy_617dad82-b5ad-49f4-b5a4-3c3b5583ec88"/>
@@ -2318,7 +2327,7 @@
                     <articulation date="111600.0" name.ref="legato" noteid="#nx3fg6g" xml:id="s1el3egg_meico_0d10659c-0332-40de-a6f5-c55d77d4a8f9_mpmToolbox-copy_3a2db5b6-70c4-4c4d-8985-4fe8426e34f6"/>
                     <articulation date="111840.0" name.ref="legato" noteid="#nmboqnp" xml:id="s1el3egg_meico_1bc86d8c-e187-4bcf-b971-50d7545557d7_mpmToolbox-copy_e4f6c867-66de-4b06-980d-deaa3bab3137"/>
                     <articulation date="112080.0" name.ref="legatoStop" noteid="#nsgu0xn" xml:id="s1el3egg_meico_94d55905-6e35-4677-b302-cdfe955b7da5_mpmToolbox-copy_1b695ed4-c220-4694-a3dd-64c2224e9ff7"/>
-                    <articulation date="112320.0" name.ref="legato" noteid="#n1qcemyc" xml:id="s1oukyym_meico_ce14cb94-34d7-435a-af7a-58326a6293d7_mpmToolbox-copy_d38952f4-39e9-4db2-b355-ee43920e09d6"/>
+                    <articulation date="15120.0" name.ref="legato" noteid="#n10o3rj2" xml:id="sfi35dv_meico_203daa87-c428-441d-b894-b4c10cf31968_mpmToolbox-copy_3bce82f1-1cad-45ca-8e1c-7eebed112d33"/>
                     <articulation date="113040.0" name.ref="legatoStop" noteid="#n1607rx" xml:id="s1oukyym_meico_5bd560a8-ce7f-4cd6-a7e9-a6a9ab93c833_mpmToolbox-copy_d96fa10c-955f-429f-a5d0-5d5b7c164caf"/>
                     <articulation date="113280.0" name.ref="legato" noteid="#n19yu43o" xml:id="s1fnlsgs_meico_4fb79276-6b61-40f0-8246-f1039457e4b9_mpmToolbox-copy_740c7623-8843-4f9d-b233-2ba419bfbb85"/>
                     <articulation date="113520.0" name.ref="legato" noteid="#niypiy9" xml:id="s1fnlsgs_meico_1cc6fbc9-c43a-4991-8f5f-21413b5c7d16_mpmToolbox-copy_823ef6b5-2afa-4798-8790-3a593eba6d53"/>
