@@ -1807,8 +1807,8 @@
                         <tempoDef name="Allegro, ma non troppo." value="147.0"/>
                         <tempoDef name=" un poco sostenuto" value="100.0"/>
                         <tempoDef name="Allegro." value="147.0"/>
-                        <tempoDef name="Andantino." value="80.0"/> 
-                        <tempoDef name="Lento." value="51.0"/> 
+                        <tempoDef name="Andantino." value="80.0"/>
+                        <tempoDef name="Lento." value="51.0"/>
                         <tempoDef name="Tempo I." value="110.0"/>
                         <tempoDef name="Allegro risoluto." value="147.0"/>
                         <tempoDef name=" più moto" value="120.0"/>
@@ -1825,7 +1825,7 @@
                         <tempoDef name="Un poco Allegretto." value="84.0"/>
                     </styleDef>
                 </tempoStyles>
-                <dynamicsStyles> 
+                <dynamicsStyles>
                     <styleDef name="Default Dynamics">
                         <dynamicsDef name="pppp" value="5.0"/>
                         <dynamicsDef name="ppp" value="12.0"/>
@@ -1947,27 +1947,30 @@
                     <dynamics date="30240.0" volume="p" transition.to="mp" xml:id="hyodmj_mpmToolbox-copy_2e3891b3-7934-425f-ad6e-56d3fab37b57"/>
                     <dynamics date="32400.0" volume="mp" xml:id="mpmToolbox_aaf02c3a-c75a-4696-b6c1-3dc889653332"/>
                     <dynamics date="36720.0" volume="mp" transition.to="p" xml:id="hgzuw9c_mpmToolbox-copy_b5c3d776-388f-4b92-8182-775e79bfbcf8"/>
-                    <dynamics date="38880.0" volume="-" xml:id="mpmToolbox_8b71992a-0b60-4bd2-98a1-898079c62d2f"/>
-                    <dynamics date="41040.0" volume="-" transition.to="+" curvature="0.0" protraction="0.0" xml:id="h1nmuro_mpmToolbox-copy_7ea15315-2087-4a9f-a19f-ef5230b043f4"/>
-                    <dynamics date="45360.0" volume="+" xml:id="mpmToolbox_2b5584a1-276a-4993-adbf-f9983ab6f5c5"/>
-                    <dynamics date="47520.0" volume="+" transition.to="p" curvature="0.0" protraction="0.0" xml:id="h1ds7rey_mpmToolbox-copy_a86f728e-b30d-490e-be76-bb2bfb6e302b"/>
+                    <dynamics date="38880.0" volume="p" xml:id="mpmToolbox_8b71992a-0b60-4bd2-98a1-898079c62d2f"/>
+                    <dynamics date="41040.0" volume="p" transition.to="mp" xml:id="h1nmuro_mpmToolbox-copy_7ea15315-2087-4a9f-a19f-ef5230b043f4"/>
+                    <dynamics date="45360.0" volume="mp" xml:id="mpmToolbox_2b5584a1-276a-4993-adbf-f9983ab6f5c5"/>
+                    <dynamics date="47520.0" volume="mp" transition.to="p" xml:id="h1ds7rey_mpmToolbox-copy_a86f728e-b30d-490e-be76-bb2bfb6e302b"/>
                     <dynamics date="49680.0" volume="p" xml:id="d17qs9hu_mpmToolbox-copy_44d66306-6a0f-4f2c-be11-c9c379db1773"/>
-                    <dynamics date="60480.0" volume="p" transition.to="+" curvature="0.0" protraction="0.0" xml:id="h1uqpl6f_mpmToolbox-copy_3c842e01-dd63-483e-b05b-0bb2f12715bc"/>
-                    <dynamics date="64080.0" volume="+" xml:id="mpmToolbox_a5b9ad9b-5d60-4845-8f2a-fd8c4c05be0d"/>
-                    <dynamics date="66960.0" volume="+" transition.to="-" curvature="0.0" protraction="0.0" xml:id="ht60jki_mpmToolbox-copy_4aaf1304-29cf-497c-a320-e8f44dce873d"/>
-                    <dynamics date="69840.0" volume="-" xml:id="mpmToolbox_d620e949-cb67-4724-be46-67b64171b5b3"/>
-                    <dynamics date="88080.0" volume="-" transition.to="+" curvature="0.0" protraction="0.0" xml:id="h196vdf5_mpmToolbox-copy_83cf9dd9-a681-46a3-a832-726ad148731a"/>
-                    <dynamics date="90000.0" volume="+" xml:id="mpmToolbox_8553b7ce-b8a7-4981-94a6-073dcf8e3680"/>
-                    <dynamics date="93120.0" volume="+" transition.to="f" curvature="0.0" protraction="0.0" xml:id="h1lsu7fu_mpmToolbox-copy_8e2d49ba-4cbd-47ef-bd08-f390d13220ae"/>
+                    <dynamics date="60480.0" volume="p" transition.to="mp" xml:id="h1uqpl6f_mpmToolbox-copy_3c842e01-dd63-483e-b05b-0bb2f12715bc"/>
+                    <dynamics date="64080.0" volume="mp" xml:id="mpmToolbox_a5b9ad9b-5d60-4845-8f2a-fd8c4c05be0d"/>
+                    <dynamics date="66960.0" volume="mp" transition.to="p" xml:id="ht60jki_mpmToolbox-copy_4aaf1304-29cf-497c-a320-e8f44dce873d"/>
+                    <dynamics date="69840.0" volume="p" transition.to="pp" xml:id="mpmToolbox_edef8f55-f1d4-4732-b94e-15dd06077708"/>
+                    <dynamics date="69840.0" volume="p" xml:id="mpmToolbox_d620e949-cb67-4724-be46-67b64171b5b3"/>
+                    <dynamics date="72720.0" volume="pp" xml:id="mpmToolbox_fe0c29b3-29ca-4df2-929f-ac7e452678d2"/>
+                    <dynamics date="88080.0" volume="p" transition.to="mp" xml:id="h196vdf5_mpmToolbox-copy_83cf9dd9-a681-46a3-a832-726ad148731a"/>
+                    <dynamics date="90000.0" volume="mp" xml:id="mpmToolbox_8553b7ce-b8a7-4981-94a6-073dcf8e3680"/>
+                    <dynamics date="93120.0" volume="mp" transition.to="f" xml:id="h1lsu7fu_mpmToolbox-copy_8e2d49ba-4cbd-47ef-bd08-f390d13220ae"/>
                     <dynamics date="95040.0" volume="f" xml:id="d1fpl77e_mpmToolbox-copy_d2caa84d-0a7d-4227-8987-cd6d23324782"/>
-                    <dynamics date="103680.0" volume="f" transition.to="f" curvature="0.0" protraction="0.0" xml:id="h6ukik1_mpmToolbox-copy_bb8aec27-e9c7-41dc-993d-72890b1c2a43"/>
-                    <dynamics date="105840.0" volume="f" xml:id="mpmToolbox_1639bebd-1254-4d63-9243-393599f18aa7"/>
+                    <dynamics date="100440.0" volume="f" transition.to="mf" xml:id="mpmToolbox_be059c9a-a258-41b4-b81a-5e67e5a623bb"/>
+                    <dynamics date="103680.0" volume="mf" transition.to="mp" xml:id="h6ukik1_mpmToolbox-copy_bb8aec27-e9c7-41dc-993d-72890b1c2a43"/>
+                    <dynamics date="105480.0" volume="mp" xml:id="mpmToolbox_b861f14d-f8d1-4ce7-a78c-eeba5d7f7fda"/>
                     <dynamics date="106560.0" volume="f" xml:id="d12tjzl_mpmToolbox-copy_743cb60e-5c3e-42c4-98a8-a9add44464b2"/>
-                    <dynamics date="123120.0" volume="f" transition.to="f" curvature="0.0" protraction="0.0" xml:id="huqcsp7_mpmToolbox-copy_7b7cc148-d09f-4626-94f4-d65871e9c646"/>
-                    <dynamics date="124920.0" volume="f" xml:id="mpmToolbox_be8c39c5-50ea-4e93-8ee4-5d4761d1b854"/>
+                    <dynamics date="123120.0" volume="f" transition.to="ff" xml:id="huqcsp7_mpmToolbox-copy_7b7cc148-d09f-4626-94f4-d65871e9c646"/>
+                    <dynamics date="124920.0" volume="ff" xml:id="mpmToolbox_be8c39c5-50ea-4e93-8ee4-5d4761d1b854"/>
                     <dynamics date="126000.0" volume="f" xml:id="d1yt1v5a_mpmToolbox-copy_b787a6d0-a16f-45c6-a116-f8110c9a1cab"/>
-                    <dynamics date="126720.0" volume="f" transition.to="p" curvature="0.0" protraction="0.0" xml:id="h9glkyk_mpmToolbox-copy_2b4d5378-f7cf-4b8a-8910-497fc41d0fb4"/>
-                    <dynamics date="128520.0" volume="p"/>
+                    <dynamics date="126720.0" volume="f" transition.to="mf" xml:id="h9glkyk_mpmToolbox-copy_2b4d5378-f7cf-4b8a-8910-497fc41d0fb4"/>
+                    <dynamics date="128520.0" volume="mf" xml:id="mpmToolbox_3fdbc2ed-c654-4172-b26f-b5dd19342e50"/>
                     <dynamics date="131040.0" volume="p" xml:id="dwqezgx_mpmToolbox-copy_56b542aa-95a0-40c1-b3db-d662caecf90e"/>
                     <dynamics date="142560.0" volume="p" transition.to="mf" curvature="0.0" protraction="0.0" xml:id="hiujw6y_mpmToolbox-copy_7b6eee94-2bb8-4303-a026-5f74810f7903"/>
                     <dynamics date="145440.0" volume="mf" xml:id="drhfgor_mpmToolbox-copy_a0a02b55-b3c3-4ff5-84be-9f6b6e381e07"/>
@@ -2201,6 +2204,7 @@
                     <articulation date="12960.0" name.ref="legato" noteid="#nz6fa9v" xml:id="sqxewwb_meico_91cf9d6d-ea8d-4044-908e-f46a6d79ff2f_mpmToolbox-copy_0ba698d8-793e-4d28-b16c-8443e30d325f"/>
                     <articulation date="14400.0" name.ref="legatoStop" noteid="#ns0yv4w" xml:id="sqxewwb_meico_4947f484-6ac8-4590-b085-f09c1cae17f3_mpmToolbox-copy_3023f610-b737-47a8-a24f-259f8422c419"/>
                     <articulation date="14400.0" name.ref="legato" noteid="#ns0yv4w" xml:id="s1oukyym_meico_ce14cb94-34d7-435a-af7a-58326a6293d7_mpmToolbox-copy_d38952f4-39e9-4db2-b355-ee43920e09d6"/>
+                    <articulation date="15120.0" name.ref="legato" noteid="#n10o3rj2" xml:id="sfi35dv_meico_203daa87-c428-441d-b894-b4c10cf31968_mpmToolbox-copy_3bce82f1-1cad-45ca-8e1c-7eebed112d33"/>
                     <articulation date="15840.0" name.ref="legato" noteid="#n1yvospp" xml:id="sfi35dv_meico_c7b62e58-2510-47f3-b83b-dd70736a1334_mpmToolbox-copy_a84ce1c2-5a7b-4a41-9ae9-e830ce59ac37"/>
                     <articulation date="16560.0" name.ref="legatoStop" noteid="#ni7p76z" xml:id="sfi35dv_meico_d522e35f-611e-4032-b498-ac96f39ca73a_mpmToolbox-copy_6c57b553-c486-437c-9bf5-a9699fd83204"/>
                     <articulation date="17280.0" name.ref="legato" noteid="#n1e54hse" xml:id="s18ay0vn_meico_c7b0938d-bba4-4052-beac-624946d52370_mpmToolbox-copy_617dad82-b5ad-49f4-b5a4-3c3b5583ec88"/>
@@ -2327,7 +2331,6 @@
                     <articulation date="111600.0" name.ref="legato" noteid="#nx3fg6g" xml:id="s1el3egg_meico_0d10659c-0332-40de-a6f5-c55d77d4a8f9_mpmToolbox-copy_3a2db5b6-70c4-4c4d-8985-4fe8426e34f6"/>
                     <articulation date="111840.0" name.ref="legato" noteid="#nmboqnp" xml:id="s1el3egg_meico_1bc86d8c-e187-4bcf-b971-50d7545557d7_mpmToolbox-copy_e4f6c867-66de-4b06-980d-deaa3bab3137"/>
                     <articulation date="112080.0" name.ref="legatoStop" noteid="#nsgu0xn" xml:id="s1el3egg_meico_94d55905-6e35-4677-b302-cdfe955b7da5_mpmToolbox-copy_1b695ed4-c220-4694-a3dd-64c2224e9ff7"/>
-                    <articulation date="15120.0" name.ref="legato" noteid="#n10o3rj2" xml:id="sfi35dv_meico_203daa87-c428-441d-b894-b4c10cf31968_mpmToolbox-copy_3bce82f1-1cad-45ca-8e1c-7eebed112d33"/>
                     <articulation date="113040.0" name.ref="legatoStop" noteid="#n1607rx" xml:id="s1oukyym_meico_5bd560a8-ce7f-4cd6-a7e9-a6a9ab93c833_mpmToolbox-copy_d96fa10c-955f-429f-a5d0-5d5b7c164caf"/>
                     <articulation date="113280.0" name.ref="legato" noteid="#n19yu43o" xml:id="s1fnlsgs_meico_4fb79276-6b61-40f0-8246-f1039457e4b9_mpmToolbox-copy_740c7623-8843-4f9d-b233-2ba419bfbb85"/>
                     <articulation date="113520.0" name.ref="legato" noteid="#niypiy9" xml:id="s1fnlsgs_meico_1cc6fbc9-c43a-4991-8f5f-21413b5c7d16_mpmToolbox-copy_823ef6b5-2afa-4798-8790-3a593eba6d53"/>
